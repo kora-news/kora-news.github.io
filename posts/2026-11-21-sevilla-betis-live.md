@@ -5,6 +5,7 @@ date: 2026-11-21T20:24:00+02:00
 category: الدوري الإسباني
 excerpt: انتهى الشوط الأول من مواجهة إشبيلية وريال بيتيس دون أهداف. تحديث20:24 بتوقيت القاهرة، والنتيجة ليست نهائية.
 image: sevilla-betis-ht.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid0beghyHWXV59HJ1SbSkDQNK9NHNToJRRSNAEM6eh1U33Pr2vLdJtaBFASLiM6PN78l&id=61550609084848
 ---
 
 ## نهاية الشوط الأول، تحديث20:24 بتوقيت القاهرة
