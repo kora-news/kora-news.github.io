@@ -5,6 +5,7 @@ date: 2026-11-21T17:43:00+02:00
 category: أرقام وإحصائيات
 excerpt: حصيلة دوناروما مع مانشستر سيتي في موسم2026-2027 تشمل الدرع الخيرية، وتستبعد المنتخب والوديات. منها14 هدفًا في11 مباراة بالدوري.
 image: donnarumma-club-stat.png
+facebook: https://www.facebook.com/61550609084848/posts/122326993532020302
 ---
 
 استقبل جانلويجي دوناروما 24 هدفًا خلال 16 مباراة رسمية مع مانشستر سيتي في موسم 2026-2027، حتى التعادل1-1 أمام فولهام يوم21 نوفمبر2026.
@@ -21,4 +22,4 @@ image: donnarumma-club-stat.png
 
 ## الصورة
 
-الصورة أرشيفية لدوناروما بقميص منتخب إيطاليا، التقطت يوم6 يونيو2025، وليست من مباراة لمانشستر سيتي. تصوير MichaelEmilio، وقص الصورة الأصلي بواسطة Danyele، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_B_33_-_Gianluigi_Donnarumma_(close-up).jpg)، بترخيص [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). أضيفت للصورة طبقات لونية ونصوص إحصائية وهوية كورة نيوز.
+الصورة أرشيفية لدوناروما بقميص منتخب إيطاليا، التقطت يوم6 يونيو2025، وليست من مباراة لمانشستر سيتي. تصوير MichaelEmilio، وقص الصورة الأصلي بواسطة Danyele، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_B_33_-_Gianluigi_Donnarumma_%28close-up%29.jpg)، بترخيص [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). أضيفت للصورة طبقات لونية ونصوص إحصائية وهوية كورة نيوز.
