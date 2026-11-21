@@ -5,6 +5,7 @@ date: 2026-11-21T21:31:00+02:00
 category: الدوري الإنجليزي
 excerpt: انتهت مباراة نيوكاسل وآرسنال بالتعادل2-2. سجل بارنز وثياو لنيوكاسل، وإيزي ومادويكي لآرسنال. النتيجة النهائية مؤكدة عبر BBC عند التحقق21:31 القاهرة.
 image: newcastle-arsenal-ft.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid0JM3XzmVhmgAWQcLQMXpiQB5rijTsXXvCKjgiX5P7kBF6aLPHa9TerJ1oXoTuJFqcl&id=61550609084848
 ---
 
 ## النتيجة النهائية، تحديث21:31 بتوقيت القاهرة

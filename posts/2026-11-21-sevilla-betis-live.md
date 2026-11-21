@@ -5,6 +5,7 @@ date: 2026-11-21T21:32:00+02:00
 category: الدوري الإسباني
 excerpt: انتهى ديربي الأندلس بين إشبيلية وريال بيتيس بالتعادل1-1. تقدم أنتوني لبيتيس في الدقيقة50، وعادل كيكي سالاس لإشبيلية في90+1. النتيجة نهائية عند التحقق21:32 القاهرة.
 image: sevilla-betis-ft.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid02vLbSqYMY7wAE4yP9geLXBoK9wT5exZAWnhp6vEWL8NJiibBntfei36KqqXpN6C63l&id=61550609084848
 ---
 
 ## النتيجة النهائية، تحديث21:32 بتوقيت القاهرة
