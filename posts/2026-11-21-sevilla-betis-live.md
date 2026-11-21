@@ -5,6 +5,7 @@ date: 2026-11-21T20:46:00+02:00
 category: الدوري الإسباني
 excerpt: أنتوني يسجل لريال بيتيس أمام إشبيلية، ليتقدم الضيوف بهدف دون رد بعد التعادل السلبي في الشوط الأول. تحديث20:46 القاهرة، والمباراة مستمرة.
 image: sevilla-betis-antony.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid0igUaoHL5rkg7fTZ7aJzfFBKdRcQGXwH4JwstSPtFavWf7nQdEMfX9pm3fRnFKhTzl&id=61550609084848
 ---
 
 ## تحديث20:46 بتوقيت القاهرة
