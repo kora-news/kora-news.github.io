@@ -4,7 +4,7 @@ slug: spurs-ipswich-live
 date: 2026-11-21T18:12:00+02:00
 category: الدوري الإنجليزي
 excerpt: سولانكي يسجل هدف توتنهام الثاني أمام إيبسويتش في الشوط الثاني. التقدم2-0 وفق التحقق، وليست نتيجة نهائية.
-image: spurs-ipswich-live.webp
+image: spurs-ipswich-live-paired.webp
 facebook: https://www.facebook.com/61550609084848/posts/122326997534020302
 ---
 

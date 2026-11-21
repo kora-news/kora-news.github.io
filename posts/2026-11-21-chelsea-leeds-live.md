@@ -4,7 +4,8 @@ slug: chelsea-leeds-live
 date: 2026-11-21T18:25:00+02:00
 category: الدوري الإنجليزي
 excerpt: نواه أوكافور يسجل هدفه الثاني والثالث لليدز، ليتقدم الضيوف3-1 على تشيلسي في الشوط الثاني عند التحقق18:25 القاهرة. ليست نتيجة نهائية.
-image: chelsea-leeds-live.webp
+image: chelsea-leeds-live-paired.webp
+facebook: https://www.facebook.com/61550609084848/posts/122326999076020302
 ---
 
 ## تحديث18:25 بتوقيت القاهرة
