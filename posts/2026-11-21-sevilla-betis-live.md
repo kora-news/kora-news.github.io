@@ -5,6 +5,7 @@ date: 2026-11-21T21:27:00+02:00
 category: الدوري الإسباني
 excerpt: كيكي سالاس يسجل تعادل إشبيلية أمام ريال بيتيس في الوقت بدل الضائع، لتصبح النتيجة هدفًا لكل فريق. تحديث21:27 القاهرة، والمباراة مستمرة.
 image: sevilla-betis-salas.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid02ZQHesK6ZRQEKgVEkAmgPpUki4yNoMMkfUrKPa9gunEmruPvchN7r86H8DDw4MVWpl&id=61550609084848
 ---
 
 ## تحديث21:27 بتوقيت القاهرة
