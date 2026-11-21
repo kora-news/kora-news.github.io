@@ -5,6 +5,7 @@ date: 2026-11-21T20:40:00+02:00
 category: الدوري الإنجليزي
 excerpt: هارفي بارنز يسجل تعادل نيوكاسل أمام آرسنال بعد تقدم الضيوف بهدف إيزي. النتيجة هدف لكل فريق عند التحقق20:40 القاهرة، والمباراة مستمرة.
 image: newcastle-arsenal-barnes.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid02mBcdeAqJPcuTFiakxvFBogCDV2BNmmaseevfYu6nAop16Xmkbq5iguKiH7SUoXUYl&id=61550609084848
 ---
 
 ## تحديث20:40 بتوقيت القاهرة
