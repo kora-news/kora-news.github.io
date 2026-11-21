@@ -12,6 +12,7 @@ const SITE_NAME = 'كورة نيوز';
 const SITE_NAME_LATIN = 'KORA NEWS';
 const FB_PAGE = 'https://www.facebook.com/61550609084848/';
 const SITE_DESC = 'كورة نيوز - أخبار الكرة العالمية والمصريين المحترفين أول بأول';
+const BASE_URL = (process.env.SITE_URL || '').replace(/\/$/, '');
 
 // ---------- frontmatter + markdown ----------
 function parsePost(file) {
@@ -59,7 +60,7 @@ function mdToHtml(md) {
 // ---------- shared chrome ----------
 const LOGO_SVG = `<svg class="logo-ball" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="22" fill="#fff"/><path d="M24 12l7.4 5.4-2.8 8.7h-9.2l-2.8-8.7z" fill="#1a0b2e"/><path d="M24 2a22 22 0 0 1 19 11l-7.4 5.4-4.2-6.4-7.4 5.4-7.4-5.4-4.2 6.4L5 13A22 22 0 0 1 24 2z" fill="#1a0b2e" opacity=".85"/><path d="M4.6 17.2l6.8 4.9-2.6 8.1-6.6-4.8a22 22 0 0 1 2.4-8.2zm38.8 0a22 22 0 0 1 2.4 8.2l-6.6 4.8-2.6-8.1zM15 39.6l3.4-4.6h11.2l3.4 4.6a22 22 0 0 1-18 0z" fill="#1a0b2e" opacity=".85"/></svg>`;
 
-function head(title, desc, rel) {
+function head(title, desc, rel, canon) {
   return `<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -70,6 +71,7 @@ function head(title, desc, rel) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:type" content="website">
+${canon && BASE_URL ? `<link rel="canonical" href="${BASE_URL}/${canon}">\n<meta property="og:url" content="${BASE_URL}/${canon}">` : ''}
 <link rel="icon" type="image/svg+xml" href="${rel}assets/img/logo.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -107,6 +109,26 @@ function footer(rel) {
 </footer>
 </body>
 </html>`;
+}
+
+function websiteJsonLd() {
+  if (!BASE_URL) return '';
+  return '<script type="application/ld+json">' + JSON.stringify({
+    '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, alternateName: SITE_NAME_LATIN,
+    url: BASE_URL + '/', inLanguage: 'ar', sameAs: [FB_PAGE]
+  }) + '</script>';
+}
+
+function articleJsonLd(p) {
+  if (!BASE_URL) return '';
+  return '<script type="application/ld+json">' + JSON.stringify({
+    '@context': 'https://schema.org', '@type': 'NewsArticle', headline: p.title,
+    description: p.excerpt || '', datePublished: p.date, inLanguage: 'ar',
+    mainEntityOfPage: BASE_URL + '/posts/' + p.slug + '.html',
+    image: [BASE_URL + '/assets/img/' + p.image],
+    author: { '@type': 'Organization', name: SITE_NAME, url: BASE_URL + '/' },
+    publisher: { '@type': 'Organization', name: SITE_NAME, url: BASE_URL + '/' }
+  }) + '</script>';
 }
 
 function fmtDate(iso) {
@@ -147,7 +169,7 @@ fs.copyFileSync(path.join(ROOT, 'assets', 'style.css'), path.join(DIST, 'assets'
 
 // home
 const [first, ...rest] = posts;
-const home = head(SITE_NAME + ' | ' + SITE_DESC, SITE_DESC, '') + header('', 'home') + `
+const home = head(SITE_NAME + ' | ' + SITE_DESC, SITE_DESC, '', 'index.html') + websiteJsonLd() + header('', 'home') + `
 <main class="container">
   <section class="hero">
     <span class="hero-kicker">آخر الأخبار</span>
@@ -164,7 +186,7 @@ fs.writeFileSync(path.join(DIST, 'index.html'), home);
 for (const p of posts) {
   const rel = '../';
   const others = posts.filter(x => x.slug !== p.slug).slice(0, 3);
-  const html = head(p.title + ' | ' + SITE_NAME, p.excerpt || SITE_DESC, rel) + header(rel, '') + `
+  const html = head(p.title + ' | ' + SITE_NAME, p.excerpt || SITE_DESC, rel, `posts/${p.slug}.html`) + articleJsonLd(p) + header(rel, '') + `
 <main class="container">
   <article class="post">
     <header class="post-head">
@@ -186,7 +208,7 @@ ${mdToHtml(p.body)}    </div>
 }
 
 // about
-const about = head('عن الموقع | ' + SITE_NAME, SITE_DESC, '') + header('', 'about') + `
+const about = head('عن الموقع | ' + SITE_NAME, SITE_DESC, '', 'about.html') + header('', 'about') + `
 <main class="container">
   <article class="post about">
     <h1>عن ${SITE_NAME}</h1>
@@ -206,8 +228,8 @@ const nf = head('الصفحة غير موجودة | ' + SITE_NAME, SITE_DESC, ''
 ` + footer('');
 fs.writeFileSync(path.join(DIST, '404.html'), nf);
 
-// feed.xml + sitemap.xml
-const base = (process.env.SITE_URL || '').replace(/\/$/, '');
+// feed.xml + sitemap.xml + robots.txt
+const base = BASE_URL;
 const feed = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>${SITE_NAME}</title><link>${base}</link><description>${SITE_DESC}</description>
 ${posts.map(p => `<item><title>${esc(p.title)}</title><link>${base}/posts/${p.slug}.html</link><pubDate>${new Date(p.date).toUTCString()}</pubDate><description>${esc(p.excerpt || '')}</description></item>`).join('\n')}
@@ -219,5 +241,6 @@ const sm = `<?xml version="1.0" encoding="UTF-8"?>
 ${posts.map(p => `<url><loc>${base}/posts/${p.slug}.html</loc></url>`).join('\n')}
 </urlset>`;
 fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sm);
+fs.writeFileSync(path.join(DIST, 'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${base}/sitemap.xml\n`);
 
 console.log('Built', posts.length, 'posts ->', DIST);

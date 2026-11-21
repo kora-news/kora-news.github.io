@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 22
       - name: Build site
-        run: SITE_URL="https://${{ github.repository_owner }}.github.io/$(echo ${{ github.repository }} | cut -d/ -f2)" node scripts/build.js
+        run: SITE_URL="https://${{ github.repository_owner }}.github.io" node scripts/build.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
