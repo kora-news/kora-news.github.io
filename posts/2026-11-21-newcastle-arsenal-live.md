@@ -5,6 +5,7 @@ date: 2026-11-21T20:51:00+02:00
 category: الدوري الإنجليزي
 excerpt: مالك ثياو يسجل الهدف الثاني لنيوكاسل أمام آرسنال، بعد تعادل هارفي بارنز، ليتقدم أصحاب الأرض بهدفين مقابل هدف. تحديث20:51 القاهرة، والمباراة مستمرة.
 image: newcastle-arsenal-thiaw.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid036oFskbYh4D21NkUvz8vzJfXuZBTAYCVmBdjVXuwAwCjhbu3ctqypYQv4g7e2vDwrl&id=61550609084848
 ---
 
 ## تحديث20:51 بتوقيت القاهرة
