@@ -5,6 +5,7 @@ date: 2026-11-21T20:19:00+02:00
 category: الدوري الإنجليزي
 excerpt: أنهى آرسنال الشوط الأول متقدمًا على نيوكاسل بهدف دون رد سجله إيبيريتشي إيزي. تحديث20:19 بتوقيت القاهرة، وليست نتيجة نهائية.
 image: newcastle-arsenal-ht.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid02TymCPdTdiTqtGio5sv4qC1gVi2FwBNJk8fvohDKRog5YuugXz1R2Bykci6B5cMbTl&id=61550609084848
 ---
 
 ## نهاية الشوط الأول، تحديث20:19 بتوقيت القاهرة
