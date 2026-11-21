@@ -21,4 +21,4 @@ image: kane-ankle.webp
 
 [المصدر: أسوشيتد برس](https://apnews.com/article/harry-kane-injury-802ab67a07d22857339946eb4651f8bc).
 
-الصورة أرشيفية لهاري كين مع بايرن من6 يناير2025، وليست من واقعة الإصابة. تصوير Werner100359، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_(2025-01-06_Testspiel)_16_(cropped).jpg)، بترخيص [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). أضيف قص وتعتيم ونصوص كورة نيوز، والتصميم المعدل متاح بالترخيص نفسه CC BY-SA 4.0.
+الصورة أرشيفية لهاري كين مع بايرن من6 يناير2025، وليست من واقعة الإصابة. تصوير Werner100359، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_16_%28cropped%29.jpg)، بترخيص [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). أضيف قص وتعتيم ونصوص كورة نيوز، والتصميم المعدل متاح بالترخيص نفسه CC BY-SA 4.0.
