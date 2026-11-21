@@ -5,7 +5,7 @@ date: 2026-11-21T17:22:00+02:00
 category: الدوري الإنجليزي
 excerpt: بينو يعادل لكريستال بالاس في الدقيقة 13. التعادل1-1 وقت التحقق عند17:22 القاهرة، وليس نتيجة نهائية.
 image: coventry-palace-live.png
-facebook: https://www.facebook.com/61550609084848/posts/122326986104020302
+facebook: https://www.facebook.com/61550609084848/posts/122326988966020302
 ---
 
 ## تحديث 17:22 بتوقيت القاهرة
