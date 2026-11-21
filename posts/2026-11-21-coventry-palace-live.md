@@ -4,7 +4,7 @@ slug: coventry-palace-live
 date: 2026-11-21T17:52:00+02:00
 category: الدوري الإنجليزي
 excerpt: ستراند لارسن يسجل لبالاس في الدقيقة45+1 والتعادل2-2 مع كوفنتري، وقت التحقق17:52 القاهرة. ليست نتيجة نهائية.
-image: coventry-palace-live.png
+image: coventry-palace-live.webp
 facebook: https://www.facebook.com/61550609084848/posts/122326994594020302
 ---
 

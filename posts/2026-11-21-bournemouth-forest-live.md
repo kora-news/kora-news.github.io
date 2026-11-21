@@ -4,7 +4,8 @@ slug: bournemouth-forest-live
 date: 2026-11-21T17:53:00+02:00
 category: الدوري الإنجليزي
 excerpt: بورنموث ينهي الشوط الأول متقدمًا2-0 على فورست بهدفَي إيفانيلسون وكلويفرت. تحقق17:53 القاهرة، ليست نتيجة نهائية.
-image: bournemouth-forest-live.png
+image: bournemouth-forest-live.webp
+facebook: https://www.facebook.com/61550609084848/posts/122326997120020302
 ---
 
 ## استراحة المباراة، تحقق17:53 بتوقيت القاهرة

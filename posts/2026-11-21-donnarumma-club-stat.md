@@ -4,7 +4,7 @@ slug: donnarumma-city-season-stat
 date: 2026-11-21T17:43:00+02:00
 category: أرقام وإحصائيات
 excerpt: حصيلة دوناروما مع مانشستر سيتي في موسم2026-2027 تشمل الدرع الخيرية، وتستبعد المنتخب والوديات. منها14 هدفًا في11 مباراة بالدوري.
-image: donnarumma-club-stat.png
+image: donnarumma-club-stat.webp
 facebook: https://www.facebook.com/61550609084848/posts/122326993532020302
 ---
 
