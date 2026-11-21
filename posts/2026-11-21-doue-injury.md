@@ -5,6 +5,7 @@ date: 2026-11-21T20:36:00+02:00
 category: الدوري الفرنسي
 excerpt: أفادت RMC Sport بوجود اشتباه في إصابة ديزيريه دوي بالرباط الصليبي بعد خروجه مصابًا في ركبته أمام نيس. لا يشير التقرير إلى تشخيص نهائي مؤكد.
 image: doue-injury.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid0dvcQQ7EGxWmgjAtVVBP6KWUPt2WhZAJKfv4LfJ97n8h86XzzHQuJgvSa1hA7aovTl&id=61550609084848
 ---
 
 ## مخاوف بشأن ركبة دوي
