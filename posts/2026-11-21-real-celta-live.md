@@ -5,6 +5,7 @@ date: 2026-11-22T00:03:00+02:00
 category: الدوري الإسباني
 excerpt: فاز ريال مدريد على سيلتا فيجو2-1 بعد تأخره في الشوط الأول. سجل بيلينغهام66 وكارلوس إسبي85 لريال، ودوران6 لسيلتا. النتيجة نهائية.
 image: real-celta-ft.webp
+facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid06reMZKk2hUqFvsB1G3iKRpE5evQGJ7Md5B9b1dHC41KakVwAdvprfuqM4UyK94Ujl&id=61550609084848
 ---
 
 ## نهاية المباراة: ريال مدريد يفوز بهدفين مقابل هدف
