@@ -5,6 +5,7 @@ date: 2026-11-21T21:07:00+02:00
 category: الدوري الإنجليزي
 excerpt: نوني مادويكي يسجل تعادل آرسنال أمام نيوكاسل، لتصبح النتيجة هدفين لكل فريق. تحديث21:07 القاهرة، والمباراة مستمرة وليست نتيجة نهائية.
 image: newcastle-arsenal-madueke.webp
+facebook: https://facebook.com/permalink.php?story_fbid=pfbid0ZkpWsQFFYatjKWAGfAPvvsGMzsWHyRBAzGu3Jpt3gnB5tR3gA79mFnHLY2BBwLzPl&id=61550609084848
 ---
 
 ## تحديث21:07 بتوقيت القاهرة
