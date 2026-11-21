@@ -23,3 +23,5 @@ facebook: https://www.facebook.com/61550609084848/posts/122326977674020302
 [المصدر: تغطية BBC Sport وقوائم الفرق](https://www.bbc.co.uk/sport/football/live/c3dx19jxx15zt).
 
 [إعلان التشكيل من النادي أو الدوري](https://www.premierleague.com/en/match/2645295/bournemouth-vs-nottingham-forest). راجعت كورة نيوز مصدر التشكيل للمباراة يوم 21 نوفمبر 2026 قبل النشر.
+
+آخر تحقق من القوائم: 21 نوفمبر 2026، الساعة 16:55 بتوقيت القاهرة.

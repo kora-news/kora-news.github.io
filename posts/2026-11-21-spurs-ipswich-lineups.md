@@ -27,3 +27,5 @@ facebook: https://www.facebook.com/61550609084848/posts/122326976492020302
 [قائمة توتنهام والبدلاء لدى The Standard](https://www.standard.co.uk/sport/football/tottenham-xi-vs-ipswich-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1305671.html).
 
 [إعلان التشكيل من النادي أو الدوري](https://www.tottenhamhotspur.com/news/1266934/confirmed-line-ups-spurs-vs-ipswich-town-premier-league-november-2026). راجعت كورة نيوز مصدر التشكيل للمباراة يوم 21 نوفمبر 2026 قبل النشر.
+
+آخر تحقق من القوائم: 21 نوفمبر 2026، الساعة 16:55 بتوقيت القاهرة.
