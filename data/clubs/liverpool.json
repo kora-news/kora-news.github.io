@@ -3,7 +3,7 @@
   "nameAr": "ليفربول",
   "nameEn": "Liverpool",
   "leagueAr": "إنجلترا",
-  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "checkedAt": "2026-11-22T20:24:00+02:00",
   "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط، مع فصل الألقاب التاريخية والأقسام الأدنى",
   "sources": [
     {
@@ -95,6 +95,26 @@
       "publishedOn": "2025-04-27",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "liv-united-ft-bbc",
+      "title": "Liverpool 4-0 Manchester United: Full time",
+      "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+      "publisher": "BBC Sport",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T20:24:00+02:00",
+      "noteAr": "حالة نهاية المباراة صريحة، مع نتيجة 4-0 وأسماء المسجلين."
+    },
+    {
+      "id": "liv-united-ft-espn",
+      "title": "Liverpool 4-0 Manchester United: FT",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401878755",
+      "publisher": "ESPN",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T20:24:00+02:00",
+      "noteAr": "فُحصت صفحة المباراة نفسها، وأظهرت FT ونتيجة 4-0؛ لا اعتماد على لوحة نتائج متأخرة."
     }
   ],
   "unresolved": [],
@@ -425,21 +445,20 @@
   },
   "latestResult": {
     "status": "verified",
-    "playedOn": "2026-11-08",
+    "playedOn": "2026-11-22",
     "competitionAr": "الدوري الإنجليزي الممتاز",
-    "homeTeamAr": "كريستال بالاس",
-    "awayTeamAr": "ليفربول",
-    "homeScore": 1,
-    "awayScore": 3,
+    "homeTeamAr": "ليفربول",
+    "awayTeamAr": "مانشستر يونايتد",
+    "homeScore": 4,
+    "awayScore": 0,
     "penaltyHomeScore": null,
     "penaltyAwayScore": null,
-    "noteAr": "آخر مباراة مكتملة عند الفحص قبل انطلاق ليفربول ومانشستر يونايتد يوم 22 نوفمبر. يحتاج القسم إلى تحديث بعد اكتمال تلك المباراة، ولا يوصف بأنه مباشر.",
+    "noteAr": "نتيجة نهائية مؤكدة من BBC Sport وESPN عند 20:24 بتوقيت القاهرة يوم 22 نوفمبر 2026. هذا سجل موثق، وليس خدمة نتائج مباشرة.",
     "sourceIds": [
-      "results",
-      "result-report",
-      "result-date"
+      "liv-united-ft-bbc",
+      "liv-united-ft-espn"
     ],
-    "checkedAt": "2026-11-22T17:50:00+02:00"
+    "checkedAt": "2026-11-22T20:24:00+02:00"
   },
   "latestTrophy": {
     "status": "verified",

@@ -3,7 +3,7 @@
   "nameAr": "مانشستر يونايتد",
   "nameEn": "Manchester United",
   "leagueAr": "إنجلترا",
-  "checkedAt": "2026-11-22T18:19:00+02:00",
+  "checkedAt": "2026-11-22T20:24:00+02:00",
   "scopeAr": "الفريق الأول للرجال؛ لا تشمل البيانات فرق السيدات أو الشباب أو المباريات الودية.",
   "sources": [
     {
@@ -125,6 +125,26 @@
       "publishedOn": null,
       "checkedAt": "2026-11-22T18:19:00+02:00",
       "noteAr": "للفحص المحدود لدخول اللاعبين الأحدث فقط: راشفورد 138 وبرونو 113. لا تستخدم أرقام القاعدة التاريخية بدلا من عد النادي."
+    },
+    {
+      "id": "liv-united-ft-bbc",
+      "title": "Liverpool 4-0 Manchester United: Full time",
+      "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+      "publisher": "BBC Sport",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T20:24:00+02:00",
+      "noteAr": "حالة نهاية المباراة صريحة، مع نتيجة 4-0 وأسماء المسجلين."
+    },
+    {
+      "id": "liv-united-ft-espn",
+      "title": "Liverpool 4-0 Manchester United: FT",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401878755",
+      "publisher": "ESPN",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T20:24:00+02:00",
+      "noteAr": "فُحصت صفحة المباراة نفسها، وأظهرت FT ونتيجة 4-0؛ لا اعتماد على لوحة نتائج متأخرة."
     }
   ],
   "unresolved": [
@@ -456,20 +476,20 @@
   },
   "latestResult": {
     "status": "verified",
-    "playedOn": "2026-11-08",
+    "playedOn": "2026-11-22",
     "competitionAr": "الدوري الإنجليزي الممتاز",
-    "homeTeamAr": "مانشستر يونايتد",
-    "awayTeamAr": "أستون فيلا",
+    "homeTeamAr": "ليفربول",
+    "awayTeamAr": "مانشستر يونايتد",
     "homeScore": 4,
-    "awayScore": 4,
+    "awayScore": 0,
     "penaltyHomeScore": null,
     "penaltyAwayScore": null,
-    "noteAr": "آخر نتيجة مكتملة عُثر عليها وقت الفحص؛ ليست نتيجة مباشرة. لقطة مؤرخة وليست خدمة تحديث حي.",
+    "noteAr": "نتيجة نهائية مؤكدة من BBC Sport وESPN عند 20:24 بتوقيت القاهرة يوم 22 نوفمبر 2026. هذا سجل موثق، وليس خدمة نتائج مباشرة.",
     "sourceIds": [
-      "result",
-      "fixtures"
+      "liv-united-ft-bbc",
+      "liv-united-ft-espn"
     ],
-    "checkedAt": "2026-11-22T17:50:00+02:00"
+    "checkedAt": "2026-11-22T20:24:00+02:00"
   },
   "latestTrophy": {
     "status": "verified",
