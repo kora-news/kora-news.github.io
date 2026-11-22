@@ -18,4 +18,4 @@ facebook: https://www.facebook.com/61550609084848/posts/122327090822020302
 
 [المصدر: الدوري الإنجليزي، ماذا تعلمنا من مباريات السبت](https://www.premierleague.com/en/news/4766023/what-we-learned-from-saturdays-matches).
 
-الصورة أرشيفية لملعب دين كورت، ملعب بورنموث، وليست من مباراة21 نوفمبر2026. تصوير Matthew Jackson، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deancourt_14092013_vblackpool.jpg)، بترخيص [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). أضيف قص وتعتيم ونصوص كورة نيوز. التصميم المعدل متاح بالترخيص نفسه.
+الصورة أرشيفية لملعب دين كورت، ملعب بورنموث، وليست من مباراة21 نوفمبر2026. تصوير Shaun Ferguson، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitality_Stadium_-_geograph.org.uk_-_6950590.jpg)، بترخيص [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). أضيف قص وتعتيم ونصوص كورة نيوز. التصميم المعدل متاح بالترخيص نفسه.

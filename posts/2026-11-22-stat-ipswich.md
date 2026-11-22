@@ -17,4 +17,4 @@ image: stat-ipswich.webp
 
 [المصدر: الدوري الإنجليزي، ماذا تعلمنا من مباريات السبت](https://www.premierleague.com/en/news/4766023/what-we-learned-from-saturdays-matches).
 
-الصورة أرشيفية لملعب توتنهام هوتسبير، ملعب مباراة توتنهام وإيبسويتش، وليست من مباراة21 نوفمبر2026. تصوير Arne Müseler / arne-mueseler.com، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg)، بترخيص [CC BY-SA 3.0/de](https://creativecommons.org/licenses/by-sa/3.0/de/). أضيف قص وتعتيم ونصوص كورة نيوز. التصميم المعدل متاح بالترخيص نفسه. [موقع المصور](https://arne-mueseler.com).
+الصورة أرشيفية لملعب بورتمان رود، ملعب إيبسويتش، وليست من مباراة21 نوفمبر2026. تصوير James Cracknell، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portman_Road_18.jpg)، بترخيص [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). أضيف قص وتعتيم ونصوص كورة نيوز. التصميم المعدل متاح بالترخيص نفسه.
