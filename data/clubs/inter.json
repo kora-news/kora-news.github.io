@@ -1,0 +1,358 @@
+{
+  "id": "inter",
+  "nameAr": "إنتر",
+  "nameEn": "Inter",
+  "leagueAr": "إيطاليا",
+  "checkedAt": "2026-11-22T17:49:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ المباريات والبطولات الرسمية، مع فصل اختلافات العد التاريخية",
+  "sources": [
+    {
+      "id": "inter-history",
+      "title": "Aperti al mondo. Dal 1908",
+      "url": "https://www.inter.it/en/news/aperti-al-mondo-celebration-of-inter-118-year",
+      "publisher": "Inter",
+      "kind": "official",
+      "publishedOn": "2026-03-09",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "inter-league-honors",
+      "title": "Inter: palmares",
+      "url": "https://www.legaseriea.it/team/inter/palmares",
+      "publisher": "Lega Serie A",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "inter-scorers",
+      "title": "Inter all-time top scorers",
+      "url": "https://www.inter.it/en/news/standings-scorers-inter",
+      "publisher": "Inter",
+      "kind": "official",
+      "publishedOn": "2026-10-13",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "الجدول الصريح يعطي لاوتارو 181؛ توجد جملة قديمة في النص تعطي 177 فلا تستخدم."
+    },
+    {
+      "id": "inter-players",
+      "title": "List of Inter Milan players",
+      "url": "https://en.wikipedia.org/wiki/List_of_Inter_Milan_players",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": "2026-11-10",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "الإحصاءات مصرح بتحديثها حتى 8 نوفمبر 2026؛ لاوتارو 181."
+    },
+    {
+      "id": "inter-lautaro-current",
+      "title": "Meazza grandson Jaselli backs Lautaro",
+      "url": "https://m.dongqiudi.com/en/news/195620",
+      "publisher": "All Football / FCInterNews",
+      "kind": "secondary",
+      "publishedOn": "2026-11-18",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "يؤكد 181 للاوتارو بعد أحدث مباراة مكتملة."
+    },
+    {
+      "id": "inter-zanetti",
+      "title": "Zanetti 50: happy birthday Javier",
+      "url": "https://www.inter.it/en/news/javier-zanetti-50-birthday-inter",
+      "publisher": "Inter",
+      "kind": "official",
+      "publishedOn": "2023-08-09",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "يفصل 16 بطولة كلاعب عن إنجازاته اللاحقة كإداري."
+    },
+    {
+      "id": "inter-record",
+      "title": "Exclusive: Inter icon Javier Zanetti",
+      "url": "https://sport360.com/article/football/european/42053/exclusive-inter-icon-javier-zanetti-milan-derby-and-success-mauro-icardi-and",
+      "publisher": "Sport360",
+      "kind": "news",
+      "publishedOn": "2015-09-11",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "ينص صراحة على الرقم القياسي لأكثر ألقاب النادي."
+    },
+    {
+      "id": "inter-result",
+      "title": "Inter 2-0 Como",
+      "url": "https://www.inter.it/en/news/inter-vs-como-serie-a-2026-27",
+      "publisher": "Inter",
+      "kind": "official",
+      "publishedOn": "2026-11-08",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "inter-next",
+      "title": "Atalanta vs Inter complete match guide",
+      "url": "https://www.inter.it/en/news/guide-atalanta-inter-serie-a-2026-27",
+      "publisher": "Inter",
+      "kind": "official",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "المباراة التالية 22 نوفمبر 20:45 بتوقيت وسط أوروبا، ولم تبدأ وقت الفحص."
+    },
+    {
+      "id": "inter-title",
+      "title": "Lazio-Inter, la Coppa Italia Frecciarossa 2026 è dell’Inter",
+      "url": "https://www.legaseriea.it/coppa-italia/news/lazio-inter-risultato-gol-diretta-finale-coppa-italia-frecciarossa-13-05-2026-roma-stadio-olimpico",
+      "publisher": "Lega Serie A",
+      "kind": "official",
+      "publishedOn": "2026-05-13",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "inter-calendar",
+      "title": "From November to Christmas: Inter fixtures",
+      "url": "https://www.inter.it/en/news/inter-schedule-tickets-matches-november-december-san-siro",
+      "publisher": "Inter",
+      "kind": "official",
+      "publishedOn": "2026-11-16",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "يحدد السوبر في 22 ديسمبر كأول لقب متاح في الموسم؛ لا يوجد لقب جديد خريفي مفترض."
+    }
+  ],
+  "unresolved": [],
+  "history": {
+    "textAr": "تأسس إنتر في ميلانو يوم 9 مارس 1908، وتقوم هويته التاريخية على الانفتاح على العالم. يمتد سجل الفريق من بطولات الدوري الإيطالي إلى ثلاثة ألقاب لكأس أوروبا/دوري الأبطال، وثلاثة ألقاب لكأس الاتحاد الأوروبي. وفي موسم 2025/26 أضاف الدوري وكأس إيطاليا إلى سجله.",
+    "sourceIds": [
+      "inter-history",
+      "inter-league-honors",
+      "inter-title"
+    ]
+  },
+  "honors": {
+    "scopeAr": "ألقاب الفريق الأول الرسمية المدرجة في سجل رابطة الدوري؛ لا الوديات أو الناشئون أو السيدات.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "الدوري الإيطالي",
+        "count": 21,
+        "seasons": [],
+        "noteAr": "يشمل لقب 2005/06 المسند رسميا لإنتر.",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس إيطاليا",
+        "count": 10,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "السوبر الإيطالي",
+        "count": 8,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس أوروبا / دوري أبطال أوروبا",
+        "count": 3,
+        "seasons": [
+          "1963/64",
+          "1964/65",
+          "2009/10"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الأوروبي",
+        "count": 3,
+        "seasons": [
+          "1990/91",
+          "1993/94",
+          "1997/98"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنتركونتيننتال",
+        "count": 2,
+        "seasons": [
+          "1964",
+          "1965"
+        ],
+        "noteAr": "الرابطة تعرض الموسمين 1963/64 و 1964/65؛ هنا سنوات إقامة النهائي.",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 1,
+        "seasons": [
+          "2010"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "inter-league-honors"
+        ]
+      }
+    ],
+    "noteAr": "48 لقبا في هذه المسابقات السبع. أحدث إضافتين في 2025/26: الدوري والكأس."
+  },
+  "topScorers": {
+    "scopeAr": "الأهداف الرسمية وفق جدول إنتر؛ يستبعد النادي أهداف كأس أرماندو بيكي من هذا الجدول.",
+    "asOf": "2026-11-18",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "جوزيبي مياتزا",
+        "nameEn": "Giuseppe Meazza",
+        "goals": 284,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "أليساندرو ألتوبيلي",
+        "nameEn": "Alessandro Altobelli",
+        "goals": 209,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "لاوتارو مارتينيز",
+        "nameEn": "Lautaro Martinez",
+        "goals": 181,
+        "sourceIds": [
+          "inter-scorers",
+          "inter-players",
+          "inter-lautaro-current"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "روبرتو بونينسيغنا",
+        "nameEn": "Roberto Boninsegna",
+        "goals": 171,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "ساندرو ماتزولا",
+        "nameEn": "Sandro Mazzola",
+        "goals": 161,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "لويجي تشيفينيني الثالث",
+        "nameEn": "Luigi Cevenini III",
+        "goals": 158,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "بينيتو لورينتسي",
+        "nameEn": "Benito Lorenzi",
+        "goals": 143,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "إشتفان نيرش",
+        "nameEn": "Istvan Nyers",
+        "goals": 133,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "ماورو إيكاردي",
+        "nameEn": "Mauro Icardi",
+        "goals": 124,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "كريستيان فييري",
+        "nameEn": "Christian Vieri",
+        "goals": 123,
+        "sourceIds": [
+          "inter-scorers"
+        ]
+      }
+    ],
+    "noteAr": "أساس القائمة جدول النادي المؤرخ 13 أكتوبر؛ رقم لاوتارو 181 مؤيد بجدول 8 نوفمبر وخبر 18 نوفمبر، بعد أحدث مباراة مكتملة. اختلاف نطاق بعض القواعد يفسر أرقاما أخرى لماتزولا وبونينسيغنا؛ التزمنا بجدول النادي كله."
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية كلاعب مع إنتر فقط؛ لا الإنجازات اللاحقة كإداري.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "خافيير زانيتي",
+        "nameEn": "Javier Zanetti",
+        "titles": 16,
+        "sourceIds": [
+          "inter-zanetti",
+          "inter-record"
+        ]
+      }
+    ],
+    "noteAr": "5 دوري، 4 كأس إيطاليا، 4 سوبر إيطالي، دوري أبطال واحد، كأس اتحاد أوروبي واحدة، وكأس عالم للأندية واحدة. لا تضاف بطولات حققها نائبا للرئيس."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-08",
+    "competitionAr": "الدوري الإيطالي",
+    "homeTeamAr": "إنتر",
+    "awayTeamAr": "كومو",
+    "homeScore": 2,
+    "awayScore": 0,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر مباراة مكتملة عند فحص 22 نوفمبر 17:49 القاهرة؛ مواجهة أتالانتا مساء اليوم لم تبدأ وقت الفحص.",
+    "sourceIds": [
+      "inter-result",
+      "inter-next"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس إيطاليا",
+    "season": "2025/26",
+    "wonOn": "2026-05-13",
+    "noteAr": "فاز على لاتسيو 2-0؛ الكأس جاءت بعد حسم الدوري، والسوبر التالي مقرر في ديسمبر.",
+    "sourceIds": [
+      "inter-title",
+      "inter-league-honors",
+      "inter-calendar"
+    ]
+  }
+}

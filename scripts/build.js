@@ -4,6 +4,7 @@
 // Add a post: drop a new .md file in posts/ and an image in assets/img/, push.
 const fs = require('fs');
 const path = require('path');
+const { buildClubs } = require('./clubs');
 
 const ROOT = path.join(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'posts');
@@ -91,6 +92,7 @@ function header(rel, active) {
     </a>
     <nav class="main-nav">
       ${a('home', 'index.html', 'الرئيسية')}
+      ${a('clubs', 'clubs.html', 'الأندية')}
       ${a('about', 'about.html', 'عن الموقع')}
       <a href="${FB_PAGE}" target="_blank" rel="noopener" class="nav-fb">تابعنا على فيسبوك</a>
     </nav>
@@ -166,6 +168,7 @@ for (const f of fs.readdirSync(path.join(ROOT, 'assets', 'img'))) {
   fs.copyFileSync(path.join(ROOT, 'assets', 'img', f), path.join(DIST, 'assets', 'img', f));
 }
 fs.copyFileSync(path.join(ROOT, 'assets', 'style.css'), path.join(DIST, 'assets', 'style.css'));
+for (const file of ['clubs.css','clubs.js']) fs.copyFileSync(path.join(ROOT,'assets',file), path.join(DIST,'assets',file));
 
 // home
 const [first, ...rest] = posts;
@@ -228,6 +231,9 @@ const nf = head('الصفحة غير موجودة | ' + SITE_NAME, SITE_DESC, ''
 ` + footer('');
 fs.writeFileSync(path.join(DIST, '404.html'), nf);
 
+// Club reference section shares navigation and identity with the news site.
+const clubPages = buildClubs({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate});
+
 // feed.xml + sitemap.xml + robots.txt
 const base = BASE_URL;
 const feed = `<?xml version="1.0" encoding="UTF-8"?>
@@ -238,6 +244,7 @@ fs.writeFileSync(path.join(DIST, 'feed.xml'), feed);
 const sm = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>${base}/index.html</loc></url>
+${clubPages.map(url=>`<url><loc>${base}/${url}</loc></url>`).join('\n')}
 ${posts.map(p => `<url><loc>${base}/posts/${p.slug}.html</loc></url>`).join('\n')}
 </urlset>`;
 fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sm);

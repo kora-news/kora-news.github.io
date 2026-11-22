@@ -1,0 +1,474 @@
+{
+  "id": "borussia-dortmund",
+  "nameAr": "بوروسيا دورتموند",
+  "nameEn": "Borussia Dortmund",
+  "leagueAr": "ألمانيا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ الرسمي فقط، مع فصل البطولات الإقليمية والسوبر غير الرسمي.",
+  "history": {
+    "textAr": "تأسس بوروسيا دورتموند في 19 ديسمبر 1909 على يد 18 من محبي كرة القدم في حانة زوم فيلدشوتس بمنطقة بورزيجبلاتس. أحرز أول بطولة لألمانيا عام 1956، وفاز بكأس الكؤوس الأوروبية في 1966. وبعد سنوات صعبة عاد إلى البوندسليجا في 1976، ثم شهد عصره الأوروبي الأبرز بالفوز بدوري أبطال أوروبا وكأس الإنتركونتيننتال في 1997. وفي 2012 حقق أول ثنائية محلية في تاريخه بالجمع بين الدوري وكأس ألمانيا.",
+    "sourceIds": [
+      "bvb-founded",
+      "bvb-history",
+      "bvb-wiki"
+    ]
+  },
+  "honors": {
+    "scopeAr": "الألقاب الوطنية والدولية الرسمية، ثم الإقليمية في صفوف مستقلة. بطولة ألمانيا تشمل ثلاث بطولات قبل البوندسليجا وخمساً في عصرها.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "بطولة ألمانيا / البوندسليجا",
+        "count": 8,
+        "seasons": [
+          "1956",
+          "1957",
+          "1963",
+          "1994/95",
+          "1995/96",
+          "2001/02",
+          "2010/11",
+          "2011/12"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "bvb-investor",
+          "bvb-tm-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس ألمانيا",
+        "count": 5,
+        "seasons": [
+          "1964/65",
+          "1988/89",
+          "2011/12",
+          "2016/17",
+          "2020/21"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "bvb-investor",
+          "bvb-tm-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الألماني",
+        "count": 6,
+        "seasons": [
+          "1989",
+          "1995",
+          "1996",
+          "2013",
+          "2014",
+          "2019"
+        ],
+        "noteAr": "استُبعدت نسخة 2008 غير الرسمية، التي تجعل بعض المصادر تعرض سبعة ألقاب.",
+        "sourceIds": [
+          "bvb-investor",
+          "rsssf-supercup"
+        ]
+      },
+      {
+        "competitionAr": "دوري أبطال أوروبا",
+        "count": 1,
+        "seasons": [
+          "1996/97"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "bvb-investor",
+          "bvb-tm-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1965/66"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "bvb-investor",
+          "bvb-tm-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنتركونتيننتال",
+        "count": 1,
+        "seasons": [
+          "1997"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "bvb-investor",
+          "bvb-tm-honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري غرب ألمانيا «أوبرليجا فيست»",
+        "count": 6,
+        "seasons": [
+          "1947/48",
+          "1948/49",
+          "1949/50",
+          "1952/53",
+          "1955/56",
+          "1956/57"
+        ],
+        "noteAr": "بطولات إقليمية تاريخية، مصدرها ثانوي وليست ضمن إجمالي البطولات الوطنية والدولية.",
+        "sourceIds": [
+          "bvb-wiki"
+        ]
+      },
+      {
+        "competitionAr": "كأس وستفاليا",
+        "count": 1,
+        "seasons": [
+          "1947"
+        ],
+        "noteAr": "بطولة إقليمية تاريخية، مصدرها ثانوي.",
+        "sourceIds": [
+          "bvb-wiki"
+        ]
+      }
+    ],
+    "noteAr": "قائمة الفريق الأول الواردة في سجل الألقاب المفتوح، مع إضافة البطولات الإقليمية التي يسردها المصدر التاريخي. لا تشمل الرديف أو الناشئين أو السيدات أو الدورات الودية."
+  },
+  "topScorers": {
+    "scopeAr": "نسخة قائمة Transfermarkt المفتوحة وقت الفحص، مع تعادل المركز العاشر؛ ليست سجلاً موحداً معتمداً من النادي.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "آدي برايسلر",
+        "nameEn": "Adi Preißler",
+        "goals": 179,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "ماركو رويس",
+        "nameEn": "Marco Reus",
+        "goals": 170,
+        "sourceIds": [
+          "bvb-tm-scorers",
+          "bvb-wiki"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "مانفريد بورجسمولر",
+        "nameEn": "Manfred Burgsmüller",
+        "goals": 158,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "مايكل زورك",
+        "nameEn": "Michael Zorc",
+        "goals": 158,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "تيمو كونييتسكا",
+        "nameEn": "Timo Konietzka",
+        "goals": 155,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "لوثار إيمريش",
+        "nameEn": "Lothar Emmerich",
+        "goals": 148,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "يورجن شوتس",
+        "nameEn": "Jürgen Schütz",
+        "goals": 145,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "بيير إيميريك أوباميانج",
+        "nameEn": "Pierre-Emerick Aubameyang",
+        "goals": 141,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "ألفريد نيبيكلو",
+        "nameEn": "Alfred Niepieklo",
+        "goals": 126,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "ألفريد كيلباسا",
+        "nameEn": "Alfred Kelbassa",
+        "goals": 123,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "ستيفان شابويزا",
+        "nameEn": "Stéphane Chapuisat",
+        "goals": 123,
+        "sourceIds": [
+          "bvb-tm-scorers"
+        ]
+      }
+    ],
+    "noteAr": "قائمة بحثية وليست ترتيبًا رسميًا محسومًا: النادي يثبت برايسلر 177 وزورك 159، ويشرح أن التوثيق الكامل يبدأ في 1947 وأن أهداف برايسلر في الموسمين السابقين لا تدخل في 177. الصفحة الفعلية من Transfermarkt تعرض 179 و 158 على الترتيب؛ وWorldfootball يعرض برايسلر 172. تختلف أيضاً أرقام شوتس ونيبيكلو وكيلباسا والتغطية القديمة. حُفظت قائمة مصدر واحد دون ترقيعها بأرقام مصادر أخرى، مع 11 اسماً لحفظ تعادل المركز العاشر."
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية الوطنية والدولية مع الفريق الأول فقط، دون البطولات الإقليمية أو ألقاب المنتخب أو الإنجازات الإدارية.",
+    "asOf": "2026-11-22",
+    "status": "partial",
+    "items": [
+      {
+        "nameAr": "مايكل زورك",
+        "nameEn": "Michael Zorc",
+        "titles": 8,
+        "sourceIds": [
+          "zorc-tm"
+        ]
+      },
+      {
+        "nameAr": "لوكاش بيشتشيك",
+        "nameEn": "Łukasz Piszczek",
+        "titles": 8,
+        "sourceIds": [
+          "piszczek-bvb"
+        ]
+      },
+      {
+        "nameAr": "مارسيل شميلتسر",
+        "nameEn": "Marcel Schmelzer",
+        "titles": 8,
+        "sourceIds": [
+          "schmelzer-dfb"
+        ]
+      }
+    ],
+    "noteAr": "ثلاثة أرصدة متعادلة موثقة: زورك 2 دوري + كأس + 3 سوبر + دوري أبطال + إنتركونتيننتال؛ بيشتشيك وشميلتسر لكل منهما 2 دوري + 3 كأس + 3 سوبر. لا يوجد في المصادر المفتوحة جدول رسمي شامل يؤكد أن هؤلاء وحدهم أصحاب الرقم الأعلى؛ لذلك لا يُعرض التعادل بوصفه حصراً نهائياً. تُستبعد نجاحات زورك اللاحقة مديراً رياضياً."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-21",
+    "competitionAr": "الدوري الألماني",
+    "homeTeamAr": "بوروسيا مونشنجلادباخ",
+    "awayTeamAr": "بوروسيا دورتموند",
+    "homeScore": 0,
+    "awayScore": 1,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر مباراة مكتملة عُثر عليها حتى وقت الفحص؛ هذه لقطة مؤرخة وليست خدمة نتائج مباشرة.",
+    "sourceIds": [
+      "bvb-lastmatch",
+      "bundesliga-md10"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس ألمانيا",
+    "season": "2020/21",
+    "wonOn": "2021-05-13",
+    "noteAr": "فاز على لايبزيج 4-1 في النهائي. قائمة النادي الاستثمارية الصادرة في سبتمبر 2026 وسجل الألقاب الحالي لا يسردان لقباً رسمياً أحدث؛ خسر سوبر أغسطس 2026 أمام بايرن.",
+    "sourceIds": [
+      "bvb-cup2021",
+      "bvb-investor",
+      "bvb-tm-honors",
+      "dfb-super2026"
+    ]
+  },
+  "sources": [
+    {
+      "id": "bvb-founded",
+      "title": "Borussia Dortmund celebrate 116th anniversary",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/12/19/Borussia-Dortmund-celebrate-116th-birthday.html",
+      "publisher": "Borussia Dortmund",
+      "kind": "official",
+      "publishedOn": "2025-12-19",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bvb-history",
+      "title": "Historische Momente",
+      "url": "https://www.bvb.de/de/de/der-bvb/die-bvb-historie/historische-momente.html",
+      "publisher": "Borussia Dortmund",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bvb-investor",
+      "title": "Investor presentation FY2025/2026",
+      "url": "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+      "publisher": "Borussia Dortmund",
+      "kind": "official",
+      "publishedOn": "2026-09-23",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "وثيقة رسمية حديثة: 8 دوري، 5 كأس، 6 سوبر،ولقب لكل من دوري الأبطال وكأس الكؤوس والإنتركونتيننتال."
+    },
+    {
+      "id": "bvb-tm-honors",
+      "title": "Borussia Dortmund club achievements",
+      "url": "https://www.transfermarkt.com/borussia-dortmund/erfolge/verein/16",
+      "publisher": "Transfermarkt",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bvb-wiki",
+      "title": "Borussia Dortmund records and statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Borussia_Dortmund_records_and_statistics",
+      "publisher": "Wikipedia",
+      "kind": "secondary",
+      "publishedOn": "2026-11-08",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "مصدر البطولات الإقليمية والتاريخ؛ قائمة الهدافين تختلف عن القواعد الإحصائية الأخرى."
+    },
+    {
+      "id": "rsssf-supercup",
+      "title": "Germany: Super/League Cup Finals",
+      "url": "https://www.rsssf.org/tablesd/duitsupcuphist.html",
+      "publisher": "RSSSF",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bvb-tm-scorers",
+      "title": "Borussia Dortmund record goal scorers",
+      "url": "https://www.transfermarkt.com/borussia-dortmund/topTorschuetzen/verein/16",
+      "publisher": "Transfermarkt",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "المحتوى الفعلي يعرض برايسلر 179، بينما المقتطف القديم 177. توجد اختلافات تاريخية موضحة."
+    },
+    {
+      "id": "bvb-wf-scorers",
+      "title": "Borussia Dortmund all-time scorers",
+      "url": "https://www.worldfootball.net/teams/te258/borussia-dortmund/records-all-time-goals/",
+      "publisher": "Worldfootball",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bvb-official-scorers",
+      "title": "Reus: 161 competitive goals for BVB",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Reus-darf-zweimal-feiern-150.-Bundesliga-Tor-161.-Pflichtspieltor-fuer-den-BVB.html",
+      "publisher": "Borussia Dortmund",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت برايسلر 177 وزورك 159 ويشرح بداية التوثيق في 1947. رقم رويس 161 تاريخي وليس رصيده النهائي."
+    },
+    {
+      "id": "zorc-tm",
+      "title": "Michael Zorc titles and achievements",
+      "url": "https://www.transfermarkt.us/michael-zorc/erfolge/spieler/38033",
+      "publisher": "Transfermarkt",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "ثمانية ألقاب مع دورتموند فقط بعد استبعاد ألقاب منتخبات الشباب."
+    },
+    {
+      "id": "piszczek-bvb",
+      "title": "Lukasz Piszczek: Forever one of us",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Lukasz-Piszczek-Fuer-immer-einer-von-uns.html",
+      "publisher": "Borussia Dortmund",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت 2دوري و 3كأس و 3سوبر."
+    },
+    {
+      "id": "schmelzer-dfb",
+      "title": "Marcel Schmelzer player profile",
+      "url": "https://datencenter.dfb.de/en/data-center/people/marcel-schmelzer/player",
+      "publisher": "DFB",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت 2دوري و 3كأس و 3سوبر."
+    },
+    {
+      "id": "bvb-lastmatch",
+      "title": "Dortmund go top after overcoming Gladbach",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/borussia-monchengladbach-borussia-dortmund-match-report-highlights-matchday-10-40073",
+      "publisher": "Bundesliga",
+      "kind": "official",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bundesliga-md10",
+      "title": "Bundesliga Matchday 10 teams",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
+      "publisher": "Bundesliga",
+      "kind": "official",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "bvb-cup2021",
+      "title": "Sporting highlights 2020/2021",
+      "url": "https://report.bvb.de/annual-report/2020-2021/sporting-highlights.html",
+      "publisher": "Borussia Dortmund",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت نهائي 13مايو 2021 وفوز دورتموند 4-1."
+    },
+    {
+      "id": "dfb-super2026",
+      "title": "Dortmund 1-2 Bayern, Supercup final 2026",
+      "url": "https://datencenter.dfb.de/datencenter/franz-beckenbauer-supercup/2026/finale/borussia-dortmund-fc-bayern-muenchen-2412838",
+      "publisher": "DFB",
+      "kind": "official",
+      "publishedOn": "2026-08-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [
+    "حسم قائمة موحدة رسمية للهدافين، خصوصاً برايسلر وزورك وأرقام ما قبل البوندسليجا، قبل نشر ترتيب نهائي بلا تحذير.",
+    "إثبات شمول ترتيب الأكثر تتويجاً لجميع اللاعبين؛ الأرصدة الثلاثة المذكورة موثقة ولكن التفوق المطلق والحصر النهائي غير محسومين."
+  ]
+}

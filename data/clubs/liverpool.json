@@ -1,0 +1,454 @@
+{
+  "id": "liverpool",
+  "nameAr": "ليفربول",
+  "nameEn": "Liverpool",
+  "leagueAr": "إنجلترا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط، مع فصل الألقاب التاريخية والأقسام الأدنى",
+  "sources": [
+    {
+      "id": "history",
+      "title": "How Liverpool FC was founded in 1892",
+      "url": "https://www.liverpoolfc.com/info/how-liverpool-fc-was-founded-1892",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "honors",
+      "title": "Honours",
+      "url": "https://www.liverpoolfc.com/info/honours",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "قسم الرجال فقط؛ استبعدت بطولات النساء والشباب، وأبقيت الدرجة الثانية والألقاب التاريخية مع توضيحها."
+    },
+    {
+      "id": "scorers",
+      "title": "Liverpool’s all-time top scorers",
+      "url": "https://www.liverpoolfc.com/info/liverpools-all-time-top-scorers",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "salah",
+      "title": "Mohamed Salah",
+      "url": "https://www.liverpoolfc.com/info/mohamed-salah",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "ملف اللاعب السابق يؤكد 257 هدفا خلال 2017-2026، فلا تستخدم أرقاما قديمة له."
+    },
+    {
+      "id": "decorated",
+      "title": "Phil Neal",
+      "url": "https://www.liverpoolfc.com/info/phil-neal",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يصفه النادي بالأكثر تتويجا مع 22 قطعة فضية، بينما تفصيل البطولات الكبرى يستبعد الدروع."
+    },
+    {
+      "id": "results",
+      "title": "Men’s team results 2026",
+      "url": "https://www.liverpoolfc.com/matches/mens-team/results/2026",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "result-report",
+      "title": "Crystal Palace v Liverpool match report",
+      "url": "https://www.liverpoolfc.com/news/crystal-palace-liverpool-premier-league-match-report",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "result-date",
+      "title": "Liverpool up to fourth after win at Palace",
+      "url": "https://www.premierleague.com/en/news/4757005/liverpool-up-to-fourth-after-win-at-palace",
+      "publisher": "Premier League",
+      "kind": "official",
+      "publishedOn": "2026-11-08",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "title",
+      "title": "Official: Liverpool are the 2024-25 Premier League champions",
+      "url": "https://www.liverpoolfc.com/news/official-liverpool-are-2024-25-premier-league-champions?amp=",
+      "publisher": "Liverpool",
+      "kind": "official",
+      "publishedOn": "2025-04-27",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [],
+  "history": {
+    "textAr": "تأسس ليفربول رسميا في 3 يونيو 1892، بعد انفصال جون هولدينغ عن إيفرتون وقراره تكوين فريق جديد يلعب في أنفيلد. فاز بدوري لانكشير في موسمه الأول، ثم صعد تدريجيا إلى قمة الكرة الإنجليزية.\nجمع النادي بين النجاح المحلي والأوروبي؛ بدأ ألقابه في كأس أوروبا سنة 1977، ووصل إلى ستة ألقاب في البطولة في 2019. وحقق لقبه العشرين في الدوري الإنجليزي في 2024/25، وهو أحدث ألقابه الرسمية المثبتة في سجل النادي وقت المراجعة.",
+    "sourceIds": [
+      "history",
+      "honors",
+      "title"
+    ]
+  },
+  "honors": {
+    "scopeAr": "كل ألقاب الفريق الأول للرجال المدرجة في سجل النادي، بما فيها الدرجة الثانية والبطولات التاريخية والدروع المشتركة؛ لا بطولات النساء أو الشباب.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الأولى والدوري الممتاز",
+        "count": 20,
+        "seasons": [
+          "1900/01",
+          "1905/06",
+          "1921/22",
+          "1922/23",
+          "1946/47",
+          "1963/64",
+          "1965/66",
+          "1972/73",
+          "1975/76",
+          "1976/77",
+          "1978/79",
+          "1979/80",
+          "1981/82",
+          "1982/83",
+          "1983/84",
+          "1985/86",
+          "1987/88",
+          "1989/90",
+          "2019/20",
+          "2024/25"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس أوروبا / دوري أبطال أوروبا",
+        "count": 6,
+        "seasons": [
+          "1976/77",
+          "1977/78",
+          "1980/81",
+          "1983/84",
+          "2004/05",
+          "2018/19"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 1,
+        "seasons": [
+          "2019"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس إنجلترا",
+        "count": 8,
+        "seasons": [
+          "1964/65",
+          "1973/74",
+          "1985/86",
+          "1988/89",
+          "1991/92",
+          "2000/01",
+          "2005/06",
+          "2021/22"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الإنجليزية",
+        "count": 10,
+        "seasons": [
+          "1980/81",
+          "1981/82",
+          "1982/83",
+          "1983/84",
+          "1994/95",
+          "2000/01",
+          "2002/03",
+          "2011/12",
+          "2021/22",
+          "2023/24"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الأوروبي",
+        "count": 3,
+        "seasons": [
+          "1972/73",
+          "1975/76",
+          "2000/01"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الأوروبي",
+        "count": 4,
+        "seasons": [
+          "1977",
+          "2001",
+          "2005",
+          "2019"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرع الخيرية / درع المجتمع",
+        "count": 16,
+        "seasons": [
+          "1964",
+          "1965",
+          "1966",
+          "1974",
+          "1976",
+          "1977",
+          "1979",
+          "1980",
+          "1982",
+          "1986",
+          "1988",
+          "1989",
+          "1990",
+          "2001",
+          "2006",
+          "2022"
+        ],
+        "noteAr": "تتضمن خمسة ألقاب مشتركة: 1964 و 1965 و 1977 و 1986 و 1990.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري الدرجة الثانية",
+        "count": 4,
+        "seasons": [
+          "1893/94",
+          "1895/96",
+          "1904/05",
+          "1961/62"
+        ],
+        "noteAr": "بطولة المستوى الثاني، منفصلة عن ألقاب الدرجة الأولى.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري لانكشير",
+        "count": 1,
+        "seasons": [
+          "1892/93"
+        ],
+        "noteAr": "بطولة إقليمية تاريخية في موسم النادي الأول.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر لدوري كرة القدم",
+        "count": 1,
+        "seasons": [
+          "1986"
+        ],
+        "noteAr": "بطولة تاريخية أقيمت في نسخة واحدة.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "درع شريف لندن الخيرية",
+        "count": 1,
+        "seasons": [
+          "1906"
+        ],
+        "noteAr": "بطولة تاريخية سبقت درع المجتمع.",
+        "sourceIds": [
+          "honors"
+        ]
+      }
+    ],
+    "noteAr": "عبارة النادي 52 لقبا كبيرا لا تشمل جميع الصفوف هنا؛ الدروع والأقسام الأدنى والألقاب التاريخية مفصولة، لذلك لا تخلط بين إجمالي الألقاب الكبرى وإجمالي السجل."
+  },
+  "topScorers": {
+    "scopeAr": "قائمة هدافي الفريق الأول للرجال في تاريخ النادي بحسب سجله الرسمي.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "إيان راش",
+        "nameEn": "Ian Rush",
+        "goals": 346,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "روجر هانت",
+        "nameEn": "Roger Hunt",
+        "goals": 285,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "محمد صلاح",
+        "nameEn": "Mohamed Salah",
+        "goals": 257,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "غوردون هودجسون",
+        "nameEn": "Gordon Hodgson",
+        "goals": 241,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "بيلي ليدل",
+        "nameEn": "Billy Liddell",
+        "goals": 228,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "ستيفن جيرارد",
+        "nameEn": "Steven Gerrard",
+        "goals": 186,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "روبي فاولر",
+        "nameEn": "Robbie Fowler",
+        "goals": 183,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "كيني دالغليش",
+        "nameEn": "Kenny Dalglish",
+        "goals": 172,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "مايكل أوين",
+        "nameEn": "Michael Owen",
+        "goals": 158,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "هاري تشامبرز",
+        "nameEn": "Harry Chambers",
+        "goals": 151,
+        "sourceIds": [
+          "scorers"
+        ]
+      }
+    ],
+    "noteAr": "فحصت القائمة الرسمية وقت المراجعة؛ صلاح لاعب سابق في الملف الرسمي برصيد 257، وليس رقما افتراضيا للاعب نشط."
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب التي حققها اللاعب مع ليفربول فقط؛ وفق وصف النادي وعده للقطع الفضية بما فيها الدروع.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "فيل نيل",
+        "nameEn": "Phil Neal",
+        "titles": 22,
+        "sourceIds": [
+          "decorated"
+        ]
+      }
+    ],
+    "noteAr": "النادي يصف نيل صراحة بالأكثر تتويجا ويذكر 22 قطعة فضية. قائمة إنجازاته الكبرى وحدها لا تساوي هذا الإجمالي لأنها لا تسرد الدروع، فلا تقارن 22 برقم يستبعدها."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-08",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "homeTeamAr": "كريستال بالاس",
+    "awayTeamAr": "ليفربول",
+    "homeScore": 1,
+    "awayScore": 3,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر مباراة مكتملة عند الفحص قبل انطلاق ليفربول ومانشستر يونايتد يوم 22 نوفمبر. يحتاج القسم إلى تحديث بعد اكتمال تلك المباراة، ولا يوصف بأنه مباشر.",
+    "sourceIds": [
+      "results",
+      "result-report",
+      "result-date"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "season": "2024/25",
+    "wonOn": "2025-04-27",
+    "noteAr": "تاريخ حسم اللقب رسميا، وليس حفل تسليم الكأس في 25 مايو 2025. سجل النادي المفحوص لا يدرج لقبا أحدث.",
+    "sourceIds": [
+      "honors",
+      "title"
+    ]
+  }
+}

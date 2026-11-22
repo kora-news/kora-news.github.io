@@ -1,0 +1,431 @@
+{
+  "id": "manchester-city",
+  "nameAr": "مانشستر سيتي",
+  "nameEn": "Manchester City",
+  "leagueAr": "إنجلترا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط، مع فصل الألقاب التاريخية والأقسام الأدنى",
+  "sources": [
+    {
+      "id": "history",
+      "title": "Manchester City history and club records",
+      "url": "https://www.mancity.com/club/manchester-city-history",
+      "publisher": "Manchester City",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "honors",
+      "title": "Team Honours",
+      "url": "https://www.mancity.com/club/honours/team",
+      "publisher": "Manchester City",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "scorers-historical",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643",
+      "publisher": "Manchester City",
+      "kind": "official",
+      "publishedOn": "2025-07-02",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "استخدم للأرقام التاريخية للاعبين السابقين فقط؛ أرقام اللاعبين النشطين في هذه الصفحة قديمة."
+    },
+    {
+      "id": "haaland-nov",
+      "title": "Haaland voted into 2026 FIFPro World 11",
+      "url": "https://onefootball.com/en/news/haaland-voted-into-2026-fifpro-world-11-43752430",
+      "publisher": "Manchester City via OneFootball",
+      "kind": "official-republication",
+      "publishedOn": "2026-11-09",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت 176 هدفا لهالاند و 14 هدفا في الموسم حتى ذلك التاريخ."
+    },
+    {
+      "id": "season-current",
+      "title": "2026-2027 Manchester City Stats, All Competitions",
+      "url": "https://fbref.com/en/squads/b8fd03ef/2026-2027/all_comps/Manchester-City-Stats-All-Competitions",
+      "publisher": "FBref",
+      "kind": "statistics",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "محدث بعد التعادل مع فولهام، لا يزال هالاند على 14 هدفا موسميا؛ مع رصيد النادي السابق 162 يكون الإجمالي 176."
+    },
+    {
+      "id": "haaland-base",
+      "title": "Foden’s City story so far in numbers",
+      "url": "https://www.mancity.com/news/mens/phil-foden-city-stats-so-far-63920317",
+      "publisher": "Manchester City",
+      "kind": "official",
+      "publishedOn": "2026-07-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت تعادل فودين وبرناردو وستونز في 20 لقبا، ورصيد هالاند 162 قبل موسم 2026/27."
+    },
+    {
+      "id": "result",
+      "title": "City 1-1 Fulham: 2-minute highlights",
+      "url": "https://www.mancity.com/citytv/mens/manchester-city-fulham-202627-short-highlights-63930873",
+      "publisher": "Manchester City",
+      "kind": "official",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "latest-title",
+      "title": "City win FA Cup for eighth time with victory over Chelsea",
+      "url": "https://www.mancity.com/news/mens/manchester-city-win-202526-fa-cup-final-63914542",
+      "publisher": "Manchester City",
+      "kind": "official",
+      "publishedOn": "2026-05-16",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "shield-loss",
+      "title": "Arsenal 3-0 Manchester City: 2026 FA Community Shield",
+      "url": "https://www.thefa.com/news/2026/aug/16/fa-community-shield-2026-report-16082026",
+      "publisher": "The FA",
+      "kind": "official",
+      "publishedOn": "2026-08-16",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [],
+  "history": {
+    "textAr": "ترجع جذور مانشستر سيتي إلى فريق كنيسة سانت ماركس سنة 1880، ثم أردويك سنة 1887، قبل اعتماد اسم مانشستر سيتي عام 1894. حقق أول كأس إنجلترا في 1904، وانتقل من ماين رود إلى ملعب مدينة مانشستر في 2003.\nعاد إلى صدارة الدوري في 2012 بهدف سيرخيو أغويرو الحاسم، ثم حقق في 2023 ثلاثية الدوري وكأس إنجلترا ودوري الأبطال، وأضاف إليها السوبر الأوروبي وكأس العالم للأندية في العام نفسه. أحدث ألقابه المثبتة كأس إنجلترا في مايو 2026.",
+    "sourceIds": [
+      "history",
+      "latest-title"
+    ]
+  },
+  "honors": {
+    "scopeAr": "كل ألقاب قسم الفريق الأول للرجال في سجل النادي، مع فصل ألقاب المستوى الثاني وملحق الصعود. لا تحتسب الوصافة بطولة، ولا تدرج ألقاب النساء أو فرق الشباب.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الأولى والدوري الممتاز",
+        "count": 10,
+        "seasons": [
+          "1936/37",
+          "1967/68",
+          "2011/12",
+          "2013/14",
+          "2017/18",
+          "2018/19",
+          "2020/21",
+          "2021/22",
+          "2022/23",
+          "2023/24"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري أبطال أوروبا",
+        "count": 1,
+        "seasons": [
+          "2022/23"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 1,
+        "seasons": [
+          "2023"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1969/70"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الأوروبي",
+        "count": 1,
+        "seasons": [
+          "2023"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس إنجلترا",
+        "count": 8,
+        "seasons": [
+          "1903/04",
+          "1933/34",
+          "1955/56",
+          "1968/69",
+          "2010/11",
+          "2018/19",
+          "2022/23",
+          "2025/26"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الإنجليزية",
+        "count": 9,
+        "seasons": [
+          "1969/70",
+          "1975/76",
+          "2013/14",
+          "2015/16",
+          "2017/18",
+          "2018/19",
+          "2019/20",
+          "2020/21",
+          "2025/26"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرع الخيرية / درع المجتمع",
+        "count": 7,
+        "seasons": [
+          "1937",
+          "1968",
+          "1972",
+          "2012",
+          "2018",
+          "2019",
+          "2024"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري المستوى الثاني بمسمياته التاريخية",
+        "count": 7,
+        "seasons": [
+          "1898/99",
+          "1902/03",
+          "1909/10",
+          "1927/28",
+          "1946/47",
+          "1965/66",
+          "2001/02"
+        ],
+        "noteAr": "هذه ألقاب الدرجة الثانية، وليست ألقابا إضافية في الدرجة الأولى.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "ملحق الصعود من المستوى الثالث",
+        "count": 1,
+        "seasons": [
+          "1998/99"
+        ],
+        "noteAr": "فوز بملحق الصعود، وليس إحراز لقب دوري المستوى الثالث؛ يفصل بصريا عن ألقاب الدوري والكؤوس.",
+        "sourceIds": [
+          "honors"
+        ]
+      }
+    ],
+    "noteAr": "تعتمد القائمة كل صف فوز في قسم الرجال الرسمي، لا مجموع الألقاب الكبرى فقط. لا يضاف نهائي كأس الأعضاء الكاملة 1986 لأنه وصافة."
+  },
+  "topScorers": {
+    "scopeAr": "أهداف الفريق الأول في كل المسابقات الرسمية وفق أرقام النادي؛ أرقام المعتزلين من سجل النادي، ورصيد هالاند تحقق مجددا بمصدر الموسم الحالي.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "سيرخيو أغويرو",
+        "nameEn": "Sergio Aguero",
+        "goals": 260,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "إريك بروك",
+        "nameEn": "Eric Brook",
+        "goals": 177,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "إيرلينغ هالاند",
+        "nameEn": "Erling Haaland",
+        "goals": 176,
+        "sourceIds": [
+          "haaland-nov",
+          "season-current",
+          "haaland-base"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "تومي جونسون",
+        "nameEn": "Tommy Johnson",
+        "goals": 166,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "كولين بيل",
+        "nameEn": "Colin Bell",
+        "goals": 153,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "بيلي ميريديث",
+        "nameEn": "Billy Meredith",
+        "goals": 152,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "جو هايز",
+        "nameEn": "Joe Hayes",
+        "goals": 152,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "فرانسيس لي",
+        "nameEn": "Francis Lee",
+        "goals": 148,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "تومي برويل",
+        "nameEn": "Tommy Browell",
+        "goals": 139,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "بيلي غيليسبي",
+        "nameEn": "Billy Gillespie",
+        "goals": 132,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "فريد تيلسون",
+        "nameEn": "Fred Tilson",
+        "goals": 132,
+        "sourceIds": [
+          "scorers-historical"
+        ]
+      }
+    ],
+    "noteAr": "11 اسما للحفاظ على التعادل في المركز العاشر عند 132 هدفا، وتعادل ميريديث وهايز في السادس. هالاند 176 من مقال النادي المعاد نشره في 9 نوفمبر، وأكده ثبات رصيده الموسمي عند 14 في إحصاء FBref بعد فولهام؛ لا تستخدم رقمه القديم في مقال المئة هدف."
+  },
+  "mostDecorated": {
+    "scopeAr": "ألقاب اللاعب مع مانشستر سيتي فقط، بما فيها درع المجتمع كما يحتسبها النادي.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "فيل فودين",
+        "nameEn": "Phil Foden",
+        "titles": 20,
+        "sourceIds": [
+          "haaland-base"
+        ]
+      },
+      {
+        "nameAr": "برناردو سيلفا",
+        "nameEn": "Bernardo Silva",
+        "titles": 20,
+        "sourceIds": [
+          "haaland-base"
+        ]
+      },
+      {
+        "nameAr": "جون ستونز",
+        "nameEn": "John Stones",
+        "titles": 20,
+        "sourceIds": [
+          "haaland-base"
+        ]
+      }
+    ],
+    "noteAr": "تعادل ثلاثي مثبت في مقال النادي بتاريخ 22 يوليو 2026: 6 دوري، 5 كأس رابطة، 3 كأس إنجلترا، 3 دروع، ودوري أبطال وسوبر أوروبي وكأس عالم للأندية. خسر سيتي درع 2026، ولا يظهر لقب أحدث في سجل الألقاب."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-21",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "homeTeamAr": "مانشستر سيتي",
+    "awayTeamAr": "فولهام",
+    "homeScore": 1,
+    "awayScore": 1,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "نتيجة مكتملة، إيليوت أندرسون سجل هدف سيتي، فلا تضاف أهداف لهالاند من هدفه الملغى.",
+    "sourceIds": [
+      "result",
+      "season-current"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس إنجلترا",
+    "season": "2025/26",
+    "wonOn": "2026-05-16",
+    "noteAr": "الفوز 1-0 على تشيلسي. خسر درع المجتمع اللاحق في أغسطس، لذلك لا ينقل أحدث لقب إلى تلك المباراة.",
+    "sourceIds": [
+      "latest-title",
+      "honors",
+      "shield-loss"
+    ]
+  }
+}

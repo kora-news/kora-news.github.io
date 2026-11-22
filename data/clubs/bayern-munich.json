@@ -1,0 +1,444 @@
+{
+  "id": "bayern-munich",
+  "nameAr": "بايرن ميونخ",
+  "nameEn": "Bayern Munich",
+  "leagueAr": "ألمانيا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ الألقاب الرسمية الوطنية والدولية، مع فصل البطولات الإقليمية والتجريبية التاريخية.",
+  "history": {
+    "textAr": "تأسس بايرن ميونخ في 27 فبراير 1900 في مقهى جيزيلا بميونخ، وكان فرانتس جون أول رئيس له. أحرز أول بطولة لألمانيا عام 1932، ثم صعد إلى البوندسليجا عام 1965. وتحوّل إلى قوة أوروبية مع جيل السبعينيات، الذي فاز بكأس أوروبا ثلاث مرات متتالية بين 1974 و 1976. يجمع سجله بين هذا الإرث وثلاثيتي الدوري والكأس ودوري الأبطال في 2013 و 2020.",
+    "sourceIds": [
+      "fcb-history",
+      "fcb-honors"
+    ]
+  },
+  "honors": {
+    "scopeAr": "الألقاب الوطنية والدولية الرسمية. إجمالي بطولة ألمانيا يضم لقب 1932 السابق للبوندسليجا. استُبعد سوبر 1983 غير الرسمي، وأُدرج لقب جنوب ألمانيا منفصلاً.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "competitionAr": "بطولة ألمانيا / البوندسليجا",
+        "count": 35,
+        "seasons": [],
+        "noteAr": "34 لقباً في عصر البوندسليجا، إضافة إلى بطولة ألمانيا 1932.",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس ألمانيا",
+        "count": 21,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الألماني",
+        "count": 12,
+        "seasons": [
+          "1987",
+          "1990",
+          "2010",
+          "2012",
+          "2016",
+          "2017",
+          "2018",
+          "2020",
+          "2021",
+          "2022",
+          "2025",
+          "2026"
+        ],
+        "noteAr": "صفحة النادي تعرض 13 لأنها تضيف نسخة 1983 غير الرسمية؛ العدد هنا للنسخ الرسمية فقط.",
+        "sourceIds": [
+          "fcb-honors",
+          "rsssf-supercup"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الألمانية",
+        "count": 6,
+        "seasons": [
+          "1997",
+          "1998",
+          "1999",
+          "2000",
+          "2004",
+          "2007"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس أوروبا / دوري أبطال أوروبا",
+        "count": 6,
+        "seasons": [
+          "1974",
+          "1975",
+          "1976",
+          "2001",
+          "2013",
+          "2020"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الأوروبي",
+        "count": 1,
+        "seasons": [
+          "1996"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1967"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنتركونتيننتال",
+        "count": 2,
+        "seasons": [
+          "1976",
+          "2001"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 2,
+        "seasons": [
+          "2013",
+          "2020"
+        ],
+        "noteAr": "نسخة 2020 أقيمت في فبراير 2021.",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الأوروبي",
+        "count": 2,
+        "seasons": [
+          "2013",
+          "2020"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "fcb-honors"
+        ]
+      },
+      {
+        "competitionAr": "بطولة جنوب ألمانيا",
+        "count": 2,
+        "seasons": [
+          "1926",
+          "1928"
+        ],
+        "noteAr": "بطولة إقليمية تاريخية، لا تُجمع مع البطولات الوطنية في إجمالي واحد دون توضيح.",
+        "sourceIds": [
+          "fcb-regional"
+        ]
+      }
+    ],
+    "noteAr": "اكتملت مسابقات قائمة ألقاب النادي الوطنية والدولية، لكن لم تكتمل مراجعة جميع ألقاب ميونخ وبافاريا والدوريات الإقليمية التاريخية. لذلك لا يُقدَّم هذا القسم بوصفه حصراً لكل لقب إقليمي منذ التأسيس."
+  },
+  "topScorers": {
+    "scopeAr": "قائمة قاعدة Transfermarkt المفتوحة وقت الفحص، وليست قائمة موحدة ومعتمدة من النادي. الأرقام التاريخية تختلف باختلاف تغطية المسابقات.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "جيرد مولر",
+        "nameEn": "Gerd Müller",
+        "goals": 570,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "روبرت ليفاندوفسكي",
+        "nameEn": "Robert Lewandowski",
+        "goals": 344,
+        "sourceIds": [
+          "fcb-tm-scorers",
+          "fcb-muller"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "توماس مولر",
+        "nameEn": "Thomas Müller",
+        "goals": 250,
+        "sourceIds": [
+          "fcb-tm-scorers",
+          "fcb-muller"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "راينر أولهاوزر",
+        "nameEn": "Rainer Ohlhauser",
+        "goals": 229,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "كارل هاينتس رومينيجه",
+        "nameEn": "Karl-Heinz Rummenigge",
+        "goals": 217,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "هاري كين",
+        "nameEn": "Harry Kane",
+        "goals": 156,
+        "sourceIds": [
+          "fcb-tm-scorers",
+          "kane-bundesliga"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "رولاند فولفارت",
+        "nameEn": "Roland Wohlfarth",
+        "goals": 156,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "ديتر هونيس",
+        "nameEn": "Dieter Hoeneß",
+        "goals": 145,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "آريين روبن",
+        "nameEn": "Arjen Robben",
+        "goals": 144,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "ديتر بريننجر",
+        "nameEn": "Dieter Brenninger",
+        "goals": 142,
+        "sourceIds": [
+          "fcb-tm-scorers"
+        ]
+      }
+    ],
+    "noteAr": "قائمة بحثية ذات خلاف جوهري، وليست ترتيبًا رسميًا محسومًا: النادي يذكر 566 هدفاً لجيرد مولر مقابل 570 في Transfermarkt و 563 في Worldfootball. ويذكر Worldfootball أولهاوزر 215، وفولفارت 155، وبريننجر 132، مقابل 229 و 156 و 142 في صفحة Transfermarkt المفتوحة. وبذلك يتغير صاحب المركز العاشر بين بريننجر وإيلبر (139). كين وفولفارت متعادلان في المركز السادس بحسب Transfermarkt؛ مصدر البوندسليجا يؤيد رصيد كين 156 حتى 9 نوفمبر، ولم يسجل أمام كولن في أحدث مباراة. حُفظت أرقام كل منهج منفصلة ولم تُخلط لإنتاج ترتيب جديد."
+  },
+  "mostDecorated": {
+    "scopeAr": "ألقاب الفريق الأول الرسمية مع بايرن فقط، دون المنتخب أو شالكه أو أي ناد آخر.",
+    "asOf": "2026-11-22",
+    "status": "partial",
+    "items": [
+      {
+        "nameAr": "مانويل نوير",
+        "nameEn": "Manuel Neuer",
+        "titles": 34,
+        "sourceIds": [
+          "neuer-dfb"
+        ]
+      },
+      {
+        "nameAr": "توماس مولر",
+        "nameEn": "Thomas Müller",
+        "titles": 33,
+        "sourceIds": [
+          "fcb-muller"
+        ]
+      }
+    ],
+    "noteAr": "رصيد نوير 34 محسوب من سجل الاتحاد الألماني: 13 دوري + 6 كأس مع بايرن بعد استبعاد كأس 2011 مع شالكه + 9 سوبر ألماني + 2 دوري أبطال + 2 سوبر أوروبي + 2 مونديال أندية. سجل النادي لتوماس مولر يثبت 33. صفحة نوير في النادي غير متسقة داخلياً: نصها يذكر كأس 2026، لكن القائمة التفصيلية تحذفه وتحذف سوبر 2022؛ لذلك قُدّم سجل الاتحاد. هذه مقارنة مرشحين موثقة، ولم يُعثر على جدول رسمي شامل يحسم ترتيب كل لاعبي النادي وتعادلاته."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-20",
+    "competitionAr": "الدوري الألماني",
+    "homeTeamAr": "بايرن ميونخ",
+    "awayTeamAr": "كولن",
+    "homeScore": 1,
+    "awayScore": 1,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر مباراة مكتملة عُثر عليها حتى وقت الفحص؛ هذه لقطة مؤرخة وليست خدمة نتائج مباشرة.",
+    "sourceIds": [
+      "bundesliga-md10"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس السوبر الألماني «فرانتس بيكنباور»",
+    "season": "2026",
+    "wonOn": "2026-08-22",
+    "noteAr": "فاز على بوروسيا دورتموند 2-1. أحدث لقب رسمي في سجل النادي المفتوح وقت الفحص.",
+    "sourceIds": [
+      "dfb-super2026",
+      "fcb-honors"
+    ]
+  },
+  "sources": [
+    {
+      "id": "fcb-history",
+      "title": "Milestones in Bayern history",
+      "url": "https://fcbayern.com/en/club/history/mile-stones/milestones-in-bayern-s-history",
+      "publisher": "FC Bayern",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "fcb-honors",
+      "title": "All Honours",
+      "url": "https://fcbayern.com/en/club/honours",
+      "publisher": "FC Bayern",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "المحتوى المفتوح أحدث من مقتطف البحث: 35 دوري و 21 كأس و 13 سوبر شاملاً 1983 غير الرسمي."
+    },
+    {
+      "id": "rsssf-supercup",
+      "title": "Germany: Super/League Cup Finals",
+      "url": "https://www.rsssf.org/tablesd/duitsupcuphist.html",
+      "publisher": "RSSSF",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يفصل النسخ غير الرسمية؛ بايرن 12 سوبر رسمي ودورتموند 6 حتى 2026."
+    },
+    {
+      "id": "fcb-regional",
+      "title": "German Championship 1932: Winners for first time",
+      "url": "https://fcbayern.com/en/news/2022/06/90-years-ago-on-12-june-1932-fcb-champions-for-first-time",
+      "publisher": "FC Bayern",
+      "kind": "official",
+      "publishedOn": "2022-06-12",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت بطولتي جنوب ألمانيا 1926 و 1928."
+    },
+    {
+      "id": "fcb-tm-scorers",
+      "title": "FC Bayern Munich: Record goal scorers",
+      "url": "https://www.transfermarkt.com/fc-bayern-munchen/toptorschuetzen/verein/27",
+      "publisher": "Transfermarkt",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "قرئت القائمة الفعلية لا المقتطف القديم. خلافات التغطية موضحة في قسم الهدافين."
+    },
+    {
+      "id": "fcb-wf-scorers",
+      "title": "Bayern all-time scorers",
+      "url": "https://www.weltfussball.de/teams/te209/bayern-muenchen/historie-ewige-torjaeger/",
+      "publisher": "Weltfussball / Worldfootball",
+      "kind": "statistical",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "مصدر مقارنة يختلف في تغطية المسابقات التاريخية."
+    },
+    {
+      "id": "fcb-muller",
+      "title": "Thomas Müller greatest records at Bayern",
+      "url": "https://fcbayern.com/en/news/2025/05/thomas-muller-s-greatest-records-at-bayern",
+      "publisher": "FC Bayern",
+      "kind": "official",
+      "publishedOn": "2025-07-06",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "33 لقباً مع النادي؛ 250 هدفاً؛ جيرد مولر 566 وليفاندوفسكي 344."
+    },
+    {
+      "id": "kane-bundesliga",
+      "title": "Harry Kane Bayern career in numbers",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/harry-kane-england-bayern-munich-bundesliga-career-in-numbers-25080",
+      "publisher": "Bundesliga",
+      "kind": "official",
+      "publishedOn": "2026-11-05",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "الأرقام مؤرخة في النص حتى 9 نوفمبر 2026: 156 هدفاً في كل المسابقات."
+    },
+    {
+      "id": "neuer-dfb",
+      "title": "Manuel Neuer player profile",
+      "url": "https://datencenter.dfb.de/personen/manuel-neuer/spieler",
+      "publisher": "DFB",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "استُخرج رصيد ألقاب بايرن فقط من قائمة المسابقات، واستُبعد كأس شالكه 2011."
+    },
+    {
+      "id": "neuer-fcb",
+      "title": "Manuel Neuer player profile",
+      "url": "https://fcbayern.com/en/teams/first-team/manuel-neuer",
+      "publisher": "FC Bayern",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "فجوة داخلية بين النص والقائمة: كأس 2026 وسوبر 2022 غير واردين في القائمة؛ لا يُعتمد مجموع القائمة."
+    },
+    {
+      "id": "bundesliga-md10",
+      "title": "Bundesliga Matchday 10 teams",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/team-news-line-ups-2026-27-bayern-dortmund-fantasy-20707",
+      "publisher": "Bundesliga",
+      "kind": "official",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "dfb-super2026",
+      "title": "Dortmund 1-2 Bayern, Supercup final 2026",
+      "url": "https://datencenter.dfb.de/datencenter/franz-beckenbauer-supercup/2026/finale/borussia-dortmund-fc-bayern-muenchen-2412838",
+      "publisher": "DFB",
+      "kind": "official",
+      "publishedOn": "2026-08-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [
+    "حسم قائمة موحدة للهدافين العشرة من سجل النادي، خصوصاً تغطية مباريات ما قبل البوندسليجا والمسابقات التاريخية.",
+    "إكمال حصر البطولات المحلية والإقليمية التاريخية دون خلطها بالبطولات الوطنية.",
+    "توثيق جدول شامل لترتيب الأكثر تتويجاً؛ رصيد نوير ومولر موثق، لكن شمول ترتيب جميع اللاعبين لم يُحسم."
+  ]
+}

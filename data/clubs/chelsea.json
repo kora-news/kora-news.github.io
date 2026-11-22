@@ -1,0 +1,417 @@
+{
+  "id": "chelsea",
+  "nameAr": "تشيلسي",
+  "nameEn": "Chelsea",
+  "leagueAr": "إنجلترا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ لا تشمل البيانات فرق السيدات أو الشباب أو المباريات الودية.",
+  "sources": [
+    {
+      "id": "history",
+      "title": "Founders Day: The Birth of the Blues",
+      "url": "https://www.chelseafc.com/en/news/article/founders-day-the-birth-of-the-blues",
+      "publisher": "Chelsea",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "historical-honors",
+      "title": "Chelsea Founders Day 117 years",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-founders--day--117-years-on--we-really-have-won-it-all-",
+      "publisher": "Chelsea",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "للتاريخ والدرجة الثانية وكأس الأعضاء الكاملة؛ المصدر تاريخي ولا يستخدم منفردا للألقاب الحديثة."
+    },
+    {
+      "id": "honors",
+      "title": "Chelsea records and statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "جدول يضم البطولات الكبرى والدرجة الثانية والدرع وكأس الأعضاء الكاملة ويذكر أحدث لقب."
+    },
+    {
+      "id": "recent-honors",
+      "title": "Chelsea trophy history",
+      "url": "https://readchelsea.com/chelsea-trophies-honours-history/",
+      "publisher": "Read Chelsea",
+      "kind": "specialist-media",
+      "publishedOn": "2026-09-01",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأييد مؤرخ في سبتمبر 2026 للمجاميع الحديثة؛ يفصل الألقاب الكبرى عن الدرع وكأس الأعضاء."
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers",
+      "publisher": "Chelsea",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "قائمة النادي الكاملة من عشرين اسما، قُرئت أول عشرة منها؛ تاريخ النشر غير ظاهر."
+    },
+    {
+      "id": "terry",
+      "title": "John Terry Academy consultancy role",
+      "url": "https://www.chelseafc.com/en/news/article/john-terry-to-begin-academy-coaching-consultancy-role",
+      "publisher": "Chelsea",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يحصر حصيلة تيري مع تشيلسي في 17 لقبا."
+    },
+    {
+      "id": "terry-leader",
+      "title": "Team of 120 defenders",
+      "url": "https://www.chelseafc.com/en/news/article/team-of-120-the-shortlisted-defenders",
+      "publisher": "Chelsea",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يؤكد صدارة تيري لحصيلة الميداليات؛ يذكر 15 لقبا كبيرا، لا إجمالي 17 الأوسع."
+    },
+    {
+      "id": "result",
+      "title": "Chelsea 1-4 Leeds",
+      "url": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
+      "publisher": "BBC Sport",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "world-final",
+      "title": "Chelsea PSG Club World Cup final",
+      "url": "https://www.fifa.com/en/match-centre/match/10005/289175/289190/400019210",
+      "publisher": "FIFA",
+      "kind": "official",
+      "publishedOn": "2025-07-13",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [],
+  "history": {
+    "textAr": "تأسس تشيلسي في 10 مارس 1905 ليلعب في ستامفورد بريدج. جاء أول لقب كبير بالفوز بالدوري موسم 1954/55، ثم توالت بطولات الكؤوس محليا وأوروبيا. وأضاف النادي دوري أبطال أوروبا في 2012 و 2021، ثم أكمل مجموعة مسابقات الاتحاد الأوروبي الكبرى بلقب دوري المؤتمر في 2025 قبل الفوز بكأس العالم للأندية في العام نفسه.",
+    "sourceIds": [
+      "history",
+      "historical-honors",
+      "honors"
+    ]
+  },
+  "honors": {
+    "scopeAr": "بطولات الفريق الأول المحلية والقارية والعالمية، مع الدرجة الثانية والدرع وكأس الأعضاء الكاملة؛ لا تشمل بطولات السيدات والشباب أو الوديات.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الأولى / الممتاز",
+        "count": 6,
+        "seasons": [
+          "1954/55",
+          "2004/05",
+          "2005/06",
+          "2009/10",
+          "2014/15",
+          "2016/17"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الثانية",
+        "count": 2,
+        "seasons": [
+          "1983/84",
+          "1988/89"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الإنجليزي",
+        "count": 8,
+        "seasons": [
+          "1970",
+          "1997",
+          "2000",
+          "2007",
+          "2009",
+          "2010",
+          "2012",
+          "2018"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الإنجليزية",
+        "count": 5,
+        "seasons": [
+          "1965",
+          "1998",
+          "2005",
+          "2007",
+          "2015"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرع الخيرية / درع المجتمع",
+        "count": 4,
+        "seasons": [
+          "1955",
+          "2000",
+          "2005",
+          "2009"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الأعضاء الكاملة",
+        "count": 2,
+        "seasons": [
+          "1986",
+          "1990"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري أبطال أوروبا",
+        "count": 2,
+        "seasons": [
+          "2012",
+          "2021"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الأوروبي",
+        "count": 2,
+        "seasons": [
+          "2013",
+          "2019"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري المؤتمر الأوروبي",
+        "count": 1,
+        "seasons": [
+          "2025"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 2,
+        "seasons": [
+          "1971",
+          "1998"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "السوبر الأوروبي",
+        "count": 2,
+        "seasons": [
+          "1998",
+          "2021"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 2,
+        "seasons": [
+          "2021",
+          "2025"
+        ],
+        "noteAr": "نسخة 2021 لكأس العالم للأندية أُقيمت في فبراير 2022.",
+        "sourceIds": [
+          "honors"
+        ]
+      }
+    ],
+    "noteAr": "تختلف المجاميع المنشورة بحسب إدراج الدرع وكأس الأعضاء الكاملة والدرجة الثانية. استُخدم جدول تفصيلي بدلا من رقم دعائي واحد؛ المصدر المتخصص المحدث في سبتمبر 2026 يؤيد الألقاب الكبرى."
+  },
+  "topScorers": {
+    "scopeAr": "أهداف الفريق الأول في المسابقات التنافسية بحسب طريقة المصدر الموضحة أدناه.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "فرانك لامبارد",
+        "nameEn": "Frank Lampard",
+        "goals": 211,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "بوبي تامبلينج",
+        "nameEn": "Bobby Tambling",
+        "goals": 202,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "كيري ديكسون",
+        "nameEn": "Kerry Dixon",
+        "goals": 193,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "ديدييه دروجبا",
+        "nameEn": "Didier Drogba",
+        "goals": 164,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "روي بنتلي",
+        "nameEn": "Roy Bentley",
+        "goals": 150,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "بيتر أوسجود",
+        "nameEn": "Peter Osgood",
+        "goals": 150,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "جيمي جريفز",
+        "nameEn": "Jimmy Greaves",
+        "goals": 132,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "جورج ميلز",
+        "nameEn": "George Mills",
+        "goals": 125,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "إيدين هازارد",
+        "nameEn": "Eden Hazard",
+        "goals": 110,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "جورج هيلسدون",
+        "nameEn": "George Hilsdon",
+        "goals": 108,
+        "sourceIds": [
+          "scorers"
+        ]
+      }
+    ],
+    "noteAr": "أرقام صفحة النادي التي قُرئت وقت الفحص، ولا يظهر فيها تاريخ نشر. التعادل عند 150 هدفا محفوظ. ركلات الترجيح لا تدخل في عدد الأهداف؛ يوضح المصدر تحديدا أن ركلة دروجبا الحاسمة في نهائي 2012 لا تضاف إلى حصيلته."
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية مع تشيلسي فقط؛ إجمالي أوسع من الألقاب الكبرى وحدها.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "جون تيري",
+        "nameEn": "John Terry",
+        "titles": 17,
+        "sourceIds": [
+          "terry",
+          "terry-leader"
+        ]
+      }
+    ],
+    "noteAr": "النادي يذكر 17 لقبا في خبر عمله بالأكاديمية، ويصفه في قائمة مدافعي 120 عاما بصاحب حصيلة الميداليات الأعلى. رقم 15 المتداول في مواد النادي الأخرى يخص البطولات الكبرى وحدها؛ لا تخلط المقياسين."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-21",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "homeTeamAr": "تشيلسي",
+    "awayTeamAr": "ليدز يونايتد",
+    "homeScore": 1,
+    "awayScore": 4,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر نتيجة مكتملة عُثر عليها وقت الفحص؛ ليست نتيجة مباشرة. لقطة مؤرخة وليست خدمة تحديث حي.",
+    "sourceIds": [
+      "result"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس العالم للأندية",
+    "season": "2025",
+    "wonOn": "2025-07-13",
+    "noteAr": "هزم باريس سان جيرمان 3-0؛ هذه نسخة 2025 الموسعة، وليست نسخة 2021 المقامة في 2022.",
+    "sourceIds": [
+      "honors",
+      "recent-honors",
+      "world-final"
+    ]
+  }
+}

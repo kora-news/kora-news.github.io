@@ -1,0 +1,441 @@
+{
+  "id": "manchester-united",
+  "nameAr": "مانشستر يونايتد",
+  "nameEn": "Manchester United",
+  "leagueAr": "إنجلترا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ لا تشمل البيانات فرق السيدات أو الشباب أو المباريات الودية.",
+  "sources": [
+    {
+      "id": "history",
+      "title": "History",
+      "url": "https://ir.manutd.com/company-information/history",
+      "publisher": "Manchester United",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "استُخدمت للتأسيس وتغيير الاسم وميونيخ وكأس أوروبا فقط؛ مجاميع الكؤوس داخل هذه الصفحة قديمة ولم تستخدم."
+    },
+    {
+      "id": "honors",
+      "title": "Trophy Room",
+      "url": "https://www.manutd.com/en/club/history/trophy-room",
+      "publisher": "Manchester United",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "scorers",
+      "title": "Manchester United all-time leading goalscorers",
+      "url": "https://www.unitedinfocus.com/records/manchester-uniteds-all-time-leading-goalscorers/",
+      "publisher": "United in Focus",
+      "kind": "specialist-media",
+      "publishedOn": "2024-12-01",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "records",
+      "title": "Manchester United records and statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._records_and_statistics",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "جدول الأهداف التنافسية يؤيد الأسماء والأرقام العشرة؛ يذكر أيضا كأس مانشستر الإقليمي وآخر لقب."
+    },
+    {
+      "id": "giggs",
+      "title": "The career of Ryan Giggs",
+      "url": "https://www.espn.co.uk/football/story/_/id/37340185/the-career-ryan-giggs",
+      "publisher": "ESPN",
+      "kind": "sports-media",
+      "publishedOn": "2014-05-29",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "giggs-one-club",
+      "title": "Ryan Giggs",
+      "url": "https://www.laureus.com/world-sports-academy/members/ryan-giggs",
+      "publisher": "Laureus",
+      "kind": "sports-body",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يؤكد أنه لعب للنادي فقط وأنه الأكثر تتويجا معه. تفصيل البطولات به لا يتفق تماماً مع مصادر أخرى، فلم يُنقل التفصيل."
+    },
+    {
+      "id": "result",
+      "title": "Manchester United 4-4 Aston Villa",
+      "url": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
+      "publisher": "BBC Sport",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-08",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "fixtures",
+      "title": "Premier League November 2026 fixtures and results",
+      "url": "https://www.footballwebpages.co.uk/league-two/premier-league/fixtures-results",
+      "publisher": "Football Web Pages",
+      "kind": "statistics",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "المحتوى المعروض يخص الدوري الممتاز رغم المسار غير المعتاد. يؤيد نتيجة 8 نوفمبر وأن مواجهة ليفربول 22 نوفمبر لم تكن مكتملة وقت الفحص."
+    },
+    {
+      "id": "fa-final",
+      "title": "Manchester United win FA Cup final",
+      "url": "https://www.thefa.com/news/2024/may/25/manchester-united-manchester-city-fa-cup-final-20240525",
+      "publisher": "The FA",
+      "kind": "official",
+      "publishedOn": "2024-05-25",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [
+    "تدقيق النطاق الدقيق لكأس مانشستر الإقليمي قبل جمعه ضمن بطولات الفريق الأول.",
+    "قائمة الهدافين كاملة من عشرة أسماء، لكن تاريخ تحديث مصدرها الأساسي 1 ديسمبر 2024، لا نوفمبر 2026."
+  ],
+  "history": {
+    "textAr": "تأسس النادي عام 1878 باسم نيوتن هيث، واتخذ اسم مانشستر يونايتد عام 1902، ثم انتقل إلى أولد ترافورد عام 1910. وبعد كارثة ميونيخ عام 1958 أعاد مات بسبي بناء الفريق، حتى أصبح يونايتد أول ناد إنجليزي يفوز بكأس أوروبا عام 1968. وبدأ تعيين أليكس فيرجسون عام 1986 حقبة طويلة من النجاح المحلي والأوروبي.",
+    "sourceIds": [
+      "history"
+    ]
+  },
+  "honors": {
+    "scopeAr": "بطولات الفريق الأول المحلية والقارية والعالمية، مع ألقاب الدرجة الثانية. لا تُدمج كأس مانشستر الإقليمية قبل فصل مشاركات الفريق الأول عن الرديف.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الأولى / الممتاز",
+        "count": 20,
+        "seasons": [
+          "1908",
+          "1911",
+          "1952",
+          "1956",
+          "1957",
+          "1965",
+          "1967",
+          "1993",
+          "1994",
+          "1996",
+          "1997",
+          "1999",
+          "2000",
+          "2001",
+          "2003",
+          "2007",
+          "2008",
+          "2009",
+          "2011",
+          "2013"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الإنجليزي",
+        "count": 13,
+        "seasons": [
+          "1909",
+          "1948",
+          "1963",
+          "1977",
+          "1983",
+          "1985",
+          "1990",
+          "1994",
+          "1996",
+          "1999",
+          "2004",
+          "2016",
+          "2024"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الإنجليزية",
+        "count": 6,
+        "seasons": [
+          "1991/92",
+          "2005/06",
+          "2008/09",
+          "2009/10",
+          "2016/17",
+          "2022/23"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرع الخيرية / درع المجتمع",
+        "count": 21,
+        "seasons": [
+          "1908",
+          "1911",
+          "1952",
+          "1956",
+          "1957",
+          "1965",
+          "1967",
+          "1977",
+          "1983",
+          "1990",
+          "1993",
+          "1994",
+          "1996",
+          "1997",
+          "2003",
+          "2007",
+          "2008",
+          "2010",
+          "2011",
+          "2013",
+          "2016"
+        ],
+        "noteAr": "أربعة ألقاب مشتركة: 1965 و 1967 و 1977 و 1990؛ يحتسب كل منها لقبا في سجل النادي.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس أوروبا / دوري أبطال أوروبا",
+        "count": 3,
+        "seasons": [
+          "1968",
+          "1999",
+          "2008"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1991"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الأوروبي",
+        "count": 1,
+        "seasons": [
+          "2016/17"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "السوبر الأوروبي",
+        "count": 1,
+        "seasons": [
+          "1991"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 1,
+        "seasons": [
+          "2008"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنتركونتيننتال",
+        "count": 1,
+        "seasons": [
+          "1999"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الثانية",
+        "count": 2,
+        "seasons": [
+          "1936",
+          "1975"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      }
+    ],
+    "noteAr": "بطولات الفريق الأول الرئيسية مثبتة وفق خزينة النادي الرسمية. لم تُضم كأس مانشستر الإقليمية إلى الجدول لأن فصل مشاركات الفريق الأول عن الرديف في سجلها التاريخي لم يُحسم."
+  },
+  "topScorers": {
+    "scopeAr": "أهداف الفريق الأول في المسابقات التنافسية بحسب طريقة المصدر الموضحة أدناه.",
+    "asOf": "2024-12-01",
+    "complete": false,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "واين روني",
+        "nameEn": "Wayne Rooney",
+        "goals": 253,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "بوبي تشارلتون",
+        "nameEn": "Bobby Charlton",
+        "goals": 249,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "دينيس لو",
+        "nameEn": "Denis Law",
+        "goals": 237,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "جاك رولي",
+        "nameEn": "Jack Rowley",
+        "goals": 211,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "دينيس فيوليت",
+        "nameEn": "Dennis Viollet",
+        "goals": 179,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "جورج بست",
+        "nameEn": "George Best",
+        "goals": 179,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "جو سبينس",
+        "nameEn": "Joe Spence",
+        "goals": 168,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "رايان جيجز",
+        "nameEn": "Ryan Giggs",
+        "goals": 168,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "مارك هيوز",
+        "nameEn": "Mark Hughes",
+        "goals": 163,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "بول سكولز",
+        "nameEn": "Paul Scholes",
+        "goals": 155,
+        "sourceIds": [
+          "scorers"
+        ]
+      }
+    ],
+    "noteAr": "القائمة المنشورة محدثة في 1 ديسمبر 2024، وتؤيدها صفحة السجلات المقروءة وقت الفحص. التعادل في المركزين الخامس والسابع محفوظ. لم تُعد هذه قائمة رسمية مؤرخة بنوفمبر 2026."
+  },
+  "mostDecorated": {
+    "scopeAr": "ألقاب اللاعب مع مانشستر يونايتد فقط، بما يشمل الألقاب الرسمية خارج البطولات الكبرى.",
+    "asOf": "2014-05-29",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "رايان جيجز",
+        "nameEn": "Ryan Giggs",
+        "titles": 34,
+        "sourceIds": [
+          "giggs",
+          "giggs-one-club"
+        ]
+      }
+    ],
+    "noteAr": "ESPN يحصي 34 لقبا عند اعتزاله، ولاوريوس يؤكد أنه الأكثر تتويجا مع النادي وأن مسيرته على مستوى الأندية اقتصرت عليه. لم يُنقل تفصيل لاوريوس لأن عد كأس الرابطة والدرع فيه لا يتطابق مع بعض المصادر الأخرى."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-08",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "homeTeamAr": "مانشستر يونايتد",
+    "awayTeamAr": "أستون فيلا",
+    "homeScore": 4,
+    "awayScore": 4,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر نتيجة مكتملة عُثر عليها وقت الفحص؛ ليست نتيجة مباشرة. لقطة مؤرخة وليست خدمة تحديث حي.",
+    "sourceIds": [
+      "result",
+      "fixtures"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس الاتحاد الإنجليزي",
+    "season": "2023/24",
+    "wonOn": "2024-05-25",
+    "noteAr": "فاز على مانشستر سيتي 2-1. أحدث لقب مذكور في سجل النادي المقروء وقت الفحص.",
+    "sourceIds": [
+      "honors",
+      "records",
+      "fa-final"
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "id": "atletico-madrid",
+  "nameAr": "أتلتيكو مدريد",
+  "nameEn": "Atlético Madrid",
+  "leagueAr": "إسبانيا",
+  "checkedAt": "2026-11-22T18:05:00+02:00",
+  "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط",
+  "history": {
+    "textAr": "تأسس أتلتيكو مدريد في 26 أبريل 1903 باسم «أتلتيك كلوب دي مدريد» على يد مجموعة من الطلبة الباسك المقيمين في العاصمة، فرعًا لأتلتيك بلباو قبل استقلاله عنه. لُقب بالـ«كولتشونيروس» (صناع المراتب) بسبب ألوان قمصانه، وعاش حقبته الذهبية في الستينيات والسبعينيات متوجًا بكأس إنتركونتيننتال 1974، ثم قاده دييجو سيميوني منذ 2011 إلى حقبة جديدة شملت لقبي دوري وبطولتي دوري أوروبي.",
+    "sourceIds": [
+      "atm-123years",
+      "atm-intercontinental50"
+    ]
+  },
+  "honors": {
+    "scopeAr": "حصيلة البطولات الوطنية والدولية لدى رابطة الليجا، مع إدراج الإنترتوتو؛ التصنيف التاريخي الأوسع غير مكتمل.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "competitionAr": "الدوري الإسباني",
+        "count": 11,
+        "seasons": [
+          "1939-40",
+          "1940-41",
+          "1949-50",
+          "1950-51",
+          "1965-66",
+          "1969-70",
+          "1972-73",
+          "1976-77",
+          "1995-96",
+          "2013-14",
+          "2020-21"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "atm-123years",
+          "atm-laliga21"
+        ]
+      },
+      {
+        "competitionAr": "كأس الملك",
+        "count": 10,
+        "seasons": [
+          "1960",
+          "1961",
+          "1965",
+          "1972",
+          "1976",
+          "1985",
+          "1991",
+          "1992",
+          "1996",
+          "2013"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "atm-123years",
+          "laliga-atm-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الإسباني",
+        "count": 2,
+        "seasons": [
+          "1985",
+          "2014"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "atm-123years"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الأوروبي (كأس الاتحاد سابقًا)",
+        "count": 3,
+        "seasons": [
+          "2009-10",
+          "2011-12",
+          "2017-18"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "atm-123years"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الأوروبي",
+        "count": 3,
+        "seasons": [
+          "2010",
+          "2012",
+          "2018"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "atm-123years"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1961-62"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "atm-123years"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنتركونتيننتال",
+        "count": 1,
+        "seasons": [
+          "1974"
+        ],
+        "noteAr": "فاز بها بعد اعتذار بايرن ميونخ؛ أقيم النهائي عام 1975",
+        "sourceIds": [
+          "atm-intercontinental50"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنترتوتو",
+        "count": 1,
+        "seasons": [
+          "2007"
+        ],
+        "noteAr": "تدرجها رابطة الليجا ضمن 32 لقبًا رسميًا",
+        "sourceIds": [
+          "laliga-atm-honours"
+        ]
+      }
+    ],
+    "noteAr": "الجدول يعرض 32 لقبًا في حصيلة رابطة الليجا. توجد مسابقات تاريخية سابقة للسوبر وجوائز إقليمية لا تشملها هذه الحصيلة؛ لم يُحسم توحيد تصنيفها، فلا نقدم الجدول باعتباره حصرًا لكل كأس تاريخية."
+  },
+  "topScorers": {
+    "scopeAr": "قائمة مجمعة من المراجع الإحصائية والثانوية المذكورة لكل لاعب، وليست قائمة رسمية موحدة صادرة من النادي. رصيد لويس أراجونيس مختلف عليه بين المراجع.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "أنطوان جريزمان",
+        "nameEn": "Antoine Griezmann",
+        "goals": 212,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "tm-atm-scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "لويس أراجونيس",
+        "nameEn": "Luis Aragonés",
+        "goals": 172,
+        "sourceIds": [
+          "atm-scorers-fanapp"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "أدريان إسكوديرو",
+        "nameEn": "Adrián Escudero",
+        "goals": 169,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "باكو كامبوس",
+        "nameEn": "Paco Campos",
+        "goals": 158,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "خوسيه إيولوجيو جاراتي",
+        "nameEn": "José Eulogio Gárate",
+        "goals": 136,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "فرناندو توريس",
+        "nameEn": "Fernando Torres",
+        "goals": 129,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "خواكين بيرو",
+        "nameEn": "Joaquín Peiró",
+        "goals": 128,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "أديلاردو رودريجيز",
+        "nameEn": "Adelardo Rodríguez",
+        "goals": 112,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "خوليو إليسيجي",
+        "nameEn": "Julio Elícegui",
+        "goals": 110,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "إنريكي كويار",
+        "nameEn": "Enrique Collar",
+        "goals": 105,
+        "sourceIds": [
+          "atm-scorers-fanapp",
+          "espn-atm-scorers"
+        ]
+      }
+    ],
+    "noteAr": "جريزمان أنهى مسيرته مع النادي في 2026 (انتقل إلى أورلاندو سيتي) برصيد 212 هدفًا في 501 مباراة. بعض المراجع تحسب لويس أراجونيس 173 هدفًا بدلًا من 172"
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية التي فاز بها اللاعب مع هذا النادي فقط، وليس إجمالي بطولات مسيرته.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "أديلاردو رودريجيز",
+        "nameEn": "Adelardo Rodríguez",
+        "titles": 10,
+        "sourceIds": [
+          "atm-adelardo-legends",
+          "atm-patronato"
+        ]
+      }
+    ],
+    "noteAr": "حسب الموقع الرسمي: 3 دوري (1965-66 و 1969-70 و 1972-73) و 5 كؤوس (1960 و 1961 و 1965 و 1972 و 1976) وكأس كؤوس أوروبية (1962) وكأس إنتركونتيننتال (1974) في 17 موسمًا، ولا يزال الأكثر تتويجًا في تاريخ النادي حتى اليوم"
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-08",
+    "competitionAr": "الدوري الإسباني - الجولة 12",
+    "homeTeamAr": "أتلتيكو مدريد",
+    "awayTeamAr": "برشلونة",
+    "homeScore": 1,
+    "awayScore": 2,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "خسارة في الميتروبوليتانو (تقدم جوليانو سيميوني 10، ثنائية فيرمين لوبيز 45 و 66). يلعب الليلة ضد خيتافي خارج ملعبه في الجولة 13 بعد وقت الفحص، فآخر مباراة مكتملة وقت الفحص هي هذه",
+    "sourceIds": [
+      "bbc-atm-barca",
+      "fbref-atm"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "الدوري الإسباني",
+    "season": "2020-21",
+    "wonOn": "2021-05-22",
+    "noteAr": "لقب الدوري الحادي عشر، بعد الفوز على بلد الوليد بهدفين مقابل هدف في الجولة الأخيرة. يبقى آخر لقب في السجلات التي روجعت: حصيلة رابطة الليجا، وملخص موسم 2025/26 الذي يسجل وصافة كأس الملك دون لقب جديد، وصفحة نتائج وسجل حالية في نوفمبر 2026.",
+    "sourceIds": [
+      "atm-laliga21",
+      "ap-copa-final-2026",
+      "atm-123years",
+      "laliga-atm-honours",
+      "atm-as-current",
+      "atm-wiki-november"
+    ]
+  },
+  "sources": [
+    {
+      "id": "atm-123years",
+      "title": "123 años de pasión",
+      "url": "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion",
+      "publisher": "Club Atlético de Madrid (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-04-26",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "التأسيس 26 أبريل 1903 والقائمة الرسمية للألقاب"
+    },
+    {
+      "id": "atm-intercontinental50",
+      "title": "50 years since our Intercontinental Cup victory!",
+      "url": "https://en.atleticodemadrid.com/noticias/50-years-since-our-intercontinental-cup-victory",
+      "publisher": "Club Atlético de Madrid (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2025-04-10",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تفاصيل لقب الإنتركونتيننتال 1974 وتأكيد رقم أديلاردو القياسي"
+    },
+    {
+      "id": "atm-adelardo-legends",
+      "title": "Adelardo - Paseo de Leyendas",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/legends/adelardo",
+      "publisher": "Club Atlético de Madrid (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "عشرة ألقاب رقم قياسي في تاريخ النادي"
+    },
+    {
+      "id": "atm-patronato",
+      "title": "Patronato - Adelardo Rodríguez",
+      "url": "https://www.atleticodemadrid.com/atm/patronato",
+      "publisher": "Club Atlético de Madrid (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تفصيل ألقاب أديلاردو العشرة"
+    },
+    {
+      "id": "atm-laliga21",
+      "title": "Atleti win 2020/21 LaLiga title!",
+      "url": "https://en.atleticodemadrid.com/noticias/atleti-win-2020-21-laliga-title",
+      "publisher": "Club Atlético de Madrid (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2021-05-23",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تقرير حسم الدوري الحادي عشر في 2021، لا يكفي وحده لإثبات ترتيب الألقاب حتى 2026."
+    },
+    {
+      "id": "laliga-atm-honours",
+      "title": "When was the last time Atlético de Madrid won the Copa del Rey?",
+      "url": "https://www.laliga.com/en-GB/news/atletico-de-madrid-copa-del-rey-titles",
+      "publisher": "LALIGA",
+      "kind": "federation",
+      "publishedOn": "2026-04-19",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "32 لقبًا رسميًا باحتساب الإنترتوتو ومواسم كؤوس الملك العشرة"
+    },
+    {
+      "id": "atm-scorers-fanapp",
+      "title": "Atlético Madrid all-time top scorers",
+      "url": "https://atleticomadridfanapp.com/records/top-scorers",
+      "publisher": "Atlético Madrid Fan App",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "قائمة العشرة الأوائل من بيانات ويكيبيديا 2026 بالمباريات الرسمية"
+    },
+    {
+      "id": "tm-atm-scorers",
+      "title": "Atlético de Madrid - Record goal scorers",
+      "url": "https://www.transfermarkt.us/atletico-madrid/topTorschuetzen/verein/13",
+      "publisher": "Transfermarkt",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد رصيد جريزمان النهائي 212 هدفًا في 501 مباراة ورحيله إلى أورلاندو سيتي"
+    },
+    {
+      "id": "espn-atm-scorers",
+      "title": "¿Quiénes son los goleadores históricos de las potencias europeas?",
+      "url": "https://www.espn.com.ar/futbol/espana/nota/_/id/13082125/griezmann-goleadores-historicos-potencias-europeas/",
+      "publisher": "ESPN",
+      "kind": "media",
+      "publishedOn": "2024-01-18",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد ترتيب المراكز من الثاني إلى العاشر مع اختلاف طفيف في رقم أراجونيس (173)"
+    },
+    {
+      "id": "bbc-atm-barca",
+      "title": "Atletico Madrid 1-2 Barcelona: Fermin double",
+      "url": "https://www.bbc.com/sport/football/live/cm4g1jlw7vqlt",
+      "publisher": "BBC Sport",
+      "kind": "media",
+      "publishedOn": "2026-11-08",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "آخر مباراة مكتملة للنادي وقت الفحص"
+    },
+    {
+      "id": "fbref-atm",
+      "title": "2026-2027 Atlético Madrid Scores and Fixtures",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/matchlogs/c12/schedule/Atletico-Madrid-Scores-and-Fixtures-La-Liga",
+      "publisher": "FBref",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "جدول المباريات يؤكد أن مباراة خيتافي تلعب بعد وقت الفحص"
+    },
+    {
+      "id": "ap-copa-final-2026",
+      "title": "Sociedad wins Copa del Rey final by beating Atletico in penalty shootout",
+      "url": "https://apnews.com/article/real-sociedad-atletico-madrid-copa-del-rey-final-21a70cc7e1f59422b5cced7a1f2a6732",
+      "publisher": "Associated Press",
+      "kind": "media",
+      "publishedOn": "2026-04-18",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت خسارة نهائي كأس الملك 2026 فقط؛ ترتيب آخر الألقاب يستند إلى السجلات الأخرى أيضًا."
+    },
+    {
+      "id": "atm-as-current",
+      "title": "Atlético de Madrid: resultados y palmarés",
+      "url": "https://as.com/resultados/ficha/equipo/atletico/42/",
+      "publisher": "AS",
+      "kind": "media",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T18:05:00+02:00",
+      "noteAr": "صفحة حالية تعرض نتيجة برشلونة في نوفمبر 2026 وسجل الدوري الذي ينتهي بلقب 2020/21."
+    },
+    {
+      "id": "atm-wiki-november",
+      "title": "Club Atlético de Madrid",
+      "url": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_de_Madrid",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": "2026-11-17",
+      "checkedAt": "2026-11-22T18:05:00+02:00",
+      "noteAr": "يعرض الموسم 2025/26: رابع الدوري ووصيف الكأس ونصف نهائي دوري الأبطال، ويذكر بطولات تاريخية سابقة للسوبر وألقابًا إقليمية منفصلة."
+    }
+  ],
+  "unresolved": [
+    "رصيد لويس أراجونيس 172 هدفًا في مرجع و 173 في مراجع أخرى؛ المرتبة الثانية ثابتة في كل الأحوال",
+    "قائمة العشرة الأوائل تعتمد على مرجع مجمع من بيانات ويكيبيديا 2026 مع تأكيد جزئي من ESPN وTransfermarkt؛ لم يُعثر على صفحة نادي واحدة تعرض القائمة كاملة",
+    "توحيد تصنيف سابقات السوبر والجوائز الإقليمية القديمة خارج حصيلة 32 لقبًا لدى رابطة الليجا."
+  ]
+}

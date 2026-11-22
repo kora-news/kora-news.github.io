@@ -1,0 +1,536 @@
+{
+  "id": "real-madrid",
+  "nameAr": "ريال مدريد",
+  "nameEn": "Real Madrid",
+  "leagueAr": "إسبانيا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط",
+  "history": {
+    "textAr": "تأسس ريال مدريد في 6 مارس 1902 باسم «مدريد فوتبول كلوب»، ومنحه الملك ألفونسو الثالث عشر لقب «ريال» (الملكي) عام 1920. في عهد الرئيس سانتياجو برنابيو هيمن النادي على أوروبا بفوزه بأول خمس نسخ من كأس أوروبا تواليًا بين 1956 و 1960 بجيل دي ستيفانو وبوشكاش وجينتو، واختارته الفيفا عام 2000 أفضل نادٍ في القرن العشرين.",
+    "sourceIds": [
+      "rm-124years",
+      "rm-track-record"
+    ]
+  },
+  "honors": {
+    "scopeAr": "حسب سجل الألقاب الرسمي في موقع النادي؛ النادي يدمج كأس الإنتركونتيننتال (1960 و 1998 و 2002) وكأس العالم للأندية وكأس الإنتركونتيننتال الجديدة (2024) في خانة واحدة، والبطولات الإقليمية والقديمة مذكورة بشفافية",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "دوري أبطال أوروبا / كأس أوروبا",
+        "count": 15,
+        "seasons": [
+          "1955-56",
+          "1956-57",
+          "1957-58",
+          "1958-59",
+          "1959-60",
+          "1965-66",
+          "1997-98",
+          "1999-00",
+          "2001-02",
+          "2013-14",
+          "2015-16",
+          "2016-17",
+          "2017-18",
+          "2021-22",
+          "2023-24"
+        ],
+        "noteAr": "رقم قياسي في المسابقة",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية / الإنتركونتيننتال (عد النادي المدمج)",
+        "count": 9,
+        "seasons": [
+          "1960",
+          "1998",
+          "2002",
+          "2014",
+          "2016",
+          "2017",
+          "2018",
+          "2022",
+          "2024"
+        ],
+        "noteAr": "يجمع النادي ثلاث بطولات إنتركونتيننتال قديمة وخمس كؤوس عالم للأندية وكأس الإنتركونتيننتال الجديدة 2024؛ نسخة 2022 مدرجة في موقع النادي بعام 2023 لإقامتها في فبراير 2023",
+        "sourceIds": [
+          "rm-track-record",
+          "rm-chronology"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الأوروبي",
+        "count": 6,
+        "seasons": [
+          "2002",
+          "2014",
+          "2016",
+          "2017",
+          "2022",
+          "2024"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الأوروبي (الدوري الأوروبي سابقًا)",
+        "count": 2,
+        "seasons": [
+          "1984-85",
+          "1985-86"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الإسباني",
+        "count": 36,
+        "seasons": [
+          "1931-32",
+          "1932-33",
+          "1953-54",
+          "1954-55",
+          "1956-57",
+          "1957-58",
+          "1960-61",
+          "1961-62",
+          "1962-63",
+          "1963-64",
+          "1964-65",
+          "1966-67",
+          "1967-68",
+          "1968-69",
+          "1971-72",
+          "1974-75",
+          "1975-76",
+          "1977-78",
+          "1978-79",
+          "1979-80",
+          "1985-86",
+          "1986-87",
+          "1987-88",
+          "1988-89",
+          "1989-90",
+          "1994-95",
+          "1996-97",
+          "2000-01",
+          "2002-03",
+          "2006-07",
+          "2007-08",
+          "2011-12",
+          "2016-17",
+          "2019-20",
+          "2021-22",
+          "2023-24"
+        ],
+        "noteAr": "رقم قياسي في إسبانيا",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس الملك",
+        "count": 20,
+        "seasons": [
+          "1905",
+          "1906",
+          "1907",
+          "1908",
+          "1917",
+          "1933-34",
+          "1935-36",
+          "1945-46",
+          "1946-47",
+          "1961-62",
+          "1969-70",
+          "1973-74",
+          "1974-75",
+          "1979-80",
+          "1981-82",
+          "1988-89",
+          "1992-93",
+          "2010-11",
+          "2013-14",
+          "2022-23"
+        ],
+        "noteAr": "يشمل نسخ كأس إسبانيا الأولى قبل تسمية كأس الملك الحالية",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الإسباني",
+        "count": 13,
+        "seasons": [
+          "1988",
+          "1989",
+          "1990",
+          "1993",
+          "1997",
+          "2001",
+          "2003",
+          "2008",
+          "2012",
+          "2017",
+          "2020",
+          "2022",
+          "2024"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس الدوري الإسباني",
+        "count": 1,
+        "seasons": [
+          "1984-85"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس اللاتين",
+        "count": 2,
+        "seasons": [
+          "1955",
+          "1957"
+        ],
+        "noteAr": "بطولة أوروبية قديمة لم تعد تقام",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم الصغيرة",
+        "count": 2,
+        "seasons": [
+          "1952",
+          "1956"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "الكأس الإيبيروأمريكية",
+        "count": 1,
+        "seasons": [
+          "1994"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "البطولة الإقليمية لمدريد",
+        "count": 18,
+        "seasons": [],
+        "noteAr": "بطولة إقليمية تاريخية قبل انطلاق الدوري الوطني (1903-1931)",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      },
+      {
+        "competitionAr": "كؤوس مانكومونادو",
+        "count": 5,
+        "seasons": [
+          "1931-32",
+          "1932-33",
+          "1933-34",
+          "1934-35",
+          "1935-36"
+        ],
+        "noteAr": "بطولة إقليمية تاريخية لم تعد تقام",
+        "sourceIds": [
+          "rm-track-record"
+        ]
+      }
+    ],
+    "noteAr": "يضاف تكريم الفيفا «أفضل نادٍ في القرن العشرين» (2000) وهو جائزة لا بطولة. عد النادي لكؤوس العالم مدمج كما يعرضه موقعه الرسمي"
+  },
+  "topScorers": {
+    "scopeAr": "أهداف المباريات الرسمية بحسب المصادر المذكورة لكل لاعب. اختير لرونالدو عد النادي، وتظهر اختلافات المراجع بجوار هذا السجل.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "كريستيانو رونالدو",
+        "nameEn": "Cristiano Ronaldo",
+        "goals": 451,
+        "sourceIds": [
+          "rm-cr7-official",
+          "cr7-count-dispute"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "كريم بنزيما",
+        "nameEn": "Karim Benzema",
+        "goals": 354,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "راؤول جونزاليس",
+        "nameEn": "Raúl",
+        "goals": 323,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "ألفريدو دي ستيفانو",
+        "nameEn": "Alfredo Di Stéfano",
+        "goals": 308,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "سانتيانا",
+        "nameEn": "Santillana",
+        "goals": 290,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "فيرينتس بوشكاش",
+        "nameEn": "Ferenc Puskás",
+        "goals": 242,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "هوجو سانشيز",
+        "nameEn": "Hugo Sánchez",
+        "goals": 208,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "باكو خينتو",
+        "nameEn": "Paco Gento",
+        "goals": 183,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "بيري",
+        "nameEn": "Pirri",
+        "goals": 171,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "إيميليو بوتراجينيو",
+        "nameEn": "Emilio Butragueño",
+        "goals": 170,
+        "sourceIds": [
+          "rm-records-wiki"
+        ]
+      }
+    ],
+    "noteAr": "يعتمد الرقم 451 عد النادي المالك (ويوافقه الاتحاد الأوروبي وماركا) الذي ينسب لرونالدو هدف ركلة حرة ارتدت من ظهر بيبي أمام ريال سوسيداد في 18 سبتمبر 2010؛ رابطة الليجا وأوبتا ومعظم المراجع الإحصائية تنسب الهدف لبيبي فيكون الإجمالي 450. أرقام خينتو وبيري وبوتراجينيو تختلف بهدف أو هدفين بين المراجع (182/183 و 171/172 و 170/171). القائمة كلها بالمباريات الرسمية للفريق الأول فقط دون الوديات."
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية التي فاز بها اللاعب مع هذا النادي فقط، وليس إجمالي بطولات مسيرته.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "لوكا مودريتش",
+        "nameEn": "Luka Modrić",
+        "titles": 28,
+        "sourceIds": [
+          "rm-modric-28",
+          "rm-modric-legend"
+        ]
+      }
+    ],
+    "noteAr": "مودريتش صاحب الرقم القياسي بـ 28 لقبًا مع النادي حسب الموقع الرسمي: 6 دوري أبطال، 6 كؤوس عالم للأندية وإنتركونتيننتال، 5 سوبر أوروبي، 4 دوري، 2 كأس ملك، و 5 سوبر إسباني. أرقام اللاعبين الآخرين النشطين لم تُعرض هنا لعدم اكتمال تحديثها."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-21",
+    "competitionAr": "الدوري الإسباني - الجولة 13",
+    "homeTeamAr": "ريال مدريد",
+    "awayTeamAr": "سيلتا فيجو",
+    "homeScore": 2,
+    "awayScore": 1,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "فوز بالريمونتادا في البرنابيو: تأخر بهدف بابلو دوران (6) ثم سجل بيلينجهام (66) وكارلوس إسبي (85). المباراة التالية بعد وقت الفحص: ضد أيندهوفن في دوري الأبطال يوم 24 نوفمبر",
+    "sourceIds": [
+      "rm-celta-report",
+      "bbc-rm-celta"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "كأس الإنتركونتيننتال FIFA",
+    "season": "2024",
+    "wonOn": "2024-12-18",
+    "noteAr": "الفوز على باتشوكا المكسيكي في لوسيل. سجل النادي الحالي، الذي روجع في 22 نوفمبر، ينتهي في فئات الألقاب عند 2024 أو قبله: لقب العالم التاسع والسوبر الأوروبي السادس والسوبر الإسباني الثالث عشر، والدوري 2023/24، وكأس الملك 2022/23. لذلك تبقى الإنتركونتيننتال 2024 آخر بطولة مدرجة في السجل.",
+    "sourceIds": [
+      "rm-modric-28",
+      "rm-chronology",
+      "rm-track-record",
+      "fcb-supercup16"
+    ]
+  },
+  "sources": [
+    {
+      "id": "rm-124years",
+      "title": "124 years of legend",
+      "url": "https://www.realmadrid.com/en-US/news/club/latest-news/124-anos-de-leyenda-06-03-2026",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-03-06",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تاريخ التأسيس 6 مارس 1902 وملخص الألقاب"
+    },
+    {
+      "id": "rm-track-record",
+      "title": "Honours list - Real Madrid CF",
+      "url": "https://www.realmadrid.com/en-US/the-club/track-record/football",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "سجل الألقاب الرسمي كاملًا مع المواسم"
+    },
+    {
+      "id": "rm-chronology",
+      "title": "Cronología del primer equipo masculino",
+      "url": "https://www.realmadrid.com/es-ES/el-club/historia/futbol/primer-equipo-masculino/cronologia",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تسلسل ألقاب 2021-2030 بما فيها الإنتركونتيننتال 2024 في الدوحة أمام باتشوكا"
+    },
+    {
+      "id": "rm-modric-28",
+      "title": "Modrić, 28 trophies for Real Madrid",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/modric-18-12-2024",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2024-12-18",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد رقم مودريتش القياسي يوم الفوز بالإنتركونتيننتال"
+    },
+    {
+      "id": "rm-modric-legend",
+      "title": "Modrić - Legends",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/luka-modric",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "صفحة أساطير النادي: 28 لقبًا في 13 موسمًا، 597 مباراة"
+    },
+    {
+      "id": "fifa-modric-26",
+      "title": "26 Superstars: Luka Modric",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/luka-modric-quotes-records-highlights",
+      "publisher": "FIFA",
+      "kind": "federation",
+      "publishedOn": "2026-04-10",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "كارفاخال على بعد لقب واحد من مودريتش (27 مقابل 28)"
+    },
+    {
+      "id": "rm-records-wiki",
+      "title": "List of Real Madrid CF records and statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Real_Madrid_CF_records_and_statistics",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "قائمة الهدافين التاريخيين بالمباريات الرسمية"
+    },
+    {
+      "id": "rm-cr7-official",
+      "title": "Cristiano Ronaldo - History and honours",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro/",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "النادي يحسب 451 هدفًا في 438 مباراة رسمية"
+    },
+    {
+      "id": "cr7-count-dispute",
+      "title": "El gol de la discordia: ¿cuántos tantos hizo Cristiano Ronaldo en el Real Madrid, 450 ó 451?",
+      "url": "https://www.infobae.com/america/deportes/2018/07/11/el-gol-de-la-discordia-cuantos-tantos-hizo-cristiano-ronaldo-en-el-real-madrid-450-o-451/",
+      "publisher": "Infobae",
+      "kind": "media",
+      "publishedOn": "2018-07-11",
+      "checkedAt": "2026-11-22T17:55:00+02:00",
+      "noteAr": "شرح سبب الازدواجية: هدف ريال سوسيداد 18 سبتمبر 2010 منسوب لرونالدو من النادي واليويفا وماركا، ولبيبي من رابطة الليجا وأوبتا"
+    },
+    {
+      "id": "rm-celta-report",
+      "title": "Comeback and ninth consecutive victory",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-celta-j13-liga-21-11-2026",
+      "publisher": "Real Madrid CF (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تقرير مباراة سيلتا 2-1"
+    },
+    {
+      "id": "bbc-rm-celta",
+      "title": "Real Madrid 2-1 Celta Vigo: Carlos Espi scores late winner",
+      "url": "https://www.bbc.co.uk/sport/football/live/c6205wg000g8t",
+      "publisher": "BBC Sport",
+      "kind": "media",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد مستقل لنتيجة آخر مباراة"
+    },
+    {
+      "id": "fcb-supercup16",
+      "title": "FC Barcelona win their 16th Spanish Super Cup",
+      "url": "https://www.fcbarcelona.com/en/news/4432658/fc-barcelona-win-their-16th-spanish-super-cup",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-01-11",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تقرير خسارة ريال مدريد نهائي السوبر الإسباني 2026؛ لا يثبت وحده ترتيب جميع ألقاب النادي."
+    }
+  ],
+  "unresolved": [
+    "رصيد رونالدو 451 حسب عد النادي مقابل 450 حسب رابطة الليجا وأوبتا بسبب هدف 2010 المتنازع عليه مع بيبي؛ الرقمان معروضان والمختار هو عد النادي المالك",
+    "أرقام خينتو وبيري وبوتراجينيو تتذبذب بهدف أو هدفين بين المراجع"
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "id": "barcelona",
+  "nameAr": "برشلونة",
+  "nameEn": "Barcelona",
+  "leagueAr": "إسبانيا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط",
+  "history": {
+    "textAr": "أسس السويسري جوان جامبر نادي برشلونة في 29 نوفمبر 1899 مع مجموعة من الشباب الأجانب والمحليين، فحمل النادي منذ نشأته قيم الهوية الكتالونية والديموقراطية وتعدد الرياضات. توّج بأول كأس أوروبية له عام 1992 في ويمبلي مع «فريق الأحلام» بقيادة يوهان كرويف، ثم عاش أزهى عصوره مع جيل ميسي بثلاثيات 2009 و 2015، ويُعد أكثر أندية إسبانيا فوزًا بكأس الملك.",
+    "sourceIds": [
+      "fcb-history-1899",
+      "fcb-honours"
+    ]
+  },
+  "honors": {
+    "scopeAr": "حسب سجل الألقاب الرسمي في موقع النادي، وتشمل القائمة بطولات كتالونيا الإقليمية والتاريخية موضحة بشكل منفصل",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "competitionAr": "دوري أبطال أوروبا / كأس أوروبا",
+        "count": 5,
+        "seasons": [
+          "1991-92",
+          "2005-06",
+          "2008-09",
+          "2010-11",
+          "2014-15"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 3,
+        "seasons": [
+          "2009",
+          "2011",
+          "2015"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الأوروبي",
+        "count": 5,
+        "seasons": [
+          "1992-93",
+          "1997-98",
+          "2009-10",
+          "2011-12",
+          "2015-16"
+        ],
+        "noteAr": null,
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 4,
+        "seasons": [
+          "1978-79",
+          "1981-82",
+          "1988-89",
+          "1996-97"
+        ],
+        "noteAr": "بطولة أوروبية قديمة لم تعد تقام؛ رقم قياسي",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس المعارض الدولية",
+        "count": 3,
+        "seasons": [
+          "1957-58",
+          "1959-60",
+          "1965-66"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام؛ رقم قياسي",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر لكأس المعارض",
+        "count": 1,
+        "seasons": [
+          "1971-72"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس اللاتين",
+        "count": 2,
+        "seasons": [
+          "1948-49",
+          "1951-52"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس البرانس",
+        "count": 4,
+        "seasons": [
+          "1909-10",
+          "1910-11",
+          "1911-12",
+          "1912-13"
+        ],
+        "noteAr": "بطولة إقليمية دولية تاريخية",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الإسباني",
+        "count": 29,
+        "seasons": [
+          "1928-29",
+          "1944-45",
+          "1947-48",
+          "1948-49",
+          "1951-52",
+          "1952-53",
+          "1958-59",
+          "1959-60",
+          "1973-74",
+          "1984-85",
+          "1990-91",
+          "1991-92",
+          "1992-93",
+          "1993-94",
+          "1997-98",
+          "1998-99",
+          "2004-05",
+          "2005-06",
+          "2008-09",
+          "2009-10",
+          "2010-11",
+          "2012-13",
+          "2014-15",
+          "2015-16",
+          "2017-18",
+          "2018-19",
+          "2022-23",
+          "2024-25",
+          "2025-26"
+        ],
+        "noteAr": "آخرها موسم 2025-26 بالفوز على ريال مدريد 2-0",
+        "sourceIds": [
+          "fcb-honours",
+          "fcb-liga29"
+        ]
+      },
+      {
+        "competitionAr": "كأس الملك",
+        "count": 32,
+        "seasons": [],
+        "noteAr": "رقم قياسي في المسابقة",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الإسباني",
+        "count": 16,
+        "seasons": [
+          "1983-84",
+          "1991-92",
+          "1992-93",
+          "1994-95",
+          "1996-97",
+          "2005-06",
+          "2006-07",
+          "2009-10",
+          "2010-11",
+          "2011-12",
+          "2013-14",
+          "2016-17",
+          "2018-19",
+          "2022-23",
+          "2024-25",
+          "2025-26"
+        ],
+        "noteAr": "رقم قياسي",
+        "sourceIds": [
+          "fcb-honours",
+          "fcb-supercup16"
+        ]
+      },
+      {
+        "competitionAr": "كأس الدوري الإسباني",
+        "count": 2,
+        "seasons": [
+          "1982-83",
+          "1985-86"
+        ],
+        "noteAr": "بطولة قديمة لم تعد تقام",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس إيفا دوارتي",
+        "count": 3,
+        "seasons": [
+          "1948-49",
+          "1951-52",
+          "1952-53"
+        ],
+        "noteAr": "سلف كأس السوبر الإسباني",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "بطولة دوري كتالونيا",
+        "count": 23,
+        "seasons": [],
+        "noteAr": "بطولة إقليمية تاريخية تشمل كأس ماكايا وكأس برشلونة",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس كتالونيا",
+        "count": 8,
+        "seasons": [],
+        "noteAr": "بطولة إقليمية",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "كأس السوبر الكتالونية",
+        "count": 2,
+        "seasons": [
+          "2014-15",
+          "2017-18"
+        ],
+        "noteAr": "بطولة إقليمية",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      },
+      {
+        "competitionAr": "دوري البحر المتوسط",
+        "count": 1,
+        "seasons": [
+          "1937"
+        ],
+        "noteAr": "بطولة تاريخية أقيمت أثناء الحرب الأهلية",
+        "sourceIds": [
+          "fcb-honours"
+        ]
+      }
+    ],
+    "noteAr": "الأرقام من صفحة الألقاب الرسمية للنادي وقد تحدثت لتشمل موسم 2025-26 (الدوري 29 والسوبر 16)"
+  },
+  "topScorers": {
+    "scopeAr": "قائمة تاريخية مجمعة بحسب جدول Sports Illustrated والمراجع المبينة لكل اسم، مع تثبيت بعض الأرقام من النادي. ليست صفحة رسمية واحدة من النادي تعرض العشرة كاملة.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "ليونيل ميسي",
+        "nameEn": "Lionel Messi",
+        "goals": 672,
+        "sourceIds": [
+          "fcb-messi-profile",
+          "si-barca-scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "سيزار رودريجيز",
+        "nameEn": "César Rodríguez",
+        "goals": 232,
+        "sourceIds": [
+          "si-barca-scorers",
+          "mesgazette-scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "لويس سواريز",
+        "nameEn": "Luis Suárez",
+        "goals": 198,
+        "sourceIds": [
+          "si-barca-scorers",
+          "mesgazette-scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "لاسلو كوبالا",
+        "nameEn": "László Kubala",
+        "goals": 194,
+        "sourceIds": [
+          "si-barca-scorers",
+          "mesgazette-scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "جوسيب ساميتيير",
+        "nameEn": "Josep Samitier",
+        "goals": 184,
+        "sourceIds": [
+          "si-barca-scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "جوسيب إسكولا",
+        "nameEn": "Josep Escolà",
+        "goals": 165,
+        "sourceIds": [
+          "si-barca-scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "باولينو ألكانتارا",
+        "nameEn": "Paulino Alcántara",
+        "goals": 143,
+        "sourceIds": [
+          "si-barca-scorers",
+          "mesgazette-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "صامويل إيتو",
+        "nameEn": "Samuel Eto'o",
+        "goals": 130,
+        "sourceIds": [
+          "si-barca-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "ريفالدو",
+        "nameEn": "Rivaldo",
+        "goals": 130,
+        "sourceIds": [
+          "si-barca-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "ماريانو مارتين",
+        "nameEn": "Mariano Martín",
+        "goals": 128,
+        "sourceIds": [
+          "si-barca-scorers"
+        ]
+      }
+    ],
+    "noteAr": "تعادل إيتو وريفالدو عند 130 هدفًا محفوظ في المركز الثامن. رصيد ألكانتارا 143 هدفًا رسميًا فقط؛ صفحة أساطير النادي تنسب إليه 395 هدفًا في 399 مباراة باحتساب المباريات خارج العد الرسمي الحديث. ليفاندوفسكي غادر في مايو 2026 برصيد 119-120 هدفًا خارج العشرة الأوائل"
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية التي فاز بها اللاعب مع هذا النادي فقط، وليس إجمالي بطولات مسيرته.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "ليونيل ميسي",
+        "nameEn": "Lionel Messi",
+        "titles": 35,
+        "sourceIds": [
+          "fcb-messi-35",
+          "fifa-messi-35"
+        ]
+      }
+    ],
+    "noteAr": "35 لقبًا لميسي حسب الموقع الرسمي: 10 دوري، 8 سوبر إسباني، 7 كأس ملك، 4 دوري أبطال، 3 كأس عالم للأندية، و 3 سوبر أوروبي."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-22",
+    "competitionAr": "الدوري الإسباني - الجولة 13",
+    "homeTeamAr": "برشلونة",
+    "awayTeamAr": "فياريال",
+    "homeScore": 3,
+    "awayScore": 2,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "ريمونتادا اليوم في كامب نو: تأخر 0-2 ثم سجل ثلاثية في عشر دقائق (جيرارد مارتين وفيرمين لوبيز وهدف عكسي من باو نافارو) ليبقى متصدرًا بفارق 3 نقاط. انتهت المباراة قبل وقت الفحص بنحو ساعتين",
+    "sourceIds": [
+      "fcb-villarreal-report",
+      "france24-barca"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "الدوري الإسباني",
+    "season": "2025-26",
+    "wonOn": "2026-05-10",
+    "noteAr": "حسم النادي لقب الدوري التاسع والعشرين بالفوز على ريال مدريد بهدفين دون رد. سجل الألقاب الحالي الذي روجع في 22 نوفمبر يسرد الدوري حتى 2025/26، وهو أحدث مواسم الفوز المدرجة فيه.",
+    "sourceIds": [
+      "fcb-liga29",
+      "reuters-liga29",
+      "fcb-honours"
+    ]
+  },
+  "sources": [
+    {
+      "id": "fcb-history-1899",
+      "title": "1899-1909. Foundation and survival",
+      "url": "https://www.fcbarcelona.com/en/news/643865/1899-1909-foundation-and-survival",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "التأسيس يوم 29 نوفمبر 1899 على يد جامبر"
+    },
+    {
+      "id": "fcb-honours",
+      "title": "Honours - FC Barcelona",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/honours",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "سجل الألقاب الرسمي كاملًا ويشمل موسم 2025-26"
+    },
+    {
+      "id": "fcb-liga29",
+      "title": "FC Barcelona 2-0 Real Madrid: A Clásico and a Liga for Flick",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4501689/fc-barcelona-2-0-real-madrid-a-clasico-and-a-liga-for-flick",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-05-10",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "حسم اللقب الـ 29"
+    },
+    {
+      "id": "reuters-liga29",
+      "title": "Barcelona seal 29th LaLiga title with 2-0 Clasico win over Real Madrid",
+      "url": "https://www.reuters.com/sports/soccer/barcelona-seal-29th-laliga-title-with-2-0-clasico-win-over-real-madrid-2026-05-10/",
+      "publisher": "Reuters",
+      "kind": "media",
+      "publishedOn": "2026-05-10",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد مستقل للقب الدوري 2025-26"
+    },
+    {
+      "id": "fcb-supercup16",
+      "title": "FC Barcelona win their 16th Spanish Super Cup",
+      "url": "https://www.fcbarcelona.com/en/news/4432658/fc-barcelona-win-their-16th-spanish-super-cup",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-01-11",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "السوبر الـ 16 في يناير 2026"
+    },
+    {
+      "id": "fcb-messi-profile",
+      "title": "Leo Messi - player profile",
+      "url": "https://www.fcbarcelona.com/en/ficha/2214377/leo-messi",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "672 هدفًا و 778 مباراة و 35 لقبًا"
+    },
+    {
+      "id": "fcb-messi-35",
+      "title": "The most decorated player in Barça history",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/2208549/the-most-decorated-player-in-barca-history",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2021-08-06",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "35 لميسي وإنييستا ثانيًا بفارق 3"
+    },
+    {
+      "id": "fifa-messi-35",
+      "title": "Lionel Messi profile - FIFA Club World Cup 2025",
+      "url": "https://www.fifa.com/en/tournaments/mens/club-world-cup/usa-2025/articles/lionel-messi-inter-miami-profile",
+      "publisher": "FIFA",
+      "kind": "federation",
+      "publishedOn": "2025-05-09",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد مستقل: 35 لقبًا و 672 هدفًا"
+    },
+    {
+      "id": "si-barca-scorers",
+      "title": "Is Robert Lewandowski a Barcelona Legend?",
+      "url": "https://www.si.com/soccer/how-lewandowski-compares-to-barcelona-best-strikers",
+      "publisher": "Sports Illustrated",
+      "kind": "media",
+      "publishedOn": "2026-05-20",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "جدول الهدافين التاريخيين بأرقام النادي الرسمية حتى رحيل ليفاندوفسكي"
+    },
+    {
+      "id": "mesgazette-scorers",
+      "title": "Barcelona All-Time Top Scorers: The Official List Explained",
+      "url": "https://mesgazette.com/barcelona-all-time-top-scorers/",
+      "publisher": "Més Gazette",
+      "kind": "media",
+      "publishedOn": "2026-10-27",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "موقع متخصص يشرح منهج العد ويدّعي من عنده أنه راجع الأرقام مقابل موقع النادي؛ لم يثبت ذلك من قناة النادي نفسها فيُعامل كمصدر ثانوي"
+    },
+    {
+      "id": "fcb-villarreal-report",
+      "title": "Barça 3-2 Villarreal: Heroic reaction",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4612696/barca-3-2-villarreal-heroic-reaction",
+      "publisher": "FC Barcelona (الموقع الرسمي)",
+      "kind": "official",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تقرير مباراة اليوم"
+    },
+    {
+      "id": "france24-barca",
+      "title": "Liga leaders Barca mount impressive Villarreal comeback win",
+      "url": "https://www.france24.com/en/live-news/20261122-liga-leaders-barca-mount-impressive-villarreal-comeback-win",
+      "publisher": "France 24 / AFP",
+      "kind": "media",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تأكيد مستقل لنتيجة مباراة اليوم"
+    }
+  ],
+  "unresolved": [
+    "رصيد ليفاندوفسكي النهائي عند رحيله 119 هدفًا (سبورتس إليستريتد) مقابل 120 (ميس جازيت)؛ خارج العشرة الأوائل في كلتا الحالتين",
+    "أرقام حقبة ساميتيير وإسكولا وأروتشا في منتصف القائمة تعتمد على جدول بطريقة عد النادي كما أعادت نشره سبورتس إليستريتد، دون صفحة نادي واحدة تعرض القائمة كاملة"
+  ]
+}

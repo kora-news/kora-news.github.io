@@ -1,0 +1,395 @@
+{
+  "id": "arsenal",
+  "nameAr": "أرسنال",
+  "nameEn": "Arsenal",
+  "leagueAr": "إنجلترا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال، المباريات والبطولات الرسمية فقط، مع فصل الألقاب التاريخية والأقسام الأدنى",
+  "sources": [
+    {
+      "id": "history",
+      "title": "Dial Square to north London",
+      "url": "https://www.arsenal.com/feature/dial-square-to-north-london-aYmBt2x8GSeo",
+      "publisher": "Arsenal",
+      "kind": "official",
+      "publishedOn": "2017-05-10",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "honors",
+      "title": "Men’s Honours",
+      "url": "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50",
+      "publisher": "Arsenal",
+      "kind": "official",
+      "publishedOn": "2017-06-01",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "تاريخ النشر قديم، لكن النص المفتوح يتضمن موسم 2025/26 ودرع 2026. عنوان عدد الدروع لا يطابق عدد السنوات المدرجة."
+    },
+    {
+      "id": "history-conflict",
+      "title": "History",
+      "url": "https://www.arsenal.com/history",
+      "publisher": "Arsenal",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يعرض 15 دوريا بدلا من 14 في قائمة المواسم المفصلة، و 17+1 درعا. لا يستخدم لإجمالي الألقاب."
+    },
+    {
+      "id": "scorers",
+      "title": "Goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr",
+      "publisher": "Arsenal",
+      "kind": "official",
+      "publishedOn": "2020-11-01",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "scorers-current",
+      "title": "Arsenal All-Time Top Scorers: Top 10 and 100-Goal Club",
+      "url": "https://gogunnerfc.com/arsenal-all-time-top-scorers/",
+      "publisher": "GoGunnerFC",
+      "kind": "fan-site",
+      "publishedOn": "2026-11-06",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "مراجعة ثانوية حديثة تطابق أول عشرة في جدول النادي؛ اللاعب الأعلى تسجيلا في القائمة الحالية بعيد عن المركز العاشر."
+    },
+    {
+      "id": "shield",
+      "title": "Arsenal 3-0 Manchester City: 2026 FA Community Shield",
+      "url": "https://www.thefa.com/news/2026/aug/16/fa-community-shield-2026-report-16082026",
+      "publisher": "The FA",
+      "kind": "official",
+      "publishedOn": "2026-08-16",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "result",
+      "title": "Report: Newcastle United 2-2 Arsenal",
+      "url": "https://www.arsenal.com/news/report-newcastle-united-2-2-arsenal-aYrA33Z7yfW4",
+      "publisher": "Arsenal",
+      "kind": "official",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "adams",
+      "title": "Greatest 50 Players - 3. Tony Adams",
+      "url": "https://www.arsenal.com/feature/greatest-50-players-3.-tony-adams-aAnwo0o02xSV",
+      "publisher": "Arsenal",
+      "kind": "official",
+      "publishedOn": "2017-05-31",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت 10 ألقاب كبرى لآدامز، لا يكفي لإثبات صدارة مقياس كل البطولات الرسمية بما فيها الدروع."
+    },
+    {
+      "id": "records",
+      "title": "List of Arsenal F.C. records and statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._records_and_statistics",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "قائمة البطولات الإقليمية والتذكارية، مع نصوص قديمة غير محدثة في الصفحة، لا تستخدم عبارة آخر لقب فيها."
+    },
+    {
+      "id": "league-2026",
+      "title": "Everything decided in 2025/26 Premier League",
+      "url": "https://www.premierleague.com/en/news/4668605/everything-thats-been-decided-in-202526-premier-league",
+      "publisher": "Premier League",
+      "kind": "official",
+      "publishedOn": "2026-05-24",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    }
+  ],
+  "unresolved": [
+    "تعارض عدد الدوري بين صفحة التاريخ 15 وقائمة المواسم المفصلة 14؛ لا يعرض إجمالي شامل.",
+    "تدقيق ألقاب لندن وكينت التاريخية قبل ضمها إلى ألقاب الفريق الأول.",
+    "صدارة الأكثر تتويجا مع النادي وفق جميع البطولات الرسمية بما فيها الدروع والتعادلات لم تثبت بعد."
+  ],
+  "history": {
+    "textAr": "تأسس أرسنال سنة 1886 على يد عمال مصنع الأسلحة في وولويتش باسم دايل سكوير، ثم حمل اسم رويال أرسنال ووولويتش أرسنال. انضم إلى دوري كرة القدم عام 1893، وانتقل إلى هايبري في شمال لندن عام 1913.\nمن أبرز محطاته أول كأس إنجلترا عام 1930، وثنائية الدوري والكأس في 1971 و 1998 و 2002، وموسم الدوري بلا هزيمة في 2003/04. عاد إلى الفوز بالدوري في 2025/26 بعد انتظار 22 عاما.",
+    "sourceIds": [
+      "history",
+      "records",
+      "league-2026"
+    ]
+  },
+  "honors": {
+    "scopeAr": "الألقاب الوطنية والأوروبية للفريق الأول كما تسردها صفحة النادي، مع إضافة كأس مئوية الدوري. البطولات الإقليمية لا تدخل في مجموع موحد قبل التحقق من مشاركة الفريق الأول.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الأولى والدوري الممتاز",
+        "count": 14,
+        "seasons": [
+          "1930/31",
+          "1932/33",
+          "1933/34",
+          "1934/35",
+          "1937/38",
+          "1947/48",
+          "1952/53",
+          "1970/71",
+          "1988/89",
+          "1990/91",
+          "1997/98",
+          "2001/02",
+          "2003/04",
+          "2025/26"
+        ],
+        "noteAr": "اعتماد قائمة المواسم المفصلة؛ صفحة التاريخ تعرض 15 دون تفسير، ويظل الخلاف مسجلا.",
+        "sourceIds": [
+          "honors",
+          "league-2026"
+        ]
+      },
+      {
+        "competitionAr": "كأس إنجلترا",
+        "count": 14,
+        "seasons": [
+          "1930",
+          "1936",
+          "1950",
+          "1971",
+          "1979",
+          "1993",
+          "1998",
+          "2002",
+          "2003",
+          "2005",
+          "2014",
+          "2015",
+          "2017",
+          "2020"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الإنجليزية",
+        "count": 2,
+        "seasons": [
+          "1987",
+          "1993"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1994"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس المعارض الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1970"
+        ],
+        "noteAr": "بطولة تاريخية منفصلة عن كأس الاتحاد الأوروبي، لا تدمج معها.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرع الخيرية / درع المجتمع",
+        "count": 18,
+        "seasons": [
+          "1930",
+          "1931",
+          "1933",
+          "1934",
+          "1938",
+          "1948",
+          "1953",
+          "1991",
+          "1998",
+          "1999",
+          "2002",
+          "2004",
+          "2014",
+          "2015",
+          "2017",
+          "2020",
+          "2023",
+          "2026"
+        ],
+        "noteAr": "17 فوزا منفردا ولقب مشترك مع توتنهام عام 1991. العدد محسوب من السنوات الـ 18 المسردة، لا من عنوان الصفحة القديم 16+1.",
+        "sourceIds": [
+          "honors",
+          "history-conflict",
+          "shield"
+        ]
+      },
+      {
+        "competitionAr": "كأس مئوية دوري كرة القدم",
+        "count": 1,
+        "seasons": [
+          "1988"
+        ],
+        "noteAr": "بطولة تاريخية، تفصل عن الكؤوس السنوية الرئيسية.",
+        "sourceIds": [
+          "records"
+        ]
+      }
+    ],
+    "noteAr": "لا يعرض إجمالي شامل بسبب تعارض عدد الدوري في صفحات النادي، وبسبب الحاجة لتدقيق نطاق البطولات الإقليمية. المصدر المرجعي يسرد كأس لندن الكبرى 1، وكأس تحدي لندن 11، وكأس لندن الخيرية 1، وكأس كينت الكبرى 1؛ لم تدمج تلقائيا لاحتمال مشاركة فرق غير الفريق الأول في بعض النسخ."
+  },
+  "topScorers": {
+    "scopeAr": "كل المباريات التنافسية للفريق الأول بحسب قائمة النادي، وليس الدوري الممتاز فقط؛ لا تشمل الوديات أو مباريات الحرب.",
+    "asOf": "2026-11-02",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "تييري هنري",
+        "nameEn": "Thierry Henry",
+        "goals": 228,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "إيان رايت",
+        "nameEn": "Ian Wright",
+        "goals": 185,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "كليف باستين",
+        "nameEn": "Cliff Bastin",
+        "goals": 178,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "جون رادفورد",
+        "nameEn": "John Radford",
+        "goals": 149,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "جيمي برين",
+        "nameEn": "Jimmy Brain",
+        "goals": 139,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "تيد دريك",
+        "nameEn": "Ted Drake",
+        "goals": 139,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "دوغ ليشمان",
+        "nameEn": "Doug Lishman",
+        "goals": 137,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "روبن فان بيرسي",
+        "nameEn": "Robin van Persie",
+        "goals": 132,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "جو هولم",
+        "nameEn": "Joe Hulme",
+        "goals": 125,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "ديفيد جاك",
+        "nameEn": "David Jack",
+        "goals": 124,
+        "sourceIds": [
+          "scorers",
+          "scorers-current"
+        ]
+      }
+    ],
+    "noteAr": "القائمة الرسمية تحمل تاريخ 2020 وتطابق المراجعة الثانوية المنشورة في 6 نوفمبر 2026 والمراجعة بتاريخ 2 نوفمبر. تعادل برين ودريك في المركز الخامس محفوظ. ليست خدمة تحديث لحظية."
+  },
+  "mostDecorated": {
+    "scopeAr": "جميع الألقاب الرسمية مع أرسنال فقط، مع ضرورة توحيد احتساب الدروع المشتركة والميداليات.",
+    "asOf": "2026-11-22",
+    "status": "unresolved",
+    "items": [],
+    "noteAr": "النادي يثبت لتوني آدامز 10 ألقاب كبرى، لكن هذا المقياس يستبعد الدروع ولا يثبت صدارة قائمة جميع الألقاب الرسمية أو التعادل فيها. لم ينشر فائز أو رقم شامل بالتخمين."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-21",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "homeTeamAr": "نيوكاسل يونايتد",
+    "awayTeamAr": "أرسنال",
+    "homeScore": 2,
+    "awayScore": 2,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "نتيجة مكتملة، وليست نتيجة مباشرة.",
+    "sourceIds": [
+      "result"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "درع المجتمع الإنجليزي",
+    "season": "2026",
+    "wonOn": "2026-08-16",
+    "noteAr": "الفوز 3-0 على مانشستر سيتي في كارديف. أحدث لقب رسمي مثبت، لا مباراة ودية.",
+    "sourceIds": [
+      "shield"
+    ]
+  }
+}

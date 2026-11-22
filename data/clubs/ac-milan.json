@@ -1,0 +1,395 @@
+{
+  "id": "ac-milan",
+  "nameAr": "ميلان",
+  "nameEn": "AC Milan",
+  "leagueAr": "إيطاليا",
+  "checkedAt": "2026-11-22T17:49:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ المباريات والبطولات الرسمية، مع فصل اختلافات العد التاريخية",
+  "sources": [
+    {
+      "id": "milan-history",
+      "title": "AC Milan and the city of Milan celebrate Herbert Kilpin",
+      "url": "https://www.acmilan.com/en/news/articles/club/2019-12-16/ac-milan-and-the-city-of-milan-celebrate-kilpin",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": "2019-12-16",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "milan-league-honors",
+      "title": "Milan: palmares",
+      "url": "https://www.legaseriea.it/team/milan/palmares",
+      "publisher": "Lega Serie A",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "milan-all-honors",
+      "title": "Palmarès dell’Associazione Calcio Milan",
+      "url": "https://it.wikipedia.org/wiki/Palmar%C3%A8s_dell%27Associazione_Calcio_Milan",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": "2026-10-24",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "يفصل 50 لقبا كبيرا عن الدرجة الثانية والبطولات التاريخية الأخرى؛ لا يصح اعتبار كل المسابقات التاريخية ودية تلقائيا."
+    },
+    {
+      "id": "milan-recent-honors",
+      "title": "Palmares del Milan",
+      "url": "https://www.spaziomilan.it/palmares-milan/",
+      "publisher": "SpazioMilan",
+      "kind": "secondary",
+      "publishedOn": "2026-11-17",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "جدول ألقاب حديث ومتفق مع الرابطة."
+    },
+    {
+      "id": "milan-sheva-conflict",
+      "title": "Andriy Shevchenko: stats and matches",
+      "url": "https://www.acmilan.com/en/club/legends/players/shevchenko",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "173 في العنوان الإحصائي مقابل 175 في السيرة بنفس الصفحة؛ 175 متفق مع جدول الهدافين الكامل."
+    },
+    {
+      "id": "milan-scorers",
+      "title": "AC Milan top scorers",
+      "url": "https://www.acmilan.com/en/club/ac-milan-top-scorers",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "جدول النادي لجميع المباريات الرسمية؛ يظهر 175 لشيفتشينكو، بينما صفحة سيرته المنفصلة تعرض 173. اعتمدنا جدول الهدافين الكامل لا خلط الصفحات."
+    },
+    {
+      "id": "milan-maldini",
+      "title": "Paolo Maldini: stats and matches",
+      "url": "https://www.acmilan.com/en/club/legends/players/paolo-maldini",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "يثبت 26 بطولة كلاعب مع ميلان."
+    },
+    {
+      "id": "milan-record",
+      "title": "All Time XI: AC Milan",
+      "url": "https://www.gentlemanultra.com/2022/07/29/all-time-xi-ac-milan/",
+      "publisher": "The Gentleman Ultra",
+      "kind": "secondary",
+      "publishedOn": "2022-07-29",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "ينص صراحة على أن مالديني أكثر لاعبي ميلان تتويجا."
+    },
+    {
+      "id": "milan-result",
+      "title": "Rossoneri bounce back at Marassi",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-08/rossoneri-bounce-back-at-marassi",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": "2026-11-08",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "milan-next",
+      "title": "AC Milan vs Frosinone match preview",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-vs-frosinone-match-preview",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": "موعد المباراة 18:00 وسط أوروبا، لاحق لوقت الفحص. التمهيد يحمل عبارة قديمة عن نتيجة جنوى تناقض تقرير المباراة؛ أخذنا النتيجة من التقرير النهائي."
+    },
+    {
+      "id": "milan-title",
+      "title": "AC Milan lift Supercoppa trophy",
+      "url": "https://www.acmilan.com/en/news/articles/supercoppa-italiana/2025-01-06/ac-milan-lift-supercoppa-trophy",
+      "publisher": "AC Milan",
+      "kind": "official",
+      "publishedOn": "2025-01-06",
+      "checkedAt": "2026-11-22T17:49:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "milan-latin-history",
+      "title": "Latin Cup",
+      "url": "https://www.rsssf.org/tablesl/latin.html",
+      "publisher": "RSSSF",
+      "kind": "historical-statistics",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:51:30+02:00",
+      "noteAr": "يثبت لقبي ميلان في 1951 و 1956 وطبيعة مشاركة أبطال فرنسا وإيطاليا والبرتغال وإسبانيا، لكنه لا يحسم التصنيف القانوني المعاصر أو الإدراج في إجمالي البطولات الرسمية."
+    }
+  ],
+  "unresolved": [
+    "لا يدعي سجل الألقاب اكتمال كل الجوائز التاريخية؛ تصنيف اللاتينية وميتروبا وبطولات الجمباز القديمة يحتاج سياسة تحرير موحدة.",
+    "لا يعلن جدول الهدافين تاريخ تحديث، وتوجد فروق عن السير الفردية؛ التزمنا بجدول النادي دون خلط.",
+    "الفحص المحدود الإضافي لدى RSSSF أثبت لقبي اللاتينية ولم يحسم صفة الرسمية؛ لم يُعثر على قرار من اتحاد منظّم يبرر دمجها أو حذفها من إجمالي موحد."
+  ],
+  "history": {
+    "textAr": "تأسس ميلان في 16 ديسمبر 1899 باسم ميلان لكرة القدم والكريكيت، وكان هربرت كيلبين من مؤسسيه وصاحب اختيار اللونين الأحمر والأسود. أصبح النادي واحدا من أبرز أصحاب الإنجازات الأوروبية، بسجل يضم سبعة ألقاب لكأس أوروبا/دوري الأبطال، إلى جانب 19 لقبا للدوري الإيطالي. ومن رموز تاريخه باولو مالديني، الذي لعب 902 مباراة رسمية وحقق 26 بطولة بقميص النادي.",
+    "sourceIds": [
+      "milan-history",
+      "milan-league-honors",
+      "milan-maldini"
+    ]
+  },
+  "honors": {
+    "scopeAr": "سجل البطولات الكبرى لدى رابطة الدوري مع إضافة الدرجة الثانية في بند منفصل؛ المسابقات التاريخية الإضافية مبينة في الملاحظة ولا تدمج تلقائيا في المجموع.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "competitionAr": "الدوري الإيطالي",
+        "count": 19,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس إيطاليا",
+        "count": 5,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "السوبر الإيطالي",
+        "count": 8,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس أوروبا / دوري أبطال أوروبا",
+        "count": 7,
+        "seasons": [],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 2,
+        "seasons": [
+          "1967/68",
+          "1972/73"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "السوبر الأوروبي",
+        "count": 5,
+        "seasons": [
+          "1989",
+          "1990",
+          "1994",
+          "2003",
+          "2007"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors",
+          "milan-all-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الإنتركونتيننتال",
+        "count": 3,
+        "seasons": [
+          "1969",
+          "1989",
+          "1990"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors",
+          "milan-all-honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس العالم للأندية",
+        "count": 1,
+        "seasons": [
+          "2007"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "milan-league-honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الإيطالي للدرجة الثانية",
+        "count": 2,
+        "seasons": [
+          "1980/81",
+          "1982/83"
+        ],
+        "noteAr": "خارج مجموع البطولات الكبرى الخمسين، لكنه لقب دوري رسمي.",
+        "sourceIds": [
+          "milan-all-honors"
+        ]
+      }
+    ],
+    "noteAr": "الجدول الأساسي للبطولات الكبرى مكتمل: 50 لقبا. أضيف لقبا الدرجة الثانية منفصلين. للميلان أيضا كأس لاتينية مرتان (1951 و 1956) وميتروبا مرة (1981/82) وفق المرجع التاريخي؛ لم نحسم التصنيف الرسمي الموحد لهذه المسابقات وبطولات الاتحاد الإيطالي للجمباز القديمة، لذلك لا ندعي اكتمال كل الجوائز التاريخية ولا نجمعها في الإجمالي الرسمي."
+  },
+  "topScorers": {
+    "scopeAr": "أهداف المباريات الرسمية كما يسردها جدول الهدافين على موقع ميلان.",
+    "asOf": "2026-11-22",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "غونار نوردال",
+        "nameEn": "Gunnar Nordahl",
+        "goals": 221,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "أندري شيفتشينكو",
+        "nameEn": "Andriy Shevchenko",
+        "goals": 175,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "جياني ريفيرا",
+        "nameEn": "Gianni Rivera",
+        "goals": 164,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "جوزيه ألتافيني",
+        "nameEn": "Jose Altafini",
+        "goals": 161,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "ألدو بوفي",
+        "nameEn": "Aldo Boffi",
+        "goals": 136,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "فيليبو إنزاغي",
+        "nameEn": "Filippo Inzaghi",
+        "goals": 126,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "ماركو فان باستن",
+        "nameEn": "Marco van Basten",
+        "goals": 125,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "جوزيبي سانتاغوستينو",
+        "nameEn": "Giuseppe Santagostino",
+        "goals": 106,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "كاكا",
+        "nameEn": "Kaka",
+        "goals": 104,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "بييرينو براتي",
+        "nameEn": "Pierino Prati",
+        "goals": 102,
+        "sourceIds": [
+          "milan-scorers"
+        ]
+      }
+    ],
+    "noteAr": "هذه الأرقام من جدول النادي الذي فُحص اليوم؛ الصفحة لا تعلن تاريخ تحديث. جدولها يضع لياو خارج العشرة الأوائل. صفحة شيفتشينكو الفردية تعرض 173 لا 175، لذلك حافظنا على نطاق جدول الهدافين الكامل دون مزج المصدرين."
+  },
+  "mostDecorated": {
+    "scopeAr": "الألقاب الرسمية التي فاز بها اللاعب مع ميلان فقط.",
+    "asOf": "2026-11-22",
+    "status": "verified",
+    "items": [
+      {
+        "nameAr": "باولو مالديني",
+        "nameEn": "Paolo Maldini",
+        "titles": 26,
+        "sourceIds": [
+          "milan-maldini",
+          "milan-record"
+        ]
+      }
+    ],
+    "noteAr": "26 بطولة كلاعب خلال مسيرته مع النادي، لا تضاف أي إنجازات إدارية لاحقة."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-08",
+    "competitionAr": "الدوري الإيطالي",
+    "homeTeamAr": "جنوى",
+    "awayTeamAr": "ميلان",
+    "homeScore": 1,
+    "awayScore": 2,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر مباراة مكتملة حتى 22 نوفمبر 17:49 القاهرة؛ ميلان وفروزينوني لاحقا في اليوم نفسه. استُخدم تقرير المباراة النهائي لأن التمهيد الأحدث يضم عبارة متعارضة عن جنوى.",
+    "sourceIds": [
+      "milan-result",
+      "milan-next"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "السوبر الإيطالي",
+    "season": "2024/25",
+    "wonOn": "2025-01-06",
+    "noteAr": "فاز على إنتر 3-2 في الرياض. بعض القوائم تسمي النسخة 2024 وبعضها 2024/25؛ تاريخ النهائي ثابت في 6 يناير 2025.",
+    "sourceIds": [
+      "milan-title",
+      "milan-league-honors",
+      "milan-recent-honors"
+    ]
+  }
+}

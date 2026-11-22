@@ -1,0 +1,416 @@
+{
+  "id": "tottenham",
+  "nameAr": "توتنهام هوتسبير",
+  "nameEn": "Tottenham Hotspur",
+  "leagueAr": "إنجلترا",
+  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "scopeAr": "الفريق الأول للرجال؛ لا تشمل البيانات فرق السيدات أو الشباب أو المباريات الودية.",
+  "sources": [
+    {
+      "id": "history",
+      "title": "Year by Year History",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/year-by-year",
+      "publisher": "Tottenham Hotspur",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "honors",
+      "title": "Club Honours",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/club-honours",
+      "publisher": "Tottenham Hotspur",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يفصل الألقاب الكبرى عن قائمة أخرى تمزج مسابقات إقليمية وحربية ودورات ودية؛ لا يصح جمع الجميع بوصفهم بطولات رسمية."
+    },
+    {
+      "id": "scorers",
+      "title": "Sonny statistics and all-time top ten",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers",
+      "publisher": "Tottenham Hotspur",
+      "kind": "official",
+      "publishedOn": "2025-05-30",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "son-final",
+      "title": "Heung-min Son legend profile",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/legends/heung-min-son",
+      "publisher": "Tottenham Hotspur",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يثبت حصيلة سون النهائية مع النادي: 173 هدفا، 2015-2025."
+    },
+    {
+      "id": "perryman",
+      "title": "Steve Perryman",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/legends/steve-perryman",
+      "publisher": "Tottenham Hotspur",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "ستة ألقاب كبرى: كأسا اتحاد وكأسا رابطة وكأسا اتحاد أوروبي. هذه ليست حصيلة شاملة للدرع."
+    },
+    {
+      "id": "result",
+      "title": "Tottenham 2-0 Ipswich",
+      "url": "https://www.bbc.co.uk/sport/football/live/c699exk99z54t",
+      "publisher": "BBC Sport",
+      "kind": "sports-media",
+      "publishedOn": "2026-11-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "final",
+      "title": "We are UEFA Europa League winners",
+      "url": "https://www.tottenhamhotspur.com/news/984272/we-are-uefa-europa-league-winners",
+      "publisher": "Tottenham Hotspur",
+      "kind": "official",
+      "publishedOn": "2025-05-21",
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": ""
+    },
+    {
+      "id": "records",
+      "title": "Tottenham records and statistics",
+      "url": "https://en.wikipedia.org/wiki/List_of_Tottenham_Hotspur_F.C._records_and_statistics",
+      "publisher": "Wikipedia",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T17:50:00+02:00",
+      "noteAr": "يستخدم 268 لجريفز مقابل 266 في قائمة النادي؛ لم نخلط طريقتي العد."
+    }
+  ],
+  "unresolved": [
+    "الأكثر تتويجا بكل الألقاب الرسمية، بما فيها الدرع، غير محسوم؛ رقم بيريمان ستة يخص البطولات الكبرى فقط.",
+    "بعض الكؤوس الخيرية الإقليمية القديمة في صفحة النادي تحتاج إلى تصنيف قبل وصف سجل الألقاب بأنه كامل."
+  ],
+  "history": {
+    "textAr": "بدأ توتنهام عام 1882 باسم هوتسبير، ثم حمل اسمه الحالي عام 1884. وفاز بكأس الاتحاد الإنجليزي عام 1901 وهو خارج دوري كرة القدم، وحقق ثنائية الدوري والكأس عام 1961. وفي 1963 أضاف كأس الكؤوس الأوروبية، أحد أبرز إنجازات جيل المدرب بيل نيكلسون.",
+    "sourceIds": [
+      "history",
+      "honors"
+    ]
+  },
+  "honors": {
+    "scopeAr": "الألقاب الرئيسية والدرجة الثانية، ثم المسابقات التاريخية والإقليمية والحربية المعرّفة منفصلة؛ لا تُحتسب الدورات الودية.",
+    "asOf": "2026-11-22",
+    "complete": false,
+    "items": [
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الأولى",
+        "count": 2,
+        "seasons": [
+          "1950/51",
+          "1960/61"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الإنجليزي",
+        "count": 8,
+        "seasons": [
+          "1900/01",
+          "1920/21",
+          "1960/61",
+          "1961/62",
+          "1966/67",
+          "1980/81",
+          "1981/82",
+          "1990/91"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الرابطة الإنجليزية",
+        "count": 4,
+        "seasons": [
+          "1970/71",
+          "1972/73",
+          "1998/99",
+          "2007/08"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأوروبية",
+        "count": 1,
+        "seasons": [
+          "1962/63"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الاتحاد الأوروبي / الدوري الأوروبي",
+        "count": 3,
+        "seasons": [
+          "1971/72",
+          "1983/84",
+          "2024/25"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الإنجليزي، الدرجة الثانية",
+        "count": 2,
+        "seasons": [
+          "1919/20",
+          "1949/50"
+        ],
+        "noteAr": "",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرع الخيرية",
+        "count": 7,
+        "seasons": [
+          "1920/21",
+          "1951/52",
+          "1961/62",
+          "1962/63",
+          "1967/68",
+          "1981/82",
+          "1991/92"
+        ],
+        "noteAr": "مشترك في 1967/68 و 1981/82 و 1991/92؛ المواسم بصياغة النادي وليست تاريخ إقامة المباراة.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الجنوبي",
+        "count": 1,
+        "seasons": [
+          "1899/1900"
+        ],
+        "noteAr": "مسابقة تاريخية قبل انضمام النادي لدوري كرة القدم.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدوري الغربي",
+        "count": 1,
+        "seasons": [
+          "1903/04"
+        ],
+        "noteAr": "مسابقة إقليمية تاريخية.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "الدرجة الممتازة لدوري لندن",
+        "count": 1,
+        "seasons": [
+          "1902/03"
+        ],
+        "noteAr": "مسابقة إقليمية تاريخية.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري الجنوب، مجموعة C",
+        "count": 1,
+        "seasons": [
+          "1939/40"
+        ],
+        "noteAr": "بطولة زمن الحرب، تفصل عن الألقاب الوطنية المعتادة.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "دوري الجنوب",
+        "count": 2,
+        "seasons": [
+          "1943/44",
+          "1944/45"
+        ],
+        "noteAr": "بطولتان في زمن الحرب.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس تحدي لندن",
+        "count": 2,
+        "seasons": [
+          "1910/11",
+          "1928/29"
+        ],
+        "noteAr": "بطولة إقليمية تاريخية.",
+        "sourceIds": [
+          "honors"
+        ]
+      },
+      {
+        "competitionAr": "كأس الكؤوس الأنجلو إيطالية",
+        "count": 1,
+        "seasons": [
+          "1971/72"
+        ],
+        "noteAr": "مسابقة تاريخية مستقلة عن كأس الكؤوس الأوروبية.",
+        "sourceIds": [
+          "honors"
+        ]
+      }
+    ],
+    "noteAr": "لا تنشر إجماليا يجمع الألقاب الكبرى بالبطولات الإقليمية والحربية. صفحة النادي تتضمن أيضا كؤوسا خيرية قديمة ودورات ودية؛ وضع كل كأس خيري قديم وتصنيفه الرسمي لم يُحسم هنا، ولذلك الاكتمال غير مؤكد."
+  },
+  "topScorers": {
+    "scopeAr": "أهداف الفريق الأول في المسابقات التنافسية بحسب طريقة المصدر الموضحة أدناه.",
+    "asOf": "2025-05-30",
+    "complete": true,
+    "items": [
+      {
+        "rank": 1,
+        "nameAr": "هاري كين",
+        "nameEn": "Harry Kane",
+        "goals": 280,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 2,
+        "nameAr": "جيمي جريفز",
+        "nameEn": "Jimmy Greaves",
+        "goals": 266,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 3,
+        "nameAr": "بوبي سميث",
+        "nameEn": "Bobby Smith",
+        "goals": 208,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 4,
+        "nameAr": "مارتن تشيفرز",
+        "nameEn": "Martin Chivers",
+        "goals": 174,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 5,
+        "nameAr": "سون هيونج مين",
+        "nameEn": "Son Heung-min",
+        "goals": 173,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 6,
+        "nameAr": "كليف جونز",
+        "nameEn": "Cliff Jones",
+        "goals": 159,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 7,
+        "nameAr": "جيرمين ديفو",
+        "nameEn": "Jermain Defoe",
+        "goals": 143,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 8,
+        "nameAr": "جورج هانت",
+        "nameEn": "George Hunt",
+        "goals": 138,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 9,
+        "nameAr": "لين دوكيمين",
+        "nameEn": "Len Duquemin",
+        "goals": 134,
+        "sourceIds": [
+          "scorers"
+        ]
+      },
+      {
+        "rank": 10,
+        "nameAr": "آلان جيلزين",
+        "nameEn": "Alan Gilzean",
+        "goals": 133,
+        "sourceIds": [
+          "scorers"
+        ]
+      }
+    ],
+    "noteAr": "وفق القائمة الرسمية المنشورة في 30 مايو 2025، مع تأكيد حصيلة سون من صفحة أساطير النادي. يتبع الجدول عد النادي: 266 لجريفز، لا 268 في المصادر التي تضيف أهداف الدرع. تاريخ القائمة ظاهر ولا يُدّعى أنها تحديث إحصائي منشور في نوفمبر 2026."
+  },
+  "mostDecorated": {
+    "scopeAr": "المطلوب جميع ألقاب اللاعب الرسمية مع توتنهام، بما فيها الدرع عند احتسابها.",
+    "asOf": "2026-11-22",
+    "status": "unresolved",
+    "items": [],
+    "noteAr": "المصدر الرسمي يصف ستيف بيريمان بالأكثر تتويجا بست بطولات كبرى، لكنه لا يضم الدرع الخيرية. لا تكفي هذه العبارة لإعلانه متصدر جميع الألقاب الرسمية؛ يحتاج السجل الشامل إلى مقارنة لاعبي جيل الستينيات وإثبات التعادل وشروط احتساب الألقاب المشتركة. لذلك لا يعرض رقم البطولات الكبرى الست بوصفه الرقم الشامل."
+  },
+  "latestResult": {
+    "status": "verified",
+    "playedOn": "2026-11-21",
+    "competitionAr": "الدوري الإنجليزي الممتاز",
+    "homeTeamAr": "توتنهام هوتسبير",
+    "awayTeamAr": "إيبسويتش تاون",
+    "homeScore": 2,
+    "awayScore": 0,
+    "penaltyHomeScore": null,
+    "penaltyAwayScore": null,
+    "noteAr": "آخر نتيجة مكتملة عُثر عليها وقت الفحص؛ ليست نتيجة مباشرة. لقطة مؤرخة وليست خدمة تحديث حي.",
+    "sourceIds": [
+      "result"
+    ]
+  },
+  "latestTrophy": {
+    "status": "verified",
+    "competitionAr": "الدوري الأوروبي",
+    "season": "2024/25",
+    "wonOn": "2025-05-21",
+    "noteAr": "الفوز على مانشستر يونايتد 1-0 في بلباو؛ أحدث لقب في صفحة ألقاب النادي المقروءة وقت الفحص.",
+    "sourceIds": [
+      "honors",
+      "final"
+    ]
+  }
+}
