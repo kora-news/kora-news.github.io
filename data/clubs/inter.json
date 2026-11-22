@@ -115,6 +115,26 @@
       "publishedOn": "2026-11-16",
       "checkedAt": "2026-11-22T17:49:00+02:00",
       "noteAr": "يحدد السوبر في 22 ديسمبر كأول لقب متاح في الموسم؛ لا يوجد لقب جديد خريفي مفترض."
+    },
+    {
+      "id": "inter-atalanta-ft-bbc",
+      "title": "Atalanta 4-4 Inter: Full time",
+      "url": "https://www.bbc.com/sport/football/live/crq5vgg8pp48t",
+      "publisher": "BBC Sport",
+      "kind": "news",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T23:41:00+02:00",
+      "noteAr": "نتيجة نهائية بعد صافرة النهاية."
+    },
+    {
+      "id": "inter-atalanta-ft-espn",
+      "title": "Atalanta 4-4 Internazionale: FT",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875001",
+      "publisher": "ESPN",
+      "kind": "news",
+      "publishedOn": "2026-11-22",
+      "checkedAt": "2026-11-22T23:41:00+02:00",
+      "noteAr": "نتيجة نهائية بعد صافرة النهاية."
     }
   ],
   "unresolved": [],
@@ -329,20 +349,20 @@
   },
   "latestResult": {
     "status": "verified",
-    "playedOn": "2026-11-08",
+    "playedOn": "2026-11-22",
     "competitionAr": "الدوري الإيطالي",
-    "homeTeamAr": "إنتر",
-    "awayTeamAr": "كومو",
-    "homeScore": 2,
-    "awayScore": 0,
+    "homeTeamAr": "أتالانتا",
+    "awayTeamAr": "إنتر",
+    "homeScore": 4,
+    "awayScore": 4,
     "penaltyHomeScore": null,
     "penaltyAwayScore": null,
-    "noteAr": "آخر مباراة مكتملة عند فحص 22 نوفمبر 17:49 القاهرة؛ مواجهة أتالانتا مساء اليوم لم تبدأ وقت الفحص.",
+    "noteAr": "نتيجة نهائية مؤكدة من BBC Sport وESPN عند 23:41 بتوقيت القاهرة يوم 22 نوفمبر 2026. هذا سجل موثق، وليس خدمة نتائج مباشرة.",
     "sourceIds": [
-      "inter-result",
-      "inter-next"
+      "inter-atalanta-ft-bbc",
+      "inter-atalanta-ft-espn"
     ],
-    "checkedAt": "2026-11-22T17:49:00+02:00"
+    "checkedAt": "2026-11-22T23:41:00+02:00"
   },
   "latestTrophy": {
     "status": "verified",
