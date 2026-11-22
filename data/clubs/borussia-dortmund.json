@@ -290,7 +290,8 @@
     "sourceIds": [
       "bvb-lastmatch",
       "bundesliga-md10"
-    ]
+    ],
+    "checkedAt": "2026-11-22T17:50:00+02:00"
   },
   "latestTrophy": {
     "status": "verified",

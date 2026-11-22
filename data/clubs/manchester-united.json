@@ -3,7 +3,7 @@
   "nameAr": "مانشستر يونايتد",
   "nameEn": "Manchester United",
   "leagueAr": "إنجلترا",
-  "checkedAt": "2026-11-22T17:50:00+02:00",
+  "checkedAt": "2026-11-22T18:19:00+02:00",
   "scopeAr": "الفريق الأول للرجال؛ لا تشمل البيانات فرق السيدات أو الشباب أو المباريات الودية.",
   "sources": [
     {
@@ -95,11 +95,40 @@
       "publishedOn": "2024-05-25",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "official-top-ten",
+      "title": "Top 10 goalscorers: United’s Hall of Fame",
+      "url": "https://www.manutd.com/en/news/who-are-the-top-10-goal-scorers-in-man-utd-history-rooney-charlton-law-best-giggs",
+      "publisher": "Manchester United",
+      "kind": "official",
+      "publishedOn": "2023-01-21",
+      "checkedAt": "2026-11-22T18:19:00+02:00",
+      "noteAr": "القائمة الرسمية الكاملة تطابق الأسماء والأهداف العشرة المنشورة هنا، بما فيها التعادلات."
+    },
+    {
+      "id": "bruno-current-career",
+      "title": "Bruno Fernandes: United Career",
+      "url": "https://www.manutd.com/en/teams/mens-team/bruno-fernandes",
+      "publisher": "Manchester United",
+      "kind": "official",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T18:19:00+02:00",
+      "noteAr": "الإحصاء المهني المفتوح وقت الفحص يعرض 113 هدفًا في 341 مباراة؛ لا يخلط بإحصاء الموسم وحده."
+    },
+    {
+      "id": "current-entrant-check",
+      "title": "Manchester United record goal scorers",
+      "url": "https://www.transfermarkt.com/manchester-united/topTorschuetzen/verein/985",
+      "publisher": "Transfermarkt",
+      "kind": "reference",
+      "publishedOn": null,
+      "checkedAt": "2026-11-22T18:19:00+02:00",
+      "noteAr": "للفحص المحدود لدخول اللاعبين الأحدث فقط: راشفورد 138 وبرونو 113. لا تستخدم أرقام القاعدة التاريخية بدلا من عد النادي."
     }
   ],
   "unresolved": [
-    "تدقيق النطاق الدقيق لكأس مانشستر الإقليمي قبل جمعه ضمن بطولات الفريق الأول.",
-    "قائمة الهدافين كاملة من عشرة أسماء، لكن تاريخ تحديث مصدرها الأساسي 1 ديسمبر 2024، لا نوفمبر 2026."
+    "تدقيق النطاق الدقيق لكأس مانشستر الإقليمي قبل جمعه ضمن بطولات الفريق الأول."
   ],
   "history": {
     "textAr": "تأسس النادي عام 1878 باسم نيوتن هيث، واتخذ اسم مانشستر يونايتد عام 1902، ثم انتقل إلى أولد ترافورد عام 1910. وبعد كارثة ميونيخ عام 1958 أعاد مات بسبي بناء الفريق، حتى أصبح يونايتد أول ناد إنجليزي يفوز بكأس أوروبا عام 1968. وبدأ تعيين أليكس فيرجسون عام 1986 حقبة طويلة من النجاح المحلي والأوروبي.",
@@ -296,9 +325,9 @@
     "noteAr": "بطولات الفريق الأول الرئيسية مثبتة وفق خزينة النادي الرسمية. لم تُضم كأس مانشستر الإقليمية إلى الجدول لأن فصل مشاركات الفريق الأول عن الرديف في سجلها التاريخي لم يُحسم."
   },
   "topScorers": {
-    "scopeAr": "أهداف الفريق الأول في المسابقات التنافسية بحسب طريقة المصدر الموضحة أدناه.",
+    "scopeAr": "أهداف الفريق الأول التنافسية بحسب عد النادي الرسمي، مع الحفاظ على تعادلات الترتيب.",
     "asOf": "2024-12-01",
-    "complete": false,
+    "complete": true,
     "items": [
       {
         "rank": 1,
@@ -306,7 +335,8 @@
         "nameEn": "Wayne Rooney",
         "goals": 253,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -315,7 +345,8 @@
         "nameEn": "Bobby Charlton",
         "goals": 249,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -324,7 +355,8 @@
         "nameEn": "Denis Law",
         "goals": 237,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -333,7 +365,8 @@
         "nameEn": "Jack Rowley",
         "goals": 211,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -342,7 +375,8 @@
         "nameEn": "Dennis Viollet",
         "goals": 179,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -351,7 +385,8 @@
         "nameEn": "George Best",
         "goals": 179,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -360,7 +395,8 @@
         "nameEn": "Joe Spence",
         "goals": 168,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -369,7 +405,8 @@
         "nameEn": "Ryan Giggs",
         "goals": 168,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -378,7 +415,8 @@
         "nameEn": "Mark Hughes",
         "goals": 163,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       },
       {
@@ -387,11 +425,17 @@
         "nameEn": "Paul Scholes",
         "goals": 155,
         "sourceIds": [
-          "scorers"
+          "scorers",
+          "official-top-ten"
         ]
       }
     ],
-    "noteAr": "القائمة المنشورة محدثة في 1 ديسمبر 2024، وتؤيدها صفحة السجلات المقروءة وقت الفحص. التعادل في المركزين الخامس والسابع محفوظ. لم تُعد هذه قائمة رسمية مؤرخة بنوفمبر 2026."
+    "noteAr": "الأرقام والأسماء العشرة تطابق قائمة النادي المؤرخة 21 يناير 2023، ويؤيدها المرجع المنشور في ديسمبر 2024. فحص دخول الأسماء الأحدث في 22 نوفمبر 2026 لم يظهر اسمًا جديدًا يتجاوز حد شولز، 155: رصيد برونو المهني الرسمي 113، وراشفورد 138 في قاعدة المقارنة الحالية. هذا تحديث لفحص الدخول، وليس ادعاء أن النادي أعاد نشر قائمته التاريخية اليوم. لم نخلط أرقام القاعدة التاريخية المختلفة بعد النادي.",
+    "entrantCheckedAt": "2026-11-22T18:19:00+02:00",
+    "entrantSourceIds": [
+      "bruno-current-career",
+      "current-entrant-check"
+    ]
   },
   "mostDecorated": {
     "scopeAr": "ألقاب اللاعب مع مانشستر يونايتد فقط، بما يشمل الألقاب الرسمية خارج البطولات الكبرى.",
@@ -424,7 +468,8 @@
     "sourceIds": [
       "result",
       "fixtures"
-    ]
+    ],
+    "checkedAt": "2026-11-22T17:50:00+02:00"
   },
   "latestTrophy": {
     "status": "verified",
