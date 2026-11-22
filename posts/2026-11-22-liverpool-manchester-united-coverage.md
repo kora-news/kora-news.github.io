@@ -23,7 +23,7 @@ image: liverpool-manchester-united-coverage.webp
 
 ## التشكيلان الرسميان قبل البداية
 
-- [تشكيل ليفربول الرسمي](liverpool-manchester-united-official-lineup.html).
-- [تشكيل مانشستر يونايتد الرسمي](manchester-united-liverpool-official-lineup.html).
+- [تشكيل ليفربول الرسمي](https://kora-news.github.io/posts/liverpool-manchester-united-official-lineup.html).
+- [تشكيل مانشستر يونايتد الرسمي](https://kora-news.github.io/posts/manchester-united-liverpool-official-lineup.html).
 
 الصورة بطاقة تحريرية من كورة نيوز لتلخيص التحديث المؤرخ، وليست صورة من المباراة أو بيانًا صادرًا عن أحد الناديين.
