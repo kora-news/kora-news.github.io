@@ -107,7 +107,7 @@
     }
   ],
   "photo": {
-    "file": "gavi-barcelona-portrait.png",
+    "file": "gavi-barcelona-official-20261123.png",
     "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "barcelona",
     "rightsStatus": "reuse-permission-unconfirmed",
@@ -117,6 +117,6 @@
     "sourceEdition": "2026/27 owning-club portrait",
     "sourceEditionNote": "Catalog edition, not verified photography date.",
     "modifications": "Trimmed transparent padding; no face or shirt changes.",
-    "checkedAt": "2026-11-23T21:28:00+02:00"
+    "checkedAt": "2026-11-23T21:30:00+02:00"
   }
 }

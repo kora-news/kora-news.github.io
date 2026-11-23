@@ -108,16 +108,16 @@
     }
   ],
   "photo": {
-    "file": "dani-olmo-barcelona-portrait.png",
+    "file": "dani-olmo-barcelona-official-20261123.png",
     "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "barcelona",
     "rightsStatus": "reuse-permission-unconfirmed",
-    "sourceUrl": "https://www.footylogos.com/player-pngs/dani-olmo",
-    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/fd42ab23273729dc239c5cb6824f27f36958ccf134e429b5bdb4893759fa59fb/dani-olmo-fc-barcelona-2026-27-portrait-footylogos.png",
+    "sourceUrl": "https://www.fcbarcelona.com/en/football/first-team/players/16677/dani-olmo",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/07/21/d0846fb5-c160-474f-a5ea-b5c404e9c5cd/20-Olmo.png?width=670&height=790",
     "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
-    "sourceEdition": "2026/27",
+    "sourceEdition": "2026/27 owning-club portrait",
     "sourceEditionNote": "Catalog edition, not verified photography date.",
-    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
-    "checkedAt": "2026-11-23T21:25:00+02:00"
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:30:00+02:00"
   }
 }

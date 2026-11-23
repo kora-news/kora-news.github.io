@@ -15,17 +15,17 @@
   "summaryAr": "بدأ كوندي في أندية محلية قرب بوردو قبل صعوده لفريق بوردو الأول. انتقل إلى إشبيلية في 2019 ثم برشلونة في 2022، وجدد عقده حتى 2030.",
   "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
   "photo": {
-    "file": "jules-kounde-barcelona-portrait.png",
+    "file": "jules-kounde-barcelona-official-20261123.png",
     "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "barcelona",
     "rightsStatus": "reuse-permission-unconfirmed",
-    "sourceUrl": "https://www.footylogos.com/player-pngs/jules-kounde",
-    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/e6331ee84e667965a9c6742358595a46fad2a6d5e28088480b39b049a6ac33e0/jules-kounde-fc-barcelona-2026-27-portrait-footylogos.png",
+    "sourceUrl": "https://www.fcbarcelona.com/en/football/first-team/squad/15552/jules-kounde",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/07/21/6e0885df-ddcc-44c7-b55f-a421606004c0/23-Kounde.png?width=670&height=790",
     "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
-    "sourceEdition": "2026/27",
+    "sourceEdition": "2026/27 owning-club portrait",
     "sourceEditionNote": "Catalog edition, not verified photography date.",
-    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
-    "checkedAt": "2026-11-23T21:25:00+02:00"
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:30:00+02:00"
   },
   "sources": [
     {

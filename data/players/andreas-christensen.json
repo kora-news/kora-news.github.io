@@ -120,16 +120,16 @@
     }
   ],
   "photo": {
-    "file": "andreas-christensen-barcelona-portrait.png",
+    "file": "andreas-christensen-barcelona-official-20261123.png",
     "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "barcelona",
     "rightsStatus": "reuse-permission-unconfirmed",
-    "sourceUrl": "https://www.footylogos.com/player-pngs/andreas-christensen",
-    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/111428e17f40d0e8971b820c8a095b5e12a0da5f39e5846cc5d407175e854a04/andreas-christensen-fc-barcelona-2026-27-portrait-footylogos.png",
+    "sourceUrl": "https://www.fcbarcelona.com/en/football/first-team/players/4495/andreas-christensen",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/07/21/6e0054f3-5ae7-4b3a-a92c-af81cee28235/15-Christensen.png?width=670&height=790",
     "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
-    "sourceEdition": "2026/27",
+    "sourceEdition": "2026/27 owning-club portrait",
     "sourceEditionNote": "Catalog edition, not verified photography date.",
-    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
-    "checkedAt": "2026-11-23T21:25:00+02:00"
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:30:00+02:00"
   }
 }
