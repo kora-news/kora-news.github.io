@@ -1,0 +1,98 @@
+{
+  "id": "jorrel-hato",
+  "nameAr": "يوريل هاتو",
+  "nameEn": "Jorrel Hato",
+  "squadName": "Jorrel Hato",
+  "clubId": "chelsea",
+  "birthDate": "2006-03-07",
+  "nationalityAr": "هولندي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في سبارتا روتردام ثم أياكس منذ 2018. وصل للفريق الأول في 2023 وانضم لتشيلسي في أغسطس 2025 حتى 2032.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى 2018",
+      "clubAr": "سبارتا روتردام",
+      "typeAr": "ناشئون",
+      "textAr": "تكون قبل انتقاله لأياكس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2023",
+      "clubAr": "أياكس",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "تدرج في الأكاديمية وظهر مع الرديف في 2022.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "أياكس",
+      "typeAr": "تصعيد للفريق الأول",
+      "textAr": "ظهر رسميًا في يناير 2023 وحمل شارة القيادة لاحقًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 2032.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/jorrel-hato"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Jorrel_Hato"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

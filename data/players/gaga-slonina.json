@@ -1,0 +1,130 @@
+{
+  "id": "gaga-slonina",
+  "nameAr": "غاغا سلونينا",
+  "nameEn": "Gaga Slonina",
+  "squadName": "Gaga Slonina",
+  "clubId": "chelsea",
+  "birthDate": "2004-05-15",
+  "nationalityAr": "أمريكي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "انتقل من شيكاغو فاير في أغسطس 2022 وبقي معارًا حتى نهاية موسم الدوري الأمريكي. أعير ليوبين ثم بارنسلي، وعاد لتشيلسي.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى أغسطس 2022",
+      "clubAr": "شيكاغو فاير",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "وصل للفريق الأول قبل الانتقال لإنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لست سنوات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بقية موسم 2022",
+      "clubAr": "شيكاغو فاير",
+      "typeAr": "إعارة",
+      "textAr": "عاد مؤقتًا قبل الوصول للندن مطلع 2023.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2022/23",
+      "clubAr": "تشيلسي تحت 21 عامًا",
+      "typeAr": "تطوير",
+      "textAr": "شارك مع فريق التطوير.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "كاس يوبين",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا في بلجيكا.",
+      "sourceIds": [
+        "eupen"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "بارنسلي",
+      "typeAr": "إعارة انتهت بالاستدعاء",
+      "textAr": "لعب 14 مباراة في الدوري والكؤوس قبل العودة.",
+      "sourceIds": [
+        "recall"
+      ]
+    },
+    {
+      "whenAr": "2025–2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة",
+      "textAr": "كان ضمن قائمة كأس العالم للأندية ودخل قوائم مباريات رسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/gabriel-slonina"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "eupen",
+      "title": "تشيلسي: إعارة سلونينا ليوبين",
+      "url": "https://www.chelseafc.com/en/news/article/slonina-seals-loan-switch"
+    },
+    {
+      "id": "recall",
+      "title": "تشيلسي: عودة سلونينا من بارنسلي",
+      "url": "https://www.chelseafc.com/en/news/article/slonina-returns-from-barnsley"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

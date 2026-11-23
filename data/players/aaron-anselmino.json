@@ -1,0 +1,129 @@
+{
+  "id": "aaron-anselmino",
+  "nameAr": "آرون أنسيلمينو",
+  "nameEn": "Aaron Anselmino",
+  "squadName": "Aaron Anselmino",
+  "clubId": "chelsea",
+  "birthDate": "2005-04-29",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "انتقل من بوكا جونيورز في أغسطس 2024 وعاد إليه معارًا حتى مطلع 2025. خاض إعارتين لدورتموند وستراسبورغ في 2025/26 قبل العودة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "خوفينتود أونيدا ثم سبورتيفو رياليكو",
+      "typeAr": "تكوين",
+      "textAr": "محطتاه قبل بوكا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "من سن 12 حتى أغسطس 2024",
+      "clubAr": "بوكا جونيورز",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في يونيو 2023.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لسبع سنوات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024–مطلع 2025",
+      "clubAr": "بوكا جونيورز",
+      "typeAr": "إعارة",
+      "textAr": "عاد مؤقتًا للأرجنتين بعد إتمام البيع.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "بداية رسمية",
+      "textAr": "ظهر أمام بنفيكا بكأس العالم للأندية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025–بداية 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "إعارة",
+      "textAr": "انتهت بعد عشر مشاركات بحسب بطاقة النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2026",
+      "clubAr": "ستراسبورغ",
+      "typeAr": "إعارة",
+      "textAr": "انتقل لفرنسا بعد نهاية الإعارة الألمانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2026/27",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة",
+      "textAr": "عاد للقائمة الحالية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/aaron-anselmino"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. الخانات الخالية في المصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

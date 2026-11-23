@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 209,
+  "profileCount": 229,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1704,9 +1704,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "emiliano-martinez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1715,9 +1715,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "teddy-sharman-lowe",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1726,9 +1726,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mike-penders",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1737,9 +1737,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "gaga-slonina",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1748,9 +1748,9 @@
       "positionAr": "ظهير / جناح خلفي",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marco-palestra",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1759,9 +1759,9 @@
       "positionAr": "قلب دفاع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "wesley-fofana",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1770,9 +1770,9 @@
       "positionAr": "قلب دفاع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "maxence-lacroix",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1781,9 +1781,9 @@
       "positionAr": "قلب دفاع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "levi-colwill",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1792,9 +1792,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jorrel-hato",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1803,9 +1803,9 @@
       "positionAr": "مدافع / جناح خلفي / وسط",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "reece-james",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1814,9 +1814,9 @@
       "positionAr": "ظهير أيمن",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "malo-gusto",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1825,9 +1825,9 @@
       "positionAr": "ظهير أيسر",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pep-chavarria",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1836,9 +1836,9 @@
       "positionAr": "قلب دفاع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "aaron-anselmino",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1847,9 +1847,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "josh-acheampong",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1858,9 +1858,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "olutayo-subuloye",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1869,9 +1869,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "valentin-barco",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1902,9 +1902,9 @@
       "positionAr": "وسط مركزي",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "reggie-watson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1913,9 +1913,9 @@
       "positionAr": "وسط هجومي",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mahdi-nicoll-jazuli",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1968,9 +1968,9 @@
       "positionAr": "جناح",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jamie-gittens",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1979,9 +1979,9 @@
       "positionAr": "وسط هجومي / جناح",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "morgan-rogers",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",

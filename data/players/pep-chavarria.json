@@ -1,0 +1,102 @@
+{
+  "id": "pep-chavarria",
+  "nameAr": "بيب تشافاريا",
+  "nameEn": "Pep Chavarria",
+  "squadName": "Pep Chavarria",
+  "clubId": "chelsea",
+  "birthDate": "1998-04-10",
+  "nationalityAr": "إسباني",
+  "positionAr": "ظهير أيسر",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "بدأ في فيغيريس ثم أولوت وسرقسطة ورايو فاييكانو. انضم لتشيلسي في أغسطس 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2018",
+      "clubAr": "فيغيريس",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في الثامنة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2018–2020",
+      "clubAr": "أولوت",
+      "typeAr": "انتقال",
+      "textAr": "خاض 52 مباراة قبل سرقسطة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2020–2022",
+      "clubAr": "ريال سرقسطة",
+      "typeAr": "انتقال",
+      "textAr": "قضى موسمين في الدرجة الثانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022–2026",
+      "clubAr": "رايو فاييكانو",
+      "typeAr": "انتقال",
+      "textAr": "لعب أربعة أعوام في الدوري الإسباني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 2031.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/pep-chavarria"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

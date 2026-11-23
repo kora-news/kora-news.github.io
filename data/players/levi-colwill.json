@@ -1,0 +1,98 @@
+{
+  "id": "levi-colwill",
+  "nameAr": "ليفي كولويل",
+  "nameEn": "Levi Colwill",
+  "squadName": "Levi Colwill",
+  "clubId": "chelsea",
+  "birthDate": "2003-02-26",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في أكاديمية تشيلسي منذ تحت 9 أعوام. أعير لهدرسفيلد ثم برايتون قبل العودة للفريق الأول في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "تحت 9 أعوام–2021",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج عبر برنامج مراكز التطوير.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "هدرسفيلد تاون",
+      "typeAr": "إعارة",
+      "textAr": "لعب موسمًا في الدرجة الأولى الإنجليزية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "برايتون",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا في الدوري الممتاز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة وبداية الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول أمام ليفربول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/levi-colwill"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Levi_Colwill"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "mahdi-nicoll-jazuli",
+  "nameAr": "مهدي نيكول جازولي",
+  "nameEn": "Mahdi Nicoll-Jazuli",
+  "squadName": "Mahdi Nicoll-Jazuli",
+  "clubId": "chelsea",
+  "birthDate": "2010-01-06",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط هجومي",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في تشيلسي منذ فئة تحت 8 أعوام. لعب للشباب والرديف ثم ظهر في الدوري الممتاز في سبتمبر 2026 وهو في السادسة عشرة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من فئة تحت 8 أعوام",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "تشيلسي تحت 18 وتحت 21 عامًا",
+      "typeAr": "تطوير",
+      "textAr": "ساهم في لقب الدوري الوطني للشباب ولعب مع الرديف.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "جولة تحضيرية",
+      "textAr": "شارك في الوديات قبل بدايته الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "18 سبتمبر 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك بديلًا أمام برنتفورد وأصبح أصغر لاعب للنادي في الدوري الممتاز وفق البطاقة الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/mahdi-nicoll-jazuli"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

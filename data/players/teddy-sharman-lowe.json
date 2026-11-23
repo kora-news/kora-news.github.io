@@ -1,0 +1,153 @@
+{
+  "id": "teddy-sharman-lowe",
+  "nameAr": "تيدي شارمان لو",
+  "nameEn": "Teddy Sharman-Lowe",
+  "squadName": "Teddy Sharman-Lowe",
+  "clubId": "chelsea",
+  "birthDate": "2003-03-30",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "انضم من بيرتون ألبيون في سبتمبر 2020. خاض إعارات لبيرتون وهافانت وبروملي ودونكاستر وبولتون، وعاد في يناير 2026. عقده حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل سبتمبر 2020",
+      "clubAr": "ليستر سيتي ثم بيرتون ألبيون",
+      "typeAr": "ناشئون",
+      "textAr": "مر بأكاديميتي الناديين.",
+      "sourceIds": [
+        "deal"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم وهو في السابعة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "بيرتون ألبيون",
+      "typeAr": "إعارة",
+      "textAr": "عاد فور انتقاله قبل الرجوع لتشيلسي في يناير.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2022/23",
+      "clubAr": "هافانت وواترلوفيل",
+      "typeAr": "إعارة",
+      "textAr": "لعب في الدوري الوطني الجنوبي.",
+      "sourceIds": [
+        "havant"
+      ]
+    },
+    {
+      "whenAr": "بعد هافانت وقبل دونكاستر",
+      "clubAr": "بروملي",
+      "typeAr": "إعارة",
+      "textAr": "إحدى محطات تطويره.",
+      "sourceIds": [
+        "deal"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "دونكاستر روفرز",
+      "typeAr": "إعارة",
+      "textAr": "لعب كل دقيقة في طريق الفريق للقب الدرجة الرابعة.",
+      "sourceIds": [
+        "deal"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع حتى 2028 قبل إعارة بولتون.",
+      "sourceIds": [
+        "deal"
+      ]
+    },
+    {
+      "whenAr": "2025–14 يناير 2026",
+      "clubAr": "بولتون واندررز",
+      "typeAr": "إعارة",
+      "textAr": "انتهت الإعارة باستدعائه لتشيلسي.",
+      "sourceIds": [
+        "recall"
+      ]
+    },
+    {
+      "whenAr": "يناير 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد ودخل قوائم الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/teddy-sharman-lowe"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "deal",
+      "title": "تشيلسي: عقد جديد وإعارة لبولتون",
+      "url": "https://www.chelseafc.com/en/news/article/new-deal-and-loan-move-for-teddy-sharman-lowe"
+    },
+    {
+      "id": "havant",
+      "title": "تشيلسي: إعارة حارسين من الأكاديمية",
+      "url": "https://www.chelseafc.com/en/news/article/two-academy-goalkeepers-go-on-loan"
+    },
+    {
+      "id": "recall",
+      "title": "بولتون: نهاية إعارة شارمان لو في 14 يناير 2026",
+      "url": "https://www.bwfc.co.uk/news/sharman-lowe-ends-wanderers-stay"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. الخانات الخالية في المصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

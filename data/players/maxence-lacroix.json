@@ -1,0 +1,93 @@
+{
+  "id": "maxence-lacroix",
+  "nameAr": "ماكسينس لاكروا",
+  "nameEn": "Maxence Lacroix",
+  "squadName": "Maxence Lacroix",
+  "clubId": "chelsea",
+  "birthDate": "2000-04-06",
+  "nationalityAr": "فرنسي",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تكون في سوشو وانتقل لفولفسبورغ في أغسطس 2020. لعب موسمين مع كريستال بالاس ثم انضم لتشيلسي في يوليو 2026 حتى 2032.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2020",
+      "clubAr": "سوشو",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "تدرج بالأكاديمية وخاض 28 مباراة مع الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2020–2024",
+      "clubAr": "فولفسبورغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة أعوام في ألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024–2026",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب موسمين قبل الانتقال عبر لندن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا حتى 2032.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/maxence-lacroix"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

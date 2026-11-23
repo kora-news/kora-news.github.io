@@ -1,0 +1,93 @@
+{
+  "id": "marco-palestra",
+  "nameAr": "ماركو باليسترا",
+  "nameEn": "Marco Palestra",
+  "squadName": "Marco Palestra",
+  "clubId": "chelsea",
+  "birthDate": "2005-03-03",
+  "nationalityAr": "إيطالي",
+  "positionAr": "ظهير وجناح خلفي",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في أتالانتا وظهر أوروبيًا في ديسمبر 2023. قضى 2025/26 معارًا لكالياري، ثم انضم لتشيلسي في يوليو 2026 حتى 2033.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2023",
+      "clubAr": "أتالانتا",
+      "typeAr": "تكوين ورديف وفريق أول",
+      "textAr": "تطور بالأكاديمية ولعب للرديف والفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "ديسمبر 2023",
+      "clubAr": "أتالانتا",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر في الدوري الأوروبي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "كالياري",
+      "typeAr": "إعارة",
+      "textAr": "خاض 37 مباراة في الدوري الإيطالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا حتى 2033.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/marco-palestra"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "reece-james",
+  "nameAr": "ريس جيمس",
+  "nameEn": "Reece James",
+  "squadName": "Reece James",
+  "clubId": "chelsea",
+  "birthDate": "1999-12-08",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "ظهير ولاعب وسط",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرب في تشيلسي منذ السادسة، وأعير لويغان في 2018/19 قبل بداية الفريق الأول في سبتمبر 2019. أصبح قائدًا في أغسطس 2023 وعقده الحالي حتى 2032.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من السادسة",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج عبر مراكز التطوير والأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "ويغان أتلتيك",
+      "typeAr": "إعارة",
+      "textAr": "اكتسب خبرة الفريق الأول خارج تشيلسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2019",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة وبداية رسمية",
+      "textAr": "ظهر مع الفريق الأول في كأس الرابطة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "تعيين قائد",
+      "textAr": "تولى شارة قيادة الفريق.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "العقد الحالي في نوفمبر 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "عقد",
+      "textAr": "تسجل بطاقة النادي ارتباطه حتى 2032.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/reece-james"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Reece_James"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

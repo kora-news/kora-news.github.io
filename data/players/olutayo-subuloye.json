@@ -1,0 +1,111 @@
+{
+  "id": "olutayo-subuloye",
+  "nameAr": "أولوتايو سوبولوي",
+  "nameEn": "Olutayo Subuloye",
+  "squadName": "Olutayo Subuloye",
+  "clubId": "chelsea",
+  "birthDate": "2007-12-18",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تكون في برايتون قبل انضمامه لأكاديمية تشيلسي تحت 12 عامًا. وقع أول عقد احترافي أواخر 2024، ومدد في يناير 2026 حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل فئة تحت 12 عامًا",
+      "clubAr": "برايتون",
+      "typeAr": "ناشئون",
+      "textAr": "تكون قبل الانتقال لتشيلسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "من فئة تحت 12 عامًا",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال أكاديمية",
+      "textAr": "تطور من لاعب وسط إلى قلب دفاع.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أواخر 2024",
+      "clubAr": "تشيلسي",
+      "typeAr": "أول عقد احترافي",
+      "textAr": "وقع بعد تدرجه في فئات الناشئين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "تشيلسي تحت 18 عامًا",
+      "typeAr": "قيادة وتطوير",
+      "textAr": "قاد فريق الشباب للقب الدوري الوطني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "تمديد عقد",
+      "textAr": "جدد حتى 2030.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "تجربة مع الفريق الأول",
+      "textAr": "شارك في الجولة التحضيرية؛ لا نعد الوديات بداية رسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/olutayo-subuloye"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. الخانات الخالية في المصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

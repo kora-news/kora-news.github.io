@@ -1,0 +1,107 @@
+{
+  "id": "mike-penders",
+  "nameAr": "مايك بيندرس",
+  "nameEn": "Mike Penders",
+  "squadName": "Mike Penders",
+  "clubId": "chelsea",
+  "birthDate": "2005-07-31",
+  "nationalityAr": "بلجيكي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "اتفق تشيلسي على ضمه من غينك في أغسطس 2024، لكنه انضم فعليًا في صيف 2025. أعير لستراسبورغ في 2025/26 وعاد ليظهر مع تشيلسي في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى صيف 2025",
+      "clubAr": "غينك",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في يوليو 2024.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024",
+      "clubAr": "تشيلسي",
+      "typeAr": "اتفاق انتقال مستقبلي",
+      "textAr": "أعلن الاتفاق على وصوله في الصيف التالي بعقد حتى 2032؛ بقاؤه في غينك ليس إعارة مثبتة.",
+      "sourceIds": [
+        "agreement"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "انضمام فعلي",
+      "textAr": "انضم للفريق وشارك بقائمة كأس العالم للأندية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "ستراسبورغ",
+      "typeAr": "إعارة",
+      "textAr": "قضى الموسم معارًا في فرنسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة وبداية رسمية",
+      "textAr": "حافظ على نظافة شباكه أمام لوتون في كأس الرابطة.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/mike-penders"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "agreement",
+      "title": "تشيلسي: الاتفاق على ضم بيندرس في الصيف التالي",
+      "url": "https://www.chelseafc.com/en/news/article/penders-to-join-chelsea"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

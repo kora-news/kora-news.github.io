@@ -1,0 +1,157 @@
+{
+  "id": "emiliano-martinez",
+  "nameAr": "إيميليانو مارتينيز",
+  "nameEn": "Emiliano Martinez",
+  "squadName": "Emiliano Martinez",
+  "clubId": "chelsea",
+  "birthDate": "1992-09-02",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تكون في إنديبندينتي قبل أرسنال في 2010. خاض ست إعارات ثم انتقل لأستون فيلا في 2020، وانضم لتشيلسي في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى 2010",
+      "clubAr": "إنديبندينتي",
+      "typeAr": "ناشئون",
+      "textAr": "تكون في الأرجنتين قبل الانتقال لإنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2010–2020",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال وتدرج",
+      "textAr": "وصل وهو في السابعة عشرة، وتخللت فترته عدة إعارات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2012",
+      "clubAr": "أوكسفورد يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "إعارة قصيرة من أرسنال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "شيفيلد وينزداي",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا من أرسنال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015",
+      "clubAr": "روثرهام يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "إعارة حتى نهاية الموسم.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "وولفرهامبتون",
+      "typeAr": "إعارة",
+      "textAr": "قضى الموسم معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "خيتافي",
+      "typeAr": "إعارة",
+      "textAr": "خاض تجربة في الدوري الإسباني.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "ريدينغ",
+      "typeAr": "إعارة",
+      "textAr": "عاد بعدها لأرسنال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020–أغسطس 2026",
+      "clubAr": "أستون فيلا",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ستة مواسم مع النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "30 أغسطس 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد أستون فيلا إتمام انتقاله الدائم.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/emiliano-martinez"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez"
+    },
+    {
+      "id": "arrival",
+      "title": "أستون فيلا: انتقال مارتينيز لتشيلسي",
+      "url": "https://www.avfc.co.uk/news/2026/august/30/news-martinez-joins-chelsea/"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

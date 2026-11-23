@@ -1,0 +1,93 @@
+{
+  "id": "jamie-gittens",
+  "nameAr": "جيمي غيتنز",
+  "nameEn": "Jamie Gittens",
+  "squadName": "Jamie Gittens",
+  "clubId": "chelsea",
+  "birthDate": "2004-08-08",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "مر بأكاديميتي ريدينغ وتشيلسي قبل مانشستر سيتي في سن 14 عامًا. انتقل لدورتموند في 2020 ثم انضم لتشيلسي في يوليو 2025 حتى 2032.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل سن 14 عامًا",
+      "clubAr": "ريدينغ وتشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "مر بمنظومتي الناشئين قبل مانشستر سيتي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "من سن 14 عامًا حتى 2020",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه في الأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020–2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال وتدرج",
+      "textAr": "وصل للفريق الأول في أواخر موسم 2021/22.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "5 يوليو 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 2032.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/jamie-gittens"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. الخانات الخالية في المصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

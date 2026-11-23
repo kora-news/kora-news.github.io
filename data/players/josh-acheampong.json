@@ -1,0 +1,84 @@
+{
+  "id": "josh-acheampong",
+  "nameAr": "جوش أتشيمبونغ",
+  "nameEn": "Josh Acheampong",
+  "squadName": "Josh Acheampong",
+  "clubId": "chelsea",
+  "birthDate": "2006-05-05",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "انضم لتشيلسي في فئة تحت 8 أعوام. ظهر مع الفريق الأول في مايو 2024، وأصبح عضوًا دائمًا في قائمته خلال الموسم التالي.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من فئة تحت 8 أعوام",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في برنامج مراكز التطوير والأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2 مايو 2024",
+      "clubAr": "تشيلسي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر قبل ثلاثة أيام من بلوغه الثامنة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "منتصف موسم 2024/25",
+      "clubAr": "تشيلسي",
+      "typeAr": "تصعيد دائم",
+      "textAr": "أكد النادي انضمامه الدائم لقائمة الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/josh-acheampong"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

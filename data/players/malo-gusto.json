@@ -1,0 +1,107 @@
+{
+  "id": "malo-gusto",
+  "nameAr": "مالو غوستو",
+  "nameEn": "Malo Gusto",
+  "squadName": "Malo Gusto",
+  "clubId": "chelsea",
+  "birthDate": "2003-05-19",
+  "nationalityAr": "فرنسي",
+  "positionAr": "ظهير أيمن",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تكون في فيلفونتين وبورغوان جاليو ثم ليون. اشتراه تشيلسي في يناير 2023 وأعاده لليون معارًا حتى الصيف، ثم بدأ مسيرته في لندن.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012–2016",
+      "clubAr": "فيلفونتين ثم بورغوان جاليو",
+      "typeAr": "ناشئون",
+      "textAr": "تكون محليًا قبل ليون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–يناير 2023",
+      "clubAr": "ليون",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "تدرج حتى الفريق الأول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 2030.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2023",
+      "clubAr": "ليون",
+      "typeAr": "إعارة",
+      "textAr": "عاد ليكمل الموسم بعد إتمام البيع.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة وبداية رسمية",
+      "textAr": "شارك في افتتاح موسم الدوري أمام ليفربول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/malo-gusto"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Malo_Gusto"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
