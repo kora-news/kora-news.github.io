@@ -122,7 +122,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "pape-matar-sarr-juventus-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "juventus",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.juventus.com/en/teams/first-team-men/squad/pape-matar-sarr",
+    "sourceAssetUrl": "https://www.juventus.com/images/image/private/t_portrait_mobile/f_png/dev/dplpnjluegp6osddkxp5.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:01:00+02:00"
   }
 }
