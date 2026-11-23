@@ -1,0 +1,88 @@
+{
+  "id": "martin-zubimendi",
+  "nameAr": "مارتن زوبيميندي",
+  "nameEn": "Martín Zubimendi",
+  "squadName": "Martin Zubimendi",
+  "clubId": "arsenal",
+  "birthDate": "1999-02-02",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أكاديمية ريال سوسيداد حتى الفريق الأول، وساهم في الفوز بكأس الملك لنسخة 2019/20. انتقل إلى أرسنال في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الأكاديمية ثم الفريق الأول",
+      "clubAr": "ريال سوسيداد",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "وصل من أكاديمية النادي إلى الفريق الأول وخاض 236 مباراة بكل المسابقات قبل الرحيل.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2021",
+      "clubAr": "ريال سوسيداد",
+      "typeAr": "تطور وتحقق لقب",
+      "textAr": "شارك في الفوز بنهائي كأس الملك المؤجل لنسخة 2019/20.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "6 يوليو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي انضمامه من سوسيداد بعقد طويل الأمد، دون تاريخ نهاية محدد في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم زوبيميندي ومسيرته",
+      "url": "https://www.arsenal.com/news/martin-zubimendi-signs-for-arsenal-a5Kw85i192Hy"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإسباني: بيانات زوبيميندي",
+      "url": "https://rfef.es/es/selecciones/jugadores/martin-zubimendi"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

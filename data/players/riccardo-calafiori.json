@@ -1,0 +1,106 @@
+{
+  "id": "riccardo-calafiori",
+  "nameAr": "ريكاردو كالافيوري",
+  "nameEn": "Riccardo Calafiori",
+  "squadName": "Riccardo Calafiori",
+  "clubId": "arsenal",
+  "birthDate": "2002-05-19",
+  "nationalityAr": "إيطالي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في روما وخاض إعارة إلى جنوى، ثم لعب لبازل وبولونيا. انتقل إلى أرسنال في يوليو 2024 بعقد طويل الأمد.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "12 عامًا في الأكاديمية ثم الفريق الأول",
+      "clubAr": "روما",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج في النادي الإيطالي حتى الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "جنوى",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا من روما لاكتساب الخبرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022",
+      "clubAr": "بازل",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى سويسرا وقضى موسمًا في الدوري.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "بولونيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد إلى إيطاليا وساهم في التأهل لدوري الأبطال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "29 يوليو 2024",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه من بولونيا بعقد طويل الأمد، دون تاريخ نهاية في البيان المفحوص.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم كالافيوري ومسيرته",
+      "url": "https://www.arsenal.com/news/riccardo-calafiori-signs-for-arsenal-aZ8S46t1ZKPZ"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: بيانات كالافيوري",
+      "url": "https://www.uefa.com/european-qualifiers/teams/players/250113392--riccardo-calafiori/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

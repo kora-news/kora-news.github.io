@@ -1,0 +1,106 @@
+{
+  "id": "mikel-merino",
+  "nameAr": "ميكيل ميرينو",
+  "nameEn": "Mikel Merino",
+  "squadName": "Mikel Merino",
+  "clubId": "arsenal",
+  "birthDate": "1996-06-22",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "بدأ في أوساسونا ولعب لدورتموند ونيوكاسل قبل ريال سوسيداد. انضم إلى أرسنال في أغسطس 2024 بعد ستة مواسم في سوسيداد.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم الفريق الأول",
+      "clubAr": "أوساسونا",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج في النادي وخاض 67 مباراة مع الفريق الأول قبل الرحيل.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2016",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "أمضى موسمًا وفاز بكأس ألمانيا في 2017.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2017",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "إعارة ثم انتقال دائم",
+      "textAr": "بدأ معارًا وتحولت الصفقة لانتقال دائم بعد أشهر قليلة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2024",
+      "clubAr": "ريال سوسيداد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من نيوكاسل وقضى ستة مواسم، وفاز بكأس الملك لنسخة 2020.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "27 أغسطس 2024",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعقد طويل الأمد من ريال سوسيداد، دون نهاية محددة في البيان المفحوص.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم ميرينو ومسيرته",
+      "url": "https://www.arsenal.com/news/mikel-merino-signs-for-arsenal-on-long-term-deal-ak58I4O2fy7t"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإسباني: بيانات ميرينو",
+      "url": "https://rfef.es/es/selecciones/jugadores/mikel-merino"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

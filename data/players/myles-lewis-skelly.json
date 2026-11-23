@@ -1,0 +1,111 @@
+{
+  "id": "myles-lewis-skelly",
+  "nameAr": "مايلز لويس سكيلي",
+  "nameEn": "Myles Lewis-Skelly",
+  "squadName": "Myles Lewis-Skelly",
+  "clubId": "arsenal",
+  "birthDate": "2006-09-26",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "انضم لأكاديمية أرسنال في الثامنة وتدرج حتى الفريق الأول. بدأ بالدوري أمام مانشستر سيتي في سبتمبر 2024 وجدد عقده في يونيو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن 8 سنوات",
+      "clubAr": "أكاديمية أرسنال",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الفئات السنية وصولًا لفريق تحت 18 عامًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "أرسنال تحت 18 عامًا",
+      "typeAr": "تطوير",
+      "textAr": "ساهم في الوصول لنهائي كأس الاتحاد للشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بعد بلوغ 17 عامًا في 2023",
+      "clubAr": "أرسنال",
+      "typeAr": "أول عقد احترافي",
+      "textAr": "وقع عقده الأول بعد مسيرته في الأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2024",
+      "clubAr": "أرسنال",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك أمام مانشستر سيتي بالدوري، ثم بدأ أمام بولتون في كأس الرابطة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "26 يونيو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا طويل الأمد دون تحديد نهايته في إعلان النادي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة لويس سكيلي ومسيرته",
+      "url": "https://www.arsenal.com/fixtures/men/players/myles-lewis-skelly-aIsu57v3pDqR"
+    },
+    {
+      "id": "contract",
+      "title": "أرسنال: تجديد عقد لويس سكيلي",
+      "url": "https://www.arsenal.com/news/myles-lewis-skelly-signs-new-contract-ahWI81H0dt96"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: ميلاد لويس سكيلي",
+      "url": "https://www.uefa.com/under21/teams/players/250181082--myles-lewis-skelly/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

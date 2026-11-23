@@ -1,0 +1,120 @@
+{
+  "id": "eberechi-eze",
+  "nameAr": "إيبيريتشي إيزي",
+  "nameEn": "Eberechi Eze",
+  "squadName": "Eberechi Eze",
+  "clubId": "arsenal",
+  "birthDate": "1998-06-29",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "مر بأكاديميات أرسنال وفولهام وريدينغ وميلوول، ثم كوينز بارك رينجرز وإعارة لويكومب. لعب لكريستال بالاس منذ 2020 قبل العودة لأرسنال في أغسطس 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "أرسنال ثم فولهام وريدينغ وميلوول",
+      "typeAr": "ناشئون",
+      "textAr": "يوثق الاتحاد الإنجليزي للرابطة مساره في الأكاديميات الأربع قبل الاحتراف.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "2016",
+      "clubAr": "كوينز بارك رينجرز",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى النادي اللندني قبل تثبيت نفسه بالفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الأول من 2017/18",
+      "clubAr": "ويكومب واندررز",
+      "typeAr": "إعارة",
+      "textAr": "اكتسب خبرة دوري ليغ تو قبل العودة إلى كوينز بارك رينجرز.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "كوينز بارك رينجرز",
+      "typeAr": "عودة وتطور",
+      "textAr": "تدرج حتى اختياره لاعب الموسم في النادي خلال 2019/20.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020–2025",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى خمسة مواسم وسجل هدف الفوز بنهائي كأس الاتحاد في مايو 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "23 أغسطس 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "عودة بانتقال دائم",
+      "textAr": "عاد للنادي الذي لعب في أكاديميته بعقد طويل الأمد دون تحديد نهايته في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: عودة إيزي إلى أرسنال",
+      "url": "https://www.arsenal.com/news/eberechi-eze-signs-for-arsenal-a4DcX7b8nyZx"
+    },
+    {
+      "id": "early",
+      "title": "رابطة الأندية الإنجليزية: مسيرة إيزي وإعارته لويكومب",
+      "url": "https://www.efl.com/news/2022/february/feature-making-it-look-eze/"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإنجليزي: بيانات إيزي",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/eberechi-eze"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

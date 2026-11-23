@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 99,
+  "profileCount": 106,
   "players": [
     {
       "clubId": "ac-milan",
@@ -395,9 +395,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jurrien-timber",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -406,9 +406,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ezri-konsa",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -417,9 +417,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "riccardo-calafiori",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -428,9 +428,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "myles-lewis-skelly",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -450,9 +450,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "eberechi-eze",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -461,9 +461,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mikel-merino",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -472,9 +472,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "martin-zubimendi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",

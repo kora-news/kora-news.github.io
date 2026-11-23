@@ -1,0 +1,111 @@
+{
+  "id": "jurrien-timber",
+  "nameAr": "يورين تيمبر",
+  "nameEn": "Jurriën Timber",
+  "squadName": "Jurrien Timber",
+  "clubId": "arsenal",
+  "birthDate": "2001-06-17",
+  "nationalityAr": "هولندي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أكاديمية أياكس منذ 2014 ووقع أول عقد احترافي في 2018 ، ثم بدأ مع الفريق الأول في مارس 2020. انتقل إلى أرسنال في يوليو 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2014",
+      "clubAr": "أكاديمية أياكس",
+      "typeAr": "ناشئون",
+      "textAr": "انضم مع شقيقه التوأم كوينتن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "أياكس",
+      "typeAr": "أول عقد احترافي",
+      "textAr": "وقع أول عقد احترافي قبل تصعيده للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مارس 2020",
+      "clubAr": "أياكس",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "بدأ بالفوز 3–1 على هيرنفين وتوج لاحقًا بلقبي دوري وكأس هولندي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2023",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه من أياكس بعقد طويل الأمد دون نهاية محددة في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24 ثم 2024/25",
+      "clubAr": "أرسنال",
+      "typeAr": "بداية وتعافٍ",
+      "textAr": "أصيب بالرباط الصليبي في بدايته بالدوري، ثم عاد وشارك بانتظام في الموسم التالي.",
+      "sourceIds": [
+        "profile"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم تيمبر من أياكس",
+      "url": "https://www.arsenal.com/news/jurrien-timber-signs-for-arsenal-a7EYg1a1uZ71"
+    },
+    {
+      "id": "profile",
+      "title": "أرسنال: صفحة تيمبر الرسمية",
+      "url": "https://www.arsenal.com/fixtures/men/players/jurrien-timber-aTeIX5r0HR7l"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: تاريخ ميلاد تيمبر",
+      "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250101728--jurrien-timber/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

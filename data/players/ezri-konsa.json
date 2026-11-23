@@ -1,0 +1,97 @@
+{
+  "id": "ezri-konsa",
+  "nameAr": "إزري كونسا",
+  "nameEn": "Ezri Konsa",
+  "squadName": "Ezri Konsa",
+  "clubId": "arsenal",
+  "birthDate": "1997-10-23",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:44:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "بدأ احترافيًا مع تشارلتون في 2016 ثم لعب لبرينتفورد وأستون فيلا. انضم إلى أرسنال في أغسطس 2026 بعد سبعة مواسم في فيلا.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016",
+      "clubAr": "تشارلتون أتلتيك",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ مع الفريق الأول واستمر موسمين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "برينتفورد",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسم 2018/19 قبل الانتقال للدوري الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2026",
+      "clubAr": "أستون فيلا",
+      "typeAr": "انتقال دائم",
+      "textAr": "أمضى سبعة مواسم في النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 أغسطس 2026",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه من أستون فيلا بعقد طويل الأمد دون نهاية محددة في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم كونسا ومسيرته",
+      "url": "https://www.arsenal.com/news/ezri-konsa-signs-for-arsenal-anWPZ2q36a9e"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإنجليزي: بيانات كونسا",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/ezri-konsa"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:44:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
