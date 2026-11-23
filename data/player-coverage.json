@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 179,
+  "profileCount": 180,
   "players": [
     {
       "clubId": "ac-milan",
@@ -780,9 +780,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alexander-sorloth",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",

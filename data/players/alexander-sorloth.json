@@ -1,0 +1,182 @@
+{
+  "id": "alexander-sorloth",
+  "nameAr": "ألكسندر سورلوث",
+  "nameEn": "Alexander Sørloth",
+  "squadName": "SØRLOTH",
+  "clubId": "atletico-madrid",
+  "birthDate": "1995-12-05",
+  "nationalityAr": "نرويجي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:34:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "بدأ في روزنبورغ وأعير لبودو غليمت قبل غرونينغن وميتييلاند وبالاس. خاض إعارات لغينت وطرابزون ثم انتقل للايبزيغ وأعير لسوسيداد موسمين. انتقل لفياريال في 2023 وأتلتيكو في 2024 حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2013",
+      "clubAr": "روزنبورغ",
+      "typeAr": "تكوين وبداية احترافية",
+      "textAr": "خاض بدايته الاحترافية في تصفيات الدوري الأوروبي عام 2013.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2015",
+      "clubAr": "بودو غليمت",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا من روزنبورغ.",
+      "sourceIds": [
+        "groningen"
+      ]
+    },
+    {
+      "whenAr": "يناير 2016–2017",
+      "clubAr": "غرونينغن",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه في نوفمبر 2015 على أن ينضم في يناير 2016.",
+      "sourceIds": [
+        "groningen"
+      ]
+    },
+    {
+      "whenAr": "2017–يناير 2018",
+      "clubAr": "ميتييلاند",
+      "typeAr": "انتقال",
+      "textAr": "محطته الدنماركية قبل إنجلترا.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير 2018",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم لبالاس قبل الإعارات.",
+      "sourceIds": [
+        "palace"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "غينت",
+      "typeAr": "إعارة",
+      "textAr": "أعير من بالاس قبل طرابزون.",
+      "sourceIds": [
+        "palace"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2019–2020",
+      "clubAr": "طرابزون سبور",
+      "typeAr": "إعارة",
+      "textAr": "أعير من بالاس إلى النادي التركي.",
+      "sourceIds": [
+        "palace"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد بالاس انتقاله نهائيًا للنادي الألماني.",
+      "sourceIds": [
+        "palace"
+      ]
+    },
+    {
+      "whenAr": "2021/22 ثم 2022/23",
+      "clubAr": "ريال سوسيداد",
+      "typeAr": "إعارتان",
+      "textAr": "خاض موسمين بإعارة من لايبزيغ وفق تقرير عودته في أغسطس 2022.",
+      "sourceIds": [
+        "sociedad"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "فياريال",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم قبل انتقاله اللاحق لأتلتيكو.",
+      "sourceIds": [
+        "arrival",
+        "career"
+      ]
+    },
+    {
+      "whenAr": "3 أغسطس 2024",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لأربع سنوات حتى 2028.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/alexander-s-rloth-2026-2027"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم سورلوث حتى 2028",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-alexander-s-rloth"
+    },
+    {
+      "id": "groningen",
+      "title": "غرونينغن: ضم سورلوث من روزنبورغ بعد إعارة بودو",
+      "url": "https://www.fcgroningen.nl/nieuws/fc-groningen-contracteert-alexander-sorloth/"
+    },
+    {
+      "id": "palace",
+      "title": "بالاس: انتقال سورلوث للايبزيغ وإعاراته السابقة",
+      "url": "https://www.cpfc.co.uk/news/club/soerloth-joins-rb-leipzig/"
+    },
+    {
+      "id": "sociedad",
+      "title": "Football España: إعارة سورلوث الثانية لسوسيداد",
+      "url": "https://www.football-espana.net/2022/08/29/alexander-sorloth-completes-real-sociedad-return"
+    },
+    {
+      "id": "career",
+      "title": "ويكيبيديا: تسلسل مسيرة سورلوث",
+      "url": "https://en.wikipedia.org/wiki/Alexander_S%C3%B8rloth"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:34:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
