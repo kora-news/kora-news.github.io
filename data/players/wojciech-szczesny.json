@@ -1,0 +1,121 @@
+{
+  "id": "wojciech-szczesny",
+  "nameAr": "فويتشيخ تشيزني",
+  "nameEn": "Wojciech Szczęsny",
+  "squadName": "Wojciech Szczesny",
+  "clubId": "barcelona",
+  "birthDate": "1990-04-18",
+  "nationalityAr": "بولندي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:02:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "لعب لأرسنال مع إعارتين إلى برنتفورد وروما، ثم انتقل إلى يوفنتوس في 2017. عاد من الاعتزال للانضمام إلى برشلونة في 2024، ومدد حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2017 وفق سجل النادي",
+      "clubAr": "أرسنال",
+      "typeAr": "الفريق الأول",
+      "textAr": "هذه فترة الفريق الأول في سجل برشلونة، وليست تاريخ دخوله إلى أكاديمية أرسنال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2009/10",
+      "clubAr": "برنتفورد",
+      "typeAr": "إعارة",
+      "textAr": "خرج معارًا من أرسنال قبل عودته إلى لندن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "روما",
+      "typeAr": "إعارة",
+      "textAr": "أمضى موسمين معارًا قبل الانتقال إلى يوفنتوس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2024",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال",
+      "textAr": "قضى سبعة مواسم مع النادي الإيطالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024",
+      "clubAr": "برشلونة",
+      "typeAr": "عودة من الاعتزال",
+      "textAr": "عاد من اعتزاله المعلن في أغسطس للانضمام إلى برشلونة بعقد أول حتى يونيو 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "7 يوليو 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق تجديد",
+      "textAr": "أعلن النادي تمديد ارتباطه حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة تشيزني",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/3543/wojciech-szczesny"
+    },
+    {
+      "id": "history",
+      "title": "برشلونة: سجل تشيزني ومسيرته",
+      "url": "https://players.fcbarcelona.com/en/player/3141-wojciech-szczesny-wojciech-szczesny"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تمديد تشيزني حتى 2027",
+      "url": "https://www.fcbarcelona.com/en/news/4305495/wojciech-szczsny-contract-extension-until-2027"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:02:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. الأهداف والتمريرات الحاسمة المسجلة للاعب فقط، وليست أرقام التصديات أو الشباك النظيفة. لم يشارك أمام فياريال."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

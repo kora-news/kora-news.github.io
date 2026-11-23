@@ -1,0 +1,158 @@
+{
+  "id": "joao-cancelo",
+  "nameAr": "جواو كانسيلو",
+  "nameEn": "João Cancelo",
+  "squadName": "João Cancelo",
+  "clubId": "barcelona",
+  "birthDate": "1994-05-27",
+  "nationalityAr": "برتغالي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:02:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في بنفيكا ولعب لفالنسيا وإنتر ويوفنتوس ومانشستر سيتي، مع إعارة إلى بايرن. خاض إعارتين لبرشلونة من سيتي ثم الهلال، وانضم نهائيًا في أغسطس 2026 حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2013/14",
+      "clubAr": "بنفيكا",
+      "typeAr": "تصعيد",
+      "textAr": "تدرج في أكاديمية بنفيكا وظهر مع الفريق الأول في 2013/14.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014/15 ثم 2015–2018",
+      "clubAr": "فالنسيا",
+      "typeAr": "إعارة ثم انتقال دائم",
+      "textAr": "وصل أولًا معارًا من بنفيكا ثم أصبح انتقاله دائمًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "إنتر ميلان",
+      "typeAr": "إعارة",
+      "textAr": "قضى الموسم معارًا من فالنسيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال",
+      "textAr": "لعب موسمًا مع النادي الإيطالي قبل مانشستر سيتي.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى النادي الإنجليزي قبل إعاراته اللاحقة.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "إعارة",
+      "textAr": "لعب لبايرن في النصف الثاني من موسم 2022/23.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "برشلونة",
+      "typeAr": "إعارة أولى",
+      "textAr": "انضم معارًا من مانشستر سيتي قبل العودة إلى ناديه الأصلي.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2024",
+      "clubAr": "الهلال",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى الهلال بعد انتهاء إعارته الأولى لبرشلونة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "إعارة ثانية",
+      "textAr": "عاد معارًا من الهلال للنصف الثاني من موسم 2025/26.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "20 أغسطس 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه نهائيًا حتى 30 يونيو 2029. سجل اللاعبين القديم ما زال يصفه بالمعار؛ نستخدم إعلان الانتقال الأحدث.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة كانسيلو",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/5051/joao-pedro-cavaco-cancelo"
+    },
+    {
+      "id": "history",
+      "title": "برشلونة: سجل كانسيلو التاريخي، أقدم من انتقاله الدائم",
+      "url": "https://players.fcbarcelona.com/en/player/3054-joao-cancelo-joao-pedro-cavaco-cancelo"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: ضم كانسيلو نهائيًا حتى 2029",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4562497/joo-cancelo-signs-until-2029"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:02:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. جدول الفريق يقسم الدوري ودوري الأبطال؛ لا نستخدم إجمالي المسابقات بدل الدوري."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

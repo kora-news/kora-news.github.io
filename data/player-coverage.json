@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 31,
+  "profileCount": 35,
   "players": [
     {
       "clubId": "ac-milan",
@@ -824,9 +824,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joan-garcia",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -835,9 +835,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "wojciech-szczesny",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -846,9 +846,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dominik-livakovic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -857,9 +857,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joao-cancelo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",

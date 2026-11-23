@@ -33,6 +33,16 @@
       "id": "stats",
       "title": "FBref: بيانات بالدي الحالية",
       "url": "https://fbref.com/en/players/5ccc9672/Alejandro-Balde"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول برشلونة المحدث حسب المسابقة",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
     }
   ],
   "career": [
@@ -82,5 +92,21 @@
       ]
     }
   ],
-  "stats": []
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:02:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى 22 نوفمبر، ولا تشمل دوري الأبطال أو المنتخب. كان بديلًا غير مشارك أمام فياريال؛ أكد جدول الفريق المحدث رصيده بعد أن كان تاريخ تغطية الملخص الفردي غير محسوم."
+    }
+  ]
 }

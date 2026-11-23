@@ -1,0 +1,104 @@
+{
+  "id": "joan-garcia",
+  "nameAr": "جوان غارسيا",
+  "nameEn": "Joan García",
+  "squadName": "Joan García",
+  "clubId": "barcelona",
+  "birthDate": "2001-05-04",
+  "nationalityAr": "إسباني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:02:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في سالينت ومانريسا ودام قبل إسبانيول، الذي ظهر مع فريقه الأول في نهاية 2021. انتقل إلى برشلونة في يونيو 2025 بعد تفعيل شرطه الجزائي، ووقع حتى يونيو 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "سالينت ثم مانريسا ثم دام",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأندية الثلاثة قبل انضمامه إلى إسبانيول في الخامسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "نهاية 2021",
+      "clubAr": "إسبانيول",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "خاض بدايته مع الفريق الأول في نهاية 2021 ثم استقر أساسيًا في 2023/24 وساهم في الصعود.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "18 يونيو 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تفعيل شرط جزائي",
+      "textAr": "أعلن النادي تفعيل شرطه بقيمة 25 مليون يورو إضافة إلى تعديل مؤشر أسعار المستهلك؛ هذه صيغة الإعلان وليست كلفة نهائية محسوبة.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "20 يونيو 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "توقيع عقد",
+      "textAr": "وقع عقدًا لستة مواسم، حتى 30 يونيو 2031 كما حدد إعلان الصفقة.",
+      "sourceIds": [
+        "contract",
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة جوان غارسيا",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/110491/joan-garcia"
+    },
+    {
+      "id": "arrival",
+      "title": "برشلونة: تفعيل شرط جوان غارسيا",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4288930/fc-barcelona-sign-joan-garcia"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: توقيع جوان غارسيا",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4291787/joan-garcia-signs-contract-with-fc-barcelona"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 12,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:02:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. عدادا الأهداف والتمريرات الحاسمة المسجلة للاعب، وليسا الأهداف المستقبلة أو الشباك النظيفة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

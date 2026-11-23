@@ -1,0 +1,125 @@
+{
+  "id": "dominik-livakovic",
+  "nameAr": "دومينيك ليفاكوفيتش",
+  "nameEn": "Dominik Livaković",
+  "squadName": "Dominik Livakovic",
+  "clubId": "barcelona",
+  "birthDate": "1995-01-09",
+  "nationalityAr": "كرواتي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:02:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في زادار وزغرب ثم انتقل إلى دينامو زغرب في 2016/17 وفنربخشة في 2023. خاض إعارتين إلى جيرونا ودينامو قبل انتقاله الدائم إلى برشلونة في أغسطس 2026 حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "زادار ثم إن كيه زغرب",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الناديين الكرواتيين قبل صعوده للفريق الأول بإن كيه زغرب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2012/13",
+      "clubAr": "إن كيه زغرب",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "بدأ مع الفريق الأول وقضى أربعة مواسم قبل انتقاله إلى دينامو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "انتقال",
+      "textAr": "أمضى سبعة مواسم قبل انتقاله إلى تركيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "فنربخشة",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى النادي التركي بعد فترة دينامو الأولى.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "جيرونا",
+      "typeAr": "إعارة",
+      "textAr": "انضم معارًا ولم يشارك في أي مباراة بحسب إعلان برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "شتاء 2025/26",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "إعارة",
+      "textAr": "عاد إلى دينامو معارًا قبل انتقاله الدائم إلى برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "27 أغسطس 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن برشلونة اتفاق انتقاله من فنربخشة بعقد أربعة مواسم حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة ليفاكوفيتش",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/16668/dominik-livakovic"
+    },
+    {
+      "id": "arrival",
+      "title": "برشلونة: التعاقد مع ليفاكوفيتش حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovic-is-a-new-blaugrana-player"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:02:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. الأهداف والتمريرات الحاسمة المسجلة للاعب فقط، وليست الأهداف المستقبلة أو الشباك النظيفة. كان بديلًا غير مشارك أمام فياريال."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
