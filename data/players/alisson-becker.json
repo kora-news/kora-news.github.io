@@ -83,7 +83,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+    "file": "alisson-becker-liverpool-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "liverpool",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/alisson-becker",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/d550fa79516a0b4f965d3ea4c2ba8824d6a4f0ca5fab36d128a3d065f2f28d35/alisson-becker-liverpool-fc-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:14:00+02:00"
   }
 }
