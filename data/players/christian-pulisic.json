@@ -1,0 +1,127 @@
+{
+  "id": "christian-pulisic",
+  "nameAr": "كريستيان بوليسيتش",
+  "nameEn": "Christian Pulisic",
+  "squadName": "Christian Pulisic",
+  "clubId": "ac-milan",
+  "birthDate": "1998-09-18",
+  "nationalityAr": "أمريكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:23:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تكون في براكلي تاون وPA Classics، ثم بوروسيا دورتموند في 2015. انتقل إلى تشيلسي في يناير 2019 وبقي معارًا لدورتموند حتى الصيف، ثم انضم لميلان في 2023 وجدد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "براكلي تاون وPA Classics",
+      "typeAr": "ناشئون",
+      "textAr": "امتد تكوينه بين إنجلترا والولايات المتحدة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2015 ثم 30 يناير 2016",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال ناشئين وتصعيد",
+      "textAr": "انضم للأكاديمية ثم بدأ مع الفريق الأول أمام إنغولشتات في يناير 2016.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2019",
+      "clubAr": "تشيلسي وبوروسيا دورتموند",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "أكد دورتموند الانتقال الفوري إلى تشيلسي مع إعارته عكسيًا حتى نهاية الموسم؛ التحق فعليًا بلندن صيف 2019.",
+      "sourceIds": [
+        "chelsea"
+      ]
+    },
+    {
+      "whenAr": "2019–2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "الفريق الأول",
+      "textAr": "لعب أربعة مواسم وفاز بدوري أبطال أوروبا 2020/21.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى ميلان بعد تجربته الإنجليزية.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "30 أكتوبر 2026",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد عقده حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة بوليسيتش الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/christian-pulisic"
+    },
+    {
+      "id": "chelsea",
+      "title": "دورتموند: انتقال بوليسيتش وإعارته العكسية",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Pulisic-wechselt-im-Sommer-zum-FC-Chelsea.html"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: البيان الرسمي",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-10-30/official-statement-christian-pulisic"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 9,
+      "goals": 5,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:23:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. أضيفت مشاركته وهدفه أمام فروزينوني إلى ثماني مباريات وأربعة أهداف وتمريرة حاسمة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

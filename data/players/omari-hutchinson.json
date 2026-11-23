@@ -1,0 +1,123 @@
+{
+  "id": "omari-hutchinson",
+  "nameAr": "عمري هاتشينسون",
+  "nameEn": "Omari Hutchinson",
+  "squadName": "Omari Hutchinson",
+  "clubId": "ac-milan",
+  "birthDate": "2003-10-30",
+  "nationalityAr": "إنجليزي وجامايكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:23:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في تشيلسي وتشارلتون وأرسنال، ثم عاد لتشيلسي في 2022. تألق مع إبسويتش معارًا ثم بانتقال دائم، ولعب لنوتنغهام فورست قبل إعارة إلى ميلان في أغسطس 2026 مع خيار شراء.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "تشيلسي وتشارلتون ثم أرسنال",
+      "typeAr": "ناشئون",
+      "textAr": "أكمل تكوينه في أرسنال ووقع أول عقد احترافي في نوفمبر 2020.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022 ثم يناير 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة وبداية احترافية",
+      "textAr": "عاد إلى تشيلسي وظهر مع الفريق الأول أمام مانشستر سيتي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "إبسويتش تاون",
+      "typeAr": "إعارة",
+      "textAr": "ساهم في الصعود إلى الدوري الممتاز وسجل عشرة أهداف في دوري الدرجة الأولى.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "إبسويتش تاون",
+      "typeAr": "انتقال دائم",
+      "textAr": "حول إبسويتش إعارته إلى انتقال دائم وفق السيرة الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "نوتنغهام فورست",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى فورست وخاض معه موسمًا قبل القدوم إلى إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "31 أغسطس 2026",
+      "clubAr": "ميلان",
+      "typeAr": "إعارة مع خيار شراء",
+      "textAr": "انضم معارًا من فورست حتى 30 يونيو 2027 مع خيار تحويل الانتقال إلى دائم، وليس انتقالًا نهائيًا مفعّلًا.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة هاتشينسون الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/omari-hutchinson"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: البيان الرسمي",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-08-31/official-statement-omari-hutchinson"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:23:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

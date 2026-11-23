@@ -1,0 +1,113 @@
+{
+  "id": "alphadjo-cisse",
+  "nameAr": "ألفادجو سيسي",
+  "nameEn": "Alphadjo Cisse",
+  "squadName": "Alphadjo Cisse",
+  "clubId": "ac-milan",
+  "birthDate": "2006-10-22",
+  "nationalityAr": "إيطالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:23:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في إندوميتا 21 وجورجوني قبل ناشئي فيرونا. ظهر احترافيًا في 2023 وأعير لكاتانزارو في 2025؛ اشتراه ميلان في فبراير 2026 وأبقاه معارًا حتى نهاية الموسم قبل وصوله للفريق الأول.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات ثم 2020",
+      "clubAr": "إندوميتا 21 وجورجوني ثم فيرونا",
+      "typeAr": "ناشئون",
+      "textAr": "التحق بأكاديمية فيرونا في 2020 وصعد إلى البريمافيرا في الخامسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "12 أغسطس 2023 ثم 26 مايو 2024",
+      "clubAr": "فيرونا",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ في كأس إيطاليا أمام أسكولي ثم في الدوري أمام إنتر.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "كاتانزارو",
+      "typeAr": "إعارة",
+      "textAr": "انتقل معارًا من فيرونا إلى دوري الدرجة الثانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2 فبراير 2026",
+      "clubAr": "ميلان وكاتانزارو",
+      "typeAr": "انتقال دائم وإعارة مستمرة",
+      "textAr": "أعلن ميلان شراءه نهائيًا من فيرونا مع بقائه معارًا بكاتانزارو حتى نهاية الموسم. البيان المفحوص لا يحدد نهاية عقده، فلا نخمنها.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "ميلان",
+      "typeAr": "التحاق",
+      "textAr": "وصل إلى الفريق الأول وسجل أمام تورينو في بدايته الرسمية يوم 23 أغسطس.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة سيسي الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/alphadjo-ciss%C3%A8"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: شراء سيسي واستمرار إعارته",
+      "url": "https://www.acmilan.com/it/news/articoli/media/2026-02-02/comunicato-ufficiale-alphadjo-cisse"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 10,
+      "goals": 6,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:23:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. أضيفت مشاركة وهدف أمام فروزينوني إلى تسع مباريات وخمسة أهداف في جدول الموسم السابق."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

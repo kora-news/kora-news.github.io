@@ -1,0 +1,122 @@
+{
+  "id": "diego-moreira",
+  "nameAr": "دييغو موريرا",
+  "nameEn": "Diego Moreira",
+  "squadName": "Diego Moreira",
+  "clubId": "ac-milan",
+  "birthDate": "2004-08-06",
+  "nationalityAr": "بلجيكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:23:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في ستاندار لييج وبنفيكا، ثم انتقل إلى تشيلسي في 2023 وخاض إعارة إلى ليون. انتقل نهائيًا إلى ستراسبورغ في 2024، ثم إلى ميلان في أغسطس 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2020",
+      "clubAr": "ستاندار لييج ثم بنفيكا",
+      "typeAr": "ناشئون",
+      "textAr": "أكمل تكوينه في بنفيكا ووقع عقده الاحترافي الأول عام 2020.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021/22 و2022/23",
+      "clubAr": "بنفيكا",
+      "typeAr": "تصعيد",
+      "textAr": "فاز بدوري أبطال أوروبا للشباب وظهر مع الفريق الأول في الدوري وتصفيات دوري الأبطال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال",
+      "textAr": "ظهر مع الفريق الأول في كأس الرابطة أمام ويمبلدون في أغسطس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24 حتى يناير",
+      "clubAr": "أولمبيك ليون",
+      "typeAr": "إعارة",
+      "textAr": "خاض تجربة فرنسية معارًا من تشيلسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024",
+      "clubAr": "ستراسبورغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل نهائيًا وقضى موسمين في النادي الفرنسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "19 أغسطس 2026",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن ميلان ضمه من ستراسبورغ حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة موريرا الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/diego-moreira"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: البيان الرسمي",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-08-19/official-statement-diego-moreira"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 8,
+      "goals": 4,
+      "assists": 4,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:23:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. أضيفت مشاركة وتمريرة حاسمة أمام فروزينوني إلى سبع مباريات وأربعة أهداف وثلاث تمريرات."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

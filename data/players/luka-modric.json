@@ -1,0 +1,127 @@
+{
+  "id": "luka-modric",
+  "nameAr": "لوكا مودريتش",
+  "nameEn": "Luka Modrić",
+  "squadName": "Luka Modrić",
+  "clubId": "ac-milan",
+  "birthDate": "1985-09-09",
+  "nationalityAr": "كرواتي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:23:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تكون في دينامو زغرب وخاض إعارتين في زرينييسكي وإنتر زابريشيتش. انتقل إلى توتنهام في 2008 ثم ريال مدريد في 2012، وانضم إلى ميلان في يوليو 2025 قبل تمديده حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم إعارتان",
+      "clubAr": "دينامو زغرب وزرينييسكي وإنتر زابريشيتش",
+      "typeAr": "ناشئون وإعارات",
+      "textAr": "التحق بدينامو في السادسة عشرة، وخاض إعارتين في البوسنة وكرواتيا قبل الاستقرار معه.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "قبل صيف 2008",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "الفريق الأول",
+      "textAr": "أصبح من أعمدة الفريق وتوج معه بألقاب محلية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2008–2012",
+      "clubAr": "توتنهام هوتسبير",
+      "typeAr": "انتقال",
+      "textAr": "قضى أربعة مواسم في إنجلترا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2012–2025",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال",
+      "textAr": "أمضى 13 موسمًا في مدريد قبل الرحيل إلى إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2025",
+      "clubAr": "ميلان",
+      "typeAr": "توقيع عقد",
+      "textAr": "وقع حتى يونيو 2026 مع خيار موسم إضافي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "23 يوليو 2026",
+      "clubAr": "ميلان",
+      "typeAr": "تمديد عقد",
+      "textAr": "أكد النادي استمراره لموسم آخر حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة مودريتش الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/luka-modric"
+    },
+    {
+      "id": "arrival",
+      "title": "ميلان: ضم مودريتش ومسار الإعارات",
+      "url": "https://www.acmilan.com/en/news/articles/media/2025-07-14/official-statement-luka-modric"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: البيان الرسمي",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-07-23/official-statement-luka-modric"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 12,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:23:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

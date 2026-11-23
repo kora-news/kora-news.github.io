@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 59,
+  "profileCount": 71,
   "players": [
     {
       "clubId": "ac-milan",
@@ -153,9 +153,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alphadjo-cisse",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -175,9 +175,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "omari-hutchinson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -197,9 +197,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ruben-loftus-cheek",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -208,9 +208,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luka-modric",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -219,9 +219,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "diego-moreira",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -230,9 +230,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "yunus-musah",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -241,9 +241,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "christian-pulisic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -252,9 +252,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "adrien-rabiot",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -263,9 +263,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alexis-saelemaekers",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -274,9 +274,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "francesco-camarda",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -285,9 +285,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "samuel-chukwueze",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -296,9 +296,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "goncalo-ramos",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",

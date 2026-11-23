@@ -1,0 +1,127 @@
+{
+  "id": "goncalo-ramos",
+  "nameAr": "غونسالو راموس",
+  "nameEn": "Gonçalo Ramos",
+  "squadName": "Gonçalo Ramos",
+  "clubId": "ac-milan",
+  "birthDate": "2001-06-20",
+  "nationalityAr": "برتغالي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:23:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في أولهانينسي وبنفيكا، ووصل للفريق الأول لبنفيكا في موسم 2019/20. انتقل إلى باريس معارًا ثم نهائيًا في 2023، وانضم إلى ميلان في يونيو 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2013",
+      "clubAr": "أولهانينسي ثم بنفيكا",
+      "typeAr": "ناشئون",
+      "textAr": "التحق بأكاديمية بنفيكا في 2013 وفق باريس.",
+      "sourceIds": [
+        "current",
+        "psg"
+      ]
+    },
+    {
+      "whenAr": "2019/20 ثم يوليو 2020",
+      "clubAr": "بنفيكا",
+      "typeAr": "تصعيد وبداية الفريق الأول",
+      "textAr": "خاض بداياته الاحترافية في موسم 2019/20 ثم سجل ثنائية في أول ظهور بدوري الكبار في يوليو 2020.",
+      "sourceIds": [
+        "current",
+        "psg",
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "إعارة",
+      "textAr": "وصل في البداية معارًا من بنفيكا.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "22 نوفمبر 2023",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "تحويل الإعارة إلى انتقال دائم",
+      "textAr": "أكد تقرير وكالة لوسا نقلًا عن إفصاح بنفيكا تفعيل خيار الشراء وتوقيع عقد حتى 2028.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "30 يونيو 2026",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن ميلان ضمه من باريس بعقد حتى 30 يونيو 2031، وأكد باريس انتقاله في اليوم نفسه.",
+      "sourceIds": [
+        "contract",
+        "psg"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة راموس الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/goncalo-ramos"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: البيان الرسمي",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-06-30/official-statement-goncalo-ramos"
+    },
+    {
+      "id": "psg",
+      "title": "باريس: رحيل راموس إلى ميلان ومسيرته",
+      "url": "https://www.psg.fr/en/content/goncalo-ramos-joins-ac-milan-psg-transfer-window-news-2025-2026"
+    },
+    {
+      "id": "permanent",
+      "title": "لوسا عبر بوبليكو: تفعيل شراء راموس في نوفمبر 2023",
+      "url": "https://www.publico.pt/2023/11/22/desporto/noticia/paris-saintgermain-acciona-opcao-goncalo-ramos-2071175"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 12,
+      "goals": 3,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:23:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. أضيفت مشاركة وهدف أمام فروزينوني إلى 11 مباراة وهدفين وتمريرتين حاسمتين."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
