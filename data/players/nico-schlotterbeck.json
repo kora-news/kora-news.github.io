@@ -1,0 +1,134 @@
+{
+  "id": "nico-schlotterbeck",
+  "nameAr": "نيكو شلوتربيك",
+  "nameEn": "Nico Schlotterbeck",
+  "squadName": "Nico Schlotterbeck",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1999-12-01",
+  "nationalityAr": "ألماني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في شتوتغارتر كيكرز وآلن وكارلسروه، ثم فرايبورغ. أعير لأونيون برلين في 2020/21، وانتقل لدورتموند في 2022 وجدد في أبريل 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2007–2014",
+      "clubAr": "شتوتغارتر كيكرز",
+      "typeAr": "ناشئون",
+      "textAr": "إحدى محطاته المبكرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "آلن",
+      "typeAr": "ناشئون",
+      "textAr": "لعب قبل الانتقال لكارلسروه.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "كارلسروه",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه في ألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2020",
+      "clubAr": "فرايبورغ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج حتى فريق البوندسليغا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "أونيون برلين",
+      "typeAr": "إعارة",
+      "textAr": "قضى الموسم معارًا من فرايبورغ.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "فرايبورغ",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد قبل انتقاله لدورتموند.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من فرايبورغ بعقد أول حتى 2027.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 2031 وفق السيرة الحالية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/nico-schlotterbeck.html"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: ضم شلوتربيك وسجل إعارته",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/eng/News/Overview/BVB-sign-Nico-Schlotterbeck.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

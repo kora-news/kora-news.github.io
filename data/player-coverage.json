@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 180,
+  "profileCount": 192,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1385,9 +1385,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "gregor-kobel",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1396,9 +1396,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "waldemar-anton",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1407,9 +1407,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "nico-schlotterbeck",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1418,9 +1418,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ramy-bensebaini",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1528,9 +1528,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joane-gadou",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1550,9 +1550,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "daniel-svensson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1572,9 +1572,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "julian-ryerson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1594,9 +1594,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "patrick-drewes",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1605,9 +1605,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alexander-meyer",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1616,9 +1616,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kaua-prates",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1627,9 +1627,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "filippo-mane",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1693,9 +1693,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luca-reggiani",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",

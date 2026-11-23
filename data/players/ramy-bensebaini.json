@@ -1,0 +1,130 @@
+{
+  "id": "ramy-bensebaini",
+  "nameAr": "رامي بن سبعيني",
+  "nameEn": "Ramy Bensebaini",
+  "squadName": "Ramy Bensebaini",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1995-04-16",
+  "nationalityAr": "جزائري",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تكون في قسنطينة وبارادو، ثم أعير لليرس ومونبلييه. انتقل لرين في 2016 ثم مونشنغلادباخ في 2019. انضم لدورتموند حرًا في صيف 2023 بعقد لأربع سنوات.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2005–2007",
+      "clubAr": "قسنطينة",
+      "typeAr": "ناشئون",
+      "textAr": "بداية مسيرته وفق سيرة دورتموند.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2007–2014",
+      "clubAr": "بارادو",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "تدرج بأكاديمية النادي قبل الإعارتين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "ليرس",
+      "typeAr": "إعارة",
+      "textAr": "إعارة من بارادو.",
+      "sourceIds": [
+        "rennes"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "مونبلييه",
+      "typeAr": "إعارة",
+      "textAr": "قضى الموسم معارًا من بارادو.",
+      "sourceIds": [
+        "rennes"
+      ]
+    },
+    {
+      "whenAr": "5 يوليو 2016",
+      "clubAr": "رين",
+      "typeAr": "انتقال",
+      "textAr": "وقع لأربع سنوات بعد انتهاء ارتباطه ببارادو.",
+      "sourceIds": [
+        "rennes"
+      ]
+    },
+    {
+      "whenAr": "2019–2023",
+      "clubAr": "بوروسيا مونشنغلادباخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في البوندسليغا قبل دورتموند.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال حر",
+      "textAr": "أعلن النادي ضمه دون رسوم انتقال بعقد لأربع سنوات.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/ramy-bensebaini.html"
+    },
+    {
+      "id": "rennes",
+      "title": "رين: التعاقد مع بن سبعيني وتفاصيل الإعارتين",
+      "url": "https://www.staderennais.com/actualites/equipe-pro/ramy-bensebaini-nouveau-defenseur-rouge-et-noir"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: ضم بن سبعيني في انتقال حر",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/BVB-verpflichtet-Ramy-Bensebaini.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

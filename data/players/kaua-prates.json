@@ -1,0 +1,84 @@
+{
+  "id": "kaua-prates",
+  "nameAr": "كاوا براتيس",
+  "nameEn": "Kaua Prates",
+  "squadName": "Kaua Prates",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2008-08-12",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في كروزيرو منذ 2019 وظهر مع الفريق الأول في مايو 2025. انتقل لدورتموند في أغسطس 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2019–2025",
+      "clubAr": "كروزيرو",
+      "typeAr": "ناشئون",
+      "textAr": "انضم لأكاديمية النادي البرازيلي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مايو 2025",
+      "clubAr": "كروزيرو",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر احترافيًا بعمر 16 عامًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعد بلوغه الثامنة عشرة ووقع حتى 2031.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/kaua-prates.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

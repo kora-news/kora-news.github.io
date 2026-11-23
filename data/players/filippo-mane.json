@@ -1,0 +1,111 @@
+{
+  "id": "filippo-mane",
+  "nameAr": "فيليبو ماني",
+  "nameEn": "Filippo Mane",
+  "squadName": "Filippo Mane",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2005-03-08",
+  "nationalityAr": "إيطالي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في فيلا ميزيرو ثم نوفارا وسامبدوريا، وانضم لدورتموند في يناير 2022. تدرج في الشباب والرديف ثم وصل للفريق الأول.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2013",
+      "clubAr": "فيلا ميزيرو",
+      "typeAr": "ناشئون",
+      "textAr": "محطته الأولى في إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2013–2019",
+      "clubAr": "نوفارا",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه بالنادي الإيطالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2019–يناير 2022",
+      "clubAr": "سامبدوريا",
+      "typeAr": "ناشئون",
+      "textAr": "لعب قبل انتقاله لألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2022",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم وهو في السادسة عشرة وتدرج في الفئات السنية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "رديف بوروسيا دورتموند",
+      "typeAr": "تطوير",
+      "textAr": "خاض تجربة مع الرديف في الدوري الإقليمي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "23 أغسطس 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "بداية البوندسليغا",
+      "textAr": "تسجل السيرة الحالية ظهوره الأول أمام سانت باولي في هذا التاريخ.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/filippo-mane.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

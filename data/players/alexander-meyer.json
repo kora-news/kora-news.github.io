@@ -1,0 +1,125 @@
+{
+  "id": "alexander-meyer",
+  "nameAr": "ألكسندر ماير",
+  "nameEn": "Alexander Meyer",
+  "squadName": "Alexander Meyer",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1991-04-13",
+  "nationalityAr": "ألماني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في هامبورغ ولعب لهافيلسه وكوتبوس وشتوتغارت وريغنسبورغ. انضم لدورتموند في يوليو 2022 ومدد في ديسمبر 2025 حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2005–2012",
+      "clubAr": "هامبورغ",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "انضم لأكاديمية هامبورغ وهو في الرابعة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2012–2016",
+      "clubAr": "هافيلسه",
+      "typeAr": "انتقال",
+      "textAr": "لعب في الدرجات الإقليمية الألمانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2016–أغسطس 2017",
+      "clubAr": "إنرغي كوتبوس",
+      "typeAr": "انتقال",
+      "textAr": "أصبح حارس الفريق قبل انتقاله لشتوتغارت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2017–2019",
+      "clubAr": "شتوتغارت",
+      "typeAr": "انتقال",
+      "textAr": "انضم بعد مواجهته في كأس ألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2022",
+      "clubAr": "يان ريغنسبورغ",
+      "typeAr": "انتقال",
+      "textAr": "لعب في دوري الدرجة الثانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال",
+      "textAr": "انضم للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "3 ديسمبر 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/alexander-meyer.html"
+    },
+    {
+      "id": "contract",
+      "title": "دورتموند: تجديد ماير حتى 2027",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/12/3/Meyer-verlaengert-bis-2027-1.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة في المصدر لا نحولها إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

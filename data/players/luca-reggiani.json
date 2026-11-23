@@ -1,0 +1,102 @@
+{
+  "id": "luca-reggiani",
+  "nameAr": "لوكا ريجياني",
+  "nameEn": "Luca Reggiani",
+  "squadName": "Luca Reggiani",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2008-01-09",
+  "nationalityAr": "إيطالي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في كاستلفيترو ثم ساسولو، وانضم لأكاديمية دورتموند في فبراير 2024. ظهر مع الفريق الأول في فبراير 2026 ووقع أول عقد احترافي في مارس.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013–2016",
+      "clubAr": "كاستلفيترو",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في الخامسة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2016–يناير 2024",
+      "clubAr": "ساسولو",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في أكاديمية النادي الإيطالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2024",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "فاز ببطولة ألمانيا تحت 17 عامًا في موسمه الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "7 فبراير 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك أمام فولفسبورغ في البوندسليغا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "20 مارس 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "عقد احترافي",
+      "textAr": "وقع أول عقد احترافي له مع النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/luca-reggiani.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

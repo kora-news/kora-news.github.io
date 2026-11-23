@@ -1,0 +1,130 @@
+{
+  "id": "gregor-kobel",
+  "nameAr": "غريغور كوبل",
+  "nameEn": "Gregor Kobel",
+  "squadName": "Gregor Kobel",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1997-12-06",
+  "nationalityAr": "سويسري",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في غراسهوبرز ثم انتقل لهوفنهايم في 2014. أعير لأوغسبورغ وشتوتغارت، الذي اشتراه في 2020. انتقل لدورتموند في صيف 2021 وجدد في 2023 حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2005–2014",
+      "clubAr": "غراسهوبرز",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في النادي السويسري.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2019",
+      "clubAr": "هوفنهايم",
+      "typeAr": "انتقال وتدرج",
+      "textAr": "انضم لأكاديمية النادي قبل الوصول للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2019",
+      "clubAr": "أوغسبورغ",
+      "typeAr": "إعارة",
+      "textAr": "خاض النصف الثاني من الموسم معارًا من هوفنهايم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "شتوتغارت",
+      "typeAr": "إعارة",
+      "textAr": "بدأ موسمه الأول معارًا من هوفنهايم.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "28 يوليو 2020",
+      "clubAr": "شتوتغارت",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي تحويل الإعارة لانتقال دائم بعقد حتى 2024.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2021",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من شتوتغارت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد عقده حتى 30 يونيو 2028.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/gregor-kobel.html"
+    },
+    {
+      "id": "purchase",
+      "title": "شتوتغارت: شراء كوبل بعد الإعارة",
+      "url": "https://www.vfb.de/en/vfb/latest/news/professionals/2020/gregor-kobel-verpflichtung/"
+    },
+    {
+      "id": "contract",
+      "title": "دورتموند: تمديد كوبل حتى 2028",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/eng/News/Overview/Gregor-Kobel-extends-until-2028.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

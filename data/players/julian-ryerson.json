@@ -1,0 +1,89 @@
+{
+  "id": "julian-ryerson",
+  "nameAr": "يوليان رايرسون",
+  "nameEn": "Julian Ryerson",
+  "squadName": "Julian Ryerson",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1997-11-17",
+  "nationalityAr": "نرويجي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "لعب لفايكينغ في النرويج قبل أونيون برلين في 2018. انضم لدورتموند في يناير 2023، ويلعب على جانبي الدفاع.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013–2018",
+      "clubAr": "فايكينغ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر بالفريق الأول في السابعة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2018–يناير 2023",
+      "clubAr": "أونيون برلين",
+      "typeAr": "انتقال دائم",
+      "textAr": "صعد مع الفريق للبوندسليغا في 2019.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقده الأول حتى يونيو 2026؛ هذه مدة العقد عند وصوله وليست إثباتًا لموعد نهاية عقده الحالي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/julian-ryerson.html"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: التعاقد مع رايرسون",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/eng/News/Overview/Borussia-Dortmund-sign-Julian-Ryerson.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

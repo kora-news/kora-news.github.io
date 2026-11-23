@@ -1,0 +1,158 @@
+{
+  "id": "patrick-drewes",
+  "nameAr": "باتريك دريفيس",
+  "nameEn": "Patrick Drewes",
+  "squadName": "Patrick Drewes",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1993-02-04",
+  "nationalityAr": "ألماني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في هايدكروغ وفولفسبورغ وخاض إعارتين لويل ومونستر. لعب لفورتسبورغ وبوخوم وساندهاوزن وكارلسروه، ثم عاد لبوخوم قبل دورتموند في صيف 2025 حتى 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1995–2008",
+      "clubAr": "هايدكروغ",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ مسيرته قبل أكاديمية فولفسبورغ.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2008–2017",
+      "clubAr": "فولفسبورغ",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "تخللت فترته إعارتان متتاليتان.",
+      "sourceIds": [
+        "current",
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "ويل السويسري",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا من فولفسبورغ.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "بروسيا مونستر",
+      "typeAr": "إعارة",
+      "textAr": "انضم لعام واحد بإعارة من فولفسبورغ.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "فورتسبورغر كيكرز",
+      "typeAr": "انتقال",
+      "textAr": "عاد لألمانيا واستقر بالنادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "بوخوم",
+      "typeAr": "انتقال",
+      "textAr": "فترته الأولى مع النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021–2023",
+      "clubAr": "ساندهاوزن",
+      "typeAr": "انتقال",
+      "textAr": "لعب في الدرجة الثانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "كارلسروه",
+      "typeAr": "انتقال",
+      "textAr": "قضى موسمًا قبل العودة لبوخوم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "بوخوم",
+      "typeAr": "عودة",
+      "textAr": "عاد للفريق ولعب في البوندسليغا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه في 26 يونيو بعقد حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/patrick-drewes.html"
+    },
+    {
+      "id": "loan",
+      "title": "liga3-online: إعارة دريفيس لمونستر وسابقًا ويل",
+      "url": "https://www.liga3-online.de/sc-preusen-meldet-vollzug-patrick-drewes-kommt-auf-leihbasis/"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: ضم دريفيس حتى 2027",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2025/6/26/BVB-sign-Patrick-Drewes.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. لا يظهر اللاعب في جدول الإحصاءات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
