@@ -14,7 +14,7 @@ const DIST = path.join(ROOT, 'dist');
 const SITE_NAME = 'كورة نيوز';
 const SITE_NAME_LATIN = 'KORA NEWS';
 const FB_PAGE = 'https://www.facebook.com/61550609084848/';
-const SITE_DESC = 'كورة نيوز - أخبار الكرة العالمية والمصريين المحترفين أول بأول';
+const SITE_DESC = 'كورة نيوز - أخبار الكرة العالمية أول بأول';
 const BASE_URL = (process.env.SITE_URL || 'https://kora-news.github.io').replace(/\/$/, '');
 if (!/^https:\/\/[^/]+(?:\/[^?#]*)?$/.test(BASE_URL)) throw new Error('SITE_URL must be an absolute HTTPS site URL');
 
@@ -176,7 +176,7 @@ for (const file of ['clubs.css','clubs.js']) fs.copyFileSync(path.join(ROOT,'ass
 
 // home
 const [first, ...rest] = posts;
-const home = head(SITE_NAME + ' | أخبار الكرة العالمية والمصريين المحترفين', SITE_DESC, '', '') + websiteJsonLd() + header('', 'home') + `
+const home = head(SITE_NAME + ' | أخبار الكرة العالمية', SITE_DESC, '', '') + websiteJsonLd() + header('', 'home') + `
 <main class="container">
   <section class="news-search" aria-label="البحث في الأخبار"><h1>أخبار كورة نيوز</h1><label for="news-query">ابحث عن خبر أو نادٍ أو لاعب</label><input id="news-query" type="search" placeholder="مثال: ريال مدريد، كورتوا، انتقالات" autocomplete="off"><label for="news-category">نوع الأخبار</label><select id="news-category"><option value="">كل الأخبار</option>${[...new Set(posts.map(p=>p.category||'أخبار'))].map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('')}</select><p id="news-count" role="status" aria-live="polite">${posts.length} خبرًا</p><p id="news-empty" hidden>لا توجد أخبار مطابقة. جرّب اسمًا آخر أو اختر كل الأخبار.</p><noscript>البحث يحتاج JavaScript؛ كل الأخبار متاحة أدناه.</noscript></section>
   <section class="hero">
@@ -228,7 +228,7 @@ const about = head('عن الموقع | ' + SITE_NAME, SITE_DESC, '', 'about.htm
   <article class="post about">
     <h1>عن ${SITE_NAME}</h1>
     <div class="post-body">
-      <p><strong>${SITE_NAME} (${SITE_NAME_LATIN})</strong> موقع إخباري رياضي عربي متخصص في أخبار كرة القدم العالمية: الدوريات الأوروبية الكبرى، ميركاتو الانتقالات، وأخبار المصريين المحترفين في الخارج أول بأول.</p>
+      <p><strong>${SITE_NAME} (${SITE_NAME_LATIN})</strong> موقع إخباري رياضي عربي متخصص في أخبار كرة القدم العالمية: الدوريات الأوروبية الكبرى، وميركاتو الانتقالات أول بأول.</p>
       <p>انطلق المشروع من صفحتنا على فيسبوك، حيث ننشر الأخبار والإحصائيات والتشكيلات الرسمية لحظة بلحظة. تابعونا هناك:</p>
       <p><a class="fb-source" href="${FB_PAGE}" target="_blank" rel="noopener">صفحة Kora News على فيسبوك</a></p>
     </div>
