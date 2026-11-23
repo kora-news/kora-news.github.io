@@ -1,0 +1,153 @@
+{
+  "id": "carlo-pinsoglio",
+  "nameAr": "كارلو بينسوليو",
+  "nameEn": "Carlo Pinsoglio",
+  "squadName": "Carlo Pinsoglio",
+  "clubId": "juventus",
+  "birthDate": "1990-03-16",
+  "nationalityAr": "إيطالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في يوفنتوس ومر بإعارات وفيتشينزا بنظام الملكية المشتركة. استعاد يوفنتوس ملكيته الكاملة في 2014، ثم عاد للفريق في 2017 بعد إعارات جديدة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2000–2010",
+      "clubAr": "يوفنتوس",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج حتى فريق بريمافيرا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2010/11",
+      "clubAr": "فياريجيو",
+      "typeAr": "إعارة",
+      "textAr": "خرج بعد التخرج من الأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2011–يناير 2012",
+      "clubAr": "بيسكارا",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا قبل فيتشينزا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2012–2014",
+      "clubAr": "فيتشينزا",
+      "typeAr": "ملكية مشتركة",
+      "textAr": "انتقل بنظام الملكية المشتركة بين الناديين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "مودينا",
+      "typeAr": "إعارة",
+      "textAr": "معارًا من فيتشينزا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2014",
+      "clubAr": "يوفنتوس",
+      "typeAr": "استعادة الملكية الكاملة",
+      "textAr": "اشترى النادي النصف المتبقي من حقوقه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "مودينا",
+      "typeAr": "إعارة",
+      "textAr": "عاد معارًا لموسم ثان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "ليفورنو",
+      "typeAr": "إعارة",
+      "textAr": "واصل اللعب خارج يوفنتوس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "لاتينا",
+      "typeAr": "إعارة",
+      "textAr": "آخر إعاراته قبل العودة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2017",
+      "clubAr": "يوفنتوس",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "استقر مع الفريق وظهر رسميًا في مايو 2018.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/carlo-pinsoglio"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Carlo_Pinsoglio"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

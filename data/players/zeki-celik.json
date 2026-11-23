@@ -1,0 +1,136 @@
+{
+  "id": "zeki-celik",
+  "nameAr": "محمد زكي شيليك",
+  "nameEn": "Mehmet Zeki Çelik",
+  "squadName": "Mehmet Zeki Çelik",
+  "clubId": "juventus",
+  "birthDate": "1997-02-17",
+  "nationalityAr": "تركي",
+  "positionAr": "ظهير وجناح خلفي",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad",
+    "federation"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في بورصا سبور وأعير لكاراجابي قبل إسطنبول سبور وليل وروما. انضم ليوفنتوس في يوليو 2026 بعقد حتى 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008/09",
+      "clubAr": "يافوز سليم سبور",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته المسجلة لدى الاتحاد التركي.",
+      "sourceIds": [
+        "federation"
+      ]
+    },
+    {
+      "whenAr": "2009–2015",
+      "clubAr": "بورصا سبور",
+      "typeAr": "ناشئون وعقد احتراف",
+      "textAr": "وقع عقده الأول في يناير 2015.",
+      "sourceIds": [
+        "federation"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "كاراجابي",
+      "typeAr": "إعارة",
+      "textAr": "انتقل مؤقتًا من بورصا سبور.",
+      "sourceIds": [
+        "federation"
+      ]
+    },
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "إسطنبول سبور",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل بعد إنهاء عقده السابق.",
+      "sourceIds": [
+        "federation"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "ليل",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة مواسم في فرنسا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022–2026",
+      "clubAr": "روما",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب أربعة مواسم في إيطاليا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "16 يوليو 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال",
+      "textAr": "وقع حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/zeki-celik"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Zeki_%C3%87elik"
+    },
+    {
+      "id": "federation",
+      "title": "الاتحاد التركي: تاريخ الميلاد والسجل الاحترافي",
+      "url": "https://www.tff.org/Default.aspx?kisiId=1164658&pageId=526"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: التعاقد مع زكي شيليك",
+      "url": "https://www.juventus.com/en/news/articles/zeki-celik-signs-for-juventus"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

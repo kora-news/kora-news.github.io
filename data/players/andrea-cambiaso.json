@@ -1,0 +1,144 @@
+{
+  "id": "andrea-cambiaso",
+  "nameAr": "أندريا كامبياسو",
+  "nameEn": "Andrea Cambiaso",
+  "squadName": "Andrea Cambiaso",
+  "clubId": "juventus",
+  "birthDate": "2000-02-20",
+  "nationalityAr": "إيطالي",
+  "positionAr": "ظهير وجناح خلفي",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في جنوى وخاض إعارات لألبيسولا وسافونا وأليساندريا وإمبولي. اشتراه يوفنتوس في 2022 وأعاره لبولونيا، ثم عاد في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "جنوى",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل سلسلة الإعارات.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "ألبيسولا",
+      "typeAr": "إعارة",
+      "textAr": "معارًا من جنوى.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "سافونا",
+      "typeAr": "إعارة",
+      "textAr": "واصل اكتساب الخبرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "أليساندريا",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا آخر معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "إمبولي",
+      "typeAr": "إعارة",
+      "textAr": "لعب قبل العودة لجنوى.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "جنوى",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "ظهر في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه من جنوى.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "بولونيا",
+      "typeAr": "إعارة",
+      "textAr": "لعب موسمًا معارًا من يوفنتوس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "يوفنتوس",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "انضم للفريق الأول.",
+      "sourceIds": [
+        "current",
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/andrea-cambiaso"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Andrea_Cambiaso"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "lloyd-kelly",
+  "nameAr": "لويد كيلي",
+  "nameEn": "Lloyd Kelly",
+  "squadName": "Lloyd Kelly",
+  "clubId": "juventus",
+  "birthDate": "1998-10-06",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في بريستول سيتي ثم لعب لبورنموث ونيوكاسل. وصل ليوفنتوس في فبراير 2025 بإعارة مع إلزام بالشراء ثم استمر نهائيًا.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2019",
+      "clubAr": "بريستول سيتي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في 2017.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2024",
+      "clubAr": "بورنموث",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى خمس سنوات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024–فبراير 2025",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب قبل الانتقال لإيطاليا.",
+      "sourceIds": [
+        "history",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "3 فبراير 2025",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة مع إلزام بالشراء",
+      "textAr": "انضم معارًا حتى نهاية يونيو 2025.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "تسجل المسيرة تحوله لانتقال دائم.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/lloyd-casius-kelly"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Lloyd_Kelly"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: إعارة كيلي مع إلزام بالشراء",
+      "url": "https://www.juventus.com/en/news/articles/lloyd-kelly-is-a-new-juventus-player"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "pierre-kalulu",
+  "nameAr": "بيير كالولو",
+  "nameEn": "Pierre Kalulu",
+  "squadName": "Pierre Kalulu",
+  "clubId": "juventus",
+  "birthDate": "2000-06-05",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في سان بريست وليون، ولعب لميلان من 2020. أعير ليوفنتوس في أغسطس 2024 ثم فعل النادي خيار شرائه في يونيو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2007–2010",
+      "clubAr": "سان بريست",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2020",
+      "clubAr": "ليون",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "تدرج حتى الفريق الثاني.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020–2024",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربته الأولى في إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 أغسطس 2024",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "وصل من ميلان حتى يونيو 2025.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "5 يونيو 2025",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي تفعيل الشراء وعقدًا حتى يونيو 2029.",
+      "sourceIds": [
+        "purchase"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/pierre-kazeye-rommel-kalulu-kyatengwa"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Kalulu"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: إعارة كالولو من ميلان",
+      "url": "https://www.juventus.com/en/news/articles/pierre-kalulu-joins-juventus-on-loan"
+    },
+    {
+      "id": "purchase",
+      "title": "يوفنتوس: تفعيل شراء كالولو",
+      "url": "https://www.juventus.com/en/news/articles/happy-birthday-pierre-kalulu-2025"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

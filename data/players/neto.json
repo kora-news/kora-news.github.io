@@ -1,0 +1,145 @@
+{
+  "id": "neto",
+  "nameAr": "نيتو",
+  "nameEn": "Norberto Murara Neto",
+  "squadName": "Norberto Murara Neto",
+  "clubId": "juventus",
+  "birthDate": "1989-07-19",
+  "nationalityAr": "برازيلي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "لعب لأتلتيكو باراناينسي وفيورنتينا ويوفنتوس وفالنسيا وبرشلونة وبورنموث، وأعير لأرسنال. عاد للبرازيل مع بوتافوغو ثم ليوفنتوس في 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2011",
+      "clubAr": "كروزيرو ثم أتلتيكو باراناينسي",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "تدرج في البرازيل.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2011–2015",
+      "clubAr": "فيورنتينا",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الأوروبية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى فترته الأولى في تورينو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "فالنسيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للدوري الإسباني.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2022",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "واصل في إسبانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2024",
+      "clubAr": "بورنموث",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الإنجليزية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "أرسنال",
+      "typeAr": "إعارة",
+      "textAr": "أعير من بورنموث.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "بوتافوغو",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد للدوري البرازيلي.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "عودة دائمة",
+      "textAr": "عاد للنادي بعد تجربته البرازيلية.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/norberto-murara-neto"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Neto_(footballer,_born_1989)"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

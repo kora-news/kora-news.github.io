@@ -1,0 +1,157 @@
+{
+  "id": "federico-gatti",
+  "nameAr": "فيديريكو غاتي",
+  "nameEn": "Federico Gatti",
+  "squadName": "Federico Gatti",
+  "clubId": "juventus",
+  "birthDate": "1998-06-24",
+  "nationalityAr": "إيطالي",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "صعد من أندية الهواة إلى برو باتريا وفروزينوني. اشتراه يوفنتوس في يناير 2022 وأبقاه معارًا بفروزينوني حتى نهاية الموسم قبل انتقاله الفعلي صيفًا.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2004–2014",
+      "clubAr": "كييري وتورينو وأليساندريا",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في أندية المنطقة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2016",
+      "clubAr": "بافارولو",
+      "typeAr": "إعارة",
+      "textAr": "معارًا من أليساندريا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–يناير 2017",
+      "clubAr": "سالوتسو",
+      "typeAr": "إعارة",
+      "textAr": "خرج معارًا قبل العودة لبافارولو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2017–2018",
+      "clubAr": "بافارولو",
+      "typeAr": "عودة واستمرار",
+      "textAr": "عاد للعب في درجات الهواة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "فيربانيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "واصل صعوده في الدرجات الإيطالية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "برو باتريا",
+      "typeAr": "انتقال دائم",
+      "textAr": "أصبح لاعبًا محترفًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–يناير 2022",
+      "clubAr": "فروزينوني",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في الدرجة الثانية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "31 يناير 2022",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه النادي وأعاره مباشرة لفروزينوني.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2022",
+      "clubAr": "فروزينوني",
+      "typeAr": "إعارة",
+      "textAr": "أكمل موسم 2021/22 معارًا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "يوفنتوس",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "انضم للفريق في تورينو.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/federico-gatti"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Federico_Gatti"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: شراء غاتي وإعارته حتى نهاية 2021/22",
+      "url": "https://www.juventus.com/en/news/articles/federico-gatti-joins-juventus"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
