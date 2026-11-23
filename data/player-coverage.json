@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 156,
+  "profileCount": 159,
   "players": [
     {
       "clubId": "ac-milan",
@@ -560,9 +560,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "juan-musso",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -571,9 +571,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jan-oblak",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -582,9 +582,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "salvador-esquivel",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",

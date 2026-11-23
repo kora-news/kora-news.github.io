@@ -1,0 +1,118 @@
+{
+  "id": "salvador-esquivel",
+  "nameAr": "سلفادور إسكيفيل",
+  "nameEn": "Salvador Esquivel",
+  "squadName": "ESQUIVEL",
+  "clubId": "atletico-madrid",
+  "birthDate": "2005-09-30",
+  "nationalityAr": "إسباني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:20:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "انتقل من مالقة لأكاديمية أتلتيكو في 2021 وتدرج حتى الرديف. جدد في 2024 ثم مدد حتى 2029 عند تصعيده للفريق الأول في سبتمبر 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2021",
+      "clubAr": "مالقة",
+      "typeAr": "ناشئون",
+      "textAr": "يسجله دليل فريق الشباب كناديه السابق.",
+      "sourceIds": [
+        "academy"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "أكاديمية أتلتيكو مدريد",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم وتدرج في الفئات السنية.",
+      "sourceIds": [
+        "promotion",
+        "academy"
+      ]
+    },
+    {
+      "whenAr": "18 يوليو 2024",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن عقدًا لثلاثة مواسم، قبل التجديد الأحدث.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "رديف أتلتيكو مدريد",
+      "typeAr": "تطوير",
+      "textAr": "خاض 29 مباراة مع الرديف وفق إعلان تصعيده اللاحق.",
+      "sourceIds": [
+        "promotion"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تصعيد وتجديد",
+      "textAr": "أصبح لاعبًا بالفريق الأول ومدد حتى 2029، ويرتدي الرقم 25.",
+      "sourceIds": [
+        "promotion"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/salvador-esquivel-2026-2027"
+    },
+    {
+      "id": "promotion",
+      "title": "أتلتيكو: تصعيد إسكيفيل وتجديده حتى 2029",
+      "url": "https://en.atleticodemadrid.com/noticias/esquivel-becomes-a-first-team-player"
+    },
+    {
+      "id": "renewal",
+      "title": "أتلتيكو: تجديد إسكيفيل في 2024",
+      "url": "https://www.atleticodemadrid.com/noticias/salvador-esquivel-suscribe-su-nuevo-contrato-con-nuestro-club"
+    },
+    {
+      "id": "academy",
+      "title": "أتلتيكو: سجل الشباب 2021/22 ونادي إسكيفيل السابق",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-juvenil-b-2021-2022"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:20:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. يسجل المصدر صفر مشاركة وخانتي أهداف وتمريرات فارغتين؛ لا نحولهما إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

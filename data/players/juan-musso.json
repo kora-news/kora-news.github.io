@@ -1,0 +1,121 @@
+{
+  "id": "juan-musso",
+  "nameAr": "خوان موسو",
+  "nameEn": "Juan Musso",
+  "squadName": "J. MUSSO",
+  "clubId": "atletico-madrid",
+  "birthDate": "1994-05-06",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:20:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في ريغاتاس سان نيكولاس ثم راسينغ، ولعب لأودينيزي وأتالانتا. انضم لأتلتيكو معارًا في أغسطس 2024 ثم انتقل نهائيًا في يونيو 2025 بعقد حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات ثم 2012",
+      "clubAr": "ريغاتاس سان نيكولاس ثم راسينغ",
+      "typeAr": "ناشئون وانتقال",
+      "textAr": "انضم لراسينغ في 2012 بعد تدرجه في ريغاتاس.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "2012–2018",
+      "clubAr": "راسينغ كلوب",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تطور قبل انتقاله لأوروبا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2021",
+      "clubAr": "أودينيزي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطته الأولى في إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021–2024",
+      "clubAr": "أتالانتا",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ثلاثة مواسم قبل الإعارة لأتلتيكو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "27 أغسطس 2024",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "إعارة",
+      "textAr": "انضم من أتالانتا حتى نهاية الموسم.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "10 يونيو 2025",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي الاتفاق مع أتالانتا وتوقيع عقد حتى 2028.",
+      "sourceIds": [
+        "permanent"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/juan-agustin-musso-2026-2027"
+    },
+    {
+      "id": "loan",
+      "title": "أتلتيكو: إعارة موسو",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-juan-musso"
+    },
+    {
+      "id": "permanent",
+      "title": "أتلتيكو: شراء موسو حتى 2028",
+      "url": "https://en.atleticodemadrid.com/noticias/agreement-with-atalanta-for-the-transfer-of-juan-musso"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:20:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. يسجل المصدر صفر مشاركة وخانتي أهداف وتمريرات فارغتين؛ لا نحولهما إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
