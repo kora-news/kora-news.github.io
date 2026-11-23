@@ -107,7 +107,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "ruben-loftus-cheek-ac-milan-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "ac-milan",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.acmilan.com/en/teams/men-first-team/players/ruben-loftus-cheek",
+    "sourceAssetUrl": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/cefaa07f-4289-4e65-ba6d-e1c37cdc9d2d/LoftusCheek-2627-Front.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }

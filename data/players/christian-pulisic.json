@@ -121,7 +121,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "christian-pulisic-ac-milan-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "ac-milan",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.acmilan.com/en/teams/men-first-team/players/christian-pulisic",
+    "sourceAssetUrl": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/237b04a8-7812-4fb6-a8f6-19e2b6b38ce5/Pulisic-2627-Front.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }
