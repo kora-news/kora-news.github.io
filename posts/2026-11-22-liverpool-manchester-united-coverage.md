@@ -4,6 +4,7 @@ date: 2026-11-22T20:24:00+02:00
 slug: liverpool-manchester-united-coverage
 category: متابعة المباريات
 excerpt: فوز ليفربول على مانشستر يونايتد بأربعة أهداف دون رد، سجلها سوبوسلاي وفيرتز ونجوموها ومونيوز، بعد طرد يورو. النتيجة النهائية مؤكدة من BBC وESPN عند 20:24 بتوقيت القاهرة.
+related: liverpool-manchester-united-official-lineup, manchester-united-liverpool-official-lineup
 image: liverpool-manchester-united-coverage.webp
 ---
 

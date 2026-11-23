@@ -4,6 +4,7 @@ date: 2026-11-22T17:25:00+02:00
 slug: liverpool-manchester-united-official-lineup
 category: تشكيلات
 excerpt: ليفربول يعلن تشكيله الرسمي لمواجهة مانشستر يونايتد في أنفيلد. نجوموها يبدأ بدلًا من جاكبو الغائب عن القائمة، وفريمبونج يعود على مقاعد البدلاء.
+related: liverpool-manchester-united-coverage, manchester-united-liverpool-official-lineup
 image: liverpool-manchester-united-lineup.webp
 ---
 

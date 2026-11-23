@@ -13,7 +13,8 @@ const SITE_NAME = 'كورة نيوز';
 const SITE_NAME_LATIN = 'KORA NEWS';
 const FB_PAGE = 'https://www.facebook.com/61550609084848/';
 const SITE_DESC = 'كورة نيوز - أخبار الكرة العالمية والمصريين المحترفين أول بأول';
-const BASE_URL = (process.env.SITE_URL || '').replace(/\/$/, '');
+const BASE_URL = (process.env.SITE_URL || 'https://kora-news.github.io').replace(/\/$/, '');
+if (!/^https:\/\/[^/]+(?:\/[^?#]*)?$/.test(BASE_URL)) throw new Error('SITE_URL must be an absolute HTTPS site URL');
 
 // ---------- frontmatter + markdown ----------
 function parsePost(file) {
@@ -72,7 +73,7 @@ function head(title, desc, rel, canon) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:type" content="website">
-${canon && BASE_URL ? `<link rel="canonical" href="${BASE_URL}/${canon}">\n<meta property="og:url" content="${BASE_URL}/${canon}">` : ''}
+${canon !== undefined && BASE_URL ? `<link rel="canonical" href="${BASE_URL}/${canon}">\n<meta property="og:url" content="${BASE_URL}/${canon}">` : ''}
 <link rel="icon" type="image/svg+xml" href="${rel}assets/img/logo.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -86,12 +87,12 @@ function header(rel, active) {
   const a = (id, href, label) => `<a href="${rel}${href}"${active === id ? ' class="active"' : ''}>${label}</a>`;
   return `<header class="site-header">
   <div class="container header-inner">
-    <a class="brand" href="${rel}index.html">
+    <a class="brand" href="${BASE_URL}/">
       <span class="logo-mark">${LOGO_SVG}</span>
       <span class="brand-text"><strong>${SITE_NAME}</strong><small>${SITE_NAME_LATIN}</small></span>
     </a>
     <nav class="main-nav">
-      ${a('home', 'index.html', 'الرئيسية')}
+      <a href="${BASE_URL}/"${active === 'home' ? ' class="active"' : ''}>الرئيسية</a>
       ${a('clubs', 'clubs.html', 'الأندية')}
       ${a('about', 'about.html', 'عن الموقع')}
       <a href="${FB_PAGE}" target="_blank" rel="noopener" class="nav-fb">تابعنا على فيسبوك</a>
@@ -172,7 +173,7 @@ for (const file of ['clubs.css','clubs.js']) fs.copyFileSync(path.join(ROOT,'ass
 
 // home
 const [first, ...rest] = posts;
-const home = head(SITE_NAME + ' | ' + SITE_DESC, SITE_DESC, '', 'index.html') + websiteJsonLd() + header('', 'home') + `
+const home = head(SITE_NAME + ' | أخبار الكرة العالمية والمصريين المحترفين', SITE_DESC, '', '') + websiteJsonLd() + header('', 'home') + `
 <main class="container">
   <section class="hero">
     <span class="hero-kicker">آخر الأخبار</span>
@@ -188,7 +189,12 @@ fs.writeFileSync(path.join(DIST, 'index.html'), home);
 // post pages
 for (const p of posts) {
   const rel = '../';
-  const others = posts.filter(x => x.slug !== p.slug).slice(0, 3);
+  const relatedSlugs = (p.related || '').split(',').map(x => x.trim()).filter(Boolean);
+  for (const slug of relatedSlugs) {
+    if (slug === p.slug || !posts.some(x => x.slug === slug)) throw new Error('Invalid related article: ' + slug);
+  }
+  const preferred = relatedSlugs.map(slug => posts.find(x => x.slug === slug && x.slug !== p.slug)).filter(Boolean);
+  const others = [...preferred, ...posts.filter(x => x.slug !== p.slug && !relatedSlugs.includes(x.slug) && x.category === p.category)].slice(0, 3);
   const html = head(p.title + ' | ' + SITE_NAME, p.excerpt || SITE_DESC, rel, `posts/${p.slug}.html`) + articleJsonLd(p) + header(rel, '') + `
 <main class="container">
   <article class="post">
@@ -227,7 +233,7 @@ fs.writeFileSync(path.join(DIST, 'about.html'), about);
 
 // 404
 const nf = head('الصفحة غير موجودة | ' + SITE_NAME, SITE_DESC, '') + header('', '') + `
-<main class="container"><article class="post about"><h1>الصفحة غير موجودة</h1><div class="post-body"><p>الرابط الذي تحاول الوصول إليه غير موجود. <a href="index.html">العودة للرئيسية</a></p></div></article></main>
+<main class="container"><article class="post about"><h1>الصفحة غير موجودة</h1><div class="post-body"><p>الرابط الذي تحاول الوصول إليه غير موجود. <a href="${BASE_URL}/">العودة للرئيسية</a></p></div></article></main>
 ` + footer('');
 fs.writeFileSync(path.join(DIST, '404.html'), nf);
 
@@ -243,7 +249,7 @@ ${posts.map(p => `<item><title>${esc(p.title)}</title><link>${base}/posts/${p.sl
 fs.writeFileSync(path.join(DIST, 'feed.xml'), feed);
 const sm = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>${base}/index.html</loc></url>
+<url><loc>${base}/</loc></url>
 ${clubPages.map(url=>`<url><loc>${base}/${url}</loc></url>`).join('\n')}
 ${posts.map(p => `<url><loc>${base}/posts/${p.slug}.html</loc></url>`).join('\n')}
 </urlset>`;

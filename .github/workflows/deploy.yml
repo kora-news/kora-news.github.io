@@ -24,6 +24,8 @@ jobs:
           node-version: 22
       - name: Build site
         run: SITE_URL="https://${{ github.repository_owner }}.github.io" node scripts/build.js
+      - name: Validate search-discovery signals
+        run: SITE_URL="https://${{ github.repository_owner }}.github.io" node scripts/check-seo.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

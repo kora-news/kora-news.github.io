@@ -4,6 +4,7 @@ date: 2026-11-22T20:57:00+02:00
 slug: inter-atalanta-official-lineup
 category: تشكيلات
 excerpt: إنتر يعلن تشكيله الرسمي لمواجهة أتالانتا في بيرجامو، مع جوزيب مارتينيز وإيسبوزيتو وتورام ضمن الأساسيين. البداية عند 21:45 بتوقيت القاهرة.
+related: atalanta-inter-coverage, atalanta-inter-official-lineup
 image: inter-atalanta-official-lineup.webp
 ---
 

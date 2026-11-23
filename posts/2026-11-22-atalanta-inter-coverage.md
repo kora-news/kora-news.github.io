@@ -4,6 +4,7 @@ date: 2026-11-22T23:41:00+02:00
 slug: atalanta-inter-coverage
 category: متابعة المباريات
 excerpt: نهاية المباراة بالتعادل بين أتالانتا وإنتر بأربعة أهداف لكل فريق. هاتريك لبيو إيسبوزيتو وكيسييه يسجل التعادل من ركلة جزاء في الدقيقة 90+1.
+related: inter-atalanta-official-lineup, atalanta-inter-official-lineup
 image: atalanta-inter-coverage.webp
 ---
 

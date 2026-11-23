@@ -4,6 +4,7 @@ date: 2026-11-22T17:30:00+02:00
 slug: manchester-united-liverpool-official-lineup
 category: تشكيلات
 excerpt: مانشستر يونايتد يعلن أسماء الأساسيين لمواجهة ليفربول، مع فيرنانديز قائدًا. قائمة رسمية من منشور النادي، دون افتراض خطة تكتيكية.
+related: liverpool-manchester-united-coverage, liverpool-manchester-united-official-lineup
 image: manchester-united-liverpool-lineup.webp
 ---
 

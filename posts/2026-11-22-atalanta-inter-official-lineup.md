@@ -4,6 +4,7 @@ date: 2026-11-22T20:56:00+02:00
 slug: atalanta-inter-official-lineup
 category: تشكيلات
 excerpt: أتالانتا يبدأ بكارنيسيكي وكيسي وإيدرسون ودي كيتيلاري وزاليفسكي وكريستوفيتش أمام إنتر، وفق التشكيل الرسمي المنشور في صفحة المباراة. البداية عند 21:45 بتوقيت القاهرة.
+related: atalanta-inter-coverage, inter-atalanta-official-lineup
 image: atalanta-inter-official-lineup.webp
 ---
 
