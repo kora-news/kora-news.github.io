@@ -1,0 +1,136 @@
+{
+  "id": "dermot-mee",
+  "nameAr": "ديرموت مي",
+  "nameEn": "Dermot Mee",
+  "squadName": "Dermot Mee",
+  "clubId": "manchester-united",
+  "birthDate": "2002-11-20",
+  "nationalityAr": "أيرلندي شمالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في والسال ثم مانشستر يونايتد، وخاض تجارب قصيرة مع فولهام وترافورد ورانكورن وويتون وألترينشام وويمبلدون قبل الاستمرار مع يونايتد.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2015",
+      "clubAr": "والسال",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ قبل الانتقال ليونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2021",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "أكاديمية فولهام",
+      "typeAr": "إعارة قصيرة",
+      "textAr": "اكتسب خبرة في فرق الشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "ترافورد ثم رانكورن لينيتس",
+      "typeAr": "إعارات قصيرة",
+      "textAr": "خاض فترات في الدرجات الإنجليزية الأدنى.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "ويتون ألبيون",
+      "typeAr": "إعارة قصيرة",
+      "textAr": "واصل اكتساب الخبرة.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022–يناير 2023",
+      "clubAr": "ألترينشام",
+      "typeAr": "إعارة",
+      "textAr": "أعلن النادي إعارته في 16 أغسطس 2022.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "خلال التكوين",
+      "clubAr": "إيه إف سي ويمبلدون",
+      "typeAr": "إعارة خبرة عملية",
+      "textAr": "تثبت السيرة الرسمية التجربة دون تاريخ دقيق.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "حتى موسم 2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "استمرار",
+      "textAr": "يتدرب مع الفريق الأول وجدد عقده في يوليو 2026.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/dermot-mee"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Dermot_Mee"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

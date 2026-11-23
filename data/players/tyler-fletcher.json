@@ -1,0 +1,91 @@
+{
+  "id": "tyler-fletcher",
+  "nameAr": "تايلر فليتشر",
+  "nameEn": "Tyler Fletcher",
+  "squadName": "Tyler Fletcher",
+  "clubId": "manchester-united",
+  "birthDate": "2007-03-19",
+  "nationalityAr": "اسكتلندي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في مانشستر سيتي ثم انتقل لأكاديمية مانشستر يونايتد في 2023، وظهر مع الفريق الأول في فبراير 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2023",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تكوين",
+      "textAr": "بدأ في أكاديمية سيتي.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في فرق الشباب.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2026",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "تصعيد وبداية رسمية",
+      "textAr": "بدأ مشاركاته مع الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/tyler-fletcher"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Tyler_Fletcher"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

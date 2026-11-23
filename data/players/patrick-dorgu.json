@@ -1,0 +1,107 @@
+{
+  "id": "patrick-dorgu",
+  "nameAr": "باتريك دورغو",
+  "nameEn": "Patrick Chinazaekpere Dorgu",
+  "squadName": "Patrick Chinazaekpere Dorgu",
+  "clubId": "manchester-united",
+  "birthDate": "2004-10-26",
+  "nationalityAr": "دنماركي",
+  "positionAr": "مدافع وجناح خلفي",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في أندية الدنمارك ثم ليتشي، حيث ظهر مع الفريق الأول في 2023. انتقل لمانشستر يونايتد في فبراير 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2016",
+      "clubAr": "هوسوم",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في الدنمارك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "أكاديميسك",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "نوردشيلاند",
+      "typeAr": "ناشئون",
+      "textAr": "محطته قبل إيطاليا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2025",
+      "clubAr": "ليتشي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج حتى الفريق الأول في 2023.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2025",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى يونيو 2030 مع خيار لعام إضافي.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/patrick-dorgu"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Dorgu"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 2,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

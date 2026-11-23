@@ -1,0 +1,152 @@
+{
+  "id": "karl-darlow",
+  "nameAr": "كارل دارلو",
+  "nameEn": "Karl Darlow",
+  "squadName": "Karl Darlow",
+  "clubId": "manchester-united",
+  "birthDate": "1990-10-08",
+  "nationalityAr": "ويلزي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في أستون فيلا ونوتنغهام فورست، وخاض إعارات متعددة قبل نيوكاسل وليدز. انضم لمانشستر يونايتد في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "أستون فيلا ثم نوتنغهام فورست",
+      "typeAr": "تكوين",
+      "textAr": "وصل للفريق الأول في فورست.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2014",
+      "clubAr": "نوتنغهام فورست",
+      "typeAr": "فريق أول",
+      "textAr": "بدأ مسيرته الاحترافية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012",
+      "clubAr": "نيوبورت كاونتي",
+      "typeAr": "إعارة",
+      "textAr": "خرج معارًا من فورست.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012 ثم 2013",
+      "clubAr": "والسال",
+      "typeAr": "إعارتان",
+      "textAr": "خاض فترتين قصيرتين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه النادي ثم أعاره لفورست.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "نوتنغهام فورست",
+      "typeAr": "إعارة",
+      "textAr": "أكمل موسمًا مع ناديه السابق.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2023",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "لعب قبل انتقاله لليدز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "هال سيتي",
+      "typeAr": "إعارة",
+      "textAr": "قضى فترة معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "ليدز يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب ثلاثة مواسم.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2026",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال",
+      "textAr": "انضم من ليدز.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/karl-darlow"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Karl_Darlow"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

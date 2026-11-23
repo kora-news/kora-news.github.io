@@ -1,0 +1,117 @@
+{
+  "id": "lisandro-martinez",
+  "nameAr": "ليساندرو مارتينيز",
+  "nameEn": "Lisandro Martínez",
+  "squadName": "Lisandro Martínez",
+  "clubId": "manchester-united",
+  "birthDate": "1998-01-18",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في أندية الأرجنتين ثم نيويلز، وانتقل لديفينسا بإعارة ثم شراء. لعب لأياكس من 2019 قبل يونايتد في 2022.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2014",
+      "clubAr": "أوركيزا وليبرتاد",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في الأرجنتين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2017",
+      "clubAr": "نيويلز أولد بويز",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "وصل للفريق الأول في 2017.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "ديفينسا إي خوستيسيا",
+      "typeAr": "إعارة",
+      "textAr": "بدأت فترته معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "ديفينسا إي خوستيسيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بعد الإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2022",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ثلاثة مواسم في هولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من أياكس.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/lisandro-martinez"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

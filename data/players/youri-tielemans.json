@@ -1,0 +1,117 @@
+{
+  "id": "youri-tielemans",
+  "nameAr": "يوري تيليمانس",
+  "nameEn": "Youri Tielemans",
+  "squadName": "Youri Tielemans",
+  "clubId": "manchester-united",
+  "birthDate": "1997-05-07",
+  "nationalityAr": "بلجيكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في أندرلخت ولعب لموناكو ثم ليستر بإعارة وشراء دائم. انتقل لأستون فيلا في 2023 ثم ليونايتد في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2017",
+      "clubAr": "أندرلخت",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "ظهر في الفريق الأول في السادسة عشرة.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "موناكو",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربته في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2018/19",
+      "clubAr": "ليستر سيتي",
+      "typeAr": "إعارة",
+      "textAr": "بدأت تجربته الإنجليزية بإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2023",
+      "clubAr": "ليستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بعد الإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "أستون فيلا",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب ثلاثة مواسم.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2026",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من أستون فيلا.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/youri-tielemans"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Youri_Tielemans"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

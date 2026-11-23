@@ -1,0 +1,107 @@
+{
+  "id": "ayden-heaven",
+  "nameAr": "آيدن هيفن",
+  "nameEn": "Ayden Heaven",
+  "squadName": "Ayden Heaven",
+  "clubId": "manchester-united",
+  "birthDate": "2006-09-22",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في وست هام وأرسنال، وظهر مع الفريق الأول لأرسنال في 2024. انتقل لمانشستر يونايتد في فبراير 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "وست هام يونايتد",
+      "typeAr": "تكوين",
+      "textAr": "بدأ قبل أرسنال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2024",
+      "clubAr": "أرسنال",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "أرسنال",
+      "typeAr": "فريق أول",
+      "textAr": "شارك في كأس الرابطة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "1 فبراير 2025",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم مباشرة إلى مجموعة الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2 مارس 2025",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "بداية رسمية",
+      "textAr": "ظهر في كأس إنجلترا أمام فولهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/ayden-heaven"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Ayden_Heaven"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

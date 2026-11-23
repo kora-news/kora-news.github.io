@@ -1,0 +1,116 @@
+{
+  "id": "manuel-ugarte",
+  "nameAr": "مانويل أوغارتي",
+  "nameEn": "Manuel Ugarte",
+  "squadName": "Manuel Ugarte",
+  "clubId": "manchester-united",
+  "birthDate": "2001-04-11",
+  "nationalityAr": "أوروغواياني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "بدأ في فينيكس ثم انتقل لفاماليكاو وسبورتينغ وباريس سان جيرمان. انضم لمانشستر يونايتد في أغسطس 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "سيتي بارك ثم فينيكس",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في الأوروغواي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2020",
+      "clubAr": "فينيكس",
+      "typeAr": "فريق أول",
+      "textAr": "بدأ مسيرته الاحترافية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–أغسطس 2021",
+      "clubAr": "فاماليكاو",
+      "typeAr": "انتقال دائم",
+      "textAr": "أولى محطاته الأوروبية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2023",
+      "clubAr": "سبورتينغ لشبونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "واصل اللعب في البرتغال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمًا في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "30 أغسطس 2024",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم في ختام سوق الانتقالات.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/manuel-ugarte"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Ugarte_(footballer)"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

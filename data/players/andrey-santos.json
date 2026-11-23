@@ -1,0 +1,126 @@
+{
+  "id": "andrey-santos",
+  "nameAr": "أندري سانتوس",
+  "nameEn": "Andrey Santos",
+  "squadName": "Andrey Santos",
+  "clubId": "manchester-united",
+  "birthDate": "2004-05-03",
+  "nationalityAr": "برازيلي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في فاسكو دا غاما وانتقل لتشيلسي في يناير 2023، ثم خرج بإعارات لفاسكو ونوتنغهام وستراسبورغ. انضم ليونايتد في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2023",
+      "clubAr": "فاسكو دا غاما",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "ظهر محترفًا في 2021.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من البرازيل.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "فاسكو دا غاما",
+      "typeAr": "إعارة",
+      "textAr": "عاد معارًا إلى ناديه السابق.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023–يناير 2024",
+      "clubAr": "نوتنغهام فورست",
+      "typeAr": "إعارة",
+      "textAr": "خرج من تشيلسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2024 ثم 2024/25",
+      "clubAr": "ستراسبورغ",
+      "typeAr": "إعارتان",
+      "textAr": "قضى موسمًا ونصف في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "لعب مع الفريق قبل الانتقال.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "13 يوليو 2026",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وصل من تشيلسي.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/andrey-santos"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Andrey_Santos"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

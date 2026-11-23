@@ -1,0 +1,134 @@
+{
+  "id": "matheus-cunha",
+  "nameAr": "ماتيوس كونيا",
+  "nameEn": "Matheus Cunha",
+  "squadName": "Matheus Cunha",
+  "clubId": "manchester-united",
+  "birthDate": "1999-05-27",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في كوريتيبا، ولعب لسيون ولايبزيغ وهيرتا وأتلتيكو مدريد قبل وولفرهامبتون. انضم لمانشستر يونايتد في يونيو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2017",
+      "clubAr": "كوريتيبا",
+      "typeAr": "تكوين",
+      "textAr": "بدأ في البرازيل.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "سيون",
+      "typeAr": "انتقال",
+      "textAr": "بدأ تجربته الأوروبية في سويسرا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في ألمانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "هيرتا برلين",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر في الدوري الألماني.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2023",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في إسبانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2023",
+      "clubAr": "وولفرهامبتون",
+      "typeAr": "إعارة",
+      "textAr": "بدأ بإعارة من أتلتيكو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "وولفرهامبتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بعد الإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2025",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وصل من وولفرهامبتون.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/matheus-cunha"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Matheus_Cunha"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 2,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

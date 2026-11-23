@@ -1,0 +1,107 @@
+{
+  "id": "noussair-mazraoui",
+  "nameAr": "نصير مزراوي",
+  "nameEn": "Noussair Mazraoui",
+  "squadName": "Noussair Mazraoui",
+  "clubId": "manchester-united",
+  "birthDate": "1997-11-14",
+  "nationalityAr": "مغربي",
+  "positionAr": "ظهير ومدافع",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في أندية ألفن ثم أياكس، ولعب لبايرن ميونخ من 2022 قبل انتقاله لمانشستر يونايتد في 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2005",
+      "clubAr": "إيه في في ألفن",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في هولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2005/06",
+      "clubAr": "ألفينسه بويز",
+      "typeAr": "ناشئون",
+      "textAr": "محطته قبل أياكس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2006–2022",
+      "clubAr": "أياكس",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في 2017.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2024",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمين بألمانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من بايرن مع دي ليخت.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/noussair-mazraoui"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Noussair_Mazraoui"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

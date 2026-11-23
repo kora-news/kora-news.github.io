@@ -1,0 +1,116 @@
+{
+  "id": "joshua-zirkzee",
+  "nameAr": "جوشوا زيركزي",
+  "nameEn": "Joshua Zirkzee",
+  "squadName": "Joshua Zirkzee",
+  "clubId": "manchester-united",
+  "birthDate": "2001-05-22",
+  "nationalityAr": "هولندي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في هولندا ثم بايرن ميونخ، وأعير لبارما وأندرلخت. انتقل لبولونيا في 2022 ثم ليونايتد في يوليو 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2007–2017",
+      "clubAr": "هيكيلينغن وسبارتان وأدو دن هاغ وفينورد",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في هولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2022",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في 2019.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2020/21",
+      "clubAr": "بارما",
+      "typeAr": "إعارة",
+      "textAr": "لعب في إيطاليا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "أندرلخت",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا في بلجيكا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2024",
+      "clubAr": "بولونيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب موسمين في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2024",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من بولونيا.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/joshua-zirkzee"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Joshua_Zirkzee"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

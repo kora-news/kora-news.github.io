@@ -1,0 +1,107 @@
+{
+  "id": "benjamin-sesko",
+  "nameAr": "بنجامين شيشكو",
+  "nameEn": "Benjamin Šeško",
+  "squadName": "Benjamin Šeško",
+  "clubId": "manchester-united",
+  "birthDate": "2003-05-31",
+  "nationalityAr": "سلوفيني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في سلوفينيا ثم سالزبورغ، وأعير لليفرينغ. انتقل للايبزيغ في 2023 ثم لمانشستر يونايتد في أغسطس 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2019",
+      "clubAr": "راديتشه ورودار ترفبوفليه وكركو ودومجاله",
+      "typeAr": "ناشئون",
+      "textAr": "مر براديتشه مرتين قبل كركو ودومجاله.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2023",
+      "clubAr": "ريد بول سالزبورغ",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى النمسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "ليفرينغ",
+      "typeAr": "إعارة",
+      "textAr": "لعب موسمين معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للدوري الألماني.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "9 أغسطس 2025",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من لايبزيغ.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/benjamin-sesko"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_%C5%A0e%C5%A1ko"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

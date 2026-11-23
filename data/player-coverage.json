@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 293,
+  "profileCount": 322,
   "players": [
     {
       "clubId": "ac-milan",
@@ -3244,9 +3244,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "matheus-cunha",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3255,9 +3255,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "amad-diallo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3266,9 +3266,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "shea-lacey",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3277,9 +3277,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "bryan-mbeumo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3288,9 +3288,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marcus-rashford",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3299,9 +3299,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "benjamin-sesko",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3310,9 +3310,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joshua-zirkzee",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3321,9 +3321,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "carlos-baleba",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3343,9 +3343,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jack-fletcher",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3354,9 +3354,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "tyler-fletcher",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3365,9 +3365,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kobbie-mainoo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3376,9 +3376,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mason-mount",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3387,9 +3387,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "andrey-santos",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3398,9 +3398,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "youri-tielemans",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3409,9 +3409,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "manuel-ugarte",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3420,9 +3420,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "harry-amass",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3431,9 +3431,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "patrick-dorgu",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3442,9 +3442,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "diogo-dalot",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3453,9 +3453,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "matthijs-de-ligt",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3464,9 +3464,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ayden-heaven",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3475,9 +3475,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "harry-maguire",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3486,9 +3486,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lisandro-martinez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3497,9 +3497,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "noussair-mazraoui",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3508,9 +3508,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luke-shaw",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3519,9 +3519,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "leny-yoro",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3530,9 +3530,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "karl-darlow",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3541,9 +3541,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "tom-heaton",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3552,9 +3552,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "senne-lammens",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",
@@ -3563,9 +3563,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dermot-mee",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",

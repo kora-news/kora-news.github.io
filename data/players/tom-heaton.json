@@ -1,0 +1,179 @@
+{
+  "id": "tom-heaton",
+  "nameAr": "توم هيتون",
+  "nameEn": "Tom Heaton",
+  "squadName": "Tom Heaton",
+  "clubId": "manchester-united",
+  "birthDate": "1986-04-15",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:48:49+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر يونايتد.",
+  "summaryAr": "تدرج في مانشستر يونايتد وخرج في إعارات قبل كارديف وبريستول سيتي وبيرنلي وأستون فيلا. عاد لمانشستر يونايتد في 2021.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "ريكسهام",
+      "typeAr": "ناشئون",
+      "textAr": "محطته قبل يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2002–2005",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2005/06",
+      "clubAr": "سويندون تاون",
+      "typeAr": "إعارة",
+      "textAr": "أعير من يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2006",
+      "clubAr": "رويال أنتويرب",
+      "typeAr": "إعارة",
+      "textAr": "تجربة في بلجيكا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2008/09",
+      "clubAr": "كارديف سيتي",
+      "typeAr": "إعارة",
+      "textAr": "أولى فتراته في ويلز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2009",
+      "clubAr": "كوينز بارك رينجرز",
+      "typeAr": "إعارة",
+      "textAr": "قضى فترة قصيرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2009/10",
+      "clubAr": "روتشديل",
+      "typeAr": "إعارة",
+      "textAr": "واصل اكتساب الخبرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010",
+      "clubAr": "ويكومب واندررز",
+      "typeAr": "إعارة",
+      "textAr": "آخر محطاته المعارة من يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2012",
+      "clubAr": "كارديف سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد بصورة دائمة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012/13",
+      "clubAr": "بريستول سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب موسمًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2019",
+      "clubAr": "بيرنلي",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ست سنوات.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "أستون فيلا",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب قبل العودة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2021",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "عودة دائمة",
+      "textAr": "عاد وظهر رسميًا في ديسمبر 2021.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/tom-heaton"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر يونايتد: قائمة الفريق الأول للرجال",
+      "url": "https://www.manutd.com/en/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي الممتاز 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Tom_Heaton"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:48:49+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر؛ لا تشمل مباراة ليفربول يوم 22 نوفمبر التي لم يحدث المصدر أرقامها. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص مانشستر يونايتد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
