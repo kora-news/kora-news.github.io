@@ -1,0 +1,116 @@
+{
+  "id": "brian-farinas",
+  "nameAr": "بريان فارينياس",
+  "nameEn": "Brian Fariñas",
+  "squadName": "Brian Fariñas",
+  "clubId": "barcelona",
+  "birthDate": "2006-02-09",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:05:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "انتقل من ناشئي فياريال إلى لا ماسيا في صيف 2018. ظهر مع برشلونة أتلتيك في مارس 2024 ثم انضم لقائمة الفريق الأول في بداية 2026/27. التجديد الرسمي الموثق هنا يمتد حتى يونيو 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى صيف 2018",
+      "clubAr": "فياريال",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في ناشئي فياريال قبل انتقاله إلى برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2018",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم إلى فئة تحت 13 عامًا، ثم تدرج في مراحل الأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "16 مارس 2024",
+      "clubAr": "برشلونة أتلتيك",
+      "typeAr": "بداية الرديف",
+      "textAr": "ظهر أمام تيرويل في الفوز خارج الأرض 4–2 وهو لا يزال في فئة الشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "14 مايو 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي تمديده لثلاثة مواسم حتى 30 يونيو 2028 بعد نهاية مرحلته في الشباب. لا نحول التقارير الإعلامية اللاحقة عن تمديد جديد إلى توقيع رسمي.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "برشلونة أتلتيك",
+      "typeAr": "الفريق الرديف",
+      "textAr": "لعب موسمًا مع الرديف تحت قيادة جوليانو بيليتي قبل التصعيد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بداية 2026/27",
+      "clubAr": "برشلونة",
+      "typeAr": "تصعيد",
+      "textAr": "أصبح رسميًا ضمن قائمة الفريق الأول تحت قيادة هانزي فليك.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة بريان فارينياس الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/140515/brian-farinas"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد فارينياس حتى 2028",
+      "url": "https://www.fcbarcelona.es/es/futbol/barca-b/noticias/4265135/brian-farinas-azulgrana-hasta-el-2028"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:05:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. تسرد صفحة النادي مركزه لاعب وسط، رغم أن مصدر الإحصاءات يصنف مشاركاته كمدافع. نحتفظ بمركز النادي وبأرقام الدوري فقط؛ كان بديلًا غير مشارك أمام فياريال."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

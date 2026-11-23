@@ -1,0 +1,98 @@
+{
+  "id": "rodri",
+  "nameAr": "رودري",
+  "nameEn": "Rodri",
+  "squadName": "Rodri",
+  "clubId": "barcelona",
+  "birthDate": "1996-06-22",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:05:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في أتلتيكو مدريد ثم أكمل تكوينه في فياريال، وعاد لأتلتيكو في 2018. انتقل إلى مانشستر سيتي في 2019 ثم انضم إلى برشلونة في أغسطس 2026 بعقد حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أتلتيكو مدريد ثم فياريال",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في ناشئي أتلتيكو ثم أكمل تكوينه في فياريال، حيث ظهر في الدرجة الأولى الإسبانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال",
+      "textAr": "عاد إلى أتلتيكو بعد تألقه مع فياريال وقضى موسمًا تحت قيادة دييغو سيميوني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى النادي الإنجليزي وأصبح من عناصر خط وسطه.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "18 أغسطس 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن برشلونة اتفاقه مع مانشستر سيتي على انتقاله وارتباطه حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة رودري الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/16286/rodrigo-hernandez-cascante"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: التعاقد مع رودري حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4561501/fc-barcelona-sign-rodrigo-hernandez"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:05:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. لم يشارك أمام فياريال؛ الأرقام تخص برشلونة في الدوري فقط، لا مبارياته السابقة مع سيتي أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

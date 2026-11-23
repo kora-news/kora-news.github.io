@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 35,
+  "profileCount": 39,
   "players": [
     {
       "clubId": "ac-milan",
@@ -890,9 +890,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "xavi-espart",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -945,9 +945,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "brian-farinas",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -989,9 +989,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rodri",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -1033,9 +1033,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "gabriel-jesus",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",

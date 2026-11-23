@@ -1,0 +1,122 @@
+{
+  "id": "xavi-espart",
+  "nameAr": "تشافي إسبارت",
+  "nameEn": "Xavi Espart",
+  "squadName": "Xavi Espart",
+  "clubId": "barcelona",
+  "birthDate": "2007-05-21",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:05:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "انضم إلى لا ماسيا من فيلاسار دي مار في صيف 2015، وظهر مع الرديف في أغسطس 2024 ثم الفريق الأول في مارس 2026. وقع في نوفمبر 2026 تمديده حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "صيف 2015",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم من UE Vilassar de Mar وتدرج في الفئات السنية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "31 أغسطس 2024",
+      "clubAr": "برشلونة أتلتيك",
+      "typeAr": "بداية الرديف",
+      "textAr": "ظهر أمام أندورا وهو لا يزال لاعبًا في فئة الشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مارس 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك أمام نيوكاسل في ذهاب دور الستة عشر لدوري أبطال أوروبا.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "بداية 2026/27",
+      "clubAr": "برشلونة",
+      "typeAr": "تصعيد",
+      "textAr": "انضم إلى قائمة الفريق الأول وحصل على القميص رقم 12.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "8 أكتوبر 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق تجديد",
+      "textAr": "أعلن النادي اتفاق تمديده حتى 30 يونيو 2030، مع تأجيل التوقيع الرسمي إلى وقت لاحق.",
+      "sourceIds": [
+        "agreement"
+      ]
+    },
+    {
+      "whenAr": "20 نوفمبر 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "توقيع التجديد",
+      "textAr": "أكد النادي توقيعه الفعلي على العقد الجديد حتى 2030. هذا أحدث من إعلان الاتفاق في أكتوبر.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة تشافي إسبارت الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/jugadores/141001/-------------------xavi---------------espart"
+    },
+    {
+      "id": "agreement",
+      "title": "برشلونة: اتفاق تجديد إسبارت حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588488/xavi-espart-renews-until-2030"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: توقيع إسبارت عقده حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4611885/xavi-espart-signs-contract-to-2030"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:05:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. لم يشارك أمام فياريال؛ جدول الفريق المحدث يفصل مبارياته في الدوري عن دوري الأبطال."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "gabriel-jesus",
+  "nameAr": "غابرييل جيسوس",
+  "nameEn": "Gabriel Jesus",
+  "squadName": "Gabriel Jesus",
+  "clubId": "barcelona",
+  "birthDate": "1997-04-03",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:05:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في أنهانغيرا ثم بالميراس. اتفق مع مانشستر سيتي في أغسطس 2016 والتحق به في يناير 2017، ثم لعب لأرسنال منذ يوليو 2022. انتقل إلى برشلونة في سبتمبر 2026 حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "أنهانغيرا ثم بالميراس",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في نادي بلدته ثم انتقل إلى أكاديمية بالميراس. لا نثبت سنة الانضمام للأكاديمية بسبب اختلافها بين إعلاني سيتي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مارس 2015",
+      "clubAr": "بالميراس",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول في البرازيل قبل انتقاله إلى أوروبا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2016 ثم يناير 2017",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "اتفاق ثم التحاق",
+      "textAr": "اتفق على الانتقال في صيف 2016، وبقي مع بالميراس حتى نهاية موسمه قبل انضمامه الفعلي لسيتي في يناير 2017.",
+      "sourceIds": [
+        "city"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال",
+      "textAr": "انتقل من مانشستر سيتي إلى أرسنال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال",
+      "textAr": "أعلن النادي اتفاقه مع أرسنال على انتقاله لثلاثة مواسم حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة غابرييل جيسوس الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/19680/---------------gabriel-jesus"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: التعاقد مع جيسوس حتى 2029",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona"
+    },
+    {
+      "id": "city",
+      "title": "مانشستر سيتي: تأكيد التحاق جيسوس في يناير 2017",
+      "url": "https://www.mancity.com/news/first-team/first-team-news/2017/january/manchester-city-welcome-gabriel-jesus"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:05:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. كان بديلًا غير مشارك أمام فياريال. الأرقام تخص برشلونة في الدوري فقط، وليست إجمالي مسيرته."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
