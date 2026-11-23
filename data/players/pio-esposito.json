@@ -1,0 +1,98 @@
+{
+  "id": "pio-esposito",
+  "nameAr": "بيو إسبوزيتو",
+  "nameEn": "Pio Esposito",
+  "squadName": "Pio Esposito",
+  "clubId": "inter",
+  "birthDate": "2005-06-28",
+  "nationalityAr": "إيطالي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "انضم لأكاديمية إنتر في 2014، ولعب لسبيتسيا معارًا موسمين من 2023 إلى 2025. عاد وظهر مع إنتر في كأس العالم للأندية 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2014",
+      "clubAr": "بريشيا",
+      "typeAr": "ناشئون",
+      "textAr": "محطته قبل إنتر.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2023",
+      "clubAr": "إنتر",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "سبيتسيا",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمين معارًا من إنتر.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "إنتر",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "ظهر مع الفريق الأول في كأس العالم للأندية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/francesco-pio-esposito"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Pio_Esposito"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 12,
+      "goals": 6,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

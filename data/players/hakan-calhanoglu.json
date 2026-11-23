@@ -1,0 +1,140 @@
+{
+  "id": "hakan-calhanoglu",
+  "nameAr": "هاكان تشالهان أوغلو",
+  "nameEn": "Hakan Çalhanoğlu",
+  "squadName": "Hakan Çalhanoğlu",
+  "clubId": "inter",
+  "birthDate": "1994-02-08",
+  "nationalityAr": "تركي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "بدأ في ألمانيا مع كارلسروه، واشترى هامبورغ عقده في 2012 مع إعارته فورًا لكارلسروه. لعب لليفركوزن ثم ميلان، وانتقل لإنتر في 2021.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2009",
+      "clubAr": "أندية مانهايم ومنها فالدوف",
+      "typeAr": "ناشئون",
+      "textAr": "نشأ كرويًا في ألمانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2009–2012",
+      "clubAr": "كارلسروه",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "وصل للفريق الأول في يناير 2012.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "14 أغسطس 2012",
+      "clubAr": "هامبورغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى يونيو 2016 ثم أعير فورًا.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2012/13",
+      "clubAr": "كارلسروه",
+      "typeAr": "إعارة",
+      "textAr": "بقي لموسم معارًا من هامبورغ.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "هامبورغ",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "لعب في البوندسليغا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2017",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "انتقال دائم",
+      "textAr": "واصل مسيرته في ألمانيا.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2021",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة مواسم في إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للجار وتحول لاحقًا لدور لاعب الارتكاز.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/hakan-calhanoglu"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu"
+    },
+    {
+      "id": "loan",
+      "title": "كارلسروه: بيع هاكان لهامبورغ وإعارته فورًا في 2012",
+      "url": "https://www.ksc.de/profis/saison/news/show/article/calhanoglu-unterschreibt-beim-hsv-sofortige-ausleihe-zum-ksc/"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 10,
+      "goals": 3,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

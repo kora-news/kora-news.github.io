@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 251,
+  "profileCount": 263,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2067,9 +2067,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "piotr-zielinski",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2078,9 +2078,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "petar-sucic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2089,9 +2089,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marcus-thuram",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2100,9 +2100,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lautaro-martinez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2111,9 +2111,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luis-henrique",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2133,9 +2133,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ange-yoan-bonny",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2144,9 +2144,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "andy-diouf",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2155,9 +2155,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "hakan-calhanoglu",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2166,9 +2166,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "curtis-jones",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2177,9 +2177,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "henrikh-mkhitaryan",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2188,9 +2188,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "nicolo-barella",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2265,9 +2265,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pio-esposito",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",

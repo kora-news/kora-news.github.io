@@ -1,0 +1,118 @@
+{
+  "id": "piotr-zielinski",
+  "nameAr": "بيوتر زيلينسكي",
+  "nameEn": "Piotr  Zieliński",
+  "squadName": "Piotr  Zieliński",
+  "clubId": "inter",
+  "birthDate": "1994-05-20",
+  "nationalityAr": "بولندي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تكون في بولندا ثم أودينيزي. أعير لإمبولي قبل انتقاله لنابولي في 2016، ثم انضم لإنتر في 2024 بعد ثمانية أعوام مع نابولي.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2003–2007",
+      "clubAr": "أورزيل زومبكوفيتسه شلونسكيه",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته في بولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2007–2011",
+      "clubAr": "زاغويمبيه لوبين",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه في بلاده.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2011–2014",
+      "clubAr": "أودينيزي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "انتقل لإيطاليا وظهر في الدوري الإيطالي.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2016",
+      "clubAr": "إمبولي",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمين معارًا من أودينيزي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2024",
+      "clubAr": "نابولي",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ثمانية مواسم وفاز بالدوري في 2023.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعد نهاية تجربته في نابولي.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/piotr-zielinski"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Piotr_Zieli%C5%84ski"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

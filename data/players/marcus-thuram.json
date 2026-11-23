@@ -1,0 +1,117 @@
+{
+  "id": "marcus-thuram",
+  "nameAr": "ماركوس تورام",
+  "nameEn": "Marcus Thuram",
+  "squadName": "Marcus Thuram",
+  "clubId": "inter",
+  "birthDate": "1997-08-06",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في أندية فرنسية منها سوشو، ثم لعب لغانغان وبوروسيا مونشنغلادباخ قبل انضمامه لإنتر في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2007–2010",
+      "clubAr": "أولمبيك نويي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ مسيرته في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2012",
+      "clubAr": "بولوني بيلانكور",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2017",
+      "clubAr": "سوشو",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "وصل للفريق الأول في 2015.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "غانغان",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض موسمين في الدوري الفرنسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2023",
+      "clubAr": "بوروسيا مونشنغلادباخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "أمضى أربعة مواسم في ألمانيا.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الإيطالية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/marcus-thuram"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Thuram"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 11,
+      "goals": 6,
+      "assists": 3,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

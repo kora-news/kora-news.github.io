@@ -1,0 +1,94 @@
+{
+  "id": "curtis-jones",
+  "nameAr": "كورتيس جونز",
+  "nameEn": "Curtis Jones",
+  "squadName": "Curtis Jones",
+  "clubId": "inter",
+  "birthDate": "2001-01-30",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في ليفربول ولعب للفريق الأول منذ يناير 2019. انتقل لإنتر بصورة دائمة في أغسطس 2026 بعقد حتى يونيو 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "ليفربول",
+      "typeAr": "تكوين",
+      "textAr": "تدرج في الأكاديمية حتى فرق الشباب.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2019–2026",
+      "clubAr": "ليفربول",
+      "typeAr": "فريق أول",
+      "textAr": "خاض أول مباراة رسمية أمام وولفرهامبتون في كأس إنجلترا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "21 أغسطس 2026",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من ليفربول بعقد حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/curtis-jones"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Curtis_Jones_(footballer,_born_2001)"
+    },
+    {
+      "id": "arrival",
+      "title": "إنتر: التعاقد الدائم مع كورتيس جونز",
+      "url": "https://www.inter.it/en/news/curtis-jones-new-inter-player"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

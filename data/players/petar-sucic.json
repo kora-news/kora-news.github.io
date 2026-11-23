@@ -1,0 +1,130 @@
+{
+  "id": "petar-sucic",
+  "nameAr": "بيتار سوتشيتش",
+  "nameEn": "Petar Sučić",
+  "squadName": "Petar Sučić",
+  "clubId": "inter",
+  "birthDate": "2003-10-25",
+  "nationalityAr": "كرواتي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في أندية البوسنة ثم انضم لدينامو زغرب في يناير 2022. أعير لزرينيسكي وعاد لدينامو، ثم انتقل لإنتر نهائيًا في يونيو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2018",
+      "clubAr": "سبورت بريفنت بوغوينو",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في التاسعة.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "إيسكرا بوغوينو",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2020–يناير 2022",
+      "clubAr": "زرينيسكي موستار",
+      "typeAr": "ناشئون",
+      "textAr": "لعب قبل انتقاله لكرواتيا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2022",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "انتقال",
+      "textAr": "بدأ مع الفريق الرديف.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "زرينيسكي موستار",
+      "typeAr": "إعارة",
+      "textAr": "عاد معارًا وفاز بالدوري والكأس.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "أصبح من لاعبي الفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "4 يونيو 2025",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه من دينامو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/petar-sucic"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Petar_Su%C4%8Di%C4%87"
+    },
+    {
+      "id": "arrival",
+      "title": "إنتر: ضم سوتشيتش وتسلسل مسيرته",
+      "url": "https://www.inter.it/en/news/petar-sucic-joins-inter"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 11,
+      "goals": 2,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

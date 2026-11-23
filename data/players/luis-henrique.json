@@ -1,0 +1,118 @@
+{
+  "id": "luis-henrique",
+  "nameAr": "لويس هنريكي",
+  "nameEn": "Luis Henrique Tomaz de Lima",
+  "squadName": "Luis Henrique Tomaz de Lima",
+  "clubId": "inter",
+  "birthDate": "2001-12-14",
+  "nationalityAr": "برازيلي",
+  "positionAr": "جناح وجناح خلفي",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "بدأ في تريس باسوس وبوتافوغو، وانتقل لمارسيليا في 2020. عاد لبوتافوغو معارًا ثم لمارسيليا قبل انضمامه لإنتر صيف 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2019",
+      "clubAr": "تريس باسوس",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ تكوينه في البرازيل.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2020",
+      "clubAr": "بوتافوغو",
+      "typeAr": "ناشئون ثم فريق أول",
+      "textAr": "وصل أولًا ضمن تعاون بين الناديين.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الأوروبية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022–نهاية 2023",
+      "clubAr": "بوتافوغو",
+      "typeAr": "إعارة",
+      "textAr": "عاد للبرازيل قبل الرجوع لمارسيليا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024–2025",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "واصل حتى نهاية موسم 2024/25.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2025",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لخمس سنوات.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/luis-henrique"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Luis_Henrique_(footballer,_born_2001)"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

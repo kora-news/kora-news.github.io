@@ -1,0 +1,107 @@
+{
+  "id": "lautaro-martinez",
+  "nameAr": "لاوتارو مارتينيز",
+  "nameEn": "Lautaro Martínez",
+  "squadName": "Lautaro Martínez",
+  "clubId": "inter",
+  "birthDate": "1997-08-22",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في لينيرس ثم راسينغ كلوب، وظهر مع الفريق الأول في 2015. انضم لإنتر في 2018 وأصبح قائده في صيف 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2006–2014",
+      "clubAr": "لينيرس",
+      "typeAr": "ناشئون",
+      "textAr": "تكون في نادي مدينته باهيا بلانكا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2015",
+      "clubAr": "راسينغ كلوب",
+      "typeAr": "ناشئون",
+      "textAr": "انضم لأكاديمية راسينغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2018",
+      "clubAr": "راسينغ كلوب",
+      "typeAr": "فريق أول",
+      "textAr": "بدأ مسيرته الاحترافية في الأرجنتين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2018",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل لإيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "إنتر",
+      "typeAr": "قائد الفريق",
+      "textAr": "تولى شارة القيادة.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/lautaro-martinez"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 6,
+      "goals": 4,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

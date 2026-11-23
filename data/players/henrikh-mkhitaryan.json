@@ -1,0 +1,144 @@
+{
+  "id": "henrikh-mkhitaryan",
+  "nameAr": "هنريك مخيتاريان",
+  "nameEn": "Henrikh Mkhitaryan",
+  "squadName": "Henrikh Mkhitaryan",
+  "clubId": "inter",
+  "birthDate": "1989-01-21",
+  "nationalityAr": "أرميني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "بدأ في بيونيك ثم ميتالورغ وشاختار دونيتسك ودورتموند ومانشستر يونايتد وأرسنال. وصل لروما معارًا في 2019 ثم نهائيًا، وانتقل لإنتر في 2022.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1995–2009",
+      "clubAr": "بيونيك",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج حتى الفريق الأول في أرمينيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2009–2010",
+      "clubAr": "ميتالورغ دونيتسك",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الأوكرانية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2013",
+      "clubAr": "شاختار دونيتسك",
+      "typeAr": "انتقال دائم",
+      "textAr": "واصل في أوكرانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2016",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للدوري الألماني.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–يناير 2018",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربته الأولى في إنجلترا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2018–2019",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى لندن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "روما",
+      "typeAr": "إعارة",
+      "textAr": "بدأ تجربته الإيطالية معارًا من أرسنال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2022",
+      "clubAr": "روما",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بصورة دائمة وفاز بدوري المؤتمر.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعد نهاية تجربته في روما.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/henrikh-mkhitaryan"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

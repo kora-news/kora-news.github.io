@@ -1,0 +1,136 @@
+{
+  "id": "andy-diouf",
+  "nameAr": "أندي ضيوف",
+  "nameEn": "Andy Diouf",
+  "squadName": "Andy Diouf",
+  "clubId": "inter",
+  "birthDate": "2003-05-17",
+  "nationalityAr": "فرنسي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في أندية باريس ثم رين. أعير لبازل في 2022 واشترى النادي عقده في مايو 2023 قبل انتقاله للانس، ثم لإنتر في أغسطس 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2012",
+      "clubAr": "غارين كولومب",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في السادسة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2012–2015",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "ناشئون",
+      "textAr": "تدرب في أكاديمية النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2018",
+      "clubAr": "بولوني بيلانكور",
+      "typeAr": "ناشئون",
+      "textAr": "قضى ثلاثة أعوام قبل رين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "رين",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في مايو 2021.",
+      "sourceIds": [
+        "current",
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "بازل",
+      "typeAr": "إعارة",
+      "textAr": "انتقل مع خيار شراء.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "مايو 2023",
+      "clubAr": "بازل",
+      "typeAr": "انتقال دائم",
+      "textAr": "فعل النادي خيار الشراء.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2023–2025",
+      "clubAr": "لانس",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد لفرنسا بعد بازل.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2025",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعقد لخمس سنوات.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/andy-diouf"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Andy_Diouf"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 4,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

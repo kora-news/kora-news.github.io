@@ -1,0 +1,117 @@
+{
+  "id": "ange-yoan-bonny",
+  "nameAr": "أنج يوان بوني",
+  "nameEn": "Ange-Yoan Bonny",
+  "squadName": "Ange-Yoan Bonny",
+  "clubId": "inter",
+  "birthDate": "2003-10-25",
+  "nationalityAr": "إيفواري",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تكون في فرنسا وظهر مع شاتورو في 2020. انتقل لبارما في 2021 ثم لإنتر في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2013",
+      "clubAr": "لا روشيل فيلنوف ثم بيرينيي",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2018",
+      "clubAr": "شامبراي",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "تور",
+      "typeAr": "ناشئون",
+      "textAr": "محطة قبل شاتورو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "شاتورو",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر محترفًا في أكتوبر 2020.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "بارما",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة مواسم وصعد معه للدوري الإيطالي.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "5 يوليو 2025",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من بارما.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/ange-yoan-bonny"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Ange-Yoan_Bonny"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
