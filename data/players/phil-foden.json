@@ -1,0 +1,119 @@
+{
+  "id": "phil-foden",
+  "nameAr": "فيل فودين",
+  "nameEn": "Phil Foden",
+  "squadName": "Phil Foden",
+  "clubId": "manchester-city",
+  "birthDate": "2000-05-28",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T14:58:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر سيتي.",
+  "summaryAr": "تدرج فودين في أكاديمية مانشستر سيتي حتى الفريق الأول، وظهر رسميًا في نوفمبر 2017. لا توجد انتقالات خارجية في المسار الذي توثقه هذه الصفحة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أكاديمية مانشستر سيتي",
+      "typeAr": "أكاديمية",
+      "textAr": "انضم إلى النادي في سن التاسعة وتدرج في فرق الناشئين.",
+      "sourceIds": [
+        "contract",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "نوفمبر 2017",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر رسميًا أمام فينورد في دوري أبطال أوروبا، ثم خاض أول مباراة في الدوري الإنجليزي في الشهر التالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "ديسمبر 2018",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا كان يمتد حتى 2024، ثم حل محله تجديد لاحق. لا نقدمه بوصفه تاريخ انتهاء عقده الحالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بداية موسم 2022/23",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "جدد تعاقده حتى صيف 2027، قبل أن يوقع تجديدًا أحدث في 2026.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "22 يوليو 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا لمدة أربعة أعوام يمتد حتى 2030، وفق إعلان النادي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر سيتي: مسيرة فودين وبياناته",
+      "url": "https://www.mancity.com/players/phil-foden"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر سيتي: قائمة الفريق الأول للرجال",
+      "url": "https://www.mancity.com/players/mens"
+    },
+    {
+      "id": "contract",
+      "title": "مانشستر سيتي: تجديد فودين حتى 2030، يوليو 2026",
+      "url": "https://www.mancity.com/news/mens/phil-foden-new-manchester-city-contract-63920315/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل مباريات فودين 2026/27",
+      "url": "https://fbref.com/en/players/ed1e53f3/matchlogs/2026-2027/Phil-Foden-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/phil-foden"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:58:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري من سجل المباريات الكامل الذي يتضمن ظهوره أمام فولهام يوم 21 نوفمبر. صفحة ملخص اللاعب كانت متأخرة بمباراة؛ لذلك نعتمد السجل المفصل هنا، لا نخلط بين النطاقين. الكؤوس والمنتخب مستبعدان."
+    }
+  ],
+  "photo": {
+    "file": "phil-foden-manchester-city-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-city",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/phil-foden",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/bf0e0bc3cdfb37bd068edb362e9a8264158c079e49fb2e83af7cea8dc6dc6766/phil-foden-manchester-city-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "erling-haaland",
+  "nameAr": "إرلينغ هالاند",
+  "nameEn": "Erling Haaland",
+  "squadName": "Erling Haaland",
+  "clubId": "manchester-city",
+  "birthDate": "2000-07-21",
+  "nationalityAr": "نرويجي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T14:58:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لمانشستر سيتي.",
+  "summaryAr": "بدأ هالاند في برينه النرويجي قبل الانتقال إلى مولده ثم سالزبورغ وبوروسيا دورتموند، ووصل إلى مانشستر سيتي في يوليو 2022.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016",
+      "clubAr": "برينه",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "تدرج في ناشئي برينه ولعب مع الفريق الأول في دوري الدرجة الثانية النرويجي خلال موسم 2016.",
+      "sourceIds": [
+        "molde",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2017",
+      "clubAr": "مولده",
+      "typeAr": "انتقال",
+      "textAr": "أعلن مولده التعاقد معه قادمًا من برينه وهو في السادسة عشرة.",
+      "sourceIds": [
+        "molde"
+      ]
+    },
+    {
+      "whenAr": "يناير 2019",
+      "clubAr": "ريد بول سالزبورغ",
+      "typeAr": "انتقال",
+      "textAr": "انتقل من مولده إلى سالزبورغ النمساوي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى دورتموند بعد تألقه مع سالزبورغ، وفق تسلسل المسيرة المنشور من مانشستر سيتي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "أعلن النادي في يونيو إتمام الصفقة من دورتموند، على أن ينضم في أول يوليو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "17 يناير 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا يمتد حتى صيف 2034، وفق إعلان النادي الرسمي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر سيتي: صفحة هالاند",
+      "url": "https://www.mancity.com/players/erling-haaland"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر سيتي: قائمة الفريق الأول للرجال",
+      "url": "https://www.mancity.com/players/mens"
+    },
+    {
+      "id": "molde",
+      "title": "مولده: إعلان ضم هالاند، فبراير 2017",
+      "url": "https://www.moldefk.no/nyheter/haland-klar-for-molde-fk"
+    },
+    {
+      "id": "arrival",
+      "title": "مانشستر سيتي: إتمام صفقة هالاند وتسلسل مسيرته",
+      "url": "https://www.mancity.com/news/mens/erling-haaland-manchester-city-transfer-complete-63790702"
+    },
+    {
+      "id": "contract",
+      "title": "مانشستر سيتي: عقد هالاند حتى 2034",
+      "url": "https://www.mancity.com/news/mens/erling-haaland-10-year-manchester-city-contract-63872694"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: هالاند، الأرقام وسجل المشاركات",
+      "url": "https://fbref.com/en/players/1f44ac21/Erling-Haaland"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/erling-haaland"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 11,
+      "goals": 9,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:58:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فولهام يوم 21 نوفمبر. لا تشمل الكؤوس أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "erling-haaland-manchester-city-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-city",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/erling-haaland",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/129aee2b768d5b70864c97bc06d6f796992a21f2945954e9886282eb6ac80500/erling-haaland-manchester-city-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}
