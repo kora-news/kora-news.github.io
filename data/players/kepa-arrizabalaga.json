@@ -1,0 +1,124 @@
+{
+  "id": "kepa-arrizabalaga",
+  "nameAr": "كيبا أريزابالاغا",
+  "nameEn": "Kepa Arrizabalaga",
+  "squadName": "Kepa Arrizabalaga",
+  "clubId": "arsenal",
+  "birthDate": "1994-10-03",
+  "nationalityAr": "إسباني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:39:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أتلتيك بلباو وخاض إعارتين إلى بونفيرادينا وبلد الوليد. انتقل إلى تشيلسي في 2018، ثم أعير لريال مدريد وبورنموث قبل الانضمام لأرسنال في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن 10 سنوات",
+      "clubAr": "أكاديمية أتلتيك بلباو",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج عبر باسكونيا وبلباو أتلتيك قبل الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "قبل استقراره في الفريق الأول",
+      "clubAr": "بونفيرادينا ثم بلد الوليد",
+      "typeAr": "إعارات",
+      "textAr": "اكتسب خبرة مع الناديين قبل العودة إلى أتلتيك.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "حتى 2018",
+      "clubAr": "أتلتيك بلباو",
+      "typeAr": "الفريق الأول",
+      "textAr": "استقر ضمن حراس الفريق الأول قبل الرحيل إلى إنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2018",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى النادي اللندني؛ لا نعرض قيمة الصفقة من دون توثيق مستقل لها.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "ريال مدريد",
+      "typeAr": "إعارة",
+      "textAr": "عاد إلى إسبانيا لموسم معارًا من تشيلسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "بورنموث",
+      "typeAr": "إعارة",
+      "textAr": "أمضى موسمًا معارًا وخاض 35 مباراة في جميع المسابقات وفق إعلان أرسنال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "إعلان انتقال",
+      "textAr": "أعلن النادي ضمه من تشيلسي؛ لا نأخذ تاريخ 30 يونيو الظاهر في بيانات صفحة اللاعب بدل تاريخ الإعلان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: إعلان ضم كيبا ومسيرته",
+      "url": "https://www.arsenal.com/news/kepa-arrizabalaga-signs-for-arsenal-awwcD8P00HdZ"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإسباني: تاريخ ميلاد كيبا",
+      "url": "https://rfef.es/es/selecciones/jugadores/kepa-arrizabalaga"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

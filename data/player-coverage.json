@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 93,
+  "profileCount": 99,
   "players": [
     {
       "clubId": "ac-milan",
@@ -318,9 +318,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kepa-arrizabalaga",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -329,9 +329,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "illan-meslier",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -351,9 +351,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "cristhian-mosquera",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -362,9 +362,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ben-white",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -373,9 +373,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "piero-hincapie",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",
@@ -384,9 +384,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "gabriel-magalhaes",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "arsenal",

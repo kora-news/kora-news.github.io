@@ -1,0 +1,111 @@
+{
+  "id": "piero-hincapie",
+  "nameAr": "بييرو هينكابي",
+  "nameEn": "Piero Hincapié",
+  "squadName": "Piero Hincapie",
+  "clubId": "arsenal",
+  "birthDate": "2002-01-09",
+  "nationalityAr": "إكوادوري",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:39:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في إنديبندينتي ديل فايي ثم لعب لتاييريس في الأرجنتين وليفركوزن في ألمانيا. انضم إلى أرسنال معارًا في سبتمبر 2025، وأعلن تفعيل شرائه نهائيًا اعتبارًا من يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم سن 17 عامًا",
+      "clubAr": "إنديبندينتي ديل فايي",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج وبدأ مع الفريق الأول في السابعة عشرة وفاز بكأس ليبرتادوريس تحت 20 عامًا في 2020.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2020",
+      "clubAr": "تاييريس",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من الإكوادور إلى الأرجنتين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2021",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض أربعة مواسم وتوج بالدوري الألماني في 2023/24.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "إعارة",
+      "textAr": "أعلن ضمه من ليفركوزن لموسم واحد.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "25 يونيو 2026، نافذ من 1 يوليو",
+      "clubAr": "أرسنال",
+      "typeAr": "تفعيل شراء نهائي",
+      "textAr": "أعلن النادي تحويل الإعارة إلى انتقال دائم اعتبارًا من يوليو. لا نعرض مدة عقد لم يحددها البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: تفعيل انتقال هينكابي النهائي",
+      "url": "https://www.arsenal.com/news/piero-hincapie-joins-arsenal-in-permanent-deal-a64GQ9s3sBkl"
+    },
+    {
+      "id": "loan",
+      "title": "أرسنال: ضم هينكابي معارًا ومسيرته",
+      "url": "https://www.arsenal.com/news/piero-hincapie-completes-loan-move-to-arsenal-aAQk54I7HLFZ"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الألماني: تاريخ ميلاد هينكابي",
+      "url": "https://datencenter.dfb.de/en/data-center/people/394506/player"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

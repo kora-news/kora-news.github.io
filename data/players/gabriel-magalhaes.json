@@ -1,0 +1,115 @@
+{
+  "id": "gabriel-magalhaes",
+  "nameAr": "غابرييل ماغالهايس",
+  "nameEn": "Gabriel Magalhães",
+  "squadName": "Gabriel",
+  "clubId": "arsenal",
+  "birthDate": "1997-12-19",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:39:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "بدأ في أفاي بالبرازيل وانتقل إلى ليل في يناير 2017، ثم أعير إلى تروا ودينامو زغرب. انضم لأرسنال في سبتمبر 2020 وجدد عقده في يونيو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "أفاي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "بدأ في ولاية سانتا كاتارينا البرازيلية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2017",
+      "clubAr": "ليل",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من البرازيل إلى فرنسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "قبل الاستقرار في ليل",
+      "clubAr": "تروا ثم دينامو زغرب",
+      "typeAr": "إعارات",
+      "textAr": "مر بالتجربتين وفاز بالثنائية المحلية مع دينامو في 2017/18.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من ليل وسجل في بدايته أمام فولهام بالدوري.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بعد أكثر من عامين في النادي",
+      "clubAr": "أرسنال",
+      "typeAr": "تجديد سابق",
+      "textAr": "جدد عقده بعد استقراره ضمن الفريق، قبل التمديد الأحدث في 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "6 يونيو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي عقدًا جديدًا طويل الأمد دون تحديد نهايته في البيان المفحوص.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: تجديد غابرييل ومسيرته",
+      "url": "https://www.arsenal.com/news/gabriel-signs-new-arsenal-contract-a0PsA0O0bSkI"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: ميلاد غابرييل ماغالهايس",
+      "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250131901--gabriel/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

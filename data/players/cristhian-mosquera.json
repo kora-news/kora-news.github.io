@@ -1,0 +1,111 @@
+{
+  "id": "cristhian-mosquera",
+  "nameAr": "كريستيان موسكيرا",
+  "nameEn": "Cristhian Mosquera",
+  "squadName": "Cristhian Mosquera",
+  "clubId": "arsenal",
+  "birthDate": "2004-06-27",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:39:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "بدأ بكرة الصالات ثم كاروليناس وإيركوليس قبل أكاديمية فالنسيا في 2016. وصل للفريق الأول في يناير 2022 وانتقل إلى أرسنال في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "سان بلاس كانيافاتي ثم كاروليناس وإيركوليس",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ بكرة الصالات ثم كرة القدم، وقضى ثلاث سنوات في إيركوليس.",
+      "sourceIds": [
+        "journey"
+      ]
+    },
+    {
+      "whenAr": "2016",
+      "clubAr": "أكاديمية فالنسيا",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انتقل في الثانية عشرة وتدرج إلى الرديف.",
+      "sourceIds": [
+        "journey"
+      ]
+    },
+    {
+      "whenAr": "الرديف ثم يناير 2022",
+      "clubAr": "فالنسيا",
+      "typeAr": "تصعيد وبداية الفريق الأول",
+      "textAr": "ظهر مع الرديف قبل بدايته الأولى في كأس الملك أمام أتلتيكو بالياريس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "فالنسيا",
+      "typeAr": "تصعيد رسمي",
+      "textAr": "أصبح ضمن قائمة الفريق الأول واستقر في الدفاع.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "24 يوليو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد النادي انتقاله من فالنسيا. نستخدم تاريخ الإعلان بدل بيانات صفحة اللاعب التي تسبقه بيوم.",
+      "sourceIds": [
+        "journey"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة موسكيرا ومسيرته",
+      "url": "https://www.arsenal.com/fixtures/men/players/cristhian-mosquera-a4Mc14I7XnL6"
+    },
+    {
+      "id": "journey",
+      "title": "أرسنال: مسيرة موسكيرا حتى أرسنال",
+      "url": "https://www.arsenal.com/feature/cristhian-mosquera-the-story-so-far-aYkCe9r7fSYC"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: ميلاد موسكيرا",
+      "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250129972--cristhian-mosquera/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

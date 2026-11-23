@@ -1,0 +1,112 @@
+{
+  "id": "illan-meslier",
+  "nameAr": "إيلان ميلييه",
+  "nameEn": "Illan Meslier",
+  "squadName": "Illan Meslier",
+  "clubId": "arsenal",
+  "birthDate": "2000-03-02",
+  "nationalityAr": "فرنسي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:39:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في لوريان وبدأ احترافيًا في 2018. انضم إلى ليدز معارًا في أغسطس 2019 ثم نهائيًا بعد الصعود في 2020، وانتقل حرًا إلى أرسنال في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم فبراير 2018",
+      "clubAr": "لوريان",
+      "typeAr": "ناشئون وأول عقد احترافي",
+      "textAr": "تدرج في أكاديمية نادي مدينته ووقع أول عقد احترافي في فبراير 2018.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "لوريان",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "بدأ أمام فالنسيان في كأس الرابطة الفرنسية بشباك نظيفة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2019",
+      "clubAr": "ليدز يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "انضم لموسم من لوريان وظهر لأول مرة أمام أرسنال بكأس الاتحاد في يناير 2020.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020",
+      "clubAr": "ليدز يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "أصبح انتقاله دائمًا بعد صعود النادي إلى الدوري الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "9 يوليو 2026",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال حر",
+      "textAr": "أكد النادي ضمه بعد سبعة مواسم مع ليدز. أفادت BBC بأن الصفقة حرة بعقد لعامين مع خيار عام إضافي.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: إعلان ضم ميلييه ومسيرته",
+      "url": "https://www.arsenal.com/news/illan-meslier-signs-for-arsenal-aSP1T2x5SP7c"
+    },
+    {
+      "id": "contract",
+      "title": "BBC: انتقال ميلييه الحر وعقده",
+      "url": "https://www.bbc.com/sport/football/articles/cq51xj4pjwwo"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الفرنسي: ميلاد ميلييه",
+      "url": "https://www.fff.fr/equipe-nationale/joueur/8915-meslier-illan/fiche.html"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. المصدر يسجل صفر مشاركة وخانات أهداف وتمريرات فارغة، فلا نملؤها بأصفار تقديرية."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "ben-white",
+  "nameAr": "بن وايت",
+  "nameEn": "Ben White",
+  "squadName": "Ben White",
+  "clubId": "arsenal",
+  "birthDate": "1997-10-08",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:39:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في برايتون واكتسب الخبرة معارًا في نيوبورت وبيتربره وليدز. عاد إلى برايتون قبل انتقاله لأرسنال في يوليو 2021، وجدد عقده في مارس 2024 حتى 2028 وفق BBC.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم سن 18 عامًا",
+      "clubAr": "برايتون",
+      "typeAr": "ناشئون وبداية احترافية",
+      "textAr": "تدرج في أكاديمية برايتون وبدأ مع الفريق الأول في الثامنة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "قبل 2019/20",
+      "clubAr": "نيوبورت كاونتي ثم بيتربره يونايتد",
+      "typeAr": "إعارات",
+      "textAr": "لعب في ليغ تو مع نيوبورت ثم ليغ وان مع بيتربره.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "ليدز يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "شارك في الفوز بدوري الدرجة الأولى الإنجليزي «تشامبيونشيب».",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "برايتون",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد للفريق الأول واختير لاعب الموسم في النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2021",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "وصل من برايتون ولعب أولًا بقلب الدفاع ثم استقر أكثر في الجهة اليمنى.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "14 مارس 2024",
+      "clubAr": "أرسنال",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي عقدًا طويل الأمد، وتحدد BBC نهايته في 2028.",
+      "sourceIds": [
+        "contract",
+        "term"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة بن وايت ومسيرته",
+      "url": "https://www.arsenal.com/fixtures/men/players/ben-white-aoVJ27R9aXdC"
+    },
+    {
+      "id": "contract",
+      "title": "أرسنال: تجديد عقد بن وايت",
+      "url": "https://www.arsenal.com/news/ben-white-signs-new-long-term-contract-a5rFv6X6VBAR"
+    },
+    {
+      "id": "term",
+      "title": "BBC: عقد بن وايت حتى 2028",
+      "url": "https://www.bbc.com/sport/articles/c0w6d99kgnvo"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإنجليزي: بيانات بن وايت",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/ben-white"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

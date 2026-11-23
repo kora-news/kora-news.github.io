@@ -13,8 +13,8 @@
     ]
   },
   "honors": {
-    "scopeAr": "حصيلة البطولات الوطنية والدولية لدى رابطة الليجا، مع إدراج الإنترتوتو؛ التصنيف التاريخي الأوسع غير مكتمل.",
-    "asOf": "2026-11-22",
+    "scopeAr": "حصيلة البطولات الوطنية والدولية لدى رابطة الليجا، مع إدراج الإنترتوتو، 32 لقبًا في الصفوف الثمانية الأولى. يليها لقب تاريخي منفصل خارج هذه الحصيلة. التصنيف التاريخي الأوسع غير مكتمل.",
+    "asOf": "2026-11-23",
     "complete": false,
     "items": [
       {
@@ -130,9 +130,22 @@
         "sourceIds": [
           "laliga-atm-honours"
         ]
+      },
+      {
+        "competitionAr": "كأس إيفا دوارتي، سجل تاريخي منفصل",
+        "count": 1,
+        "seasons": [
+          "1951"
+        ],
+        "noteAr": "خارج حصيلة 32 لقبًا لدى رابطة الليجا المعروضة أعلاه. يثبت الاتحاد الإسباني فوز أتلتيكو على برشلونة 2–0 في تشامارتين يوم 1 نوفمبر 1951. تؤكد مادة النادي في 2023 سنة 1951 ، بينما تذكر مادة نعي منشورة في 2022 سنة 1952 ؛ نعتمد تاريخ الاتحاد مع حفظ هذا الاختلاف.",
+        "sourceIds": [
+          "rfef-eva-history",
+          "atm-benbarek-eva",
+          "atm-perezpaya-eva"
+        ]
       }
     ],
-    "noteAr": "الجدول يعرض 32 لقبًا في حصيلة رابطة الليجا. توجد مسابقات تاريخية سابقة للسوبر وجوائز إقليمية لا تشملها هذه الحصيلة؛ لم يُحسم توحيد تصنيفها، فلا نقدم الجدول باعتباره حصرًا لكل كأس تاريخية."
+    "noteAr": "تظل حصيلة رابطة الليجا 32 لقبًا في الصفوف الثمانية الأولى، ولا نضيف إليها لقب إيفا دوارتي المنفصل لتقديم إجمالي شامل. لم يُحسم توحيد تصنيف كأس رئيس الاتحاد الإسباني والجوائز الإقليمية القديمة، لذلك يبقى سجل كل الألقاب التاريخية غير مكتمل."
   },
   "topScorers": {
     "scopeAr": "قائمة مجمعة من المراجع الإحصائية والثانوية المذكورة لكل لاعب، وليست قائمة رسمية موحدة صادرة من النادي. رصيد لويس أراجونيس مختلف عليه بين المراجع.",
@@ -443,6 +456,36 @@
       "url": "https://en.atleticodemadrid.com/images/EscudoATM.svg",
       "checkedAt": "2026-11-23T13:39:00+02:00",
       "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
+    },
+    {
+      "id": "rfef-eva-history",
+      "title": "RFEF: Historia de la Supercopa de España",
+      "url": "https://rfef.es/es/noticias/historia-de-la-supercopa-de-espana-sabias-que-durante-unos-anos-se-llamo-copa-eva-de",
+      "publisher": "الاتحاد الإسباني",
+      "kind": "federation",
+      "publishedOn": "2015-08-03",
+      "checkedAt": "2026-11-23T17:37:00+02:00",
+      "noteAr": "نسخة 1951 والنهائي 1 نوفمبر 1951 والنتيجة 2–0."
+    },
+    {
+      "id": "atm-benbarek-eva",
+      "title": "Homenaje a Larbi Ben Barek",
+      "url": "https://www.atleticodemadrid.com/noticias/larbi-ben-barek-fue-homenajeado-en-los-prolegomenos-del-marruecos-peru",
+      "publisher": "أتلتيكو مدريد",
+      "kind": "official",
+      "publishedOn": "2023-03-28",
+      "checkedAt": "2026-11-23T17:37:00+02:00",
+      "noteAr": "تؤكد لقب إيفا دوارتي في 1951."
+    },
+    {
+      "id": "atm-perezpaya-eva",
+      "title": "Fallecimiento de José Luis Pérez-Payá",
+      "url": "https://www.atleticodemadrid.com/noticias/la-familia-atletica-esta-de-luto-por-el-fallecimiento-de-jose-luis-perez-paya",
+      "publisher": "أتلتيكو مدريد",
+      "kind": "official",
+      "publishedOn": "2022-08-12",
+      "checkedAt": "2026-11-23T17:37:00+02:00",
+      "noteAr": "تذكر 1952 في العنوان الفرعي وموسمه الثاني في المتن، بخلاف تاريخ الاتحاد ومادة النادي الأحدث."
     }
   ],
   "unresolved": [
