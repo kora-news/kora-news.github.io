@@ -111,7 +111,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "ange-yoan-bonny-inter-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "inter",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.inter.it/en/teams/first-team/player/ange-yoan-bonny",
+    "sourceAssetUrl": "https://intermilan.bynder.com/asset/1248a0c6-56bd-43be-950e-b9ead466351f/thumbnail/webimage-Bonny_2x",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:56:00+02:00"
   }
 }

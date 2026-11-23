@@ -112,7 +112,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "luis-henrique-inter-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "inter",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.inter.it/en/teams/first-team/player/luis-henrique",
+    "sourceAssetUrl": "https://intermilan.bynder.com/asset/1ae2aaf7-3da4-402e-a4e6-ac6974a7f3d3/thumbnail/webimage-Luis_Henrique_2x",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:56:00+02:00"
   }
 }

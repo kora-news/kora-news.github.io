@@ -130,7 +130,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "andy-diouf-inter-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "inter",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.inter.it/en/teams/first-team/player/andy-diouf",
+    "sourceAssetUrl": "https://intermilan.bynder.com/asset/f3a6024e-f0f7-45e4-a837-d3f4c689cdf8/thumbnail/webimage-Diouf_2x",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:56:00+02:00"
   }
 }
