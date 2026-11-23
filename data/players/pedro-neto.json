@@ -107,16 +107,16 @@
     }
   ],
   "photo": {
-    "file": "pedro-neto-chelsea-portrait.png",
+    "file": "pedro-neto-chelsea-official-20261123.png",
     "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "chelsea",
     "rightsStatus": "reuse-permission-unconfirmed",
-    "sourceUrl": "https://www.footylogos.com/player-pngs/pedro-neto",
-    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/da802eeee40e198565449cec7a794e039ca294aa508b5c798d7278cb46aee25b/pedro-neto-chelsea-2025-26-ucl-body-footylogos.png",
+    "sourceUrl": "https://www.chelseafc.com/en/teams/profile/pedro-neto",
+    "sourceAssetUrl": "https://res.cloudinary.com/chelsea-production/image/upload/c_fit,h_630,w_1200/v1/editorial/people/first-team/2026-27/With%20USDC/3333x5000_Avatar_Image_Men_26_27_Neto_SF_Home_26_27_RGB",
     "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
-    "sourceEdition": "2025/26",
+    "sourceEdition": "Owning-club portrait",
     "sourceEditionNote": "Catalog edition, not verified photography date.",
     "modifications": "Trimmed transparent padding; no face or shirt changes.",
-    "checkedAt": "2026-11-23T21:21:00+02:00"
+    "checkedAt": "2026-11-23T21:36:00+02:00"
   }
 }
