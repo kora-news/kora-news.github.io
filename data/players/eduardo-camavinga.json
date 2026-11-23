@@ -1,0 +1,106 @@
+{
+  "id": "eduardo-camavinga",
+  "nameAr": "إدواردو كامافينغا",
+  "nameEn": "Eduardo Camavinga",
+  "squadName": "Camavinga",
+  "clubId": "real-madrid",
+  "birthDate": "2002-11-10",
+  "nationalityAr": "فرنسي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في درابو فوجير ثم رين، ووصل للفريق الأول في 2019 قبل الانضمام لريال مدريد في 2021. جدد في نوفمبر 2023 حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2013",
+      "clubAr": "درابو فوجير",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ مسيرته قبل رين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2013–2019",
+      "clubAr": "أكاديمية رين",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "تدرج في النادي الفرنسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "رين",
+      "typeAr": "الفريق الأول",
+      "textAr": "لعب في الدوري الفرنسي قبل إسبانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم إلى النادي الإسباني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "7 نوفمبر 2023",
+      "clubAr": "ريال مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2029 وفق إعلان النادي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/eduardo-camavinga"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: تمديد كامافينغا حتى 2029",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-camavinga-extends-contract-until-2029-07-11-2023"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 12,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

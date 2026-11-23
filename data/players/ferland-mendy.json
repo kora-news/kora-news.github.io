@@ -1,0 +1,111 @@
+{
+  "id": "ferland-mendy",
+  "nameAr": "فيرلان ميندي",
+  "nameEn": "Ferland Mendy",
+  "squadName": "F. Mendy",
+  "clubId": "real-madrid",
+  "birthDate": "1995-06-08",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في إكويفي وباريس سان جيرمان ومانتوا ولوهافر، ثم لعب للفريق الأول بلوهافر وليون. انضم لريال مدريد في صيف 2019 وما زال ضمن قائمته الحالية.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2004 ثم 2004–2012",
+      "clubAr": "إكويفي ثم باريس سان جيرمان",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في إكويفي ثم تدرج بأكاديمية باريس.",
+      "sourceIds": [
+        "fff"
+      ]
+    },
+    {
+      "whenAr": "2012/13 ثم 2013–2015",
+      "clubAr": "مانتوا ثم لوهافر",
+      "typeAr": "ناشئون",
+      "textAr": "انتقل عبر مانتوا إلى لوهافر؛ يسجل الاتحاد الفرنسي انضمامه للوهافر في يوليو 2013.",
+      "sourceIds": [
+        "fff"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "لوهافر",
+      "typeAr": "الفريق الأول",
+      "textAr": "لعب للفريق الأول وفق تسلسل مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "أولمبيك ليون",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمين قبل الانتقال لإسبانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "12 يونيو 2019",
+      "clubAr": "ريال مدريد",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن النادي الاتفاق مع ليون على ضمه لستة مواسم، وهو وصف العقد الأصلي لا تاريخ انتهاء عقده الحالي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/ferland-mendy"
+    },
+    {
+      "id": "fff",
+      "title": "الاتحاد الفرنسي: أندية ميندي المتعاقبة",
+      "url": "https://www.fff.fr/equipe-nationale/joueur/8629-mendy-ferland/fiche.html"
+    },
+    {
+      "id": "arrival",
+      "title": "ريال مدريد: اتفاق ضم ميندي في 2019",
+      "url": "https://www.realmadrid.com/es-ES/noticias/club/comunicados/comunicado-oficial-mendy-12-06-2019"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا يظهر ميندي في جدول المصدر المفحوص، فلا نحول غياب السجل إلى صفر."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

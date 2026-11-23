@@ -1,0 +1,97 @@
+{
+  "id": "rodrygo",
+  "nameAr": "رودريغو",
+  "nameEn": "Rodrygo",
+  "squadName": "Rodrygo",
+  "clubId": "real-madrid",
+  "birthDate": "2001-01-09",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في سانتوس ولعب للفريق الأول بين 2017 و 2019 ، ثم انضم لريال مدريد في 2019. بدأ مع كاستيا والفريق الأول في سبتمبر من العام نفسه وجدد حتى يونيو 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2017–2019",
+      "clubAr": "سانتوس",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج في النادي البرازيلي قبل الانتقال لإسبانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم في الثامنة عشرة.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "14 ثم 25 سبتمبر 2019",
+      "clubAr": "كاستيا ثم ريال مدريد",
+      "typeAr": "بداية رسمية",
+      "textAr": "بدأ مع كاستيا يوم 14 سبتمبر وسجل في بدايته الرسمية مع الفريق الأول يوم 25 سبتمبر.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2 نوفمبر 2023",
+      "clubAr": "ريال مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2028.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/rodrygo-goes/"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: تجديد رودريغو حتى 2028",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-rodrygo-signs-extension-until-2028-02-11-2023"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. رودريغو غير ظاهر في جدول إحصاءات الدوري المفحوص؛ صفحة النادي تعرض صفرًا إجماليًا دون نطاق موسم واضح. نبقي الأرقام غير مثبتة بدل اعتبار الغياب صفرًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

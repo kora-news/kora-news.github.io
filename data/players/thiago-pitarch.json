@@ -1,0 +1,101 @@
+{
+  "id": "thiago-pitarch",
+  "nameAr": "تياغو بيتارش",
+  "nameEn": "Thiago Pitarch",
+  "squadName": "Thiago",
+  "clubId": "real-madrid",
+  "birthDate": "2007-08-03",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في فرق أتلتيكو ثم خيتافي وليغانيس، وانضم لناشئي ريال مدريد في 2023. صعد عبر فرق تحت 17 وتحت 18 وتحت 19 إلى كاستيا والفريق الأول في 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013–2018",
+      "clubAr": "أتلتيكو مادريلينيو وأتلتيكو",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج بين فرق النادي وفق التسلسل الرسمي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "خيتافي",
+      "typeAr": "ناشئون",
+      "textAr": "واصل التطور قبل ليغانيس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "ليغانيس",
+      "typeAr": "ناشئون",
+      "textAr": "محطته الأخيرة قبل ريال مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "أكاديمية ريال مدريد",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "مر بفرق Juvenil C ثم B ثم A في مواسم متتالية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2026",
+      "clubAr": "كاستيا ثم الفريق الأول",
+      "typeAr": "تصعيد",
+      "textAr": "يسجله النادي مع كاستيا والفريق الأول منذ 2026.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/thiago-pitarch-pinar"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

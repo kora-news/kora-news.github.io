@@ -1,0 +1,111 @@
+{
+  "id": "brahim-diaz",
+  "nameAr": "إبراهيم دياز",
+  "nameEn": "Brahim Díaz",
+  "squadName": "Brahim",
+  "clubId": "real-madrid",
+  "birthDate": "1999-08-03",
+  "nationalityAr": "مغربي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "بدأ في ناشئي مالقة ثم مانشستر سيتي وظهر احترافيًا في موسم 2016/17. انضم لريال مدريد في يناير 2019 وأعير لميلان لثلاثة مواسم قبل العودة في 2023 بعقد حتى 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات ثم 2013",
+      "clubAr": "مالقة ثم مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "انتقل من ناشئي مالقة إلى سيتي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ أمام سوانزي في كأس الرابطة؛ صفحة المسيرة تختصر فترة الفريق الأول في 2018/19 ، لكن مادة العودة تثبت ظهوره المبكر.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير 2019",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من مانشستر سيتي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020–2023",
+      "clubAr": "ميلان",
+      "typeAr": "إعارة",
+      "textAr": "قضى ثلاثة مواسم معارًا وفاز بالدوري الإيطالي 2021/22.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2023",
+      "clubAr": "ريال مدريد",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "أعلن النادي عودته حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/brahim-diaz/"
+    },
+    {
+      "id": "career",
+      "title": "ريال مدريد: عودة إبراهيم وتسلسل مسيرته",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/brahim-diaz-returns-to-real-madrid"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: عودة إبراهيم حتى 2027",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-brahim-diaz"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

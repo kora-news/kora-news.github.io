@@ -1,0 +1,115 @@
+{
+  "id": "denzel-dumfries",
+  "nameAr": "دينزل دومفريس",
+  "nameEn": "Denzel Dumfries",
+  "squadName": "Dumfries",
+  "clubId": "real-madrid",
+  "birthDate": "1996-04-18",
+  "nationalityAr": "هولندي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "بدأ في باريندريخت ثم سبارتا روتردام وهيرنفين وآيندهوفن، وانتقل لإنتر في 2021. انضم لريال مدريد في يوليو 2026 بعقد حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "باريندريخت",
+      "typeAr": "ناشئون",
+      "textAr": "لعب في النادي الهولندي قبل سبارتا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2017",
+      "clubAr": "سبارتا روتردام",
+      "typeAr": "انتقال",
+      "textAr": "وصل إلى النادي قبل الانتقال لهيرنفين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2018",
+      "clubAr": "هيرنفين",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمًا قبل آيندهوفن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2021",
+      "clubAr": "آيندهوفن",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب ثلاثة مواسم في النادي الهولندي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021–2026",
+      "clubAr": "إنتر ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "واصل مسيرته في الدوري الإيطالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "5 يوليو 2026",
+      "clubAr": "ريال مدريد",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "اتفق النادي مع إنتر على ضمه لأربعة مواسم حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/denzel-dumfries"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: ضم دومفريس حتى 2030",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-dumfries-05-07-2026"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "aurelien-tchouameni",
+  "nameAr": "أوريلين تشواميني",
+  "nameEn": "Aurélien Tchouaméni",
+  "squadName": "Tchouaméni",
+  "clubId": "real-madrid",
+  "birthDate": "2000-01-27",
+  "nationalityAr": "فرنسي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في بوردو منذ 2011 وبدأ احترافيًا في صيف 2018. انتقل لموناكو في يناير 2020 ثم ريال مدريد في يونيو 2022 باتفاق لستة مواسم.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2018",
+      "clubAr": "أكاديمية بوردو",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج منذ الحادية عشرة قبل الفريق الأول.",
+      "sourceIds": [
+        "monaco"
+      ]
+    },
+    {
+      "whenAr": "صيف 2018–يناير 2020",
+      "clubAr": "بوردو",
+      "typeAr": "الفريق الأول",
+      "textAr": "بدأ احترافيًا أمام فينتسبيلس في تصفيات الدوري الأوروبي.",
+      "sourceIds": [
+        "monaco"
+      ]
+    },
+    {
+      "whenAr": "29 يناير 2020",
+      "clubAr": "موناكو",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من بوردو بعقد أصلي لخمس سنوات.",
+      "sourceIds": [
+        "monaco"
+      ]
+    },
+    {
+      "whenAr": "11 يونيو 2022",
+      "clubAr": "ريال مدريد",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "اتفق النادي مع موناكو على ضمه لستة مواسم.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/aurelien-tchouameni"
+    },
+    {
+      "id": "monaco",
+      "title": "موناكو: المسيرة وتاريخ الانضمام",
+      "url": "https://www.asmonaco.com/en/joueurs/aur-lien-tchouameni"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: اتفاق ضم تشواميني",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-tchouameni"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

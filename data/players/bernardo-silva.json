@@ -1,0 +1,102 @@
+{
+  "id": "bernardo-silva",
+  "nameAr": "برناردو سيلفا",
+  "nameEn": "Bernardo Silva",
+  "squadName": "Bernardo Silva",
+  "clubId": "real-madrid",
+  "birthDate": "1994-08-10",
+  "nationalityAr": "برتغالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في بنفيكا ولعب للرديف والفريق الأول قبل موناكو معارًا ثم نهائيًا. انتقل لمانشستر سيتي في 2017 ثم ريال مدريد في يونيو 2026 حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2013–2014",
+      "clubAr": "بنفيكا",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "لعب للرديف وخاض ظهورًا بالدوري مع الفريق الأول قبل فرنسا.",
+      "sourceIds": [
+        "monaco"
+      ]
+    },
+    {
+      "whenAr": "صيف 2014 ثم يناير 2015",
+      "clubAr": "موناكو",
+      "typeAr": "إعارة ثم شراء",
+      "textAr": "بدأ معارًا من بنفيكا، وأعلن انتقاله النهائي في يناير 2015.",
+      "sourceIds": [
+        "monaco"
+      ]
+    },
+    {
+      "whenAr": "2017–2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى تسعة مواسم قبل مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "17 يونيو 2026",
+      "clubAr": "ريال مدريد",
+      "typeAr": "اتفاق انضمام",
+      "textAr": "أعلن النادي الاتفاق على ضمه لموسمين حتى 30 يونيو 2028 ، دون عرض مقابل انتقال غير موثق.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/bernardo-silva"
+    },
+    {
+      "id": "monaco",
+      "title": "يويفا: تحويل إعارة برناردو إلى انتقال نهائي",
+      "url": "https://www.uefa.com/uefachampionsleague/news/025a-0ea6d8a7ab28-7784fe71aa51-1000--monaco-make-bernardo-silva-move-permanent/"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: ضم برناردو سيلفا حتى 2028",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-bernardo-silva-17-06-2026"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

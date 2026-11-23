@@ -1,0 +1,97 @@
+{
+  "id": "endrick",
+  "nameAr": "إندريك",
+  "nameEn": "Endrick",
+  "squadName": "Endrick",
+  "clubId": "real-madrid",
+  "birthDate": "2006-07-21",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:03:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في بالميراس منذ 2016 ووصل للفريق الأول في 2022. اتفق ريال مدريد على ضمه في ديسمبر 2022 ، وانتقل في يوليو 2024 عند بلوغه الثامنة عشرة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016–2022",
+      "clubAr": "أكاديمية بالميراس",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022–2024",
+      "clubAr": "بالميراس",
+      "typeAr": "تصعيد",
+      "textAr": "لعب للفريق الأول حتى انتقاله لإسبانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "15 ديسمبر 2022",
+      "clubAr": "ريال مدريد وبالميراس",
+      "typeAr": "اتفاق انتقال مؤجل",
+      "textAr": "اتفق الناديان واللاعب وأسرته على الانتقال عند بلوغه السن القانونية في يوليو 2024 ؛ لم يكن انضمامًا فوريًا.",
+      "sourceIds": [
+        "agreement"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2024",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انضمام",
+      "textAr": "بدأت محطته مع ريال مدريد وفق سجل النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/endrick-felipe-moreira-de-sousa"
+    },
+    {
+      "id": "agreement",
+      "title": "ريال مدريد: الاتفاق على انتقال إندريك في يوليو 2024",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-endrick"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:03:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ريال مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
