@@ -21,3 +21,12 @@ for(const c of CLUBS){
  players+=s.items.length;
 }
 console.log(`Club checks passed: ${CLUBS.length} squads, ${players} players, ${crests} crests, ${CLUBS.length-crests} disclosed rights-review placeholder`);
+
+const ranking=JSON.parse(fs.readFileSync(path.join(root,'data/club-trophy-ranking.json'),'utf8'));
+const index=fs.readFileSync(path.join(root,'dist/clubs.html'),'utf8');
+if(ranking.clubs.length!==CLUBS.length)throw Error('Ranking count');
+for(const t of ranking.clubs){if(t.items.reduce((n,x)=>n+x.count,0)!==t.total)throw Error(t.id+' incorrect sum');if(t.items.some(x=>!x.urls.length||x.urls.some(u=>!u.startsWith('https://'))))throw Error(t.id+' missing ranking source');}
+const order=[...index.matchAll(/<article class="club-tile[^>]*>[\s\S]*?<a href="clubs\/([^".]+)\.html"/g)].map(m=>m[1]);
+if(order.length!==14)throw Error('Rendered ranking incomplete');
+for(let i=1;i<order.length;i++)if(ranking.clubs.find(x=>x.id===order[i-1]).total<ranking.clubs.find(x=>x.id===order[i]).total)throw Error('Ranking out of order');
+console.log('Trophy ranking passed:14 clubs, sums, sources and descending display');

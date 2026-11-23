@@ -1,0 +1,1077 @@
+{
+  "asOf": "2026-11-23",
+  "scopeAr": "كل ألقاب الفريق الأول للرجال الوطنية والدولية المثبتة في القائمة أدناه، وليس البطولات الكبرى فقط. يشمل السوبر والأقسام الأدنى والبطولات الرسمية المتوقفة؛ اللقب المشترك يحسب مرة لكل نادٍ. لا تدخل البطولات الإقليمية والودية والجوائز الفردية وملحق الصعود.",
+  "methodAr": "هذه مقارنة وفق منهج كورة نيوز، وليست تصنيفا رسميا موحدا من اتحاد واحد. تستبعد البطولات الإقليمية والودية وجوائز التكريم والوصافة وملحق الصعود. تُدرج المسابقات الدولية التاريخية التي نظمتها الاتحادات الوطنية، مثل اللاتين وميتروبا والكؤوس الثنائية، مع بيانها؛ ليست كلها من بطولات يويفا. لا يضاف لقاء برشلونة وليدز 1971 لأنه حسم ملكية كأس المعارض القديم، لا نسخة جديدة من البطولة. عند التعادل تتساوى المرتبة ويكون العرض أبجديا.",
+  "clubs": [
+    {
+      "id": "real-madrid",
+      "total": 106,
+      "noteAr": "يشمل إيفا دوارتي واللاتين والإيبيروأمريكية؛ لا تدخل كأس العالم الصغيرة الودية ولا ألقاب مدريد الإقليمية ولا جائزة نادي القرن.",
+      "items": [
+        {
+          "labelAr": "دوري أبطال أوروبا / كأس أوروبا",
+          "count": 15,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية / الإنتركونتيننتال (عد النادي المدمج)",
+          "count": 9,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football",
+            "https://www.realmadrid.com/es-ES/el-club/historia/futbol/primer-equipo-masculino/cronologia"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الأوروبي",
+          "count": 6,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الأوروبي (الدوري الأوروبي سابقًا)",
+          "count": 2,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإسباني",
+          "count": 36,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "كأس الملك",
+          "count": 20,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الإسباني",
+          "count": 13,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "كأس الدوري الإسباني",
+          "count": 1,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "كأس اللاتين",
+          "count": 2,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football"
+          ]
+        },
+        {
+          "labelAr": "الكأس الإيبيروأمريكية",
+          "count": 1,
+          "urls": [
+            "https://www.realmadrid.com/en-US/the-club/track-record/football",
+            "https://www.conmebol.com/noticias/las-competiciones-oficiales-de-la-conmebol/"
+          ]
+        },
+        {
+          "labelAr": "كأس إيفا دوارتي",
+          "count": 1,
+          "urls": [
+            "https://rfef.es/es/noticias/historia-de-la-supercopa-de-espana-sabias-que-durante-unos-anos-se-llamo-copa-eva-de"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barcelona",
+      "total": 104,
+      "noteAr": "يشمل إيفا دوارتي وكأس المعارض واللاتين؛ لا تُحسب مباراة حيازة كأس المعارض 1971 لقبا إضافيا، ولا تدخل البطولات الكتالونية أو البرانس أو دوري البحر المتوسط.",
+      "items": [
+        {
+          "labelAr": "دوري أبطال أوروبا / كأس أوروبا",
+          "count": 5,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 3,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الأوروبي",
+          "count": 5,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 4,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس المعارض الدولية",
+          "count": 3,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس اللاتين",
+          "count": 2,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإسباني",
+          "count": 29,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours",
+            "https://www.fcbarcelona.com/en/football/first-team/news/4501689/fc-barcelona-2-0-real-madrid-a-clasico-and-a-liga-for-flick"
+          ]
+        },
+        {
+          "labelAr": "كأس الملك",
+          "count": 32,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الإسباني",
+          "count": 16,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours",
+            "https://www.fcbarcelona.com/en/news/4432658/fc-barcelona-win-their-16th-spanish-super-cup"
+          ]
+        },
+        {
+          "labelAr": "كأس الدوري الإسباني",
+          "count": 2,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس إيفا دوارتي",
+          "count": 3,
+          "urls": [
+            "https://www.fcbarcelona.com/en/football/first-team/honours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bayern-munich",
+      "total": 88,
+      "noteAr": "يتضمن 12 سوبر ألمانيا رسميا؛ نسخة 1983 غير الرسمية خارج العد، وبطولات جنوب ألمانيا الإقليمية منفصلة.",
+      "items": [
+        {
+          "labelAr": "بطولة ألمانيا / البوندسليجا",
+          "count": 35,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس ألمانيا",
+          "count": 21,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الألماني",
+          "count": 12,
+          "urls": [
+            "https://fcbayern.com/en/club/honours",
+            "https://www.rsssf.org/tablesd/duitsupcuphist.html"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الألمانية",
+          "count": 6,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس أوروبا / دوري أبطال أوروبا",
+          "count": 6,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الأوروبي",
+          "count": 1,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 2,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 2,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الأوروبي",
+          "count": 2,
+          "urls": [
+            "https://fcbayern.com/en/club/honours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liverpool",
+      "total": 74,
+      "noteAr": "يشمل الدرجة الثانية وكأس سوبر دوري كرة القدم ودرع شريف لندن التاريخية، ولا يشمل دوري لانكشير الإقليمي.",
+      "items": [
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الأولى والدوري الممتاز",
+          "count": 20,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس أوروبا / دوري أبطال أوروبا",
+          "count": 6,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 1,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس إنجلترا",
+          "count": 8,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الإنجليزية",
+          "count": 10,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الأوروبي",
+          "count": 3,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الأوروبي",
+          "count": 4,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "الدرع الخيرية / درع المجتمع",
+          "count": 16,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "دوري الدرجة الثانية",
+          "count": 4,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر لدوري كرة القدم",
+          "count": 1,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        },
+        {
+          "labelAr": "درع شريف لندن الخيرية",
+          "count": 1,
+          "urls": [
+            "https://www.liverpoolfc.com/info/honours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "juventus",
+      "total": 72,
+      "noteAr": "يشمل الدرجة الثانية وإنترتوتو؛ يستبعد لقبي الدوري المسحوبين 2004/05 و2005/06.",
+      "items": [
+        {
+          "labelAr": "الدوري الإيطالي",
+          "count": 36,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس إيطاليا",
+          "count": 15,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares"
+          ]
+        },
+        {
+          "labelAr": "السوبر الإيطالي",
+          "count": 9,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس أوروبا / دوري أبطال أوروبا",
+          "count": 2,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares",
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الأوروبي",
+          "count": 3,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares",
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.juventus.com/en/club/trophies",
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "السوبر الأوروبي",
+          "count": 2,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares",
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 2,
+          "urls": [
+            "https://en.legaseriea.it/team/juventus/palmares",
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس إنترتوتو",
+          "count": 1,
+          "urls": [
+            "https://www.juventus.com/en/club/trophies",
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإيطالي للدرجة الثانية",
+          "count": 1,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Juventus_FC_records_and_statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manchester-united",
+      "total": 70,
+      "noteAr": "يشمل لقبي الدرجة الثانية والدروع المشتركة؛ لا تدمج كأس مانشستر الإقليمية أو بطولات الرديف.",
+      "items": [
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الأولى / الممتاز",
+          "count": 20,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الإنجليزي",
+          "count": 13,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الإنجليزية",
+          "count": 6,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "الدرع الخيرية / درع المجتمع",
+          "count": 21,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "كأس أوروبا / دوري أبطال أوروبا",
+          "count": 3,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "الدوري الأوروبي",
+          "count": 1,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "السوبر الأوروبي",
+          "count": 1,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 1,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 1,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الثانية",
+          "count": 2,
+          "urls": [
+            "https://www.manutd.com/en/club/history/trophy-room"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac-milan",
+      "total": 55,
+      "noteAr": "50 في سجل البطولات الكبرى، ويضاف لقبان للدرجة الثانية ولقبان للاتين ولقب ميتروبا. الثلاثة الدولية التاريخية ليست ضمن إجمالي يويفا وفيفا البالغ 18.",
+      "items": [
+        {
+          "labelAr": "الدوري الإيطالي",
+          "count": 19,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس إيطاليا",
+          "count": 5,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares"
+          ]
+        },
+        {
+          "labelAr": "السوبر الإيطالي",
+          "count": 8,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس أوروبا / دوري أبطال أوروبا",
+          "count": 7,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 2,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares"
+          ]
+        },
+        {
+          "labelAr": "السوبر الأوروبي",
+          "count": 5,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares",
+            "https://it.wikipedia.org/wiki/Palmar%C3%A8s_dell%27Associazione_Calcio_Milan"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 3,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares",
+            "https://it.wikipedia.org/wiki/Palmar%C3%A8s_dell%27Associazione_Calcio_Milan"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 1,
+          "urls": [
+            "https://www.legaseriea.it/team/milan/palmares"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإيطالي للدرجة الثانية",
+          "count": 2,
+          "urls": [
+            "https://it.wikipedia.org/wiki/Palmar%C3%A8s_dell%27Associazione_Calcio_Milan"
+          ]
+        },
+        {
+          "labelAr": "كأس اللاتين، مسابقة اتحادات وطنية قبل يويفا",
+          "count": 2,
+          "urls": [
+            "https://www.acmilan.com/it/club/palmares/scudetto-1956-57"
+          ]
+        },
+        {
+          "labelAr": "كأس ميتروبا، مسابقة دولية تاريخية",
+          "count": 1,
+          "urls": [
+            "https://www.acmilan.com/it/archivio-rosa/prima-squadra-maschile/rosa-milan-1981"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arsenal",
+      "total": 51,
+      "noteAr": "يشمل كأس مئوية دوري كرة القدم وكأس المعارض و18 درعا محسوبة من مواسم الفوز. لا تدخل كؤوس لندن الإقليمية.",
+      "items": [
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الأولى والدوري الممتاز",
+          "count": 14,
+          "urls": [
+            "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50",
+            "https://www.premierleague.com/en/news/4668605/everything-thats-been-decided-in-202526-premier-league"
+          ]
+        },
+        {
+          "labelAr": "كأس إنجلترا",
+          "count": 14,
+          "urls": [
+            "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الإنجليزية",
+          "count": 2,
+          "urls": [
+            "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50"
+          ]
+        },
+        {
+          "labelAr": "كأس المعارض الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50"
+          ]
+        },
+        {
+          "labelAr": "الدرع الخيرية / درع المجتمع",
+          "count": 18,
+          "urls": [
+            "https://www.arsenal.com/feature/mens-honours-aYITI8y1AP50",
+            "https://www.arsenal.com/history",
+            "https://www.thefa.com/news/2026/aug/16/fa-community-shield-2026-report-16082026"
+          ]
+        },
+        {
+          "labelAr": "كأس مئوية دوري كرة القدم",
+          "count": 1,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._records_and_statistics",
+            "https://www.theguardian.com/football/that-1980s-sports-blog/2017/jan/04/arsenal-centenary-trophy-title-football-league-history"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inter",
+      "total": 48,
+      "noteAr": "",
+      "items": [
+        {
+          "labelAr": "الدوري الإيطالي",
+          "count": 21,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس إيطاليا",
+          "count": 10,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        },
+        {
+          "labelAr": "السوبر الإيطالي",
+          "count": 8,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس أوروبا / دوري أبطال أوروبا",
+          "count": 3,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الأوروبي",
+          "count": 3,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 2,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 1,
+          "urls": [
+            "https://www.legaseriea.it/team/inter/palmares"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manchester-city",
+      "total": 45,
+      "noteAr": "يشمل سبعة ألقاب للمستوى الثاني؛ لا يُحسب ملحق الصعود 1999 بطولة دوري، ولا تُحسب وصافة الكأس الأنجلو إيطالية.",
+      "items": [
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الأولى والدوري الممتاز",
+          "count": 10,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "دوري أبطال أوروبا",
+          "count": 1,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 1,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الأوروبي",
+          "count": 1,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "كأس إنجلترا",
+          "count": 8,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الإنجليزية",
+          "count": 9,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "الدرع الخيرية / درع المجتمع",
+          "count": 7,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        },
+        {
+          "labelAr": "دوري المستوى الثاني بمسمياته التاريخية",
+          "count": 7,
+          "urls": [
+            "https://www.mancity.com/club/honours/team"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chelsea",
+      "total": 38,
+      "noteAr": "يشمل لقبي الدرجة الثانية ولقبي كأس الأعضاء الكاملة، وليس البطولات الكبرى فقط.",
+      "items": [
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الأولى / الممتاز",
+          "count": 6,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الثانية",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الإنجليزي",
+          "count": 8,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الإنجليزية",
+          "count": 5,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "الدرع الخيرية / درع المجتمع",
+          "count": 4,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الأعضاء الكاملة",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "دوري أبطال أوروبا",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "الدوري الأوروبي",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "دوري المؤتمر الأوروبي",
+          "count": 1,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "السوبر الأوروبي",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        },
+        {
+          "labelAr": "كأس العالم للأندية",
+          "count": 2,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atletico-madrid",
+      "total": 35,
+      "noteAr": "32 في حصيلة الليجا، ويضاف إيفا دوارتي وكأس رئيس الاتحاد والدرجة الثانية. كأس الأبطال 1940 ذات التصنيف المختلف والبطولات الإقليمية خارج هذا العد.",
+      "items": [
+        {
+          "labelAr": "الدوري الإسباني",
+          "count": 11,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion",
+            "https://en.atleticodemadrid.com/noticias/atleti-win-2020-21-laliga-title"
+          ]
+        },
+        {
+          "labelAr": "كأس الملك",
+          "count": 10,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion",
+            "https://www.laliga.com/en-GB/news/atletico-de-madrid-copa-del-rey-titles"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الإسباني",
+          "count": 2,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion"
+          ]
+        },
+        {
+          "labelAr": "الدوري الأوروبي (كأس الاتحاد سابقًا)",
+          "count": 3,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الأوروبي",
+          "count": 3,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/123-anos-de-pasion"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 1,
+          "urls": [
+            "https://en.atleticodemadrid.com/noticias/50-years-since-our-intercontinental-cup-victory"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنترتوتو",
+          "count": 1,
+          "urls": [
+            "https://www.laliga.com/en-GB/news/atletico-de-madrid-copa-del-rey-titles"
+          ]
+        },
+        {
+          "labelAr": "كأس إيفا دوارتي، سجل تاريخي منفصل",
+          "count": 1,
+          "urls": [
+            "https://rfef.es/es/noticias/historia-de-la-supercopa-de-espana-sabias-que-durante-unos-anos-se-llamo-copa-eva-de",
+            "https://www.atleticodemadrid.com/noticias/larbi-ben-barek-fue-homenajeado-en-los-prolegomenos-del-marruecos-peru",
+            "https://www.atleticodemadrid.com/noticias/la-familia-atletica-esta-de-luto-por-el-fallecimiento-de-jose-luis-perez-paya"
+          ]
+        },
+        {
+          "labelAr": "كأس رئيس الاتحاد الإسباني",
+          "count": 1,
+          "urls": [
+            "https://www.atleticodemadrid.com/noticias/la-rfef-nos-hizo-entrega-de-la-copa-presidente-2"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإسباني للدرجة الثانية",
+          "count": 1,
+          "urls": [
+            "https://en.wikipedia.org/wiki/List_of_Atl%C3%A9tico_Madrid_honours_and_achievements"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tottenham",
+      "total": 28,
+      "noteAr": "يشمل الدرجة الثانية والدروع المشتركة والكأس الأنجلو إيطالية، ولا يشمل بطولات لندن والجنوب وزمن الحرب أو الدورات الودية.",
+      "items": [
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الأولى",
+          "count": 2,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الإنجليزي",
+          "count": 8,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الرابطة الإنجليزية",
+          "count": 4,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الاتحاد الأوروبي / الدوري الأوروبي",
+          "count": 3,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "الدوري الإنجليزي، الدرجة الثانية",
+          "count": 2,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "الدرع الخيرية",
+          "count": 7,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأنجلو إيطالية",
+          "count": 1,
+          "urls": [
+            "https://www.tottenhamhotspur.com/the-club/history/club-honours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "borussia-dortmund",
+      "total": 22,
+      "noteAr": "ستة سوبر رسمية؛ نسخة 2008 غير الرسمية وكؤوس وستفاليا ودوري الغرب الإقليمي خارج العد.",
+      "items": [
+        {
+          "labelAr": "بطولة ألمانيا / البوندسليجا",
+          "count": 8,
+          "urls": [
+            "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+            "https://www.transfermarkt.com/borussia-dortmund/erfolge/verein/16"
+          ]
+        },
+        {
+          "labelAr": "كأس ألمانيا",
+          "count": 5,
+          "urls": [
+            "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+            "https://www.transfermarkt.com/borussia-dortmund/erfolge/verein/16"
+          ]
+        },
+        {
+          "labelAr": "كأس السوبر الألماني",
+          "count": 6,
+          "urls": [
+            "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+            "https://www.rsssf.org/tablesd/duitsupcuphist.html"
+          ]
+        },
+        {
+          "labelAr": "دوري أبطال أوروبا",
+          "count": 1,
+          "urls": [
+            "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+            "https://www.transfermarkt.com/borussia-dortmund/erfolge/verein/16"
+          ]
+        },
+        {
+          "labelAr": "كأس الكؤوس الأوروبية",
+          "count": 1,
+          "urls": [
+            "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+            "https://www.transfermarkt.com/borussia-dortmund/erfolge/verein/16"
+          ]
+        },
+        {
+          "labelAr": "كأس الإنتركونتيننتال",
+          "count": 1,
+          "urls": [
+            "https://aktie.bvb.de/media/document/867ee06c-53e8-4961-a781-c3fc8727e0ed/assets/20260923_Investor_Presentation_FY2025_2026.pdf?disposition=inline",
+            "https://www.transfermarkt.com/borussia-dortmund/erfolge/verein/16"
+          ]
+        }
+      ]
+    }
+  ]
+}

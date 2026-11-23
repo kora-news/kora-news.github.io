@@ -64,14 +64,21 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
   const link=(url,label)=>/^https:\/\//.test(url||'') ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>` : esc(label);
   const genericScope='الفريق الأول للرجال · المباريات والبطولات الرسمية';
   const label='دليل الأندية';
-  const cards=CLUBS.map((c,i)=>{
+  const ranking=JSON.parse(fs.readFileSync(path.join(root,'data/club-trophy-ranking.json'),'utf8'));
+  const rankingById=new Map(ranking.clubs.map(x=>[x.id,x]));
+  if(rankingById.size!==CLUBS.length)throw Error('Incomplete trophy ranking');
+  const rankedClubs=[...CLUBS].sort((a,b)=>rankingById.get(b.id).total-rankingById.get(a.id).total||a.nameAr.localeCompare(b.nameAr,'ar'));
+  const rankOf=c=>1+rankedClubs.filter(x=>rankingById.get(x.id).total>rankingById.get(c.id).total).length;
+  const cards=rankedClubs.map((c,i)=>{
     const r=records.get(c.id), ready=Boolean(r);
-    const inside=`<span class="club-tile-country">${c.leagueAr}</span>${logo(c,r,'')}<h2>${c.nameAr}</h2><p lang="en" dir="ltr">${c.nameEn}</p><span class="club-tile-bottom">${ready?'القائمة والتاريخ والبطولات <span aria-hidden="true">←</span>':'قيد التوثيق'}</span>`;
+    const trophy=rankingById.get(c.id);
+    const inside=`<span class="club-tile-country">${c.leagueAr}</span>${logo(c,r,'')}<h2>${c.nameAr}</h2><p lang="en" dir="ltr">${c.nameEn}</p><span class="club-trophy-total"><bdi>${trophy.total}</bdi> لقبًا <small>المرتبة ${rankOf(c)}</small></span><span class="club-tile-bottom">${ready?'القائمة والتاريخ والبطولات <span aria-hidden="true">←</span>':'قيد التوثيق'}</span>`;
     return `<article class="club-tile${ready?'':' pending'}" data-league="${c.leagueId}" data-name="${esc(c.nameAr+' '+c.nameEn+' '+c.id+' '+(c.id==='inter'?'إنتر ميلان Inter Milan':c.id==='tottenham'?'توتنهام هوتسبير Tottenham Hotspur Spurs':c.id==='bayern-munich'?'بايرن ميونيخ':''))}">${ready?`<a href="clubs/${c.id}.html">${inside}</a>`:`<div>${inside}</div>`}</article>`;
   }).join('\n');
   const index=pageHead(label+' | كورة نيوز','تاريخ الأندية وبطولاتها وهدافوها وسجلات لاعبيها، مع مصادر وتواريخ مراجعة واضحة.','','clubs.html')+header('','clubs')+`
 <main class="container club-directory">
-  <header class="club-directory-head"><span class="badge">التاريخ لا يُختصر في نتيجة</span><h1>دليل الأندية</h1><p>شعارات الأندية، قوائم فرقها الأولى، وتاريخها وبطولاتها.</p><p class="club-scope">${genericScope}</p></header>
+  <header class="club-directory-head"><span class="badge">التاريخ لا يُختصر في نتيجة</span><h1>دليل الأندية</h1><p>الأندية من الأكثر ألقابًا إلى الأقل، وفق نطاق العد الموضح أدناه.</p><p class="club-scope">${genericScope}</p></header>
+  <aside class="club-ranking-method"><h2>الترتيب حسب مجموع الألقاب</h2><p>${esc(ranking.scopeAr)}</p><p class="club-record-note">مراجعة المقارنة: ${esc(date(ranking.asOf))}. المقارنة بين الأندية الـ 14 الموجودة في الدليل فقط.</p><details><summary>منهج العد وتفصيل الألقاب والمصادر</summary><p>${esc(ranking.methodAr)}</p>${rankedClubs.map(c=>{const t=rankingById.get(c.id);return `<details class="club-total-detail"><summary>${esc(c.nameAr)}: ${t.total} لقبًا</summary><p>${esc(t.noteAr)}</p><ul>${t.items.map(x=>`<li>${esc(x.labelAr)}: <bdi>${x.count}</bdi> ${x.urls.map((u,i)=>link(u,'المصدر'+(x.urls.length>1?' '+(i+1):''))).join(' · ')}</li>`).join('')}</ul></details>`}).join('')}</details></aside>
   <section class="club-controls" aria-label="البحث في الأندية"><label for="club-search">ابحث عن ناديك</label><input id="club-search" type="search" placeholder="اسم النادي بالعربية أو الإنجليزية" autocomplete="off"><div class="club-filters" role="group" aria-label="الدولة">${[['all','الكل'],['england','إنجلترا'],['spain','إسبانيا'],['italy','إيطاليا'],['germany','ألمانيا']].map(([id,name])=>`<button type="button" data-filter="${id}" aria-pressed="${id==='all'}">${name}</button>`).join('')}</div></section>
   <div class="club-directory-count" aria-live="polite">الأندية الظاهرة: <span id="club-visible">14</span></div><section class="club-tiles">${cards}</section><p id="club-no-results" hidden>لم نجد ناديًا بهذا الاسم. جرّب اسمًا آخر أو اختر «الكل».</p>
   <aside class="club-method"><h2>كيف تُقرأ الأرقام؟</h2><p>هذه صفحات مرجعية وليست لوحة نتائج مباشرة. لكل سجل تاريخ مراجعة ومصدر، وتُذكر اختلافات احتساب البطولات أو الأهداف بجوار الأرقام. لا نملأ أي معلومة غير مثبتة برقم تقديري.</p><p>«الأكثر تتويجًا» يعني الألقاب التي أحرزها اللاعب مع النادي نفسه، وليس إجمالي ألقابه طوال مسيرته.</p></aside>
