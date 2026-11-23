@@ -3,3 +3,5 @@
 .player-portrait{margin:0}.player-portrait figcaption{font-size:.8rem;line-height:1.8;margin-block-start:10px;color:var(--muted)}
 
 .historical-portrait .player-photo{max-height:440px;object-fit:contain;background:rgba(0,0,0,.15)}.historical-association{margin-block:18px}.historical-association p,.historical-achievements p{line-height:2;margin-block:10px}.historical-achievements li{margin-block:20px}.historical-achievements strong{color:var(--gold)}
+
+.historical-achievements{padding-inline-start:24px;padding-inline-end:0}.historical-achievements li{padding-inline-start:4px;overflow-wrap:anywhere}
