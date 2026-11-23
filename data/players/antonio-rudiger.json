@@ -114,7 +114,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "antonio-rudiger-real-madrid-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "real-madrid",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/antonio-rudiger",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/4ed93908f9c9025219947713ff50d6371f604f7d73f79a3d5fa0ed548fa7e1cb/antonio-rudiger-real-madrid-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:25:00+02:00"
   }
 }

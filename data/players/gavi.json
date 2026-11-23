@@ -107,7 +107,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "gavi-barcelona-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/gavi",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/7b2e83754daf8a613a8c61a3c13d9fb285eeb33ef77136a32db481a5a05c4c2e/gavi-fc-barcelona-2026-27-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:25:00+02:00"
   }
 }

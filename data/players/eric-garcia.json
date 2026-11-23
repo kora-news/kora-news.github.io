@@ -15,8 +15,17 @@
   "summaryAr": "تدرج إريك غارسيا في برشلونة ثم انتقل إلى مانشستر سيتي في 2017. عاد في 2021، وأمضى موسم 2023/24 معارًا لجيرونا، قبل عودته وتجديده حتى 2031.",
   "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "eric-garcia-barcelona-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/eric-garcia",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/deeb769e0322bc89fc39eebe69a7a8a2b74d9b857dae79004dc6ebb0ea613465/eric-garcia-fc-barcelona-2026-27-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:25:00+02:00"
   },
   "sources": [
     {
