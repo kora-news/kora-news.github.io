@@ -1,0 +1,98 @@
+{
+  "id": "justin-lerma",
+  "nameAr": "جاستن ليرما",
+  "nameEn": "Justin Lerma",
+  "squadName": "Justin Lerma",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2008-05-05",
+  "nationalityAr": "إكوادوري",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:55:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في غواياكيل سيتي ثم إنديبندينتي ديل فايي. اتفق دورتموند على ضمه في مايو 2024، وبقي في الإكوادور حتى انتقاله الفعلي بعد بلوغه الثامنة عشرة في صيف 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى 2019",
+      "clubAr": "غواياكيل سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ تكوينه في الإكوادور.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2026",
+      "clubAr": "إنديبندينتي ديل فايي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر بالفريق الأول في أبريل 2024 وهو في الخامسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مايو 2024",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "اتفاق انتقال مستقبلي",
+      "textAr": "اتفق النادي على ضمه، لكنه لم ينضم للفريق الألماني في ذلك الوقت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انضمام فعلي",
+      "textAr": "انتقل بعد بلوغه الثامنة عشرة وفق السيرة الحالية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/justin-lerma.html"
+    },
+    {
+      "id": "birth",
+      "title": "البوندسليغا: بطاقة اللاعب وتاريخ الميلاد",
+      "url": "https://www.bundesliga.com/en/player/justin-lerma"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:55:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. لا يظهر اللاعب في جدول الإحصاءات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

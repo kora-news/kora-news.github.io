@@ -1,0 +1,107 @@
+{
+  "id": "joey-veerman",
+  "nameAr": "جوي فيرمان",
+  "nameEn": "Joey Veerman",
+  "squadName": "Joey Veerman",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1998-11-19",
+  "nationalityAr": "هولندي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:55:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في آر كيه إيه في فولندام ثم أكاديمية إف سي فولندام. انتقل لهيرنفين في 2019 وأيندهوفن في يناير 2022، ثم لدورتموند في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "آر كيه إيه في فولندام",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ قبل الانتقال لأكاديمية إف سي فولندام.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "الناشئون ثم 2016",
+      "clubAr": "إف سي فولندام",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج بالأكاديمية ووصل للفريق الأول في 2016.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–يناير 2022",
+      "clubAr": "هيرنفين",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للدوري الهولندي الممتاز.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "4 يناير 2022",
+      "clubAr": "بي إس في أيندهوفن",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد إعلان أيندهوفن وصوله في يناير؛ لا نستخدم أبريل الوارد في جدول السيرة الحالية.",
+      "sourceIds": [
+        "psv"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من أيندهوفن.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/joey-veerman.html"
+    },
+    {
+      "id": "psv",
+      "title": "أيندهوفن: التعاقد مع فيرمان في 4 يناير 2022",
+      "url": "https://www.psv.nl/en/media/article/joey-veerman-per-direct-psver"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:55:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

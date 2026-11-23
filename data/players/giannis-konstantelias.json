@@ -1,0 +1,107 @@
+{
+  "id": "giannis-konstantelias",
+  "nameAr": "يانيس كونستانتيلياس",
+  "nameEn": "Giannis Konstantelias",
+  "squadName": "Giannis Konstantelias",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2003-03-05",
+  "nationalityAr": "يوناني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:55:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في أغيا باراسكيفي ثم أكاديمية باوك منذ 2013. أعير ليوبين في النصف الثاني من 2021/22، وعاد لباوك قبل دورتموند في أغسطس 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "أغيا باراسكيفي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في فولوس قبل باوك.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2013–يناير 2022",
+      "clubAr": "باوك سالونيك",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر احترافيًا في يناير 2021.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2022",
+      "clubAr": "كاس يوبين",
+      "typeAr": "إعارة",
+      "textAr": "قضى النصف الثاني من الموسم في بلجيكا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022–أغسطس 2026",
+      "clubAr": "باوك سالونيك",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد للنادي اليوناني قبل الانتقال لألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "17 أغسطس 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/giannis-konstantelias.html"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: ضم كونستانتيلياس حتى 2031",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/8/17/BVB-verpflichtet-Giannis-Konstantelias.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 1,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:55:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 200,
+  "profileCount": 209,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1484,9 +1484,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ethan-nwaneri",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1495,9 +1495,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "konstantinos-karetsas",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1561,9 +1561,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joey-veerman",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1583,9 +1583,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "justin-lerma",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1638,9 +1638,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "samuele-inacio",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1649,9 +1649,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mathis-albert",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1660,9 +1660,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "enzo-dos-santos",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1671,9 +1671,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "giannis-konstantelias",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1682,9 +1682,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mussa-kaba",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",

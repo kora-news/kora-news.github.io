@@ -1,0 +1,98 @@
+{
+  "id": "konstantinos-karetsas",
+  "nameAr": "كونستانتينوس كاريتساس",
+  "nameEn": "Konstantinos Karetsas",
+  "squadName": "Konstantinos Karetsas",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2007-11-19",
+  "nationalityAr": "يوناني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:55:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في غينك ثم أندرلخت وعاد لغينك في يناير 2023. انتقل لدورتموند في أغسطس 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2020",
+      "clubAr": "غينك",
+      "typeAr": "ناشئون",
+      "textAr": "انضم لأكاديمية غينك في الثامنة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2020–يناير 2023",
+      "clubAr": "أندرلخت",
+      "typeAr": "ناشئون",
+      "textAr": "خاض تجربة في أكاديمية النادي البلجيكي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023–أغسطس 2026",
+      "clubAr": "غينك",
+      "typeAr": "عودة وفريق أول",
+      "textAr": "ظهر مع الرديف في الدرجة الثانية في أغسطس 2023 ثم الفريق الأول في الموسم نفسه.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 2031.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/konstantinos-karetsas.html"
+    },
+    {
+      "id": "birth",
+      "title": "البوندسليغا: بطاقة اللاعب وتاريخ الميلاد",
+      "url": "https://www.bundesliga.com/en/player/konstantinos-karetsas"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:55:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

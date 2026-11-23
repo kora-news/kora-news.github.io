@@ -1,0 +1,102 @@
+{
+  "id": "mathis-albert",
+  "nameAr": "ماتيس ألبرت",
+  "nameEn": "Mathis Albert",
+  "squadName": "Mathis Albert",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2009-05-21",
+  "nationalityAr": "أمريكي وألماني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:55:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في كارولاينا إيليت ثم أكاديمية لوس أنجلوس غالاكسي. انضم لدورتموند في صيف 2024 وظهر بالبوندسليغا في أبريل 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "كارولاينا إيليت سوكر أكاديمي",
+      "typeAr": "ناشئون",
+      "textAr": "محطته الأولى في الولايات المتحدة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "حتى يونيو 2024",
+      "clubAr": "لوس أنجلوس غالاكسي",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه قبل ألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2024",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "تدرج في فرق تحت 17 وتحت 19 عامًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "قائمة كأس العالم للأندية",
+      "textAr": "كان ضمن القائمة دون مشاركة وفق السيرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "بداية البوندسليغا",
+      "textAr": "ظهر أمام فرايبورغ.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/mathis-albert.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:55:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

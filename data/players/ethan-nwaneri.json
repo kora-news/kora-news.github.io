@@ -1,0 +1,103 @@
+{
+  "id": "ethan-nwaneri",
+  "nameAr": "إيثان نوانيري",
+  "nameEn": "Ethan Nwaneri",
+  "squadName": "Ethan Nwaneri",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2007-03-21",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:55:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في أرسنال وظهر مع الفريق الأول في سبتمبر 2022. أعير لمارسيليا في النصف الثاني من 2025/26، ثم انضم لدورتموند معارًا في سبتمبر 2026 حتى نهاية الموسم.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من الثامنة حتى الفريق الأول",
+      "clubAr": "أرسنال",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج بالأكاديمية وظهر في الدوري الممتاز في سبتمبر 2022.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2026",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "إعارة",
+      "textAr": "قضى النصف الثاني من الموسم معارًا من أرسنال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "أرسنال",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد قبل الإعارة التالية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "إعارة",
+      "textAr": "انضم من أرسنال حتى نهاية موسم 2026/27.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/de/mannschaften/fussball/spieler/ethan-nwaneri.html"
+    },
+    {
+      "id": "birth",
+      "title": "البوندسليغا: بطاقة اللاعب وتاريخ الميلاد",
+      "url": "https://www.bundesliga.com/en/player/ethan-nwaneri"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: إعارة نوانيري حتى نهاية الموسم",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/9/1/BVB-leiht-Ethan-Nwaneri-aus.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:55:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
