@@ -1,0 +1,112 @@
+{
+  "id": "anthony-gordon",
+  "nameAr": "أنتوني غوردون",
+  "nameEn": "Anthony Gordon",
+  "squadName": "Anthony Gordon",
+  "clubId": "barcelona",
+  "birthDate": "2001-02-24",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:08:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في أكاديمية ليفربول ثم إيفرتون، وأعير إلى بريستون في النصف الثاني من موسم 2020/21. انتقل إلى نيوكاسل في يناير 2023 ثم اتفق على الانضمام لبرشلونة في مايو 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "ليفربول ثم إيفرتون",
+      "typeAr": "ناشئون",
+      "textAr": "انتقل من أكاديمية ليفربول إلى إيفرتون وهو في الحادية عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "في السادسة عشرة",
+      "clubAr": "إيفرتون",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر في مباراة بالدوري الأوروبي قبل ظهوره في الدوري الإنجليزي في الثامنة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 فبراير 2021",
+      "clubAr": "بريستون نورث إند",
+      "typeAr": "إعارة",
+      "textAr": "أعلن بريستون ضمه من إيفرتون حتى نهاية الموسم، وليست إعارة لعام كامل كما توحي سيرة برشلونة.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال",
+      "textAr": "غادر إيفرتون إلى نيوكاسل.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "29 مايو 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن برشلونة الاتفاق مع نيوكاسل لخمس سنوات حتى 2031، مع التحاق اللاعب بعد كأس العالم.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة أنتوني غوردون الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/23747/anthony-gordon"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: اتفاق ضم غوردون",
+      "url": "https://www.fcbarcelona.com/en/news/4511134/anthony-gordon-becomes-an-fc-barcelona-player"
+    },
+    {
+      "id": "loan",
+      "title": "بريستون: ضم غوردون حتى نهاية موسم 2020/21",
+      "url": "https://www.pnefc.net/news/2021/february/anthony-gordon-beats-the-deadline-to-join-from-everton"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 12,
+      "goals": 2,
+      "assists": 4,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:08:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

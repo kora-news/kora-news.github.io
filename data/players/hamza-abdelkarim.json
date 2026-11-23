@@ -1,0 +1,107 @@
+{
+  "id": "hamza-abdelkarim",
+  "nameAr": "حمزة عبد الكريم",
+  "nameEn": "Hamza Abdelkarim",
+  "squadName": "Hamza Mohamed Abdelkarim Elsayed Selim",
+  "clubId": "barcelona",
+  "birthDate": "2008-01-01",
+  "nationalityAr": "مصري",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:08:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في الأهلي المصري منذ 2020 وظهر مع الفريق الأول في فبراير 2025. انضم إلى برشلونة معارًا في فبراير 2026 ثم بانتقال دائم في الصيف، وجدد حتى 2030 في سبتمبر.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2020–2025",
+      "clubAr": "الأهلي المصري",
+      "typeAr": "ناشئون ثم فريق أول",
+      "textAr": "تدرج في قطاع الناشئين وظهر لأول مرة مع الفريق الأول في 6 فبراير 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 فبراير 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "إعارة",
+      "textAr": "وصل معارًا حتى نهاية الموسم. أخرت إجراءات إدارية بدايته مع فريق تحت 19 عامًا إلى 8 مارس أمام هويسكا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "تحولت الإعارة إلى انتقال دائم وفق سيرة اللاعب الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "31 أغسطس 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "خاض بدايته الرسمية أمام رايو فايكانو في سبوتيفاي كامب نو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وثق النادي في 15 سبتمبر تجديده حتى 2030، موضحًا أن توقيع العقد تم قبل مراسم التقديم.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة حمزة عبد الكريم الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/572280/hamza-mohamed-abdelkarim-elsayed-selim"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد حمزة عبد الكريم حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/news/4576802/hamza-abdelkarim-i-want-to-write-history-with-barca"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:08:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

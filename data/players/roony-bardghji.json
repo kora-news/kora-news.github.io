@@ -1,0 +1,112 @@
+{
+  "id": "roony-bardghji",
+  "nameAr": "روني بردغجي",
+  "nameEn": "Roony Bardghji",
+  "squadName": "Roony Bardghji",
+  "clubId": "barcelona",
+  "birthDate": "2005-11-15",
+  "nationalityAr": "سويدي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:08:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في مالمو قبل الانتقال إلى ناشئي كوبنهاغن في 2020، وبدأ مع الفريق الأول في نوفمبر 2021. انضم إلى برشلونة في يوليو 2025 بعقد حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى صيف 2020",
+      "clubAr": "مالمو",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في السويد قبل انتقاله إلى الدنمارك.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2020",
+      "clubAr": "كوبنهاغن",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم إلى قطاع الناشئين في النادي الدنماركي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 نوفمبر 2021",
+      "clubAr": "كوبنهاغن",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "بدأ أمام آرهوس في التعادل 1–1، وفق تقرير كوبنهاغن المعاصر للمباراة. نعتمد هذا التاريخ بدل سنة 2022 المذكورة في سيرة برشلونة.",
+      "sourceIds": [
+        "debut"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن برشلونة الاتفاق مع كوبنهاغن على عقد لأربعة مواسم حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "يناير 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "قيد الفريق الأول",
+      "textAr": "بدأ موسمه مع برشلونة أتلتيك قبل أن يصبح رسميًا من عناصر الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة روني بردغجي الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/123727/roony-bardghji"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: التعاقد مع بردغجي حتى 2029",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4308767/roony-bardghji-signs-for-fc-barcelona-until-2029"
+    },
+    {
+      "id": "debut",
+      "title": "كوبنهاغن: تقرير بداية بردغجي في نوفمبر 2021",
+      "url": "https://www.fck.dk/en/news/roony-bardghji-becomes-youngest-ever-fc-copenhagen-player"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:08:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. لم يظهر اسمه في جدول الدوري المفحوص. غياب السجل ليس دليلًا على صفر مشاركة؛ نترك القيم غير متاحة حتى توثيقها."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

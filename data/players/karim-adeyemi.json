@@ -1,0 +1,98 @@
+{
+  "id": "karim-adeyemi",
+  "nameAr": "كريم أديمي",
+  "nameEn": "Karim Adeyemi",
+  "squadName": "Karim Adeyemi",
+  "clubId": "barcelona",
+  "birthDate": "2002-01-18",
+  "nationalityAr": "ألماني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:08:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في بايرن ميونخ وأونترهاخينغ قبل الانتقال إلى سالزبورغ في 2018 واللعب مع ليفيرينغ. انضم إلى دورتموند في 2022 ثم برشلونة في يوليو 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2012 ثم حتى 2018",
+      "clubAr": "بايرن ميونخ ثم أونترهاخينغ",
+      "typeAr": "ناشئون",
+      "textAr": "تكون في الناديين الألمانيين قبل انتقاله إلى النمسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "ريد بول سالزبورغ وليفيرينغ",
+      "typeAr": "انتقال وتطوير",
+      "textAr": "انضم إلى سالزبورغ وواصل تطوره مع ليفيرينغ قبل الوصول للفريق الأول في موسم 2019/20.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال",
+      "textAr": "عاد إلى ألمانيا وانضم إلى دورتموند، وشارك معه في الوصول إلى نهائي دوري أبطال أوروبا 2024.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "23 يوليو 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال",
+      "textAr": "أعلن برشلونة اتفاقه مع دورتموند وأكد توقيع عقد حتى 2031.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة كريم أديمي الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/52163/karim-adeyemi"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: ضم أديمي حتى 2031",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4541406/fc-barcelona-sign-karim-adeyemi"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 13,
+      "goals": 2,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:08:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. الأرقام من جدول الدوري المنفصل، لا إجمالي كل المسابقات الذي يسجل أربعة أهداف."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

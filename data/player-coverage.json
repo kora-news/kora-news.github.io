@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 39,
+  "profileCount": 44,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1066,9 +1066,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "karim-adeyemi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -1077,9 +1077,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "anthony-gordon",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -1088,9 +1088,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "roony-bardghji",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -1099,9 +1099,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jesse-bisiwu",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -1110,9 +1110,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "hamza-abdelkarim",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
