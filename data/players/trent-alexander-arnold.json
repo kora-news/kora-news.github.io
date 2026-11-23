@@ -1,0 +1,94 @@
+{
+  "id": "trent-alexander-arnold",
+  "nameAr": "ترينت ألكسندر أرنولد",
+  "nameEn": "Trent Alexander-Arnold",
+  "squadName": "Trent",
+  "clubId": "real-madrid",
+  "birthDate": "1998-10-07",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:50:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في ليفربول منذ السادسة وبدأ رسميًا في أكتوبر 2016. انتقل لريال مدريد في يونيو 2025 بعقد لستة مواسم حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن 6 سنوات",
+      "clubAr": "أكاديمية ليفربول",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية حتى الفريق الأول.",
+      "sourceIds": [
+        "liverpool"
+      ]
+    },
+    {
+      "whenAr": "أكتوبر 2016–2025",
+      "clubAr": "ليفربول",
+      "typeAr": "الفريق الأول",
+      "textAr": "خاض 354 مباراة وسجل 23 هدفًا بكل المسابقات قبل رحيله، وفق النادي.",
+      "sourceIds": [
+        "liverpool"
+      ]
+    },
+    {
+      "whenAr": "30 مايو 2025 ، نافذ 1 يونيو",
+      "clubAr": "ريال مدريد",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "وقع حتى 30 يونيو 2031. يؤكد ليفربول وجود مقابل للانتقال المبكر، فلا نصفه بالحر.",
+      "sourceIds": [
+        "contract",
+        "liverpool"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/trent-alexander-arnold"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: اتفاق ضم ترينت حتى 2031",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/comunicado-oficial-30-05-2025"
+    },
+    {
+      "id": "liverpool",
+      "title": "ليفربول: قبول عرض مدريد وتسلسل مسيرة ترينت",
+      "url": "https://www.liverpoolfc.com/news/liverpool-accept-real-madrid-offer-trent-alexander-arnold-transfer"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:50:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ريال مدريد الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 110,
+  "profileCount": 119,
   "players": [
     {
       "clubId": "ac-milan",
@@ -3585,9 +3585,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "andriy-lunin",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3596,9 +3596,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "raul-asencio",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3607,9 +3607,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "eder-militao",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3618,9 +3618,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dean-huijsen",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3629,9 +3629,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "trent-alexander-arnold",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3640,9 +3640,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ibrahima-konate",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3651,9 +3651,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marc-cucurella",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3662,9 +3662,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alvaro-carreras",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",
@@ -3673,9 +3673,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "antonio-rudiger",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "real-madrid",

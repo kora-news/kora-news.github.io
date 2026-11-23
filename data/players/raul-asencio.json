@@ -1,0 +1,120 @@
+{
+  "id": "raul-asencio",
+  "nameAr": "راؤول أسينسيو",
+  "nameEn": "Raúl Asencio",
+  "squadName": "Asencio",
+  "clubId": "real-madrid",
+  "birthDate": "2003-02-13",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:50:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في فيتيرانوس ديل بيلار ولاس بالماس ثم أكاديمية ريال مدريد منذ 2017. مر بآر إس سي إنترناسيونال وكاستيا وظهر مع الفريق الأول في نوفمبر 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2012 ثم 2012–2017",
+      "clubAr": "فيتيرانوس ديل بيلار ثم لاس بالماس",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل الانضمام إلى ريال مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2022",
+      "clubAr": "أكاديمية ريال مدريد",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "تدرج من تحت 15 حتى تحت 19 عامًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "آر إس سي إنترناسيونال",
+      "typeAr": "تطوير",
+      "textAr": "مرحلة تلت فرق الشباب وسبقت كاستيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "ريال مدريد كاستيا",
+      "typeAr": "تصعيد",
+      "textAr": "لعب للرديف قبل الاستقرار في الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "9 نوفمبر 2024",
+      "clubAr": "ريال مدريد",
+      "typeAr": "بداية رسمية",
+      "textAr": "ظهر بديلًا لميليتاو أمام أوساسونا وصنع هدف بيلينغهام.",
+      "sourceIds": [
+        "debut"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2025",
+      "clubAr": "ريال مدريد",
+      "typeAr": "تجديد منقول صحفيًا",
+      "textAr": "أفادت AS بتمديده حتى 2031 ؛ نذكره منسوبًا للصحيفة لا بوصفه بيانًا رسميًا مفحوصًا.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/raul-asencio-del-rosario"
+    },
+    {
+      "id": "debut",
+      "title": "ريال مدريد: بداية أسينسيو أمام أوساسونا",
+      "url": "https://www.realmadrid.com/en-US/news/football/academy/latest-news/asencio-debuta-con-el-real-madrid-en-partido-oficial-09-11-2024"
+    },
+    {
+      "id": "contract",
+      "title": "AS: تمديد أسينسيو حتى 2031",
+      "url": "https://as.com/futbol/primera/asencio-renueva-hasta-2031-n/"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:50:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. يسجل المصدر صفر مشاركة وخانات أهداف وتمريرات فارغة، فلا نحولها إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ريال مدريد الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "andriy-lunin",
+  "nameAr": "أندري لونين",
+  "nameEn": "Andriy Lunin",
+  "squadName": "Lunin",
+  "clubId": "real-madrid",
+  "birthDate": "1999-02-11",
+  "nationalityAr": "أوكراني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:50:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "بدأ في دنيبرو ثم زوريا لوهانسك، وانتقل لريال مدريد في 2018. خاض إعارات لليغانيس وبلد الوليد وأوفييدو، ثم استقر بالفريق الأول منذ 2020 وجدد حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016–2017",
+      "clubAr": "دنيبرو",
+      "typeAr": "الفريق الأول",
+      "textAr": "بدأ مساره الاحترافي في أوكرانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2018",
+      "clubAr": "زوریا لوهانسك",
+      "typeAr": "انتقال",
+      "textAr": "واصل مسيرته محليًا قبل الانتقال لإسبانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم في سن 19 عامًا وفق بيان التجديد.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "ليغانيس",
+      "typeAr": "إعارة",
+      "textAr": "أعلن ليغانيس استعارته من ريال مدريد للموسم.",
+      "sourceIds": [
+        "leganes"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2019–يناير 2020",
+      "clubAr": "بلد الوليد",
+      "typeAr": "إعارة",
+      "textAr": "انتقل معارًا للموسم ثم غادر في يناير إلى أوفييدو.",
+      "sourceIds": [
+        "oviedo"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2020",
+      "clubAr": "ريال أوفييدو",
+      "typeAr": "إعارة",
+      "textAr": "أكمل الموسم معارًا من ريال مدريد.",
+      "sourceIds": [
+        "oviedo"
+      ]
+    },
+    {
+      "whenAr": "من 2020 ثم 13 سبتمبر 2024",
+      "clubAr": "ريال مدريد",
+      "typeAr": "عودة وتجديد",
+      "textAr": "استقر بالفريق الأول منذ 2020 وجدد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/andriy-lunin/"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: تمديد لونين حتى 2030",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-renovacion-lunin-13-09-2024"
+    },
+    {
+      "id": "leganes",
+      "title": "ليغانيس: استعارة لونين 2018",
+      "url": "https://www.cdleganes.com/en/news/cd-leganes-and-real-madrid-reach-an-agreement-for-the-loan-of-andriy-lunin"
+    },
+    {
+      "id": "oviedo",
+      "title": "أوفييدو: استعارة لونين وتسلسل إعاراته",
+      "url": "https://www.realoviedo.es/en/news/lunin-signs-for-real-oviedo"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:50:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ريال مدريد الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

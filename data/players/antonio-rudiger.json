@@ -1,0 +1,120 @@
+{
+  "id": "antonio-rudiger",
+  "nameAr": "أنطونيو روديغر",
+  "nameEn": "Antonio Rüdiger",
+  "squadName": "Rüdiger",
+  "clubId": "real-madrid",
+  "birthDate": "1993-03-03",
+  "nationalityAr": "ألماني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:50:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "وصل عبر ناشئي دورتموند وشتوتغارت للفريق الأول، ثم روما معارًا ونهائيًا وتشيلسي. انضم لريال مدريد في 2022 وجدد حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2011 ثم 2011",
+      "clubAr": "دورتموند ثم شتوتغارت",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الفئات السنية قبل الرديف.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2011 ثم 2012",
+      "clubAr": "شتوتغارت",
+      "typeAr": "رديف وتصعيد",
+      "textAr": "بدأ مع الرديف في 2011 ومع فريق الدوري الألماني في يناير 2012.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2015/16 ثم 2016",
+      "clubAr": "روما",
+      "typeAr": "إعارة ثم شراء",
+      "textAr": "بدأ معارًا من شتوتغارت ثم انتقل نهائيًا في 2016.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2017–2022",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى خمسة مواسم في لندن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى الفريق الإسباني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "16 يونيو 2026",
+      "clubAr": "ريال مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2027 وفق البيان الأحدث.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/antonio-rudiger"
+    },
+    {
+      "id": "career",
+      "title": "ويكيبيديا: تسلسل مسيرة روديغر وإعارة روما",
+      "url": "https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: تجديد روديغر حتى 2027",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/rudiger-16-06-2026"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:50:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ريال مدريد الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

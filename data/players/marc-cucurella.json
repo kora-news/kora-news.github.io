@@ -1,0 +1,131 @@
+{
+  "id": "marc-cucurella",
+  "nameAr": "مارك كوكوريلا",
+  "nameEn": "Marc Cucurella",
+  "squadName": "Cucurella",
+  "clubId": "real-madrid",
+  "birthDate": "1998-07-22",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:50:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة ريال مدريد الحالية وفق صفحة اللاعب الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في إسبانيول وبرشلونة، وخاض مراحل إعارة وشراء في إيبار وخيتافي قبل برايتون وتشيلسي. انضم لريال مدريد في يونيو 2026 بعقد حتى 2032.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2016–2018",
+      "clubAr": "إسبانيول ثم برشلونة",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "تدرج في الأكاديميتين ولعب لبرشلونةB.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018/19 ثم يوليو 2019",
+      "clubAr": "إيبار ثم برشلونة",
+      "typeAr": "إعارة وشراء وإعادة شراء",
+      "textAr": "أعير لإيبار الذي فعّل شراءه، ثم استرده برشلونة في 16 يوليو 2019 وفق بيانه.",
+      "sourceIds": [
+        "buyback"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "خيتافي",
+      "typeAr": "إعارة ثم شراء",
+      "textAr": "انتقل معارًا من برشلونة في 2019/20، ثم فعّل خيتافي شراءه في 2020 وفق سجل برشلونة ومراجعته للنادي.",
+      "sourceIds": [
+        "getafe",
+        "getafe-purchase"
+      ]
+    },
+    {
+      "whenAr": "2021–2022",
+      "clubAr": "برايتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض موسمًا في الدوري الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022–2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى لندن قبل العودة إلى إسبانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "15 يونيو 2026",
+      "clubAr": "ريال مدريد",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن النادي الاتفاق مع تشيلسي على ضمه لستة مواسم حتى 30 يونيو 2032.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة اللاعب وبياناته ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/marc-cucurella-saseta"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: ضم كوكوريلا حتى 2032",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-cucurella-15-06-2026"
+    },
+    {
+      "id": "buyback",
+      "title": "برشلونة: إعادة شراء كوكوريلا من إيبار",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/1280408/barca-activate-cucurella-buy-back-clause"
+    },
+    {
+      "id": "getafe",
+      "title": "برشلونة: سجل كوكوريلا التاريخي",
+      "url": "https://players.fcbarcelona.com/en/player/2669-cucurella-marc-cucurella"
+    },
+    {
+      "id": "squad",
+      "title": "ريال مدريد: قائمة الفريق الأول الحالية",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ريال مدريد بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats"
+    },
+    {
+      "id": "getafe-purchase",
+      "title": "برشلونة: خيتافي يفعّل شراء كوكوريلا في2020",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/1861840/the-lowdown-on-getafe-cf"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 13,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:50:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27 ، حتى مباراة سيلتا فيغو في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ريال مدريد الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
