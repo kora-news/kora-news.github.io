@@ -1,0 +1,140 @@
+{
+  "id": "thibaut-courtois",
+  "nameAr": "تيبو كورتوا",
+  "nameEn": "Thibaut Courtois",
+  "squadName": "Courtois",
+  "clubId": "real-madrid",
+  "birthDate": "1992-05-11",
+  "nationalityAr": "بلجيكي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T15:13:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لريال مدريد وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "لعب كورتوا مع جينك قبل انتقاله إلى تشيلسي في 2011 وإعارته إلى أتلتيكو مدريد. عاد إلى تشيلسي في 2014، ثم انضم إلى ريال مدريد في 2018 وجدد عقده في نوفمبر 2026 حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2011",
+      "clubAr": "جينك",
+      "typeAr": "الفريق الأول",
+      "textAr": "بدأ مسيرته مع جينك وفق تسلسل الأندية في صفحته الرسمية بريال مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2011",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال",
+      "textAr": "انتقل من جينك إلى تشيلسي، وفق تقرير رويترز المعاصر للصفقة.",
+      "sourceIds": [
+        "genk"
+      ]
+    },
+    {
+      "whenAr": "2011–2014",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "إعارة",
+      "textAr": "أمضى ثلاثة مواسم مع أتلتيكو مدريد معارًا من تشيلسي. لا نعرضها كانتقال نهائي.",
+      "sourceIds": [
+        "loan",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2018",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد إلى تشيلسي بعد ثلاثة مواسم في مدريد ولعب للفريق الإنجليزي حتى 2018.",
+      "sourceIds": [
+        "loan",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى ريال مدريد في 2018، وفق السيرة الرسمية وبيان تجديد عقده الأحدث.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "20 نوفمبر 2026",
+      "clubAr": "ريال مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "اتفق مع النادي على تمديد العقد حتى 30 يونيو 2028، وفق البيان الرسمي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة كورتوا ومسيرته",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players/thibaut-courtois"
+    },
+    {
+      "id": "genk",
+      "title": "رويترز: انتقال كورتوا من جينك إلى تشيلسي في يوليو 2011",
+      "url": "https://www.reuters.com/article/sports/soccer/genk-keeper-courtois-signs-for-chelsea-idUSLDE76F07X/"
+    },
+    {
+      "id": "loan",
+      "title": "تشيلسي: إعارة كورتوا لأتلتيكو وعودته",
+      "url": "https://www.chelseafc.com/en/news/article/blues-and-rojiblancos---a-look-at-those-who-have-played-for-both"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: تجديد كورتوا حتى 2028",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-renovacion-de-courtois-20-11-2026"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل كورتوا في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/players/1840e36d/matchlogs/2026-2027/c12/Thibaut-Courtois-Match-Logs"
+    },
+    {
+      "id": "teamstats",
+      "title": "FBref: أرقام ريال مدريد في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/2026-2027/c12/Real-Madrid-Stats-La-Liga"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/thibaut-courtois"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 12,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:13:00+02:00",
+      "sourceIds": [
+        "stats",
+        "teamstats"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة سيلتا فيغو يوم 21 نوفمبر. لا تشمل دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "thibaut-courtois-real-madrid-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "real-madrid",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/thibaut-courtois",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/ca733b941a584aafbb7c7785fa03663fbff02444aa026f89b5793e15a08f58bb/thibaut-courtois-real-madrid-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}

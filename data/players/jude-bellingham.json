@@ -1,0 +1,114 @@
+{
+  "id": "jude-bellingham",
+  "nameAr": "جود بيلينغهام",
+  "nameEn": "Jude Bellingham",
+  "squadName": "Bellingham",
+  "clubId": "real-madrid",
+  "birthDate": "2003-06-29",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T15:13:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لريال مدريد وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج بيلينغهام في برمنغهام سيتي وظهر مع فريقه الأول في 2019، ثم انتقل إلى بوروسيا دورتموند في 2020 وإلى ريال مدريد في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أكاديمية برمنغهام سيتي",
+      "typeAr": "أكاديمية",
+      "textAr": "تدرج في فرق الناشئين قبل الظهور مع الفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2019",
+      "clubAr": "برمنغهام سيتي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول في السادسة عشرة وأصبح أصغر لاعب يشارك مع النادي، وفق السيرة المنشورة من ريال مدريد.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2020",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال",
+      "textAr": "غادر برمنغهام إلى دورتموند، وقضى ثلاثة مواسم مع الفريق الألماني.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "14 يونيو 2023",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال",
+      "textAr": "أعلن النادي الاتفاق مع دورتموند على انتقاله بعقد لستة مواسم.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة بيلينغهام الرسمية",
+      "url": "https://www.realmadrid.com/en-US/football/squad/jude-bellingham"
+    },
+    {
+      "id": "arrival",
+      "title": "ريال مدريد: مسيرة بيلينغهام عند ضمه",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/bellingham-is-a-new-real-madrid-player"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: إعلان التعاقد مع بيلينغهام",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/official-announcement-bellingham"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل بيلينغهام في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/players/57d88cf9/matchlogs/2026-2027/c12/Jude-Bellingham-Match-Logs"
+    },
+    {
+      "id": "teamstats",
+      "title": "FBref: أرقام ريال مدريد في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/53a2f082/2026-2027/c12/Real-Madrid-Stats-La-Liga"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/jude-bellingham"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 13,
+      "goals": 5,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:13:00+02:00",
+      "sourceIds": [
+        "stats",
+        "teamstats"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة سيلتا فيغو يوم 21 نوفمبر. لا تشمل دوري الأبطال أو المنتخب. التمريرات الحاسمة وفق FBref: ثلاث؛ صفحة النادي تعرض اثنتين، لذلك نذكر المصدر ولا ندمج الرقمين."
+    }
+  ],
+  "photo": {
+    "file": "jude-bellingham-real-madrid-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "real-madrid",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/jude-bellingham",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/c8f8467b8acb7cb66595088dd9ab61901a1c7a1bc7da10dd91b41984f3570a27/jude-bellingham-real-madrid-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 15,
+  "profileCount": 17,
   "players": [
     {
       "clubId": "ac-milan",
@@ -3574,9 +3574,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "thibaut-courtois",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "real-madrid",
@@ -3706,9 +3706,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.realmadrid.com/en-US/football/first-team/players",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jude-bellingham",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "real-madrid",
