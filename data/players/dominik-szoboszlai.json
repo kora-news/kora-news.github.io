@@ -76,8 +76,8 @@
     },
     {
       "id": "photo",
-      "title": "Wikimedia Commons: سوبوسلاي بقميص ليفربول، Timmy96، CC0",
-      "url": "https://commons.wikimedia.org/wiki/File:Dominik_Szoboszlai_04012026_(3).jpg"
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/dominik-szoboszlai"
     }
   ],
   "career": [
@@ -130,16 +130,13 @@
     }
   ],
   "photo": {
-    "file": "dominik-szoboszlai-liverpool.png",
-    "status": "current-shirt-verified",
+    "file": "dominik-szoboszlai-liverpool-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "liverpool",
-    "sourceIds": [
-      "photo"
-    ],
-    "author": "Timmy96",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "takenAt": "2026-01-04",
-    "modifications": "Cropped, resized and background removed to transparent PNG; original face and kit retained."
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/dominik-szoboszlai",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/cf057bf42f243cb55b5eb199d3c004279a61a284bceefbe8ff20fbeebe5043e7/dominik-szoboszlai-liverpool-fc-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNFRjg5MDc1OTIyQTMwOTFEN0RBMUFGRERBQjQ0OUUA",
+    "modifications": "Trimmed transparent padding only; original face and kit retained."
   }
 }
