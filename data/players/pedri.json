@@ -122,13 +122,16 @@
     }
   ],
   "photo": {
-    "file": "pedri-barcelona-portrait.png",
+    "file": "pedri-barcelona-official-20261123.png",
     "status": "current-shirt-rights-unconfirmed",
     "currentClubId": "barcelona",
     "rightsStatus": "reuse-permission-unconfirmed",
-    "sourceUrl": "https://www.footylogos.com/player-pngs/pedri",
-    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/fae526b5415da528a97a2da050cbba1dbde0615834f1eb77694e9705e7ed88de/pedri-fc-barcelona-2026-27-ucl-body-footylogos.png",
-    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
-    "modifications": "Trimmed transparent padding; original face and kit retained."
+    "sourceUrl": "https://www.fcbarcelona.com/en/players/70486",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/07/21/02b47c57-d919-47b7-8e39-d744c58c68dd/08-Pedri.png?width=670&height=790",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:49:00+02:00"
   }
 }

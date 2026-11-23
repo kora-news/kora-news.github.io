@@ -134,19 +134,8 @@
     }
   ],
   "photo": {
-    "file": "gregor-kobel-licensed.png",
-    "captionAr": "صورة أرشيفية بقميص حراسة بوروسيا دورتموند في 12 أغسطس 2023. تصوير Sandro Halank، Wikimedia Commons، ترخيص CC BY-SA 4.0. التعديل: قص وإزالة الخلفية، دون تغيير القميص أو الملامح.",
-    "sourceIds": [
-      "portrait",
-      "portrait-license"
-    ],
+    "status": "identity-review-pending",
     "currentClubId": "borussia-dortmund",
-    "license": "CC BY-SA 4.0",
-    "author": "Sandro Halank, Wikimedia Commons",
-    "rightsStatus": "licensed",
-    "status": "licensed-current-club-archive",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93090.jpg",
-    "archiveDate": "2023-08-12",
-    "modifications": "Cropped and background removed. Original face and kit retained."
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
   }
 }
