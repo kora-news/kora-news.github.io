@@ -1,0 +1,138 @@
+{
+  "id": "david-raya",
+  "nameAr": "دافيد رايا",
+  "nameEn": "David Raya",
+  "squadName": "David Raya",
+  "clubId": "arsenal",
+  "birthDate": "1995-09-15",
+  "nationalityAr": "إسباني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T14:46:00+02:00",
+  "sourceIds": [
+    "current",
+    "birth"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأرسنال.",
+  "summaryAr": "تدرج رايا في كورنيلا ثم بلاكبيرن، وخاض إعارة في ساوثبورت قبل الانتقال إلى برينتفورد ثم أرسنال، أولًا معارًا ثم بصفة دائمة.",
+  "feesNoteAr": "لا نعرض رسوم انتقال غير موثقة؛ غياب القيمة لا يعني أن الانتقال كان مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "كورنيلا",
+      "typeAr": "ناشئون",
+      "textAr": "تكون في كورنيلا الإسباني قبل الانتقال إلى الكرة الإنجليزية.",
+      "sourceIds": [
+        "birth"
+      ]
+    },
+    {
+      "whenAr": "2012",
+      "clubAr": "بلاكبيرن روفرز",
+      "typeAr": "انضمام للأكاديمية",
+      "textAr": "انضم إلى أكاديمية بلاكبيرن في سن السادسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2014",
+      "clubAr": "ساوثبورت",
+      "typeAr": "إعارة",
+      "textAr": "انتقل من بلاكبيرن إلى ساوثبورت على سبيل الإعارة؛ الخبر المعاصر يصف الاتفاق الأول بأنه لمدة شهر، دون افتراض طول كل فترة الإعارة.",
+      "sourceIds": [
+        "southport"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019",
+      "clubAr": "برينتفورد",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى برينتفورد من بلاكبيرن، ثم ساعده على الصعود إلى الدوري الممتاز في 2021.",
+      "sourceIds": [
+        "permanent",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "أرسنال",
+      "typeAr": "إعارة",
+      "textAr": "أعلن أرسنال استعارته من برينتفورد لموسم كامل مع خيار تحويل الانتقال إلى دائم.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2024",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي تحويل انتقاله من برينتفورد إلى صفقة دائمة بعقد طويل الأجل.",
+      "sourceIds": [
+        "permanent"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة رايا الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players/david-raya-aEaSj0D0wctD"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإسباني: نشأة رايا وتاريخ الميلاد",
+      "url": "https://rfef.es/es/node/81968"
+    },
+    {
+      "id": "southport",
+      "title": "بي بي سي: إعارة رايا إلى ساوثبورت، سبتمبر 2014",
+      "url": "https://www.bbc.co.uk/sport/football/29276923"
+    },
+    {
+      "id": "loan",
+      "title": "أرسنال: استعارة رايا، أغسطس 2023",
+      "url": "https://www.arsenal.com/news/david-raya-joins-on-season-long-loan-atjfL1N2OE70"
+    },
+    {
+      "id": "permanent",
+      "title": "أرسنال: انتقال رايا الدائم، يوليو 2024",
+      "url": "https://www.arsenal.com/news/david-raya-joins-us-on-a-permanent-deal-axk8m3I7taMo"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرقام رايا في الدوري وحراسة المرمى",
+      "url": "https://fbref.com/en/players/98ea5115/David-Raya"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/david-raya"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:46:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة نيوكاسل يوم 21 نوفمبر. يسجل جدول حراسة المرمى أيضًا 7 مباريات بشباك نظيفة و7 أهداف مستقبلة؛ الأهداف والتمريرات الحاسمة المعروضة تخص مساهماته الهجومية وليست الأهداف التي استقبلها."
+    }
+  ],
+  "photo": {
+    "file": "david-raya-arsenal-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "arsenal",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/david-raya",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/f844bb78e21a4f02d10ba7e115676b48ffce00bf93e17c94cbe3afc0fc593ec7/david-raya-arsenal-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}

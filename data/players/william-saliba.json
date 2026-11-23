@@ -1,0 +1,152 @@
+{
+  "id": "william-saliba",
+  "nameAr": "ويليام ساليبا",
+  "nameEn": "William Saliba",
+  "squadName": "William Saliba",
+  "clubId": "arsenal",
+  "birthDate": "2001-03-24",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T14:42:00+02:00",
+  "sourceIds": [
+    "current",
+    "birth"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأرسنال.",
+  "summaryAr": "تدرج ساليبا في فرق الناشئين الفرنسية، ثم انضم إلى أرسنال من سانت إتيان في 2019. عاد إلى فرنسا في ثلاث إعارات قبل بدء مشاركاته مع الفريق الأول لأرسنال في 2022.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني أن الانتقال كان مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2016",
+      "clubAr": "بوندي ثم مونتفيرماي",
+      "typeAr": "ناشئون",
+      "textAr": "يسجل الاتحاد الفرنسي لعبه لبوندي من 2008 إلى 2014، ثم مونتفيرماي من 2014 إلى 2016.",
+      "sourceIds": [
+        "birth"
+      ]
+    },
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "سانت إتيان",
+      "typeAr": "أكاديمية وبداية احترافية",
+      "textAr": "انضم إلى سانت إتيان في 2016 وظهر لأول مرة مع الفريق الأول أمام تولوز في 25 سبتمبر 2018.",
+      "sourceIds": [
+        "birth",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2019",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "أعلن أرسنال التعاقد معه من سانت إتيان، مع بقائه مع النادي الفرنسي على سبيل الإعارة لموسم 2019/20.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2021",
+      "clubAr": "نيس",
+      "typeAr": "إعارة",
+      "textAr": "انتقل إلى نيس على سبيل الإعارة حتى نهاية موسم 2020/21.",
+      "sourceIds": [
+        "nice"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2021",
+      "clubAr": "مارسيليا",
+      "typeAr": "إعارة",
+      "textAr": "أعلن أرسنال إعارته إلى مارسيليا لموسم 2021/22.",
+      "sourceIds": [
+        "marseille"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022",
+      "clubAr": "أرسنال",
+      "typeAr": "بداية المشاركة مع الفريق الأول",
+      "textAr": "خاض أول مباراة رسمية له مع أرسنال أمام كريستال بالاس بعد العودة من الإعارات.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "30 سبتمبر 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي توقيعه عقدًا جديدًا طويل الأجل دون ذكر موعد انتهائه في الإعلان.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:42:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "يسجل جدول الفريق صفر مشاركة في الدوري حتى مباراة نيوكاسل. خانات الأهداف والتمريرات الحاسمة فارغة في المصدر، لذلك لا نحولها إلى أصفار. مشاركة فريق تحت 21 سنة مسابقة مختلفة ولا تدخل هنا."
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة ساليبا الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players/william-saliba-aeqyJ7W8I9xw"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الفرنسي: تاريخ الميلاد وتسلسل الأندية",
+      "url": "https://www.fff.fr/equipe-nationale/joueur/9357-saliba-william/fiche.html"
+    },
+    {
+      "id": "arrival",
+      "title": "أرسنال: التعاقد مع ساليبا وإعارته لسانت إتيان، يوليو 2019",
+      "url": "https://www.arsenal.com/news/salibasigns-saliba-to-join-the-club-aeGG43L7i0bj"
+    },
+    {
+      "id": "nice",
+      "title": "أرسنال: إعارة ساليبا إلى نيس، يناير 2021",
+      "url": "https://www.arsenal.com/news/william-saliba-joins-nice-on-loan-aVdSx9O8oNc9"
+    },
+    {
+      "id": "marseille",
+      "title": "أرسنال: إعارة ساليبا إلى مارسيليا، يوليو 2021",
+      "url": "https://www.arsenal.com/news/william-saliba-joins-marseille-on-loan-aPBHQ1m94XEi"
+    },
+    {
+      "id": "contract",
+      "title": "أرسنال: تجديد عقد ساليبا، سبتمبر 2025",
+      "url": "https://www.arsenal.com/news/william-saliba-signs-new-arsenal-contract-aVNSm7p6PxrL"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال، جداول 2026/27 المفصولة حسب المسابقة",
+      "url": "https://fbref.com/en/squads/18bb7c10/2026-2027/all_comps/Arsenal-Stats-All-Competitions"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/william-saliba"
+    }
+  ],
+  "photo": {
+    "file": "william-saliba-arsenal-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "arsenal",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/william-saliba",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/c0c2f324989a4743a3d98fd0ef7acd048d70a19d4b0bd2f565ca4c5034bd46d3/william-saliba-arsenal-2025-26-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}

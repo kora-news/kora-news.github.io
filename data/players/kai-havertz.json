@@ -1,0 +1,124 @@
+{
+  "id": "kai-havertz",
+  "nameAr": "كاي هافرتز",
+  "nameEn": "Kai Havertz",
+  "squadName": "Kai Havertz",
+  "clubId": "arsenal",
+  "birthDate": "1999-06-11",
+  "nationalityAr": "ألماني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T14:46:00+02:00",
+  "sourceIds": [
+    "current",
+    "birth"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأرسنال.",
+  "summaryAr": "بدأ هافرتز في فرق الناشئين الألمانية وتدرج في باير ليفركوزن قبل الانتقال إلى تشيلسي ثم أرسنال. نفصل أرقام الدوري عن الكؤوس والمنتخب.",
+  "feesNoteAr": "لا نعرض رسوم انتقال غير موثقة؛ غياب القيمة لا يعني أن الانتقال كان مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى 2010",
+      "clubAr": "ألمانيا ماريدورف ثم ألمانيا آخن",
+      "typeAr": "ناشئون",
+      "textAr": "لعب لماريدورف حتى 2008 ثم آخن بين 2008 و2010، وفق إعلان ليفركوزن الرسمي.",
+      "sourceIds": [
+        "youth"
+      ]
+    },
+    {
+      "whenAr": "2010–2016",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "أكاديمية وأول عقد احترافي",
+      "textAr": "انضم إلى أكاديمية ليفركوزن في 2010 ووقع عقدًا احترافيًا في 2016.",
+      "sourceIds": [
+        "youth",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "أكتوبر 2016",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "خاض أول مباراة له في الدوري الألماني وهو في السابعة عشرة.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2020",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال",
+      "textAr": "انضم من باير ليفركوزن إلى تشيلسي، ولعب ثلاثة مواسم مع النادي اللندني.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2023",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال",
+      "textAr": "أعلن أرسنال انضمامه من تشيلسي بعقد طويل الأجل في 28 يونيو 2023. نعتمد إعلان الصفقة المعاصر بدل التاريخ المختلف في صفحة اللاعب الحالية.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة هافرتز الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players/kai-havertz-aUBnI9L1CqjG"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الألماني: بيانات هافرتز وتاريخ الميلاد",
+      "url": "https://datencenter.dfb.de/personen/kai-havertz/spieler"
+    },
+    {
+      "id": "youth",
+      "title": "باير ليفركوزن: عقد هافرتز وتسلسل فرق الناشئين، أغسطس 2016",
+      "url": "https://www.bayer04.de/de-de/news/bayer04/langfristiger-vertrag-fuer-kai-havertz"
+    },
+    {
+      "id": "arrival",
+      "title": "أرسنال: التعاقد مع هافرتز، يونيو 2023",
+      "url": "https://www.arsenal.com/news/kai-havertz-joins-on-long-term-contract-aS0Ez9i4y0d1"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل هافرتز 2026/27 حسب المسابقة",
+      "url": "https://fbref.com/en/players/fed7cb61/matchlogs/2026-2027/Kai-Havertz-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/kai-havertz"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 11,
+      "goals": 3,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:46:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة نيوكاسل يوم 21 نوفمبر. لا تشمل الكؤوس أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "kai-havertz-arsenal-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "arsenal",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/kai-havertz",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/3ae430f873b6665b2c881b2941a67600724ed399d013937810ba531627d8a088/kai-havertz-arsenal-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}

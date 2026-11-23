@@ -61,12 +61,14 @@
       "appearances": 7,
       "goals": 3,
       "assists": 0,
-      "through": "2026-10-18",
-      "checkedAt": "2026-11-23T14:32:00+02:00",
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:42:00+02:00",
       "sourceIds": [
-        "stats"
+        "stats",
+        "team-stats",
+        "availability"
       ],
-      "noteAr": "النطاق هنا حتى آخر مشاركة دوري ظاهرة في سجل المصدر، 18 أكتوبر، وليس إجماليًا محدثًا لكل مسابقات نوفمبر. صفحة FBref تعرض 7 مشاركات و3 أهداف دون تمريرات حاسمة؛ أرقام المنتخب والكؤوس مستبعدة."
+      "noteAr": "أرقام الدوري فقط من جدول أرسنال المفصول حسب المسابقة حتى مباراة نيوكاسل يوم 21 نوفمبر. آخر مشاركة ظاهرة لساكا كانت في 18 أكتوبر. أوضح النادي في 20 نوفمبر أنه لا يزال يتعافى من إصابة عضلية؛ لا نحول غيابه إلى مشاركات أو أهداف إضافية."
     }
   ],
   "sources": [
@@ -104,6 +106,16 @@
       "id": "photo",
       "title": "FootyLogos: مصدر الصورة المختارة",
       "url": "https://www.footylogos.com/player-pngs/bukayo-saka"
+    },
+    {
+      "id": "team-stats",
+      "title": "FBref: أرسنال، أرقام 2026/27 حسب المسابقة",
+      "url": "https://fbref.com/en/squads/18bb7c10/2026-2027/all_comps/Arsenal-Stats-All-Competitions"
+    },
+    {
+      "id": "availability",
+      "title": "أرسنال: تحديث حالة ساكا، 20 نوفمبر 2026",
+      "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-zubimendi-aeGpX1u8JqKG"
     }
   ],
   "photo": {

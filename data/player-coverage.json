@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 5,
+  "profileCount": 9,
   "players": [
     {
       "clubId": "ac-milan",
@@ -307,9 +307,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "david-raya",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "arsenal",
@@ -340,9 +340,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "william-saliba",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "arsenal",
@@ -439,9 +439,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "martin-odegaard",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "arsenal",
@@ -549,9 +549,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.arsenal.com/fixtures/men/players",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kai-havertz",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "atletico-madrid",
