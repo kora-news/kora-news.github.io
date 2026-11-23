@@ -1,0 +1,126 @@
+{
+  "id": "andreas-christensen",
+  "nameAr": "أندرياس كريستنسن",
+  "nameEn": "Andreas Christensen",
+  "squadName": "Andreas Christensen",
+  "clubId": "barcelona",
+  "birthDate": "1996-04-10",
+  "nationalityAr": "دنماركي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T16:58:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في الدنمارك ثم انتقل إلى تشيلسي عام 2012، وخاض إعارة لموسمين في مونشنغلادباخ. انضم إلى برشلونة في صيف 2022 بعد انتهاء عقده، وأعلن النادي في يوليو 2026 اتفاق تمديده حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "بيركيرود ثم بروندبي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في IF Skjold Birkerød قبل الانتقال إلى بروندبي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2012",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم من بروندبي عام 2012 وفق تشيلسي. نستخدم السنة الموثقة بدل العمر المختلف بين السيرتين.",
+      "sourceIds": [
+        "chelsea"
+      ]
+    },
+    {
+      "whenAr": "28 أكتوبر 2014",
+      "clubAr": "تشيلسي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "خاض بدايته الاحترافية أمام شروزبري في كأس الرابطة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "بوروسيا مونشنغلادباخ",
+      "typeAr": "إعارة",
+      "textAr": "أمضى موسمين مع النادي الألماني قبل العودة إلى تشيلسي في 2017.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال حر",
+      "textAr": "انضم بعد انتهاء عقده مع تشيلسي، الذي أكد أن الانتقال حر.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق تجديد",
+      "textAr": "أعلن النادي اتفاق تمديده حتى 30 يونيو 2028؛ كان الإعلان يقول إن مراسم التوقيع ستأتي لاحقًا.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة كريستنسن الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/4495/andreas-christensen"
+    },
+    {
+      "id": "chelsea",
+      "title": "تشيلسي: وداع كريستنسن ومسيرته",
+      "url": "https://www.chelseafc.com/en/news/article/farewell-to-christensen--drinkwater--musonda-and-clarke-salter"
+    },
+    {
+      "id": "arrival",
+      "title": "تشيلسي: إتمام الانتقال إلى برشلونة",
+      "url": "https://www.chelseafc.com/en/news/article/christensen-completes-barcelona-move"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: اتفاق تمديد كريستنسن حتى 2028",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4528286/andreas-christensen-extends-contract-with-fc-barcelona-until-2028"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:58:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. سجل اللاعب يتوقف عند 8 نوفمبر؛ جدول الفريق المحدث بعد فياريال يبقي رصيده كما هو، ولم يظهر في قائمة المباراة المنشورة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

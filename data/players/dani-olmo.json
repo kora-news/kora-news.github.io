@@ -1,0 +1,114 @@
+{
+  "id": "dani-olmo",
+  "nameAr": "داني أولمو",
+  "nameEn": "Dani Olmo",
+  "squadName": "Dani Olmo",
+  "clubId": "barcelona",
+  "birthDate": "1998-05-07",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T16:58:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في إسبانيول ثم برشلونة قبل الانتقال إلى دينامو زغرب في 2014 ولايبزيغ في 2020. عاد إلى برشلونة في صيف 2024 باتفاق عقد حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "إسبانيول",
+      "typeAr": "ناشئون",
+      "textAr": "لعب في ناشئي إسبانيول قبل الالتحاق بلا ماسيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2007 وفق السيرة وإعلان التعاقد",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "السيرة الحالية وإعلان العودة يذكران 2007، بينما مادة «عشرة أشياء» تذكر صيف 2008. نحفظ الاختلاف ولا نقدم السنة بوصفها محل اتفاق.",
+      "sourceIds": [
+        "current",
+        "contract",
+        "conflict"
+      ]
+    },
+    {
+      "whenAr": "2014–2020",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "انتقال",
+      "textAr": "غادر أكاديمية برشلونة إلى النادي الكرواتي في 2014.",
+      "sourceIds": [
+        "conflict"
+      ]
+    },
+    {
+      "whenAr": "2020–2024",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى النادي الألماني في 2020 واستمر حتى عودته إلى برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "9 أغسطس 2024",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن برشلونة اتفاقه مع لايبزيغ على انتقاله بعقد لستة مواسم حتى 30 يونيو 2030. لا نعامل الشرط الجزائي على أنه رسوم انتقال.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة داني أولمو الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/16677/dani-olmo"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: اتفاق التعاقد مع أولمو",
+      "url": "https://www.fcbarcelona.com/en/news/4078339/fc-barcelona-sign-dani-olmo"
+    },
+    {
+      "id": "conflict",
+      "title": "برشلونة: عشرة أشياء عن أولمو، يتضمن اختلاف سنة الأكاديمية",
+      "url": "https://www.fcbarcelona.com/en/news/4077242/10-things-to-know-about-dani-olmo"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 3,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:58:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. صفحة اللاعب المحدثة تشمل 23 دقيقة أمام فياريال؛ سجل الدوري المنفصل أقدم ويتوقف عند 17 أكتوبر."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

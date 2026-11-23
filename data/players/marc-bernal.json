@@ -1,0 +1,116 @@
+{
+  "id": "marc-bernal",
+  "nameAr": "مارك بيرنال",
+  "nameEn": "Marc Bernal",
+  "squadName": "Marc Bernal",
+  "clubId": "barcelona",
+  "birthDate": "2007-05-26",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T16:58:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في نادي بلدته بيرغا قبل انضمامه إلى لا ماسيا في السادسة. لعب للرديف ثم ظهر مع الفريق الأول في أغسطس 2024. جدد في سبتمبر 2025 حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "بيرغا",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في نادي بلدته قبل الانتقال إلى برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "في السادسة من عمره",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "التحق بلا ماسيا وتدرج في الفئات السنية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "برشلونة أتلتيك",
+      "typeAr": "تصعيد",
+      "textAr": "أصبح من عناصر الرديف في السادسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "17 أغسطس 2024",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "خاض أول مباراة مع الفريق الأول بعمر 17 عامًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2024",
+      "clubAr": "برشلونة",
+      "typeAr": "عقد سابق",
+      "textAr": "تشير سيرته إلى عقد حتى 2026 أثناء تعافيه من إصابة الركبة؛ تبعه التجديد الأحدث في سبتمبر 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "29 سبتمبر 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع تمديدًا حتى يونيو 2029 وفق إعلان النادي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة مارك بيرنال الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/141411/marc-bernal"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تمديد بيرنال حتى 2029",
+      "url": "https://www.fcbarcelona.com/en/news/4372163/marc-bernal-extends-contract-to-2029"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:58:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. سجل اللاعب المنفصل يتوقف عند 8 نوفمبر بعشر مشاركات؛ جدول الفريق المحدث وتقرير مشاركته أمام فياريال يثبتان المشاركة الحادية عشرة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

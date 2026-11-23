@@ -1,0 +1,130 @@
+{
+  "id": "gerard-martin",
+  "nameAr": "جيرارد مارتين",
+  "nameEn": "Gerard Martín",
+  "squadName": "Gerard Martín",
+  "clubId": "barcelona",
+  "birthDate": "2002-02-26",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T16:58:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في EF Performance وسانت غابرييل وكورنيا، ثم انضم إلى برشلونة أتلتيك في 2023. بدأ رسميًا مع الفريق الأول في افتتاح دوري 2024/25، وجدد حتى يونيو 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "EF Performance ثم سانت غابرييل",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ مسيرته في الناديين قبل الانتقال إلى كورنيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "كورنيا",
+      "typeAr": "تصعيد",
+      "textAr": "وصل إلى الفريق الأول بعد التدرج في فرق الشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "19 يوليو 2023",
+      "clubAr": "برشلونة أتلتيك",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "أعلن النادي الاتفاق مع كورنيا على ضمه بعقد لموسمين حتى يونيو 2025، مع بقاء التوقيع وقت الإعلان.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "ديسمبر 2023",
+      "clubAr": "برشلونة",
+      "typeAr": "ظهور ودي",
+      "textAr": "شارك أمام كلوب أمريكا في دالاس؛ كانت مباراة ودية وليست بدايته الرسمية.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "افتتاح دوري 2024/25",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية رسمية",
+      "textAr": "ظهر رسميًا أمام فالنسيا بديلًا لبالدي في الدقيقة 63.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "يناير 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي يوم 24 يناير تمديده حتى 30 يونيو 2028، موضحًا أن التوقيع جرى يوم الخميس السابق.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "برشلونة",
+      "typeAr": "الفريق الأول",
+      "textAr": "أصبح ضمن قائمة الفريق الأول واستقر في مركز قلب الدفاع بعد بداياته ظهيرًا أيسر.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة جيرارد مارتين الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/111861/gerard-martin"
+    },
+    {
+      "id": "arrival",
+      "title": "برشلونة: اتفاق ضم مارتين من كورنيا",
+      "url": "https://www.fcbarcelona.com/en/news/3596840/agreement-to-sign-gerard-martin"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد مارتين حتى 2028",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4203222/agreement-to-renew-gerard-martins-contract"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: إحصاءات برشلونة حسب المسابقة وسجل المباريات",
+      "url": "https://fbref.com/en/squads/206d90db/2026-2027/all_comps/Barcelona-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "FBref: برشلونة وفياريال، 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 12,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:58:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. ملخص اللاعب الأقدم يعرض 11 مباراة دون هدف؛ جدول الفريق بعد فياريال وتقرير تسجيله في اللقاء يثبتان التحديث إلى 12 مباراة وهدف."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
