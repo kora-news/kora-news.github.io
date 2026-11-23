@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 71,
+  "profileCount": 79,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2958,9 +2958,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marcus-bettinelli",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -2991,9 +2991,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rayan-ait-nouri",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3002,9 +3002,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kaden-braithwaite",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3024,9 +3024,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marc-guehi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3035,9 +3035,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "josko-gvardiol",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3046,9 +3046,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "abdukodir-khusanov",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3057,9 +3057,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rico-lewis",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3068,9 +3068,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "matheus-nunes",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",

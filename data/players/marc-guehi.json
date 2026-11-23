@@ -1,0 +1,112 @@
+{
+  "id": "marc-guehi",
+  "nameAr": "مارك غيهي",
+  "nameEn": "Marc Guéhi",
+  "squadName": "Marc Guéhi",
+  "clubId": "manchester-city",
+  "birthDate": "2000-07-13",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في تشيلسي وخاض بدايته أمام غريمسبي في سبتمبر 2019. أعير لسوانزي ثم انتقل لكريستال بالاس في 2021، وانضم إلى مانشستر سيتي في يناير 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "كراي واندررز ثم تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في كرة القاعدة ثم تدرج في أكاديمية تشيلسي. تختلف المصادر في عمر انضمامه، فلا نحسمه.",
+      "sourceIds": [
+        "england",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "25 سبتمبر 2019",
+      "clubAr": "تشيلسي",
+      "typeAr": "بداية احترافية",
+      "textAr": "يؤكد اللاعب عبر موقع سوانزي أن بدايته كانت الفوز 7–1 على غريمسبي، وليست مباراة مانشستر يونايتد التالية كما ورد في مادة سيتي.",
+      "sourceIds": [
+        "debut"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020–2021",
+      "clubAr": "سوانزي سيتي",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا في دوري الدرجة الأولى وبلغ ملحق الصعود.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2021–يناير 2026",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "انتقال دائم",
+      "textAr": "أصبح قائدًا للفريق ورفع كأس الاتحاد الإنجليزي في 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "19 يناير 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعقد لخمس سنوات ونصف حتى صيف 2031.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: إعلان ضم غيهي حتى 2031",
+      "url": "https://www.mancity.com/news/mens/marc-guehi-signs-for-manchester-city-63904430"
+    },
+    {
+      "id": "debut",
+      "title": "سوانزي: غيهي يروي بدايته أمام غريمسبي",
+      "url": "https://www.swanseacity.com/news/marc-guehi-my-favourite-game"
+    },
+    {
+      "id": "england",
+      "title": "الاتحاد الإنجليزي: سيرة غيهي وبياناته",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/marc-guehi"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:28:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

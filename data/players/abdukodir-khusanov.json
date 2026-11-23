@@ -1,0 +1,106 @@
+{
+  "id": "abdukodir-khusanov",
+  "nameAr": "عبد القادر خوسانوف",
+  "nameEn": "Abdukodir Khusanov",
+  "squadName": "Abdukodir Khusanov",
+  "clubId": "manchester-city",
+  "birthDate": "2004-02-29",
+  "nationalityAr": "أوزبكي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "برز في بونيودكور قبل الانتقال إلى إنيرغيتيك بي جي يو في بيلاروسيا بعمر 18 عامًا. انتقل إلى لانس في يوليو 2023، ثم مانشستر سيتي في يناير 2025 وجدد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة التكوين",
+      "clubAr": "بونيودكور",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ مساره في أوزبكستان قبل الانتقال إلى أوروبا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بعمر 18 عامًا",
+      "clubAr": "إنيرغيتيك بي جي يو",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى بيلاروسيا وخاض 37 مباراة قبل محطته الفرنسية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023",
+      "clubAr": "لانس",
+      "typeAr": "انتقال",
+      "textAr": "لعب في فرنسا وشارك في دوري الأبطال والدوري الأوروبي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "20 يناير 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم إلى سيتي بعد 31 مباراة مع لانس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "25 يوليو 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا لخمس سنوات حتى 2031.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: سيرة خوسانوف",
+      "url": "https://www.mancity.com/players/abdukodir-khusanov"
+    },
+    {
+      "id": "contract",
+      "title": "سيتي: تجديد خوسانوف حتى 2031",
+      "url": "https://www.mancity.com/news/mens/abdukodir-khusanov-new-manchester-city-contract-63920567/"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:28:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

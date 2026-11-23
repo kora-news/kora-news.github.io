@@ -1,0 +1,106 @@
+{
+  "id": "rico-lewis",
+  "nameAr": "ريكو لويس",
+  "nameEn": "Rico Lewis",
+  "squadName": "Rico Lewis",
+  "clubId": "manchester-city",
+  "birthDate": "2004-11-21",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أكاديمية مانشستر سيتي منذ الثامنة، وقاد فريق تحت 18 عامًا. ظهر مع الفريق الأول في أغسطس 2022، وسجل في أول بداية بدوري الأبطال ثم جدد عقده حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012 ومن سن الثامنة",
+      "clubAr": "أكاديمية مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج حتى تحت 18 عامًا الذي بدأ معه في الخامسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "مانشستر سيتي تحت 18 عامًا",
+      "typeAr": "تطوير",
+      "textAr": "قاد الفريق إلى لقب دوري الشمال للفئة السنية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك بديلًا في الفوز 4–0 على بورنموث بالدوري.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "نوفمبر 2022",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "أول بداية أوروبية",
+      "textAr": "سجل أمام إشبيلية في أول مباراة يبدأها بدوري الأبطال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "12 سبتمبر 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع لخمس سنوات حتى صيف 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: سيرة ريكو لويس",
+      "url": "https://www.mancity.com/players/rico-lewis"
+    },
+    {
+      "id": "contract",
+      "title": "سيتي: تمديد لويس حتى 2030",
+      "url": "https://www.mancity.com/news/mens/rico-lewis-new-contract-announcement-63893280"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:28:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

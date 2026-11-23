@@ -1,0 +1,111 @@
+{
+  "id": "josko-gvardiol",
+  "nameAr": "يوشكو غفارديول",
+  "nameEn": "Joško Gvardiol",
+  "squadName": "Joško Gvardiol",
+  "clubId": "manchester-city",
+  "birthDate": "2002-01-23",
+  "nationalityAr": "كرواتي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "بدأ احترافيًا مع دينامو زغرب ووقع للايبزيغ في سبتمبر 2020 مع البقاء معارًا حتى 2021. قضى موسمين في ألمانيا قبل سيتي في أغسطس 2023، وجدد حتى صيف 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة التكوين والفريق الأول",
+      "clubAr": "دينامو زغرب",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج ووصل إلى الفريق الأول وفاز بألقاب محلية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "28 سبتمبر 2020–يونيو 2021",
+      "clubAr": "لايبزيغ ودينامو زغرب",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "وقع للايبزيغ ثم بقي معارًا في دينامو حتى يونيو 2021 وفق هيئة الإذاعة الكرواتية.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2021–2023",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "التحاق",
+      "textAr": "قضى موسمين في ألمانيا وفاز بكأس ألمانيا مرتين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "5 أغسطس 2023",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من لايبزيغ بعقد أصلي لخمس سنوات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "28 يوليو 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد عقده حتى صيف 2031، وهو أحدث من مدة 2028 القديمة في السيرة.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: سيرة غفارديول",
+      "url": "https://www.mancity.com/players/josko-gvardiol"
+    },
+    {
+      "id": "contract",
+      "title": "سيتي: تمديد غفارديول حتى 2031",
+      "url": "https://live.mancity.com/news/mens/josko-gvardiol-signs-new-manchester-city-contract-63920834"
+    },
+    {
+      "id": "loan",
+      "title": "HRT: توقيع غفارديول وإعارته لدينامو",
+      "url": "https://sport.hrt.hr/hrvatski-nogomet/gvardiol-potpisao-za-leipzig-ostaje-na-posudbi-u-dinamu-789446"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:28:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

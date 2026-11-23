@@ -1,0 +1,103 @@
+{
+  "id": "kaden-braithwaite",
+  "nameAr": "كايدن برايثوايت",
+  "nameEn": "Kaden Braithwaite",
+  "squadName": "Kaden Braithwaite",
+  "clubId": "manchester-city",
+  "birthDate": "2008-02-08",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أكاديمية مانشستر سيتي منذ فئة تحت 9 سنوات. بدأ مع الفريق الأول أمام واتفورد في سبتمبر 2024 ووقع أول عقد احترافي في أغسطس 2025، ثم واصل الجمع بين التطوير والفريق الأول.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من فئة تحت 9 سنوات",
+      "clubAr": "أكاديمية مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية حتى قيادة ومساعدة قيادة فرق الشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "24 سبتمبر 2024",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "بدأ أمام واتفورد في كأس الرابطة بعمر 16 عامًا و229 يومًا وفق النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "12 أغسطس 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "عقد احترافي",
+      "textAr": "كان من 12 لاعبًا أعلن النادي توقيع أول عقودهم الاحترافية. مدة العقد غير منشورة في البيان المفحوص.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2025/26 ثم 2026/27",
+      "clubAr": "رديف مانشستر سيتي والفريق الأول",
+      "typeAr": "تطوير وتصعيد",
+      "textAr": "انتقل إلى مستوى تحت 21 عامًا ثم أدرج في صورة الفريق الأول لموسم 2026/27.",
+      "sourceIds": [
+        "contract",
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: التعريف ببرايثوايت وبدايته الأولى",
+      "url": "https://www.mancity.com/news/mens/kaden-braithwaite-introduction-63862793"
+    },
+    {
+      "id": "contract",
+      "title": "سيتي: أول العقود الاحترافية للاعبي الأكاديمية",
+      "url": "https://www.mancity.com/news/eds-academy/man-city-academy-first-professional-deals-202526-63890233"
+    },
+    {
+      "id": "birth",
+      "title": "ترانسفير ماركت: تاريخ ميلاد برايثوايت",
+      "url": "https://www.transfermarkt.com/kaden-braithwaite/profil/spieler/1078156"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:28:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

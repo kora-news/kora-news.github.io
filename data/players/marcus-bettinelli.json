@@ -1,0 +1,134 @@
+{
+  "id": "marcus-bettinelli",
+  "nameAr": "ماركوس بيتينيلي",
+  "nameEn": "Marcus Bettinelli",
+  "squadName": "Marcus Bettinelli",
+  "clubId": "manchester-city",
+  "birthDate": "1992-05-24",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في فولهام وخاض إعارات إلى دارتفورد وأكرينغتون وميدلسبره. انتقل حرًا إلى تشيلسي في 2021، ثم انضم إلى مانشستر سيتي في يونيو 2025 وجدد حتى صيف 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن 14 عامًا",
+      "clubAr": "فولهام",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في أكاديمية فولهام قبل اكتساب الخبرة بالإعارات.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "قبل موسم 2014/15",
+      "clubAr": "دارتفورد ثم أكرينغتون ستانلي",
+      "typeAr": "إعارات",
+      "textAr": "خاض تجربتين معارًا قبل العودة إلى فولهام.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2014/15–2020",
+      "clubAr": "فولهام",
+      "typeAr": "الفريق الأول",
+      "textAr": "بدأ مع فريق فولهام الأول في موسم 2014/15 واستقر ضمن خيارات حراسة مرماه.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "ميدلسبره",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا معارًا من فولهام قبل الرحيل إلى تشيلسي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال حر",
+      "textAr": "انضم بعد انتهاء عقده مع فولهام، وفق إعلان تشيلسي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "10 يونيو 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "وقع لموسم من تشيلسي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "10 أبريل 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد لسنة أخرى حتى صيف 2027.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: تجديد بيتينيلي حتى 2027",
+      "url": "https://www.mancity.com/news/mens/marcus-bettinelli-one-year-contract-extension-63911429"
+    },
+    {
+      "id": "career",
+      "title": "تشيلسي: ضم بيتينيلي ومسيرته السابقة",
+      "url": "https://www.chelseafc.com/en/news/article/bettinelli-signs-for-chelsea"
+    },
+    {
+      "id": "arrival",
+      "title": "سيتي: وصول بيتينيلي",
+      "url": "https://www.mancity.com/news/mens/marcus-bettinelli-joins-city-63885155"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإنجليزي: بيانات بيتينيلي",
+      "url": "https://www.thefa.com/england/mens-seniors/squad/marcus-bettinelli"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:28:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. اللاعب غير مدرج في صفوف جدول الدوري المفحوص؛ غياب صفه ليس دليلًا كافيًا لملء الخانات بصفر."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
