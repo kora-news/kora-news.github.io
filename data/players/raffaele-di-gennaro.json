@@ -1,0 +1,144 @@
+{
+  "id": "raffaele-di-gennaro",
+  "nameAr": "رافاييلي دي جينارو",
+  "nameEn": "Raffaele Di Gennaro",
+  "squadName": "Raffaele Di Gennaro",
+  "clubId": "inter",
+  "birthDate": "1993-10-03",
+  "nationalityAr": "إيطالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في أكاديمية إنتر وأعير لعدة أندية إيطالية، ثم لعب لكاتانزارو وبيسكارا وغوبيو. عاد لإنتر في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2013",
+      "clubAr": "إنتر",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج في الأكاديمية وفاز ببطولة نكست جين في 2012.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "تشيتاديلا",
+      "typeAr": "إعارة",
+      "textAr": "أولى محطاته المعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2016",
+      "clubAr": "لاتينا",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمين معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "تيرنانا",
+      "typeAr": "إعارة",
+      "textAr": "واصل اكتساب الخبرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "سبيتسيا",
+      "typeAr": "إعارة",
+      "textAr": "عاد بعدها لإنتر.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "كاتانزارو",
+      "typeAr": "انتقال",
+      "textAr": "انتقل خارج سلسلة الإعارات.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "بيسكارا",
+      "typeAr": "انتقال",
+      "textAr": "قضى موسمًا بالنادي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "غوبيو",
+      "typeAr": "انتقال",
+      "textAr": "لعب قبل العودة لإنتر.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "إنتر",
+      "typeAr": "عودة دائمة",
+      "textAr": "عاد للنادي الذي تكون فيه.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/raffaele-di-gennaro"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Raffaele_Di_Gennaro"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "john-stones",
+  "nameAr": "جون ستونز",
+  "nameEn": "John Stones",
+  "squadName": "John Stones",
+  "clubId": "inter",
+  "birthDate": "1994-05-28",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في بارنسلي قبل إيفرتون في 2013 ومانشستر سيتي في 2016. غادر إنجلترا لأول مرة وانضم لإنتر في صيف 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2001–2013",
+      "clubAr": "بارنسلي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج في نادي مدينته وظهر مع الفريق الأول في 2012.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2016",
+      "clubAr": "إيفرتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربته الأولى في الدوري الممتاز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى عشرة أعوام بالنادي.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال",
+      "textAr": "بدأ أول تجربة له خارج إنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/john-stones"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/John_Stones"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

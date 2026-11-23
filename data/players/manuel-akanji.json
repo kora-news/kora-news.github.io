@@ -1,0 +1,130 @@
+{
+  "id": "manuel-akanji",
+  "nameAr": "مانويل أكانجي",
+  "nameEn": "Manuel Akanji",
+  "squadName": "Manuel Akanji",
+  "clubId": "inter",
+  "birthDate": "1995-07-19",
+  "nationalityAr": "سويسري",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "بدأ في فيزيندانغن وفينترتور ثم بازل ودورتموند ومانشستر سيتي. وصل لإنتر معارًا في سبتمبر 2025 واستمر معه بعد موسم الثنائية.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2004–2007",
+      "clubAr": "فيزيندانغن",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في التاسعة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2007–2015",
+      "clubAr": "فينترتور",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "تدرج حتى دوري الدرجة الثانية السويسري.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–يناير 2018",
+      "clubAr": "بازل",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم في صيف 2015.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2018–2022",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة أعوام ونصف.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022–2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في الدوري الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2 سبتمبر 2025",
+      "clubAr": "إنتر",
+      "typeAr": "إعارة مع خيار مشروط",
+      "textAr": "أعلن النادي إعارة مع خيار شراء يتحول لإلزام عند تحقق شروط.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "موسم 2026/27",
+      "clubAr": "إنتر",
+      "typeAr": "استمرار",
+      "textAr": "يبقى في القائمة الحالية؛ لا نثبت تاريخ تفعيل الشراء دون إعلان حاسم.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/manuel-akanji"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Akanji"
+    },
+    {
+      "id": "arrival",
+      "title": "إنتر: إعارة أكانجي مع شروط الشراء",
+      "url": "https://www.inter.it/en/news/manuel-akanji-new-inter-player"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 239,
+  "profileCount": 251,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1574,7 +1574,7 @@
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
       "profileId": "julian-ryerson",
       "profileStatus": "published",
-      "photoStatus": "awaiting-licensed-current-shirt-photo"
+      "photoStatus": "licensed-current-club-archive"
     },
     {
       "clubId": "borussia-dortmund",
@@ -2034,9 +2034,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "josep-martinez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2045,9 +2045,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "aleksandar-stankovic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2056,9 +2056,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "john-stones",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2122,9 +2122,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "raffaele-di-gennaro",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2199,9 +2199,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "manuel-akanji",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2210,9 +2210,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "benjamin-pavard",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2221,9 +2221,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "carlos-augusto",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2232,9 +2232,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "yann-aurel-bisseck",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2243,9 +2243,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "federico-dimarco",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2254,9 +2254,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ivan-provedel",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2276,9 +2276,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alessandro-bastoni",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",
@@ -2287,9 +2287,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.inter.it/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "djed-spence",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",

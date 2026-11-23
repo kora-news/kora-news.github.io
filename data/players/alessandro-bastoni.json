@@ -1,0 +1,102 @@
+{
+  "id": "alessandro-bastoni",
+  "nameAr": "أليساندرو باستوني",
+  "nameEn": "Alessandro Bastoni",
+  "squadName": "Alessandro Bastoni",
+  "clubId": "inter",
+  "birthDate": "1999-04-13",
+  "nationalityAr": "إيطالي",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في أتالانتا واشتراه إنتر في صيف 2017. بقي معارًا في أتالانتا ثم بارما قبل انضمامه الفعلي للفريق في 2019.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2017",
+      "clubAr": "أتالانتا",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "تدرج في الأكاديمية ووصل للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2017",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه من أتالانتا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "أتالانتا",
+      "typeAr": "إعارة",
+      "textAr": "بقي لموسم بعد البيع.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "بارما",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا آخر معارًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2019",
+      "clubAr": "إنتر",
+      "typeAr": "عودة وبداية رسمية",
+      "textAr": "ظهر مع الفريق الأول أمام سامبدوريا.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/alessandro-bastoni"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

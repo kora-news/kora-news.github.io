@@ -1,0 +1,113 @@
+{
+  "id": "aleksandar-stankovic",
+  "nameAr": "ألكسندر ستانكوفيتش",
+  "nameEn": "Aleksandar Stanković",
+  "squadName": "Aleksandar Stanković",
+  "clubId": "inter",
+  "birthDate": "2005-08-03",
+  "nationalityAr": "صربي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تكون في أكاديمية إنتر وأعير للوتسيرن في 2024/25 ثم انتقل لكلوب بروج. فعل إنتر حق إعادة شرائه في يونيو 2026 بعقد يبدأ في يوليو حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2024",
+      "clubAr": "إنتر",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية وحمل شارة القيادة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "لوتسيرن",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا في سويسرا.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "كلوب بروج",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في بلجيكا قبل العودة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "5 يونيو 2026",
+      "clubAr": "إنتر",
+      "typeAr": "إعلان إعادة شراء",
+      "textAr": "فعل النادي بند إعادة الشراء.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2026",
+      "clubAr": "إنتر",
+      "typeAr": "بداية العقد",
+      "textAr": "عاد بعقد حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/aleksandar-stankovic"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Aleksandar_Stankovi%C4%87_(footballer,_born_2005)"
+    },
+    {
+      "id": "arrival",
+      "title": "إنتر: إعادة شراء ستانكوفيتش من كلوب بروج",
+      "url": "https://www.inter.it/en/news/aleksandar-stankovic-announcement-new-inter-player"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

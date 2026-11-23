@@ -1,0 +1,134 @@
+{
+  "id": "yann-aurel-bisseck",
+  "nameAr": "يان أوريل بيسيك",
+  "nameEn": "Yann-Aurel Bisseck",
+  "squadName": "Yann-Aurel Bisseck",
+  "clubId": "inter",
+  "birthDate": "2000-11-29",
+  "nationalityAr": "ألماني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في كولن وخاض إعارات لهولشتاين كيل ورودا وفيتوريا وأوروس، الذي اشتراه في 2022. انضم لإنتر في صيف 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2004–2007",
+      "clubAr": "أدلر ديلبروك",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته المحلية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2007–2019",
+      "clubAr": "كولن",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "وصل للفريق الأول في 2017.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "هولشتاين كيل",
+      "typeAr": "إعارة",
+      "textAr": "لعب للفريق والرديف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "رودا كيركراده",
+      "typeAr": "إعارة",
+      "textAr": "خاض تجربة في هولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "فيتوريا غيماريش ب",
+      "typeAr": "إعارة",
+      "textAr": "لعب للرديف في البرتغال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "أوروس",
+      "typeAr": "إعارة",
+      "textAr": "بدأ تجربته الدنماركية معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "أوروس",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بعد تفعيل الانتقال الدائم.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من أوروس.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/yann-aurel-bisseck"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Yann_Aurel_Bisseck"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

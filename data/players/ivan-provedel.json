@@ -1,0 +1,171 @@
+{
+  "id": "ivan-provedel",
+  "nameAr": "إيفان بروفيديل",
+  "nameEn": "Ivan Provedel",
+  "squadName": "Ivan Provedel",
+  "clubId": "inter",
+  "birthDate": "1994-03-17",
+  "nationalityAr": "إيطالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "بدأ مهاجمًا ثم تحول لحراسة المرمى. مر بأودينيزي وكييفو وإعارات متعددة، ثم إمبولي وسبيتسيا ولاتسيو، وانضم لإنتر في 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "فيزينالي وتريفيزو وبوردينوني وليابيافي",
+      "typeAr": "تكوين",
+      "textAr": "تحول من مهاجم إلى حارس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2010–2012",
+      "clubAr": "أودينيزي",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه حارسًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2017",
+      "clubAr": "كييفو",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تخللت فترته أربع إعارات.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "بيزا",
+      "typeAr": "إعارة",
+      "textAr": "معارًا من كييفو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "بيروجيا",
+      "typeAr": "إعارة",
+      "textAr": "واصل اللعب في إيطاليا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "مودينا",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "برو فيرتشيلي",
+      "typeAr": "إعارة",
+      "textAr": "آخر إعاراته من كييفو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2020",
+      "clubAr": "إمبولي",
+      "typeAr": "انتقال دائم",
+      "textAr": "ظهر في الدوري الإيطالي في 2018.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020",
+      "clubAr": "يوفي ستابيا",
+      "typeAr": "إعارة",
+      "textAr": "أعير من إمبولي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2022",
+      "clubAr": "سبيتسيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "ثبت نفسه في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2026",
+      "clubAr": "لاتسيو",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة مواسم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال",
+      "textAr": "انضم بعد نهاية تجربته في لاتسيو.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/ivan-provedel"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Provedel"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

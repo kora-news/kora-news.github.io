@@ -1,0 +1,157 @@
+{
+  "id": "djed-spence",
+  "nameAr": "دجيد سبنس",
+  "nameEn": "Djed Spence",
+  "squadName": "Djed Spence",
+  "clubId": "inter",
+  "birthDate": "2000-08-09",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "جناح خلفي",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في فولهام ولعب لميدلسبره ونوتنغهام معارًا. انتقل لتوتنهام وخاض إعارات لرين وليدز وجنوى، ثم انضم لإنتر في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "بيكهام تاون ثم جونيور إيليت",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته في جنوب لندن.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "فولهام",
+      "typeAr": "ناشئون",
+      "textAr": "قضى عامين بالأكاديمية.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "ميدلسبره",
+      "typeAr": "انتقال",
+      "textAr": "ظهر في التشامبيونشيب في ديسمبر 2019.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "نوتنغهام فورست",
+      "typeAr": "إعارة",
+      "textAr": "ساهم في الصعود للدوري الممتاز.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم قبل سلسلة إعارات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2022/23",
+      "clubAr": "رين",
+      "typeAr": "إعارة",
+      "textAr": "خاض تجربة في فرنسا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الأول من 2023/24",
+      "clubAr": "ليدز يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "عاد لتوتنهام قبل جنوى.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2024",
+      "clubAr": "جنوى",
+      "typeAr": "إعارة",
+      "textAr": "قضى ستة أشهر في إيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024–2026",
+      "clubAr": "توتنهام",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد ولعب مع الفريق.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "15 أغسطس 2026",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/djed-spence"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Djed_Spence"
+    },
+    {
+      "id": "arrival",
+      "title": "إنتر: ضم سبنس نهائيًا حتى 2031",
+      "url": "https://www.inter.it/en/news/djed-spence-new-inter-player"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "federico-dimarco",
+  "nameAr": "فيديريكو ديماركو",
+  "nameEn": "Federico Dimarco",
+  "squadName": "Federico Dimarco",
+  "clubId": "inter",
+  "birthDate": "1997-11-10",
+  "nationalityAr": "إيطالي",
+  "positionAr": "جناح خلفي أيسر",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تدرج في إنتر وأعير لأسكولي وإمبولي ثم بيع لسيون. أعاده إنتر في 2018 وأعاره لبارما وفيرونا قبل استقراره في 2021.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "كالفايراتي",
+      "typeAr": "ناشئون",
+      "textAr": "لعب قبل أكاديمية إنتر.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "من السابعة حتى 2016",
+      "clubAr": "إنتر",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر رسميًا في ديسمبر 2014.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2016",
+      "clubAr": "أسكولي",
+      "typeAr": "إعارة",
+      "textAr": "خرج لاكتساب الخبرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "إمبولي",
+      "typeAr": "إعارة",
+      "textAr": "لعب في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "سيون",
+      "typeAr": "انتقال دائم",
+      "textAr": "ليست إعارة وفق تسلسل المسيرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "إنتر",
+      "typeAr": "عودة دائمة",
+      "textAr": "أعاده النادي من سويسرا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "بارما",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا قبل العودة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020–2021",
+      "clubAr": "هيلاس فيرونا",
+      "typeAr": "إعارة",
+      "textAr": "لعب موسمًا ونصف قبل العودة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2021",
+      "clubAr": "إنتر",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "استقر مع الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/federico-dimarco"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Federico_Dimarco"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 12,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

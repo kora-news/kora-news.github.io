@@ -1,0 +1,103 @@
+{
+  "id": "carlos-augusto",
+  "nameAr": "كارلوس أوغوستو",
+  "nameEn": "Carlos Augusto Zopolato Neves",
+  "squadName": "Carlos Augusto Zopolato Neves",
+  "clubId": "inter",
+  "birthDate": "1999-01-07",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مدافع وجناح خلفي",
+  "checkedAt": "2026-11-23T19:22:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لإنتر.",
+  "summaryAr": "تكون في كورينثيانز وانتقل لمونزا في 2020. انضم لإنتر معارًا في أغسطس 2023 قبل استمراره بصورة دائمة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2020",
+      "clubAr": "كورينثيانز",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "ظهر مع الفريق الأول قبل الانتقال لإيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020–2023",
+      "clubAr": "مونزا",
+      "typeAr": "انتقال دائم",
+      "textAr": "ساهم في الصعود للدوري الإيطالي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "15 أغسطس 2023",
+      "clubAr": "إنتر",
+      "typeAr": "إعارة",
+      "textAr": "بدأت بإعارة حتى يونيو 2024 مع خيار شراء مشروط بالإلزام.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2024",
+      "clubAr": "إنتر",
+      "typeAr": "انتقال دائم",
+      "textAr": "تسجل السيرة الإحصائية تحوله لانتقال دائم بعد الإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "إنتر: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.inter.it/en/teams/first-team/player/carlos-augusto"
+    },
+    {
+      "id": "squad",
+      "title": "إنتر: قائمة الفريق الأول للرجال",
+      "url": "https://www.inter.it/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: إنتر في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/d609edc0/2026-2027/c11/Internazionale-Stats-Serie-A-M"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Augusto_(footballer)"
+    },
+    {
+      "id": "arrival",
+      "title": "مونزا: إعارة كارلوس أوغوستو لإنتر وشروط الشراء",
+      "url": "https://www.acmonza.com/it/news/trasferimento-carlos-augusto-inter-il-comunicato/"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "إنتر",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:22:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة أتالانتا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص إنتر، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
