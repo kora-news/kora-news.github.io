@@ -1,6 +1,7 @@
 'use strict';
 const fs = require('fs');
 const path = require('path');
+const { profiles } = require('./players');
 const CLUBS = [
   ['arsenal','أرسنال','Arsenal','england','إنجلترا'],
   ['liverpool','ليفربول','Liverpool','england','إنجلترا'],
@@ -19,6 +20,9 @@ const CLUBS = [
 ].map(([id,nameAr,nameEn,leagueId,leagueAr])=>({id,nameAr,nameEn,leagueId,leagueAr}));
 
 function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
+  const playerProfiles=profiles(root);
+  const profileByName=new Map(playerProfiles.map(p=>[p.clubId+'|'+p.squadName,p]));
+  const playerName=(c,p)=>{const profile=profileByName.get(c.id+'|'+p.nameEn);return profile?`<a class="squad-profile-link" href="../players/${esc(profile.id)}.html">${esc(p.nameEn)} <span lang="ar">← ملف اللاعب</span></a>`:esc(p.nameEn);};
   const dir = process.env.CLUBS_DATA_DIR || path.join(root,'data','clubs');
   const records = new Map();
   if(fs.existsSync(dir)) for(const f of fs.readdirSync(dir).filter(x=>x.endsWith('.json'))) {
@@ -50,8 +54,8 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
   }
   if(!records.size) return [];
   const logo=(c,r,rel)=>r?.crest?.file?`<img class="club-crest crest-${esc(c.id)}" src="${rel}assets/club-logos/${esc(r.crest.file)}" alt="شعار ${esc(c.nameAr)}" width="88" height="88" loading="eager">`:r?.crest?.status==='rights-review'?`<span class="club-crest club-crest-pending" role="img" aria-label="شعار ${esc(c.nameAr)} قيد مراجعة الحقوق"><bdi>FCB</bdi><small>حقوق الشعار<br>قيد المراجعة</small></span>`:'';
-  const css='<link rel="stylesheet" href="RELPATHassets/clubs.css">';
-  const pageHead=(title,desc,rel,canonical)=>head(title,desc,rel,canonical).replace('</head>',css.replace('RELPATH',rel)+'</head>');
+  const css='<link rel="stylesheet" href="RELPATHassets/clubs.css"><link rel="stylesheet" href="RELPATHassets/players.css">';
+  const pageHead=(title,desc,rel,canonical)=>head(title,desc,rel,canonical).replace('</head>',css.replaceAll('RELPATH',rel)+'</head>');
   const date=s=>{
     if(!s || Number.isNaN(Date.parse(s))) return 'تاريخ غير مثبت';
     return s.length===10 ? new Intl.DateTimeFormat('ar-EG',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(s+'T12:00:00Z')) : fmtDate(s);
@@ -111,7 +115,7 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
       const names=new Set();
       for(const p of sq.items){if(!(p.nameAr||p.nameEn)||!p.positionAr)throw new Error(c.id+' incomplete squad member');if(names.has(p.nameEn||p.nameAr))throw new Error(c.id+' duplicate player');names.add(p.nameEn||p.nameAr);}
     }
-    const squadHTML=section('squad','قائمة الفريق الأول',sq.status==='verified'?note(sq.scopeAr)+note(sq.noteAr)+`<p class="club-record-note">مراجعة القائمة: ${esc(date(sq.checkedAt))}. ${refs(sq.sourceIds)}</p><div class="club-squad">${sq.items.map(p=>`<article class="squad-player"><span class="squad-number">${p.number==null?'':number(p.number)}</span><div>${p.nameAr?`<h3>${esc(p.nameAr)}</h3>`:''}${p.nameEn?`<p class="squad-name-en" lang="en" dir="ltr">${esc(p.nameEn)}</p>`:''}<p class="squad-position">${esc(p.positionAr)}</p></div></article>`).join('')}</div>`:incomplete('قائمة الفريق قيد التحقق من المصدر الرسمي.'));
+    const squadHTML=section('squad','قائمة الفريق الأول',sq.status==='verified'?note(sq.scopeAr)+note(sq.noteAr)+`<p class="player-progress">ملفات المسيرة والانتقالات تُضاف تدريجيًا. الأسماء المرتبطة تفتح ملفًا موثقًا؛ بقية الأسماء لم يكتمل ملفها بعد. الهدف يشمل جميع لاعبي القوائم.</p>`+`<p class="club-record-note">مراجعة القائمة: ${esc(date(sq.checkedAt))}. ${refs(sq.sourceIds)}</p><div class="club-squad">${sq.items.map(p=>`<article class="squad-player"><span class="squad-number">${p.number==null?'':number(p.number)}</span><div>${p.nameAr?`<h3>${esc(p.nameAr)}</h3>`:''}${p.nameEn?`<p class="squad-name-en" lang="en" dir="ltr">${playerName(c,p)}</p>`:''}<p class="squad-position">${esc(p.positionAr)}</p></div></article>`).join('')}</div>`:incomplete('قائمة الفريق قيد التحقق من المصدر الرسمي.'));
     const sourcesHTML=section('sources','المصادر ومنهج العد',`<ol class="club-source-list">${sources.map((s,i)=>`<li id="source-${i+1}">${link(s.url,s.title||s.publisher||s.url)}${s.publisher?`<span>${esc(s.publisher)}</span>`:''}${s.publishedOn?`<span>تاريخ المصدر: ${esc(date(s.publishedOn))}</span>`:''}${s.checkedAt?`<span>مراجعة: ${esc(date(s.checkedAt))}</span>`:''}${note(s.noteAr)}</li>`).join('')}</ol>`);
     const warnings=(r.unresolved||[]).filter(Boolean);
     const html=pageHead(c.nameAr+': التاريخ والبطولات والسجلات | كورة نيوز','تاريخ '+c.nameAr+' وبطولاته وهدافوه والأكثر تتويجًا معه، مع آخر نتيجة ولقب رسمي ومصادر البيانات.','../',`clubs/${c.id}.html`)+header('../','clubs')+`

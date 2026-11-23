@@ -5,6 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const { buildClubs } = require('./clubs');
+const { buildPlayers } = require('./players');
 
 const ROOT = path.join(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'posts');
@@ -238,6 +239,7 @@ const nf = head('الصفحة غير موجودة | ' + SITE_NAME, SITE_DESC, ''
 fs.writeFileSync(path.join(DIST, '404.html'), nf);
 
 // Club reference section shares navigation and identity with the news site.
+const playerPages = buildPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate});
 const clubPages = buildClubs({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate});
 
 // feed.xml + sitemap.xml + robots.txt
@@ -250,7 +252,7 @@ fs.writeFileSync(path.join(DIST, 'feed.xml'), feed);
 const sm = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>${base}/</loc></url>
-${clubPages.map(url=>`<url><loc>${base}/${url}</loc></url>`).join('\n')}
+${[...clubPages,...playerPages].map(url=>`<url><loc>${base}/${url}</loc></url>`).join('\n')}
 ${posts.map(p => `<url><loc>${base}/posts/${p.slug}.html</loc></url>`).join('\n')}
 </urlset>`;
 fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sm);
