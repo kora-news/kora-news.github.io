@@ -1,0 +1,125 @@
+{
+  "id": "declan-rice",
+  "nameAr": "ديكلان رايس",
+  "nameEn": "Declan Rice",
+  "squadName": "Declan Rice",
+  "clubId": "arsenal",
+  "birthDate": "1999-01-14",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T14:34:00+02:00",
+  "sourceIds": [
+    "current",
+    "birth"
+  ],
+  "statusAr": "لاعب وسط أرسنال ومنتخب إنجلترا، ومدرج في قائمة الفريق الحالية.",
+  "summaryAr": "بدأ رايس في ناشئي تشيلسي ثم تدرج في وست هام، وصعد إلى الفريق الأول وقاده لاحقًا قبل الانضمام إلى أرسنال في يوليو 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقال غير موثقة في هذه النسخة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "تشيلسي",
+      "typeAr": "أكاديمية",
+      "textAr": "بدأ مسيرته في فرق الناشئين بتشيلسي قبل الانتقال إلى أكاديمية وست هام.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2014",
+      "clubAr": "وست هام يونايتد",
+      "typeAr": "انضمام للأكاديمية",
+      "textAr": "انضم إلى أكاديمية وست هام، ثم وقع أول عقد احترافي في العام التالي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "مايو 2017",
+      "clubAr": "وست هام يونايتد",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك أمام بيرنلي في الجولة الأخيرة لموسم 2016/17. تقرير وست هام المعاصر يؤكد هذا الظهور، خلافًا لصياغة أغسطس 2017 الواردة في نبذة أرسنال الحالية.",
+      "sourceIds": [
+        "debut",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "مايو 2022",
+      "clubAr": "وست هام يونايتد",
+      "typeAr": "قيادة الفريق",
+      "textAr": "أصبح قائدًا للفريق، ثم قاده إلى لقب دوري المؤتمر الأوروبي في يونيو 2023.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال",
+      "textAr": "أعلن أرسنال انضمامه من وست هام بعقد طويل الأجل في 15 يوليو. نستخدم الشهر لمحطة الانتقال لأن صفحة اللاعب تسجل توقيع العقد في 14 يوليو.",
+      "sourceIds": [
+        "arrival",
+        "current"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 5,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T14:34:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري فقط من صفحة FBref الحالية، التي تشمل مشاركته أمام نيوكاسل يوم 21 نوفمبر. لا تشمل المنتخب أو الكؤوس."
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة رايس الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players/declan-rice-a4dRm2S0ScYi"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإنجليزي: بيانات رايس وتاريخ ميلاده",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/declan-rice"
+    },
+    {
+      "id": "arrival",
+      "title": "أرسنال: إعلان انضمام رايس، 15 يوليو 2023",
+      "url": "https://www.arsenal.com/news/declan-rice-completes-transfer-to-arsenal-aQWG72A2XG85"
+    },
+    {
+      "id": "debut",
+      "title": "وست هام: تقرير الظهور الأول لرايس، مايو 2017",
+      "url": "https://www.whufc.com/news/articles/2017/may/22-may/rice-its-dream-come-true"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: رايس، أرقام 2026/27 وسجل المشاركات",
+      "url": "https://fbref.com/en/players/1c7012b8/Declan-Rice"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/declan-rice"
+    }
+  ],
+  "photo": {
+    "file": "declan-rice-arsenal-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "arsenal",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/declan-rice",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/dc8a5692fd0a192f0ba971b431242d0b43bcf062515fe5ed0733675e2b7f60f5/declan-rice-arsenal-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}

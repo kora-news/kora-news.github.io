@@ -1,0 +1,119 @@
+{
+  "id": "bukayo-saka",
+  "nameAr": "بوكايو ساكا",
+  "nameEn": "Bukayo Saka",
+  "squadName": "Bukayo Saka",
+  "clubId": "arsenal",
+  "birthDate": "2001-09-05",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T14:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "birth"
+  ],
+  "statusAr": "جناح أرسنال ومنتخب إنجلترا، ومدرج في قائمة الفريق الحالية.",
+  "summaryAr": "تدرج ساكا في أكاديمية أرسنال من الفئات الصغيرة إلى الفريق الأول. توثق الصفحة مسيرته داخل النادي دون اختراع انتقالات خارجية، وتفصل أرقام الدوري عن الكؤوس والمنتخب.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة. مسار الأكاديمية والعقد الاحترافي ليسا انتقالًا خارجيًا بين ناديين.",
+  "career": [
+    {
+      "whenAr": "مايو 2010",
+      "clubAr": "أكاديمية أرسنال",
+      "typeAr": "انضمام للأكاديمية",
+      "textAr": "وقع استمارات الأكاديمية في هيل إند بعد فترة في الفئات التمهيدية للنادي.",
+      "sourceIds": [
+        "academy"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2018",
+      "clubAr": "أرسنال",
+      "typeAr": "أول عقد احترافي",
+      "textAr": "أعلن النادي توقيعه أول عقد احترافي؛ هذه خطوة من الأكاديمية وليست صفقة انتقال من نادٍ آخر.",
+      "sourceIds": [
+        "professional"
+      ]
+    },
+    {
+      "whenAr": "نوفمبر 2018",
+      "clubAr": "أرسنال",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول وهو في السابعة عشرة، بعد التدرج في أكاديمية النادي.",
+      "sourceIds": [
+        "academy"
+      ]
+    },
+    {
+      "whenAr": "19 فبراير 2026",
+      "clubAr": "أرسنال",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي توقيعه عقدًا جديدًا طويل الأجل، دون تحديد موعد انتهائه في الإعلان.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 0,
+      "through": "2026-10-18",
+      "checkedAt": "2026-11-23T14:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "النطاق هنا حتى آخر مشاركة دوري ظاهرة في سجل المصدر، 18 أكتوبر، وليس إجماليًا محدثًا لكل مسابقات نوفمبر. صفحة FBref تعرض 7 مشاركات و3 أهداف دون تمريرات حاسمة؛ أرقام المنتخب والكؤوس مستبعدة."
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: صفحة ساكا الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players/bukayo-saka-alSZJ1E2zPCV"
+    },
+    {
+      "id": "birth",
+      "title": "الاتحاد الإنجليزي: تاريخ ميلاد ساكا، 5 سبتمبر 2001",
+      "url": "https://www.englandfootball.com/england/mens-senior-team/squad/bukayo-saka"
+    },
+    {
+      "id": "academy",
+      "title": "أرسنال: رحلة ساكا من الأكاديمية إلى الفريق الأول",
+      "url": "https://www.arsenal.com/long-read/bukayo-saka-from-star-student-to-superstar-aFEp07M3lsNa"
+    },
+    {
+      "id": "professional",
+      "title": "أرسنال: أول عقد احترافي لساكا، سبتمبر 2018",
+      "url": "https://www.arsenal.com/news/okonkwo-and-saka-sign-professional-contracts-anJ3P0F9USON"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرقام ساكا وسجل مشاركاته، مصدر إحصائي مستقل",
+      "url": "https://fbref.com/en/players/bc7dc64d/Bukayo-Saka"
+    },
+    {
+      "id": "contract",
+      "title": "أرسنال: تجديد عقد ساكا، 19 فبراير 2026",
+      "url": "https://www.arsenal.com/news/bukayo-saka-signs-new-long-term-contract-aFcin3f65ht4"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/bukayo-saka"
+    }
+  ],
+  "photo": {
+    "file": "bukayo-saka-arsenal-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "arsenal",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/bukayo-saka",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/b37d73aaf85458753e39592770db8b41b5b61dee0ab7e37224e778cc2e723c3a/bukayo-saka-arsenal-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+  }
+}
