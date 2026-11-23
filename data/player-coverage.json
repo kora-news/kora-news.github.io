@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 86,
+  "profileCount": 93,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2980,9 +2980,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "geronimo-rulli",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3101,9 +3101,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ayyoub-bouaddi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3123,9 +3123,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "enzo-fernandez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3167,9 +3167,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "floyd-samba",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3178,9 +3178,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "allan-elias",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3211,9 +3211,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ryan-mcaidoo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3222,9 +3222,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "iliman-ndiaye",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",

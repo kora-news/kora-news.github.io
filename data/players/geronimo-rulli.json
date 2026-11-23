@@ -1,0 +1,150 @@
+{
+  "id": "geronimo-rulli",
+  "nameAr": "جيرونيمو رولي",
+  "nameEn": "Gerónimo Rulli",
+  "squadName": "Gerónimo Rulli",
+  "clubId": "manchester-city",
+  "birthDate": "1992-05-20",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:36:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في إستوديانتيس ثم لعب لريال سوسيداد عبر انتقالات وإعارات شملت ملكية قصيرة لسيتي. مر بمونبلييه وفياريال وأياكس ومارسيليا قبل العودة إلى مانشستر سيتي في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2013",
+      "clubAr": "إستوديانتيس",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج في النادي الأرجنتيني وبدأ مع الفريق الأول في 2013.",
+      "sourceIds": [
+        "ajax"
+      ]
+    },
+    {
+      "whenAr": "2014–2016",
+      "clubAr": "ريال سوسيداد عبر ديبورتيفو مالدونادو",
+      "typeAr": "إعارة",
+      "textAr": "لعب موسمين معارًا لسوسيداد من مالدونادو وفق تقرير ESPN المؤرخ في 2016.",
+      "sourceIds": [
+        "sociedad"
+      ]
+    },
+    {
+      "whenAr": "صيف 2016 ثم يناير 2017",
+      "clubAr": "مانشستر سيتي وريال سوسيداد",
+      "typeAr": "انتقال وإعارة ثم بيع",
+      "textAr": "انتقلت حقوقه إلى سيتي وبقي معارًا لسوسيداد حتى ديسمبر، مع اتفاق انتقال دائم للنادي الإسباني في يناير 2017. لم يخض مباراة مع فريق سيتي الأول في تلك المرحلة.",
+      "sourceIds": [
+        "sociedad",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "مونبلييه",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا معارًا من ريال سوسيداد.",
+      "sourceIds": [
+        "villarreal"
+      ]
+    },
+    {
+      "whenAr": "4 سبتمبر 2020",
+      "clubAr": "فياريال",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من ريال سوسيداد بعقد لأربع سنوات.",
+      "sourceIds": [
+        "villarreal"
+      ]
+    },
+    {
+      "whenAr": "6 يناير 2023",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من فياريال إلى أياكس بعقد حتى يونيو 2026.",
+      "sourceIds": [
+        "ajax"
+      ]
+    },
+    {
+      "whenAr": "11 أغسطس 2024",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن أياكس الاتفاق على انتقاله مباشرة إلى مارسيليا.",
+      "sourceIds": [
+        "marseille"
+      ]
+    },
+    {
+      "whenAr": "12 أغسطس 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "عودة بانتقال دائم",
+      "textAr": "أفادت BBC بضمه من مارسيليا بعقد لعامين، وتؤكد قائمة سيتي الحالية وجوده.",
+      "sourceIds": [
+        "current",
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "BBC: عودة رولي إلى سيتي في أغسطس 2026",
+      "url": "https://www.bbc.com/sport/football/articles/cvgwz829l04o"
+    },
+    {
+      "id": "ajax",
+      "title": "أياكس: ضم رولي ومسيرته",
+      "url": "https://english.ajax.nl/articles/ajax-sign-geronimo-rulli"
+    },
+    {
+      "id": "marseille",
+      "title": "أياكس: انتقال رولي إلى مارسيليا",
+      "url": "https://english.ajax.nl/articles/ajax-and-olympique-marseille-reach-agreement-on-gero-rulli"
+    },
+    {
+      "id": "sociedad",
+      "title": "ESPN: تسلسل انتقال رولي وإعارته إلى سوسيداد",
+      "url": "https://www.espn.com/soccer/story/_/id/37483456/manchester-city-goalkeeper-geronimo-rulli-joins-real-sociedad"
+    },
+    {
+      "id": "villarreal",
+      "title": "فياريال: ضم رولي في سبتمبر 2020",
+      "url": "https://villarrealcf.es/en/gero-rulli-is-a-yellow/"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:36:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. جدول الدوري يسجل صفر مشاركة، وخانات الأهداف والتمريرات فارغة، فلا نحولها إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

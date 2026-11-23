@@ -1,0 +1,137 @@
+{
+  "id": "iliman-ndiaye",
+  "nameAr": "إليمان نداي",
+  "nameEn": "Iliman Ndiaye",
+  "squadName": "Iliman Ndiaye",
+  "clubId": "manchester-city",
+  "birthDate": "2000-03-06",
+  "nationalityAr": "سنغالي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:36:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج بين روان ومارسيليا وداكار ساكري كور ثم بورهام وود. انتقل لشيفيلد يونايتد وأعير إلى هايد، ثم لعب لمارسيليا وإيفرتون قبل مانشستر سيتي في سبتمبر 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "روان ثم مارسيليا وداكار ساكري كور",
+      "typeAr": "ناشئون",
+      "textAr": "تنقل بين فرنسا والسنغال قبل الوصول إلى إنجلترا.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "قبل 2019",
+      "clubAr": "بورهام وود",
+      "typeAr": "ناشئون وبداية المسار الإنجليزي",
+      "textAr": "وصل إلى بورهام وود قبل اكتشافه من شيفيلد يونايتد.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2019 ثم النصف الثاني من 2019/20",
+      "clubAr": "شيفيلد يونايتد وهايد يونايتد",
+      "typeAr": "انتقال وإعارة",
+      "textAr": "انضم لشيفيلد ثم لعب معارًا لهايد قبل العودة.",
+      "sourceIds": [
+        "early",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مارس 2021–2023",
+      "clubAr": "شيفيلد يونايتد",
+      "typeAr": "الفريق الأول",
+      "textAr": "بدأ بالدوري أمام ليستر ثم ساهم في الصعود بالدوري الإنجليزي في 2022/23.",
+      "sourceIds": [
+        "early",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد إلى نادي طفولته لموسم واحد.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "3 يوليو 2024",
+      "clubAr": "إيفرتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع لخمس سنوات من مارسيليا، لكن رحل إلى سيتي قبل انتهاء المدة.",
+      "sourceIds": [
+        "everton"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد إيفرتون الرحيل نهائيًا، وأفادت BBC بعقد لخمس سنوات في سيتي.",
+      "sourceIds": [
+        "current",
+        "exit"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "BBC: نداي من إيفرتون إلى سيتي ومسيرته",
+      "url": "https://www.bbc.com/sport/football/articles/c3wj1qw5x04o"
+    },
+    {
+      "id": "early",
+      "title": "الدوري الإنجليزي: بيانات نداي ومسار الأندية",
+      "url": "https://www.premierleague.com/en/news/4049436"
+    },
+    {
+      "id": "everton",
+      "title": "إيفرتون: ضم نداي في يوليو 2024",
+      "url": "https://www.evertonfc.com/news/2024/july/03/everton-/"
+    },
+    {
+      "id": "exit",
+      "title": "إيفرتون: انتقال نداي إلى سيتي",
+      "url": "https://www.evertonfc.com/news/2026/september/01/ndiaye-leaves-everton/"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:36:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

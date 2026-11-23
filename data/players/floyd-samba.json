@@ -1,0 +1,127 @@
+{
+  "id": "floyd-samba",
+  "nameAr": "فلويد سامبا",
+  "nameEn": "Floyd Samba",
+  "squadName": "Floyd Samba",
+  "clubId": "manchester-city",
+  "birthDate": "2009-01-15",
+  "nationalityAr": "يمثل ألمانيا للفئات السنية",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:36:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أكاديمية مانشستر سيتي منذ تحت 9 سنوات، وانضم إلى برنامج المنح كامل الوقت في 2025. ساهم في كأس الشباب ثم وصل إلى مجموعة الفريق الأول في 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من فئة تحت 9 سنوات",
+      "clubAr": "أكاديمية مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في النادي إلى جانب شقيقه تايرون.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "14 أغسطس 2025",
+      "clubAr": "مانشستر سيتي تحت 18 عامًا",
+      "typeAr": "منحة تطوير",
+      "textAr": "أعلن النادي انضمامه إلى برنامج المنح كامل الوقت. لا نخلط المنحة بإعلان عقد احترافي لم ينشر هنا.",
+      "sourceIds": [
+        "scholar"
+      ]
+    },
+    {
+      "whenAr": "مايو 2026",
+      "clubAr": "مانشستر سيتي للشباب",
+      "typeAr": "تطوير",
+      "textAr": "سجل في نهائي كأس الاتحاد للشباب أمام مانشستر يونايتد وفق تقرير النادي.",
+      "sourceIds": [
+        "youth"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "مجموعة الفريق الأول",
+      "textAr": "اختير للجولة الآسيوية بعد ظهوره على مقاعد الفريق الأول في كأس الاتحاد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "20 أكتوبر 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية دوري الأبطال",
+      "textAr": "شارك أمام أيك أثينا في أول ظهور له بدوري الأبطال، ثم أدرج في صورة الفريق الرسمية.",
+      "sourceIds": [
+        "europe",
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: تقديم شباب الجولة الآسيوية 2026",
+      "url": "https://www.mancity.com/news/mens/academy-players-asia-tour-2026-63920742"
+    },
+    {
+      "id": "early",
+      "title": "سيتي: الشقيقان سامبا منذ تحت 9 سنوات",
+      "url": "https://www.mancity.com/news/eds-academy/tyrone-samba-dad-chris-inspiration-63896824"
+    },
+    {
+      "id": "scholar",
+      "title": "سيتي: منح الأكاديمية في أغسطس 2025",
+      "url": "https://www.mancity.com/news/eds-academy/man-city-academy-players-sign-scholarships-202526-63890179"
+    },
+    {
+      "id": "youth",
+      "title": "سيتي: سامبا بعد الفوز بكأس الشباب",
+      "url": "https://www.mancity.com/citytv/eds-academy/floyd-samba-post-match-intervie-fa-youth-cup-final-63914391"
+    },
+    {
+      "id": "europe",
+      "title": "سيتي: الظهور الأوروبي الأول لسامبا وآلان",
+      "url": "https://www.mancity.com/news/mens/city-v-aek-athens-match-gallery-ucl-20-oct-63928096"
+    },
+    {
+      "id": "birth",
+      "title": "ويكيبيديا: بيانات سامبا الشخصية والتمثيل الدولي",
+      "url": "https://en.wikipedia.org/wiki/Floyd_Samba"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:36:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. صفر مشاركة بالدوري في المصدر، ولا نخلطها بظهوره في دوري الأبطال. خلايا الأهداف والتمريرات فارغة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

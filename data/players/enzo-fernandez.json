@@ -1,0 +1,128 @@
+{
+  "id": "enzo-fernandez",
+  "nameAr": "إنزو فرنانديز",
+  "nameEn": "Enzo Fernández",
+  "squadName": "Enzo Fernández",
+  "clubId": "manchester-city",
+  "birthDate": "2001-01-17",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:36:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "بدأ في لا ريكوفا ثم ريفر بليت، وخاض إعارة لديفينسا إي خوستيسيا. انتقل إلى بنفيكا في 2022 وتشيلسي في يناير 2023، ثم مانشستر سيتي في سبتمبر 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "لا ريكوفا ثم ريفر بليت",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في أكاديمية ريفر حتى الرديف في 2019.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "whenAr": "مارس 2020",
+      "clubAr": "ريفر بليت",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "بدأ في كأس ليبرتادوريس أمام إل دي يو كيتو.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "whenAr": "2020–يوليو 2021",
+      "clubAr": "ديفينسا إي خوستيسيا",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة ناجحة ثم عاد إلى ريفر في يوليو 2021 قبل نهايتها المقررة.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "بنفيكا",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى البرتغال قبل موسمه الأول في أوروبا.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "تؤكد مراجعة سوق يناير 2023 تاريخ ضمه. بيان الرحيل الأحدث يذكر يناير 2022 خطأ، فلا نعتمده لتاريخ الوصول.",
+      "sourceIds": [
+        "chelsea",
+        "exit"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكدت BBC وتشيلسي إتمام انتقاله، وتؤكد قائمة سيتي الحالية انضمامه. لا نضع مدة عقد من مصدر غير متحقق.",
+      "sourceIds": [
+        "current",
+        "exit",
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "BBC: إتمام انتقال فرنانديز إلى سيتي",
+      "url": "https://www.bbc.com/sport/football/articles/cr7deg1ze03o"
+    },
+    {
+      "id": "bio",
+      "title": "تشيلسي: مسيرة فرنانديز قبل إنجلترا",
+      "url": "https://www.chelseafc.com/en/news/article/enzo-fernandez-the-biography"
+    },
+    {
+      "id": "chelsea",
+      "title": "تشيلسي: سوق يناير 2023 وتوقيع فرنانديز",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-transfer-news-new-signings-departures-and-loans-in-january-2023"
+    },
+    {
+      "id": "exit",
+      "title": "تشيلسي: انتقال فرنانديز إلى مانشستر سيتي",
+      "url": "https://www.chelseafc.com/en/news/article/enzo-fernandez-leaves--chelsea-on-permanent-transfer"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:36:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

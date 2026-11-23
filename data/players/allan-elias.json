@@ -1,0 +1,118 @@
+{
+  "id": "allan-elias",
+  "nameAr": "آلان إلياس",
+  "nameEn": "Allan Elias",
+  "squadName": "Allan",
+  "clubId": "manchester-city",
+  "birthDate": "2004-04-19",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:36:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في فيغويرينسي ثم بالميراس منذ 2019. وصل للفريق الأول في 2025 قبل انتقاله إلى مانشستر سيتي في أغسطس 2026 بعقد لخمس سنوات.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "فيغويرينسي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في نادي مدينته قبل انتقاله إلى بالميراس.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "أكاديمية بالميراس",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم إلى تحت 15 عامًا ثم تدرج إلى تحت 20 عامًا.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "يناير 2025",
+      "clubAr": "بالميراس",
+      "typeAr": "تصعيد",
+      "textAr": "وصل إلى مجموعة الفريق الأول بعد سنوات في الأكاديمية.",
+      "sourceIds": [
+        "early",
+        "birth"
+      ]
+    },
+    {
+      "whenAr": "31 أغسطس 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكدت BBC ضمه من بالميراس بعقد لخمس سنوات، وتؤكد قائمة سيتي الحالية وجوده.",
+      "sourceIds": [
+        "current",
+        "squad"
+      ]
+    },
+    {
+      "whenAr": "20 أكتوبر 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية دوري الأبطال",
+      "textAr": "خاض أول ظهور بدوري الأبطال أمام أيك أثينا.",
+      "sourceIds": [
+        "europe"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "BBC: ضم آلان إلياس من بالميراس",
+      "url": "https://www.bbc.com/sport/football/articles/crer89qjgydo"
+    },
+    {
+      "id": "early",
+      "title": "بالميراس: آلان وتدرجه منذ 2019",
+      "url": "https://www.palmeiras.com.br/noticias/verdao-segue-pre-temporada-e-jovem-allan-celebra-boa-recepcao-no-profissional/"
+    },
+    {
+      "id": "birth",
+      "title": "ويكيبيديا: بيانات آلان إلياس",
+      "url": "https://en.wikipedia.org/wiki/Allan_%28footballer%2C_born_2004%29"
+    },
+    {
+      "id": "europe",
+      "title": "سيتي: أول ظهور أوروبي لآلان",
+      "url": "https://www.mancity.com/news/mens/city-v-aek-athens-match-gallery-ucl-20-oct-63928096"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:36:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
