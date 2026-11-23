@@ -87,7 +87,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "manuel-neuer-bayern-munich-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "bayern-munich",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/manuel-neuer",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/3f4642abbcd7a5d8b68bb584f2f4e46cb6c612ae2c8b1357d7606fb74766ebbf/manuel-neuer-bayern-munich-2026-27-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:17:00+02:00"
   }
 }

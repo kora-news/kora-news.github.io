@@ -128,7 +128,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "hugo-ekitike-liverpool-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "liverpool",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/hugo-ekitike",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/c791050ac15d3d9df66ab744d41fcd4e48a4ed55625f529cb9551fe96c545a66/hugo-ekitike-liverpool-fc-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:17:00+02:00"
   }
 }

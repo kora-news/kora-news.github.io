@@ -109,7 +109,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "nicolo-barella-inter-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "inter",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/nicolo-barella",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/8acb68ea587217c2d91a008603c3f2c5cb47949c878bdfba99ca18f28b7e6820/nicolo-barella-inter-milan-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:17:00+02:00"
   }
 }

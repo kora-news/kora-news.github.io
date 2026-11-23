@@ -83,7 +83,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "cody-gakpo-liverpool-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "liverpool",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/cody-gakpo",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/b0a7d281edd6661736e4d9d296ba95ff4c45b0418dc425304ef6d05f659da6ea/cody-gakpo-liverpool-fc-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:17:00+02:00"
   }
 }
