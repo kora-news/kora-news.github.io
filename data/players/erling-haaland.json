@@ -107,6 +107,16 @@
       "id": "photo",
       "title": "FootyLogos: مصدر الصورة المختارة",
       "url": "https://www.footylogos.com/player-pngs/erling-haaland"
+    },
+    {
+      "id": "portrait",
+      "title": "ويكيميديا كومنز: صورة هالاند، Jacek Stanislawek، 22 فبراير 2023",
+      "url": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_2023.jpg"
+    },
+    {
+      "id": "portrait-license",
+      "title": "ترخيص الصورة والتعديل: Creative Commons BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
   ],
   "stats": [
@@ -126,13 +136,19 @@
     }
   ],
   "photo": {
-    "file": "erling-haaland-manchester-city-portrait.png",
-    "status": "current-shirt-rights-unconfirmed",
+    "file": "erling-haaland-licensed.png",
+    "captionAr": "صورة أرشيفية بقميص مانشستر سيتي في 22 فبراير 2023. تصوير Jacek Stanislawek، ترخيص CC BY-SA 4.0. التعديل: قص وإزالة الخلفية، دون تغيير القميص أو الملامح.",
+    "sourceIds": [
+      "portrait",
+      "portrait-license"
+    ],
     "currentClubId": "manchester-city",
-    "rightsStatus": "reuse-permission-unconfirmed",
-    "sourceUrl": "https://www.footylogos.com/player-pngs/erling-haaland",
-    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/129aee2b768d5b70864c97bc06d6f796992a21f2945954e9886282eb6ac80500/erling-haaland-manchester-city-2026-27-ucl-body-footylogos.png",
-    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
-    "modifications": "Cropped to upper body and trimmed transparent padding; original face and kit retained."
+    "license": "CC BY-SA 4.0",
+    "author": "Jacek Stanislawek",
+    "rightsStatus": "licensed",
+    "status": "licensed-current-club-archive",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_2023.jpg",
+    "archiveDate": "2023-02-22",
+    "modifications": "Cropped to upper body, background removed. Original face and kit retained."
   }
 }
