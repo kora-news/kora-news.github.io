@@ -1,0 +1,111 @@
+{
+  "id": "bruno-guimaraes",
+  "nameAr": "برونو غيمارايش",
+  "nameEn": "Bruno Guimarães",
+  "squadName": "Bruno Guimaraes",
+  "clubId": "arsenal",
+  "birthDate": "1997-11-16",
+  "nationalityAr": "برازيلي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:46:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "بدأ احترافيًا في أوداكس عام 2015 ، ثم انتقل لأتلتيكو باراناينسي وليون ونيوكاسل. انضم إلى أرسنال في أغسطس 2026 بعقد طويل الأمد.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2015",
+      "clubAr": "أوداكس",
+      "typeAr": "بداية احترافية",
+      "textAr": "خاض بدايته مع نادي ساو باولو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017 ثم انتقال دائم",
+      "clubAr": "أتلتيكو باراناينسي",
+      "typeAr": "إعارة ثم شراء",
+      "textAr": "توضح مادة أرسنال التفصيلية أنه بدأ معارًا من أوداكس قبل انتقاله نهائيًا.",
+      "sourceIds": [
+        "detail"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020",
+      "clubAr": "ليون",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى فرنسا بعد بروزه في البرازيل.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2022",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى أربعة مواسم ونصف وساهم في الفوز بكأس الرابطة في 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "8 أغسطس 2026",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي انضمامه من نيوكاسل بعقد طويل الأمد دون نهاية محددة في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم برونو ومسيرته",
+      "url": "https://www.arsenal.com/news/bruno-guimaraes-joins-arsenal-assZJ0i5HUEi"
+    },
+    {
+      "id": "detail",
+      "title": "أرسنال: مسيرة برونو وإعارته الأولى",
+      "url": "https://www.arsenal.com/news/13-things-you-need-to-know-about-bruno-guimaraes-aucsR1Y2y6Hv"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: تاريخ ميلاد برونو",
+      "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250138893--bruno-guimaraes/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 9,
+      "goals": 2,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:46:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

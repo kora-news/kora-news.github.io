@@ -1,0 +1,129 @@
+{
+  "id": "viktor-gyokeres",
+  "nameAr": "فيكتور غيوكيريس",
+  "nameEn": "Viktor Gyökeres",
+  "squadName": "Viktor Gyökeres",
+  "clubId": "arsenal",
+  "birthDate": "1998-06-04",
+  "nationalityAr": "سويدي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:46:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "بدأ في أسبودن تيلوس ثم بروما بويكارنا قبل برايتون وإعارات سانت باولي وسوانزي وكوفنتري. انتقل نهائيًا لكوفنتري ثم سبورتنغ وأرسنال في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات ثم 2013",
+      "clubAr": "أسبودن تيلوس ثم بروما بويكارنا",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في السويد وبدأ مع فريق بروما بويكارنا الأول في 2015.",
+      "sourceIds": [
+        "detail"
+      ]
+    },
+    {
+      "whenAr": "يناير 2018",
+      "clubAr": "برايتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم للنادي الإنجليزي ثم خاض إعارات لاحقة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "سانت باولي",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا في الدرجة الثانية الألمانية.",
+      "sourceIds": [
+        "detail"
+      ]
+    },
+    {
+      "whenAr": "2020/21 حتى يناير",
+      "clubAr": "سوانزي سيتي",
+      "typeAr": "إعارة",
+      "textAr": "أعير للنادي الويلزي قبل استدعائه ثم إعارته لكوفنتري.",
+      "sourceIds": [
+        "detail"
+      ]
+    },
+    {
+      "whenAr": "يناير 2021 ثم يوليو 2021",
+      "clubAr": "كوفنتري سيتي",
+      "typeAr": "إعارة ثم انتقال دائم",
+      "textAr": "بدأ معارًا ثم انتقل نهائيًا في صيف 2021.",
+      "sourceIds": [
+        "detail"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "سبورتنغ لشبونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمين في البرتغال قبل الرحيل إلى أرسنال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "26 يوليو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه بعقد طويل الأمد دون نهاية محددة في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم غيوكيريس ومسيرته",
+      "url": "https://www.arsenal.com/news/viktor-gyokeres-signs-for-arsenal-aABJy8l8ZQSE"
+    },
+    {
+      "id": "detail",
+      "title": "ويكيبيديا: تسلسل مسيرة غيوكيريس وإعاراته",
+      "url": "https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: بيانات غيوكيريس",
+      "url": "https://www.uefa.com/european-qualifiers/teams/players/250105927--viktor-gyokeres/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:46:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

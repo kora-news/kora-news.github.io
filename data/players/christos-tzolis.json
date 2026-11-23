@@ -1,0 +1,140 @@
+{
+  "id": "christos-tzolis",
+  "nameAr": "خريستوس تزوليس",
+  "nameEn": "Christos Tzolis",
+  "squadName": "Christos Tzolis",
+  "clubId": "arsenal",
+  "birthDate": "2002-01-30",
+  "nationalityAr": "يوناني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:46:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "وصل للفريق الأول في باوك ثم انتقل لنورويتش. أعير لتفينتي ودوسلدورف الذي فعّل شراءه، قبل كلوب بروج ثم أرسنال في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم يونيو 2020",
+      "clubAr": "باوك سالونيك",
+      "typeAr": "ناشئون وبداية الفريق الأول",
+      "textAr": "تدرج حتى بدايته أمام أولمبياكوس ثم ساهم في كأس اليونان 2021.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2021",
+      "clubAr": "نورويتش سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى إنجلترا وبدأ بثنائية في كأس الرابطة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23 حتى يناير",
+      "clubAr": "تفينتي",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة في هولندا قبل العودة إلى نورويتش.",
+      "sourceIds": [
+        "detail"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "فورتونا دوسلدورف",
+      "typeAr": "إعارة",
+      "textAr": "لعب في الدرجة الثانية الألمانية وتألق تهديفيًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مايو 2024 ، نافذ 1 يوليو",
+      "clubAr": "فورتونا دوسلدورف",
+      "typeAr": "تفعيل شراء",
+      "textAr": "أكدت BBC تفعيل خيار شرائه من نورويتش، مع إتمامه رسميًا في 1 يوليو.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2024",
+      "clubAr": "كلوب بروج",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى بلجيكا بعد تفعيل دوسلدورف خيار الشراء؛ لا نحذف مرحلة الملكية القصيرة.",
+      "sourceIds": [
+        "current",
+        "brugge"
+      ]
+    },
+    {
+      "whenAr": "23 يوليو 2026",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من كلوب بروج بعقد طويل الأمد دون نهاية محددة في البيان.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم تزوليس ومسيرته",
+      "url": "https://www.arsenal.com/news/christos-tzolis-signs-for-arsenal-axDM85b0dBUW"
+    },
+    {
+      "id": "detail",
+      "title": "ويكيبيديا: عودة تزوليس من تفينتي",
+      "url": "https://en.wikipedia.org/wiki/Christos_Tzolis"
+    },
+    {
+      "id": "permanent",
+      "title": "BBC: تفعيل دوسلدورف شراء تزوليس",
+      "url": "https://www.bbc.com/sport/football/articles/cx77qjd6q57o"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: بيانات تزوليس",
+      "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250124460--christos-tzolis/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    },
+    {
+      "id": "brugge",
+      "title": "كلوب بروج: ضم تزوليس من دوسلدورف",
+      "url": "https://www.clubbrugge.be/en/news/christos-tzolis-to-club-brugge"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:46:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

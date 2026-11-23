@@ -1,0 +1,97 @@
+{
+  "id": "noni-madueke",
+  "nameAr": "نوني مادويكي",
+  "nameEn": "Noni Madueke",
+  "squadName": "Noni Madueke",
+  "clubId": "arsenal",
+  "birthDate": "2002-03-10",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:46:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن قائمة فريق أرسنال الأول الحالية في نوفمبر 2026.",
+  "summaryAr": "تدرج في كريستال بالاس وتوتنهام قبل الانتقال إلى آيندهوفن في 2018. لعب لتشيلسي منذ يناير 2023 ثم انضم لأرسنال في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "كريستال بالاس ثم توتنهام",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديميتين قبل الانتقال إلى هولندا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018 ثم سن 17 عامًا",
+      "clubAr": "بي إس في آيندهوفن",
+      "typeAr": "انتقال وتصعيد",
+      "textAr": "وصل إلى النادي الهولندي ثم الفريق الأول في السابعة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من آيندهوفن وخاض 92 مباراة بكل المسابقات قبل الرحيل.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "18 يوليو 2025",
+      "clubAr": "أرسنال",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه بعقد طويل الأمد دون تحديد نهايته في البيان المفحوص.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أرسنال: ضم مادويكي ومسيرته",
+      "url": "https://www.arsenal.com/news/noni-madueke-signs-for-arsenal-avQGF3a6zcO1"
+    },
+    {
+      "id": "birth",
+      "title": "يويفا: بيانات مادويكي",
+      "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250113134--noni-madueke/"
+    },
+    {
+      "id": "squad",
+      "title": "أرسنال: قائمة الفريق الأول الحالية",
+      "url": "https://www.arsenal.com/fixtures/men/players"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرسنال بالدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "أرسنال",
+      "appearances": 8,
+      "goals": 2,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:46:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27 ، حتى مباراة نيوكاسل في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص أرسنال الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
