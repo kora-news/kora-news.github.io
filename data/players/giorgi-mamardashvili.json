@@ -133,7 +133,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "giorgi-mamardashvili-liverpool-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "liverpool",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.liverpoolfc.com/teams/mens-team/vitezslav-jaros",
+    "sourceAssetUrl": "https://contentfulproxy.stadion.io/rm6ms1yxue4m/5oYNAJ73mYfRXNpHt7uFP9/e3d6827dd2ac27c81bc5a35b48376215/giorgi-mamardashvili-app-profile.png?fm=webp&fit=fill&f=top&w=1704&h=1704",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }

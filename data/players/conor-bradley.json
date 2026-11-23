@@ -110,7 +110,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "conor-bradley-liverpool-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "liverpool",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.liverpoolfc.com/teams/mens-team/ronald-araujo",
+    "sourceAssetUrl": "https://contentfulproxy.stadion.io/rm6ms1yxue4m/7ACGxr1EEuec4x0FqZwQL5/366754faa46f958bb45c7a5a09ccb47f/conor-bradley-app-profile.png?fm=webp&fit=fill&f=top&w=1808&h=1808",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }
