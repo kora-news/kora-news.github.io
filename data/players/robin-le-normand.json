@@ -1,0 +1,104 @@
+{
+  "id": "robin-le-normand",
+  "nameAr": "روبن لو نورمان",
+  "nameEn": "Robin Le Normand",
+  "squadName": "LE NORMAND",
+  "clubId": "atletico-madrid",
+  "birthDate": "1996-11-11",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في بريست وظهر بدوري الدرجة الثانية الفرنسي في 2015/16. انتقل لرديف ريال سوسيداد ثم فريقه الأول في 2018/19، وانضم لأتلتيكو في أغسطس 2024 بعقد لخمس سنوات.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن 11 حتى 2016",
+      "clubAr": "بريست",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج وخاض بداية بدوري الدرجة الثانية في 2015/16.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "بعد بريست حتى 2018/19",
+      "clubAr": "رديف ريال سوسيداد",
+      "typeAr": "انتقال وتطوير",
+      "textAr": "لعب للرديف قبل صعوده للفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2018/19–2024",
+      "clubAr": "ريال سوسيداد",
+      "typeAr": "تصعيد واستقرار",
+      "textAr": "بدأ مع الفريق الأول أمام ريال بيتيس.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "27 يوليو ثم 3 أغسطس 2024",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "اتفاق ثم توقيع",
+      "textAr": "أعلن الاتفاق أولًا ثم تأكد انضمامه بعقد لخمس سنوات في 3 أغسطس.",
+      "sourceIds": [
+        "agreement",
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: تأكيد انضمام لو نورمان ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-le-normand"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم لو نورمان لخمس سنوات",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-le-normand"
+    },
+    {
+      "id": "agreement",
+      "title": "أتلتيكو: الاتفاق مع سوسيداد لضم لو نورمان",
+      "url": "https://en.atleticodemadrid.com/noticias/agreement-with-real-sociedad-for-the-transfer-of-robin-le-normand"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

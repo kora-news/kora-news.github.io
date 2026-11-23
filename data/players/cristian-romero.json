@@ -1,0 +1,144 @@
+{
+  "id": "cristian-romero",
+  "nameAr": "كريستيان روميرو",
+  "nameEn": "Cristian Romero",
+  "squadName": "ROMERO",
+  "clubId": "atletico-madrid",
+  "birthDate": "1998-04-27",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "بدأ في بلغرانو ثم جنوى، واشترته يوفنتوس وأعارته لجنوى ثم أتالانتا. اشترى أتالانتا عقده في 2021 قبل إعارته لتوتنهام ثم انتقاله الدائم إليه. انضم لأتلتيكو في أغسطس 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "بلغرانو",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ بالفريق الأول في أغسطس 2016.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "جنوى",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطته الأولى في أوروبا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019 ثم 2019/20",
+      "clubAr": "يوفنتوس وجنوى",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "اشترته يوفنتوس وبقي معارًا لجنوى موسمًا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "أتالانتا",
+      "typeAr": "إعارة",
+      "textAr": "انضم من يوفنتوس مع حق الشراء.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "6 أغسطس 2021",
+      "clubAr": "أتالانتا",
+      "typeAr": "تفعيل شراء",
+      "textAr": "أكدت يوفنتوس انتقال ملكية التسجيل نهائيًا لأتالانتا.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2021–2022",
+      "clubAr": "توتنهام هوتسبير",
+      "typeAr": "إعارة مع خيار شراء",
+      "textAr": "أعاره أتالانتا لتوتنهام مع خيار الانتقال الدائم.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2022–2026",
+      "clubAr": "توتنهام هوتسبير",
+      "typeAr": "شراء نهائي",
+      "textAr": "تحول انتقاله إلى دائم بعد الإعارة.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "15 أغسطس 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من توتنهام بعقد حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/cristian-gabriel-romero-2026-2027"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم روميرو ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-cuti-romero"
+    },
+    {
+      "id": "purchase",
+      "title": "يوفنتوس: تفعيل أتالانتا شراء روميرو",
+      "url": "https://www.juventus.com/en/news/articles/cristian-romero-execution-option-right"
+    },
+    {
+      "id": "loan",
+      "title": "أتالانتا: إعارة روميرو لتوتنهام بخيار شراء",
+      "url": "https://en.atalanta.it/news/cristian-romero-joins-tottenham-hotspur"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

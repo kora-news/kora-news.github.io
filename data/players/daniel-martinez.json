@@ -1,0 +1,107 @@
+{
+  "id": "daniel-martinez",
+  "nameAr": "دانييل مارتينيز",
+  "nameEn": "Daniel Martínez",
+  "squadName": "D. MARTÍNEZ",
+  "clubId": "atletico-madrid",
+  "birthDate": "2004-05-05",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "انضم من ريال سرقسطة لأكاديمية أتلتيكو في 2020 وتدرج للرديف. بدأ بالفريق الأول في أبريل 2026 ثم صعد رسميًا وجدد حتى 2030 في سبتمبر.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2020",
+      "clubAr": "ريال سرقسطة",
+      "typeAr": "ناشئون",
+      "textAr": "ناديه السابق قبل أكاديمية أتلتيكو.",
+      "sourceIds": [
+        "promotion"
+      ]
+    },
+    {
+      "whenAr": "2020",
+      "clubAr": "أكاديمية أتلتيكو مدريد",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "بدأ مع فريق مادرينييو للشباب ثم تدرج.",
+      "sourceIds": [
+        "promotion"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "رديف أتلتيكو مدريد",
+      "typeAr": "تطوير",
+      "textAr": "خاض 33 مباراة مع الرديف وفق إعلان تصعيده.",
+      "sourceIds": [
+        "promotion"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "ظهر أمام إشبيلية في سانشيز بيزخوان.",
+      "sourceIds": [
+        "promotion"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تصعيد وتجديد",
+      "textAr": "أصبح لاعبًا بالفريق الأول ومدد حتى 2030.",
+      "sourceIds": [
+        "promotion"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/daniel-martinez-moreno-2026-2027-2"
+    },
+    {
+      "id": "promotion",
+      "title": "أتلتيكو: تصعيد داني مارتينيز حتى 2030",
+      "url": "https://en.atleticodemadrid.com/noticias/dani-martinez-becomes-first-team-member"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

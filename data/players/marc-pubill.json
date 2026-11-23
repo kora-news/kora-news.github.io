@@ -1,0 +1,117 @@
+{
+  "id": "marc-pubill",
+  "nameAr": "مارك بوبيل",
+  "nameEn": "Marc Pubill",
+  "squadName": "MARC PUBILL",
+  "clubId": "atletico-madrid",
+  "birthDate": "2003-06-20",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في مانريسا وإسبانيول ثم ليفانتي ورديفه وفريقه الأول. انتقل لألميريا في 2023 ثم أتلتيكو في يوليو 2025 بعقد حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "مانريسا وإسبانيول",
+      "typeAr": "تكوين",
+      "textAr": "تدرج في أكاديميتي الناديين قبل ليفانتي.",
+      "sourceIds": [
+        "almeria"
+      ]
+    },
+    {
+      "whenAr": "الناشئون ثم الرديف",
+      "clubAr": "ليفانتي",
+      "typeAr": "انتقال وتصعيد",
+      "textAr": "انتقل للشباب ثم أتلتيكو ليفانتي قبل الفريق الأول.",
+      "sourceIds": [
+        "almeria"
+      ]
+    },
+    {
+      "whenAr": "20 ديسمبر 2021",
+      "clubAr": "ليفانتي",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "بدأ مع الفريق الأول قبل الاستمرار في الدوريين الأول والثاني.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "ألميريا",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من ليفانتي بعقد لستة مواسم وقتها.",
+      "sourceIds": [
+        "almeria"
+      ]
+    },
+    {
+      "whenAr": "23 يوليو 2025",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لخمس سنوات حتى 2030 بعد الكشف الطبي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/marc-pubill-pages-2026-2027"
+    },
+    {
+      "id": "career",
+      "title": "أتلتيكو: اتفاق ضم بوبيل ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/agreement-with-ud-almeria-over-the-transfer-of-marc-pubill"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: توقيع بوبيل حتى 2030",
+      "url": "https://www.atleticodemadrid.com/noticias/bienvenido-marc-pubill"
+    },
+    {
+      "id": "almeria",
+      "title": "ألميريا: ضم بوبيل وتاريخ ميلاده ومسيرته",
+      "url": "https://www.udalmeriasad.com/en/news/el-almeria-ficha-a-uno-de-los-jugadores-mas-deseados-en-el-mercado-marc-pubill"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

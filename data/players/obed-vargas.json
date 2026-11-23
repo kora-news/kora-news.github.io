@@ -1,0 +1,98 @@
+{
+  "id": "obed-vargas",
+  "nameAr": "أوبيد فارغاس",
+  "nameEn": "Obed Vargas",
+  "squadName": "OBED VARGAS",
+  "clubId": "atletico-madrid",
+  "birthDate": "2005-08-05",
+  "nationalityAr": "مكسيكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:24:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في منظومة سياتل ساوندرز وتاكوما ديفاينس وبدأ في الدوري الأمريكي في يوليو 2021. انضم لأتلتيكو في فبراير 2026 بعقد حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم الكبار",
+      "clubAr": "سياتل ساوندرز وتاكوما ديفاينس",
+      "typeAr": "تطوير",
+      "textAr": "تدرج في المنظومة قبل الاستقرار في الفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "23 يوليو 2021",
+      "clubAr": "سياتل ساوندرز",
+      "typeAr": "بداية بالدوري الأمريكي",
+      "textAr": "خاض أول مباراة له في الدوري الأمريكي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2021–فبراير 2026",
+      "clubAr": "سياتل ساوندرز",
+      "typeAr": "استقرار بالفريق الأول",
+      "textAr": "واصل مسيرته في أمريكا قبل الانتقال لأوروبا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2 فبراير 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2030 قادمًا من سياتل.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: ضم فارغاس وبياناته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-obed-vargas"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم أوبيد فارغاس حتى 2030",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-obed-vargas"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. يسجل المصدر صفر مشاركة وخانتي أهداف وتمريرات فارغتين؛ لا نحولهما إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
