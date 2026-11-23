@@ -105,6 +105,16 @@
       "id": "stats",
       "title": "FBref: دورتموند في الدوري الألماني 2026/27",
       "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    },
+    {
+      "id": "portrait",
+      "title": "ويكيميديا كومنز: كوبل بقميص دورتموند، Sandro Halank، 12 أغسطس 2023",
+      "url": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93090.jpg"
+    },
+    {
+      "id": "portrait-license",
+      "title": "ترخيص الصورة والتعديل: Creative Commons BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
   ],
   "stats": [
@@ -124,7 +134,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+    "file": "gregor-kobel-licensed.png",
+    "captionAr": "صورة أرشيفية بقميص حراسة بوروسيا دورتموند في 12 أغسطس 2023. تصوير Sandro Halank، Wikimedia Commons، ترخيص CC BY-SA 4.0. التعديل: قص وإزالة الخلفية، دون تغيير القميص أو الملامح.",
+    "sourceIds": [
+      "portrait",
+      "portrait-license"
+    ],
+    "currentClubId": "borussia-dortmund",
+    "license": "CC BY-SA 4.0",
+    "author": "Sandro Halank, Wikimedia Commons",
+    "rightsStatus": "licensed",
+    "status": "licensed-current-club-archive",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93090.jpg",
+    "archiveDate": "2023-08-12",
+    "modifications": "Cropped and background removed. Original face and kit retained."
   }
 }
