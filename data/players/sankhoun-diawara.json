@@ -1,0 +1,105 @@
+{
+  "id": "sankhoun-diawara",
+  "nameAr": "سانخون دياوارا",
+  "nameEn": "Sankhoun Diawara",
+  "squadName": "Sankhoun Diawara",
+  "clubId": "ac-milan",
+  "birthDate": "2006-01-13",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:15:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في سوليتير باريس وباريس شارنتون قبل أكاديمية تروا في 2020. ظهر احترافيًا في نوفمبر 2024 وانتقل إلى ميلان في يوليو 2026 حتى 2031 مع خيار تمديد.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات ثم 2020",
+      "clubAr": "سوليتير باريس وباريس شارنتون ثم تروا",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الناديين الباريسيين قبل انضمامه إلى أكاديمية تروا في 2020.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "نوفمبر 2024",
+      "clubAr": "تروا",
+      "typeAr": "بداية احترافية",
+      "textAr": "خاض بدايته مع الفريق الأول في كأس فرنسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "تروا",
+      "typeAr": "الفريق الأول",
+      "textAr": "ساهم في صعود تروا؛ يميز بيان انتقاله 17 مشاركة بكل المسابقات عن 14 مباراة في الدوري في سيرته.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "29 يوليو 2026",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال",
+      "textAr": "وقع حتى 30 يونيو 2031 مع خيار تمديد لا نعده مدة مفعلة.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة دياوارا الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/sankhoun-diawara"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: ضم دياوارا حتى 2031",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-07-29/official-statement-sankhoun-diawara"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:15:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

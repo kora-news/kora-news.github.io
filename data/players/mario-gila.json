@@ -1,0 +1,104 @@
+{
+  "id": "mario-gila",
+  "nameAr": "ماريو خيلا",
+  "nameEn": "Mario Gila",
+  "squadName": "Mario Gila",
+  "clubId": "ac-milan",
+  "birthDate": "2000-08-29",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:15:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في أندية كتالونيا ثم انضم إلى ريال مدريد في 2018. لعب مع كاستيا والفريق الأول، وانتقل إلى لاتسيو في 2022 ثم ميلان في يوليو 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "ساباديل وموليت ودام وإسبانيول",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأندية الكتالونية قبل انضمامه إلى ريال مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال ناشئين وتصعيد",
+      "textAr": "لعب مع كاستيا ووصل للفريق الأول في نهاية موسم 2021/22.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "لاتسيو",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم إلى النادي الإيطالي، وخاض بدايته في الدوري أمام سامبدوريا يوم 31 أغسطس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "10 يوليو 2026",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي ضمه من لاتسيو بعقد حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة ماريو خيلا الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/mario-gila"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: ضم ماريو خيلا حتى 2031",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-07-10/official-statement-mario-gila"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:15:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

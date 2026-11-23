@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 50,
+  "profileCount": 57,
   "players": [
     {
       "clubId": "ac-milan",
@@ -65,9 +65,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "sankhoun-diawara",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -76,9 +76,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pervis-estupinan",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -87,9 +87,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "matteo-gabbia",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -98,9 +98,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mario-gila",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -120,9 +120,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "filippo-terracciano",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -131,9 +131,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "fikayo-tomori",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -142,9 +142,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "valeri-vladimirov",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",

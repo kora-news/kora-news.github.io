@@ -1,0 +1,122 @@
+{
+  "id": "valeri-vladimirov",
+  "nameAr": "فاليري فلاديميروف",
+  "nameEn": "Valeri Ivanov Vladimirov",
+  "squadName": "Valeri Ivanov Vladimirov",
+  "clubId": "ac-milan",
+  "birthDate": "2008-06-05",
+  "nationalityAr": "بلغاري",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:15:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في بوتيف بلوفديف قبل الانتقال إلى ميلان في صيف 2024. لعب للشباب وميلان فوتورو ثم انضم رسميًا لقائمة الفريق الأول في موسم 2026/27.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى صيف 2024",
+      "clubAr": "بوتيف بلوفديف",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في أكاديمية نادي مدينته في بلغاريا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "أكاديمية ميلان",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم إلى ميلان وتدرج في فريق بريمافيرا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "17 أغسطس 2025",
+      "clubAr": "ميلان",
+      "typeAr": "استدعاء أول",
+      "textAr": "تلقى أول استدعاء للفريق الأول أمام باري في كأس إيطاليا؛ الاستدعاء لا يثبت المشاركة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "ميلان فوتورو",
+      "typeAr": "الفريق الرديف",
+      "textAr": "خاض 21 مباراة مع فوتورو وفق سيرته الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "12 يونيو 2026",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "أكد النادي التجديد دون مدة واضحة في النص المفحوص، لذلك لا ننسب إليه سنة نهاية غير مثبتة.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "2026/27",
+      "clubAr": "ميلان",
+      "typeAr": "تصعيد",
+      "textAr": "انضم رسميًا إلى قائمة الفريق الأول مع استمرار مشاركاته مع فوتورو.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة فلاديميروف الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/valeri-vladimirov"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: إعلان تجديد فلاديميروف",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-06-12/official-statement-valeri-vladimirov"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:15:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. جدول الدوري يسجل صفر مشاركة ولم يشارك أمام فروزينوني؛ الأهداف والتمريرات غير مثبتة لأن خلايا المصدر فارغة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
