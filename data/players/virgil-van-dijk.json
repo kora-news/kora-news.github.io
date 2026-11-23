@@ -114,7 +114,7 @@
     }
   ],
   "photo": {
-    "file": "virgil-van-dijk-liverpool.jpg",
+    "file": "virgil-van-dijk-liverpool.png",
     "status": "current-shirt-verified",
     "currentClubId": "liverpool",
     "sourceIds": [
@@ -124,6 +124,6 @@
     "license": "CC0 1.0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "takenAt": "2026-01-04",
-    "modifications": "Cropped and resized; no kit changes."
+    "modifications": "Cropped, resized and background removed to transparent PNG; original face and kit retained."
   }
 }
