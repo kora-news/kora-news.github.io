@@ -1,0 +1,103 @@
+{
+  "id": "lamine-yamal",
+  "nameAr": "لامين يامال",
+  "nameEn": "Lamine Yamal",
+  "squadName": "Lamine Yamal",
+  "clubId": "barcelona",
+  "birthDate": "2007-07-13",
+  "nationalityAr": "إسباني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T15:18:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "وصل لامين يامال إلى أكاديمية برشلونة في سن السابعة قادمًا من لا توريّتا، ثم ظهر مع الفريق الأول في أبريل 2023. يمتد عقده الذي وقعه في يوليو 2025 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "في سن السابعة",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "أكاديمية",
+      "textAr": "انضم إلى لا ماسيا قادمًا من ناديه المحلي لا توريّتا، وفق السيرة الرسمية. لا نحول العمر إلى يوم انتقال غير موثق.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2023",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول أمام ريال بيتيس في الفوز بأربعة أهداف دون رد، بعمر الخامسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2023/24",
+      "clubAr": "برشلونة",
+      "typeAr": "الاستقرار في الفريق الأول",
+      "textAr": "أصبح حاضرًا بانتظام مع الفريق الأول رغم تسجيله آنذاك مع الفريق الرديف، وفق النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "16 يوليو 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع تمديد عقده حتى 2031، وأكد النادي انتقاله لارتداء القميص رقم 10. هذا تاريخ التوقيع الموثق هنا، لا تاريخ بدء المفاوضات.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة لامين يامال الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/squad/129404/lamine-yamal"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: توقيع لامين يامال عقده حتى 2031",
+      "url": "https://www.fcbarcelona.com/en/news/4314700/lamine-yamal-well-win-for-sure"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل لامين يامال في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/players/82ec26c1/matchlogs/2026-2027/c12/Lamine-Yamal-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/lamine-yamal"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 13,
+      "goals": 10,
+      "assists": 9,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T15:18:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط من سجل المباريات المفصل حتى مواجهة فياريال يوم 22 نوفمبر. لا تشمل دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "lamine-yamal-barcelona-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/lamine-yamal",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/112eba5f6941f0537a5748c260983a85df42f6034767ef7f51848fa4a24c3995/lamine-yamal-fc-barcelona-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}

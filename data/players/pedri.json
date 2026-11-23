@@ -1,0 +1,134 @@
+{
+  "id": "pedri",
+  "nameAr": "بيدري",
+  "nameEn": "Pedri",
+  "squadName": "Pedri",
+  "clubId": "barcelona",
+  "birthDate": "2002-11-25",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T15:18:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج بيدري في أندية تينيريفي ثم لاس بالماس. اتفق برشلونة على ضمه في سبتمبر 2019 بانتقال يسري من يوليو 2020، وانضم فعليًا في أغسطس 2020. جدد عقده حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "تيغيستي وخوفينتود لاغونا",
+      "typeAr": "أكاديمية",
+      "textAr": "بدأ في نادي بلدته ثم لعب لناشئي لاغونا، وفق سيرة برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "أكاديمية لاس بالماس",
+      "typeAr": "أكاديمية",
+      "textAr": "انضم إلى فرق الناشئين في لاس بالماس ثم صعد إلى الفريق الأول في الموسم التالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2019/20",
+      "clubAr": "لاس بالماس",
+      "typeAr": "الفريق الأول",
+      "textAr": "لعب مع الفريق الأول في الدرجة الثانية الإسبانية. ظل في لاس بالماس بعد الاتفاق على انتقاله المستقبلي.",
+      "sourceIds": [
+        "current",
+        "deal"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2019 إلى أغسطس 2020",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق ثم انتقال",
+      "textAr": "أعلن الناديان الاتفاق يوم 2 سبتمبر 2019، وحددا سريان الانتقال من 1 يوليو 2020. وانضم اللاعب فعليًا إلى برشلونة في أغسطس وفق سيرته الرسمية. نميز هذه المراحل بدل وصف موسم 2019/20 كإعارة مؤكدة.",
+      "sourceIds": [
+        "deal",
+        "laspalmas",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "27 سبتمبر 2020",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر لأول مرة مع برشلونة في التاريخ المثبت بصفحة اللاعب الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "30 يناير 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا يمتد حتى 30 يونيو 2030، وفق إعلان النادي الرسمي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة بيدري الرسمية",
+      "url": "https://www.fcbarcelona.com/en/players/70486"
+    },
+    {
+      "id": "deal",
+      "title": "برشلونة: اتفاق انتقال بيدري في سبتمبر 2019",
+      "url": "https://www.fcbarcelona.es/es/noticias/1335629/barca-y-las-palmas-llegan-a-un-acuerdo-para-el-traspaso-de-pedri"
+    },
+    {
+      "id": "laspalmas",
+      "title": "لاس بالماس: تاريخ سريان انتقال بيدري",
+      "url": "https://www.udlaspalmas.es/en/news/ud-las-palmas-and-fc-barcelona-strike-a-deal-to-transfer-pedri"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد بيدري حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4207990/pedri-signs-to-stay-with-barca-until-2030"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل بيدري في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/players/0d9b2d31/matchlogs/2026-2027/c12/Pedri-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/pedri"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 13,
+      "goals": 1,
+      "assists": 3,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T15:18:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط من سجل المباريات المفصل حتى مواجهة فياريال يوم 22 نوفمبر. لا تشمل دوري الأبطال أو المنتخب. ملخص اللاعب أعلى المصدر كان متأخرًا بمباراة؛ اعتمدنا صفوف السجل التي تشمل ظهوره أمام فياريال."
+    }
+  ],
+  "photo": {
+    "file": "pedri-barcelona-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/pedri",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/fae526b5415da528a97a2da050cbba1dbde0615834f1eb77694e9705e7ed88de/pedri-fc-barcelona-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}
