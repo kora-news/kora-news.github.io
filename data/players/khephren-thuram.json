@@ -1,0 +1,109 @@
+{
+  "id": "khephren-thuram",
+  "nameAr": "كيفرين تورام",
+  "nameEn": "Khéphren Thuram",
+  "squadName": "Khéphren Thuram",
+  "clubId": "juventus",
+  "birthDate": "2001-03-26",
+  "nationalityAr": "فرنسي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في أندية فرنسا ثم موناكو، وانتقل لنيس في 2019. وصل ليوفنتوس في صيف 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2007–2013",
+      "clubAr": "أولمبيك نويي",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ قرب باريس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2016",
+      "clubAr": "بولوني بيلانكور",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه قبل موناكو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2019",
+      "clubAr": "موناكو",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر في دوري الأبطال في نوفمبر 2018.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019–2024",
+      "clubAr": "نيس",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى خمسة أعوام مع النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد لإيطاليا لاعبًا في الفريق الأول.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/khephren-thuram"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Kh%C3%A9phren_Thuram"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "randal-kolo-muani",
+  "nameAr": "راندال كولو مواني",
+  "nameEn": "Randal Kolo Muani",
+  "squadName": "Randal Kolo Muani",
+  "clubId": "juventus",
+  "birthDate": "1998-12-05",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "بدأ في فرنسا وتدرج في نانت قبل فرانكفورت وباريس سان جيرمان. أعير ليوفنتوس في 2025 ثم توتنهام، وعاد ليوفنتوس نهائيًا في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2005–2015",
+      "clubAr": "فيلبانت وترومبليه وتورسي",
+      "typeAr": "ناشئون",
+      "textAr": "محطات تكوينه قرب باريس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2019",
+      "clubAr": "نانت",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "تدرج حتى الفريق الأول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "بولوني",
+      "typeAr": "إعارة",
+      "textAr": "أعير من نانت.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2022",
+      "clubAr": "نانت",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "استمر قبل الانتقال لألمانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "آينتراخت فرانكفورت",
+      "typeAr": "انتقال دائم",
+      "textAr": "تألق في موسمه بألمانيا.",
+      "sourceIds": [
+        "history",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد للدوري الفرنسي.",
+      "sourceIds": [
+        "history",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2024/25",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "قضى فترته الأولى في تورينو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "توتنهام",
+      "typeAr": "إعارة",
+      "textAr": "لعب موسمًا في إنجلترا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2 أغسطس 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه من باريس بعقد حتى يونيو 2031.",
+      "sourceIds": [
+        "terms"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/randal-kolo-muani"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Randal_Kolo_Muani"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: عودة كولو مواني",
+      "url": "https://www.juventus.com/en/news/articles/randal-kolo-muani-returns"
+    },
+    {
+      "id": "terms",
+      "title": "يوفنتوس: الاتفاق الدائم مع باريس لكولو مواني",
+      "url": "https://www.juventus.com/images/image/private/fl_attachment/dev/rmqn9frsqodxlg8wrvxf.pdf"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 12,
+      "goals": 2,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

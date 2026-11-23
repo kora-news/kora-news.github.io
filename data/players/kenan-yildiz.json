@@ -1,0 +1,98 @@
+{
+  "id": "kenan-yildiz",
+  "nameAr": "كينان يلدز",
+  "nameEn": "Kenan Yildiz",
+  "squadName": "Kenan Yildiz",
+  "clubId": "juventus",
+  "birthDate": "2005-05-04",
+  "nationalityAr": "تركي",
+  "positionAr": "مهاجم وجناح",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في أندية ريغنسبورغ وبايرن ميونخ. انضم لشباب يوفنتوس في 2022 وصعد عبر نكست جين إلى الفريق الأول في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2012",
+      "clubAr": "زاليرن ريغنسبورغ ثم يان ريغنسبورغ",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في ألمانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2022",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "ناشئون",
+      "textAr": "قضى عشرة أعوام في الأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "يوفنتوس",
+      "typeAr": "شباب ونكست جين",
+      "textAr": "لعب للشباب والرديف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "يوفنتوس",
+      "typeAr": "تصعيد للفريق الأول",
+      "textAr": "بدأ مشاركاته مع الفريق الأول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/kenan-yildiz"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

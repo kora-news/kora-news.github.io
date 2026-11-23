@@ -1,0 +1,175 @@
+{
+  "id": "jeremie-boga",
+  "nameAr": "جيريمي بوغا",
+  "nameEn": "Jeremie Boga",
+  "squadName": "Jeremie Boga",
+  "clubId": "juventus",
+  "birthDate": "1997-01-03",
+  "nationalityAr": "إيفواري",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في مارسيليا وتشيلسي وخاض إعارات لرين وغرناطة وبرمنغهام. لعب لساسولو وأتالانتا ونيس قبل إعارة ثم انتقال دائم ليوفنتوس في 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2003–2009",
+      "clubAr": "إيه إس بي تي تي مارسيليا",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في ناديه المحلي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "الناشئون حتى 2015",
+      "clubAr": "تشيلسي",
+      "typeAr": "تكوين",
+      "textAr": "واصل تطويره في لندن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "رين",
+      "typeAr": "إعارة",
+      "textAr": "خرج من تشيلسي لاكتساب الخبرة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "غرناطة",
+      "typeAr": "إعارة",
+      "textAr": "لعب في إسبانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة وفريق أول",
+      "textAr": "شارك رسميًا قبل الإعارة التالية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "برمنغهام سيتي",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا في التشامبيونشيب.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "ساسولو",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الإيطالية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2022",
+      "clubAr": "أتالانتا",
+      "typeAr": "إعارة مع إلزام بالشراء",
+      "textAr": "بدأت فترته بإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "أتالانتا",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بعد الإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "نيس",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد للدوري الفرنسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2025/26",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "بدأت فترته معارًا من نيس.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "15 يونيو 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "فعل النادي الشراء بعقد حتى يونيو 2029.",
+      "sourceIds": [
+        "purchase"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/jeremie-boga"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9mie_Boga"
+    },
+    {
+      "id": "purchase",
+      "title": "يوفنتوس: شراء بوغا نهائيًا من نيس",
+      "url": "https://www.juventus.com/en/news/articles/jeremie-boga-joins-permanently-15-06-2026"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

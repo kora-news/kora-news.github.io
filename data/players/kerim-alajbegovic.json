@@ -1,0 +1,118 @@
+{
+  "id": "kerim-alajbegovic",
+  "nameAr": "كريم ألايبيغوفيتش",
+  "nameEn": "Kerim Alajbegović",
+  "squadName": "Kerim Alajbegović",
+  "clubId": "juventus",
+  "birthDate": "2007-09-21",
+  "nationalityAr": "بوسني",
+  "positionAr": "جناح ولاعب وسط هجومي",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في كولن وليفركوزن، ثم لعب لسالزبورغ في 2025/26. أعاده ليفركوزن ببند إعادة الشراء في يوليو 2026، ثم انتقل ليوفنتوس في أغسطس.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013–2021",
+      "clubAr": "كولن",
+      "typeAr": "ناشئون",
+      "textAr": "تكون في نادي مدينته.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج حتى فريق تحت 19 عامًا.",
+      "sourceIds": [
+        "history",
+        "buyback"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "ريد بول سالزبورغ",
+      "typeAr": "انتقال مع حق إعادة شراء",
+      "textAr": "انتقل من شباب ليفركوزن؛ أكد ليفركوزن لاحقًا تفعيل بند إعادة الشراء.",
+      "sourceIds": [
+        "buyback"
+      ]
+    },
+    {
+      "whenAr": "27 مارس 2026",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "إعلان إعادة شراء",
+      "textAr": "أعلن عقدًا يبدأ في 1 يوليو 2026.",
+      "sourceIds": [
+        "buyback"
+      ]
+    },
+    {
+      "whenAr": "2 أغسطس 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه من ليفركوزن بعقد حتى يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/kerim-sam-alajbegovic"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Kerim_Alajbegovic"
+    },
+    {
+      "id": "buyback",
+      "title": "ليفركوزن: تفعيل إعادة شراء ألايبيغوفيتش من سالزبورغ",
+      "url": "https://www.bayer04.de/en-us/news/bayer04/return-from-salzburg-bayer-04-sign-forward-kerim-alajbegovic"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: ضم ألايبيغوفيتش من ليفركوزن",
+      "url": "https://www.juventus.com/en/news/articles/kerim-alajbegovic-joins"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "jeff-ekhator",
+  "nameAr": "جيف إيخاتور",
+  "nameEn": "Jeff Ekhator",
+  "squadName": "Jeff Ekhator",
+  "clubId": "juventus",
+  "birthDate": "2006-11-11",
+  "nationalityAr": "إيطالي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في دون بوسكو وجنوى وظهر في الدوري الإيطالي في 2024. انتقل ليوفنتوس نهائيًا في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2015",
+      "clubAr": "دون بوسكو",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في جنوى.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2024",
+      "clubAr": "جنوى",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024–2026",
+      "clubAr": "جنوى",
+      "typeAr": "فريق أول",
+      "textAr": "ظهر في أغسطس 2024.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/jeff-ekhator"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Ekhator"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: شراء إيخاتور من جنوى",
+      "url": "https://www.juventus.com/en/news/articles/jeff-ekhator-signs-for-juventus-01-07-26"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

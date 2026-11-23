@@ -1,0 +1,131 @@
+{
+  "id": "nick-woltemade",
+  "nameAr": "نيك فولتماده",
+  "nameEn": "Nick Woltemade",
+  "squadName": "Nick Woltemade",
+  "clubId": "juventus",
+  "birthDate": "2002-02-14",
+  "nationalityAr": "ألماني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تكون في فيردر بريمن وأعير لإلفرسبيرغ، ثم انتقل لشتوتغارت ونيوكاسل. انضم ليوفنتوس معارًا في سبتمبر 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009/10",
+      "clubAr": "فولتمرسهاوزن",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته المحلية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2022",
+      "clubAr": "فيردر بريمن",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في 2020.",
+      "sourceIds": [
+        "history",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "إلفرسبيرغ",
+      "typeAr": "إعارة",
+      "textAr": "خاض موسمًا معارًا من فيردر.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "فيردر بريمن",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد قبل انتقاله لشتوتغارت.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "شتوتغارت",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب موسمًا وفاز بالكأس الألماني.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربته الإنجليزية.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "انضم حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/nick-woltemade"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Nick_Woltemade"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: إعارة فولتماده من نيوكاسل",
+      "url": "https://www.juventus.com/en/news/articles/nick-woltemade-joins-01-09-26"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 276,
+  "profileCount": 292,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2441,9 +2441,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "manuel-locatelli",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2452,9 +2452,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "teun-koopmeiners",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2463,9 +2463,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "douglas-luiz",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2474,9 +2474,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kerim-alajbegovic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2485,9 +2485,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "khephren-thuram",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2496,9 +2496,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "weston-mckennie",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2507,9 +2507,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pape-matar-sarr",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2518,9 +2518,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "nicolas-gonzalez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2529,9 +2529,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "francisco-conceicao",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2540,9 +2540,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "randal-kolo-muani",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2551,9 +2551,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kenan-yildiz",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2562,9 +2562,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "edon-zhegrova",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2573,9 +2573,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jeremie-boga",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2584,9 +2584,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "arkadiusz-milik",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2595,9 +2595,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jeff-ekhator",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "juventus",
@@ -2606,9 +2606,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.juventus.com/en/teams/first-team-men/squad/",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "nick-woltemade",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",

@@ -1,0 +1,128 @@
+{
+  "id": "pape-matar-sarr",
+  "nameAr": "باب ماتار سار",
+  "nameEn": "Pape Matar Sarr",
+  "squadName": "Pape Matar Sarr",
+  "clubId": "juventus",
+  "birthDate": "2002-09-14",
+  "nationalityAr": "سنغالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تكون في جينيراسيون فوت ولعب لميتز. اشتراه توتنهام في 2021 وأبقاه معارًا لموسم، ثم أعاره ليوفنتوس في سبتمبر 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2015–2020",
+      "clubAr": "جينيراسيون فوت",
+      "typeAr": "تكوين",
+      "textAr": "بدأ في السنغال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "ميتز",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ مسيرته الأوروبية.",
+      "sourceIds": [
+        "history",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2021",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه من ميتز.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "ميتز",
+      "typeAr": "إعارة",
+      "textAr": "بقي موسمًا في فرنسا معارًا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022–2026",
+      "clubAr": "توتنهام",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "لعب في الدوري الإنجليزي.",
+      "sourceIds": [
+        "history",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة مع شراء مشروط",
+      "textAr": "إعارة حتى يونيو 2027 مع حق شراء يتحول لإلزام بشروط.",
+      "sourceIds": [
+        "terms"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/pape-matar-sarr"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Pape_Matar_Sarr"
+    },
+    {
+      "id": "arrival",
+      "title": "يوفنتوس: وصول باب ماتار سار",
+      "url": "https://www.juventus.com/en/news/articles/pape-matar-sarr-is-bianconero-01-09-26"
+    },
+    {
+      "id": "terms",
+      "title": "يوفنتوس: اتفاق إعارة سار وشروط الشراء",
+      "url": "https://www.juventus.com/images/image/private/fl_attachment/dev/orm7qqdap0f4ldxbgc6z.pdf"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

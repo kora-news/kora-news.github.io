@@ -1,0 +1,131 @@
+{
+  "id": "nicolas-gonzalez",
+  "nameAr": "نيكولاس غونزاليس",
+  "nameEn": "Nicolas Ivan Gonzalez",
+  "squadName": "Nicolas Ivan Gonzalez",
+  "clubId": "juventus",
+  "birthDate": "1998-04-06",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "جناح ولاعب وسط",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في أرجنتينوس جونيورز ثم شتوتغارت وفيورنتينا. وصل ليوفنتوس معارًا في 2024 ثم نهائيًا، وأعير لأتلتيكو في 2025/26 قبل العودة للقائمة الحالية.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2005–2018",
+      "clubAr": "أرجنتينوس جونيورز",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "بدأ احترافه في الأرجنتين.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–2021",
+      "clubAr": "شتوتغارت",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ثلاثة مواسم في ألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021–2024",
+      "clubAr": "فيورنتينا",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للدوري الإيطالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "بدأ معارًا من فيورنتينا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "تحول انتقاله لدائم قبل الإعارة لإسبانيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2025–يونيو 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "إعارة مع شراء مشروط",
+      "textAr": "لا نفترض تحقق شروط الشراء.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "موسم 2026/27",
+      "clubAr": "يوفنتوس",
+      "typeAr": "عودة وقائمة حالية",
+      "textAr": "مدرج مجددًا في قائمة الفريق الأول.",
+      "sourceIds": [
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/nicolas-ivan-gonzalez"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Gonz%C3%A1lez_(footballer,_born_1998)"
+    },
+    {
+      "id": "loan",
+      "title": "يوفنتوس: إعارة غونزاليس لأتلتيكو وشروط الشراء",
+      "url": "https://www.juventus.com/en/news/articles/nico-gonzalez-joins-atletico-madrid"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 6,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

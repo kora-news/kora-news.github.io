@@ -1,0 +1,161 @@
+{
+  "id": "arkadiusz-milik",
+  "nameAr": "أركاديوش ميليك",
+  "nameEn": "Arkadiusz Milik",
+  "squadName": "Arkadiusz Milik",
+  "clubId": "juventus",
+  "birthDate": "1994-02-28",
+  "nationalityAr": "بولندي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "بدأ في بولندا ثم ليفركوزن وإعارات لأوغسبورغ وأياكس. لعب لنابولي ومارسيليا قبل إعارة ليوفنتوس في 2022 وشراء دائم في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2000–2011",
+      "clubAr": "روزبوي كاتوفيتسه",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "بدأ في بولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2011–يناير 2013",
+      "clubAr": "غورنيك زابجه",
+      "typeAr": "انتقال",
+      "textAr": "لعب في الدوري البولندي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2013",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ تجربته الألمانية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "أوغسبورغ",
+      "typeAr": "إعارة",
+      "textAr": "معارًا من ليفركوزن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "أياكس",
+      "typeAr": "إعارة",
+      "textAr": "انتقل لهولندا مع خيار شراء.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال دائم",
+      "textAr": "استمر بصورة دائمة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2021",
+      "clubAr": "نابولي",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2021–2022",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "إعارة مع إلزام بالشراء",
+      "textAr": "وصل بإعارة لعام ونصف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "أولمبيك مارسيليا",
+      "typeAr": "انتقال دائم",
+      "textAr": "تحول انتقاله لدائم.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "انضم معارًا من مارسيليا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2023",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "اشتراه النادي بعد موسم الإعارة.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/arkadiusz-milik"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Arkadiusz_Milik"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

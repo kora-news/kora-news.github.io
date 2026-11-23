@@ -1,0 +1,149 @@
+{
+  "id": "francisco-conceicao",
+  "nameAr": "فرانسيسكو كونسيساو",
+  "nameEn": "Francisco Conceição",
+  "squadName": "Francisco Conceição",
+  "clubId": "juventus",
+  "birthDate": "2002-12-14",
+  "nationalityAr": "برتغالي",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:39:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية ليوفنتوس.",
+  "summaryAr": "تدرج في سبورتنغ وبورتو ولعب لأياكس. عاد لبورتو معارًا ثم نهائيًا، ووصل ليوفنتوس معارًا في 2024 قبل الشراء الدائم في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2011",
+      "clubAr": "باوك وبيلينينسش",
+      "typeAr": "ناشئون",
+      "textAr": "محطات طفولته الأولى.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2011–2017",
+      "clubAr": "سبورتنغ لشبونة",
+      "typeAr": "ناشئون",
+      "textAr": "قضى ستة أعوام بالأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "بادروينسي",
+      "typeAr": "ناشئون",
+      "textAr": "لعب قبل الاستقرار بأكاديمية بورتو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "بورتو",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في فبراير 2021.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب للفريق الأول والرديف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "بورتو",
+      "typeAr": "إعارة",
+      "textAr": "عاد معارًا من أياكس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2024",
+      "clubAr": "بورتو",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي شراء عقده.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "يوفنتوس",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمه الأول معارًا من بورتو.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "22 يوليو 2025",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا حتى يونيو 2030.",
+      "sourceIds": [
+        "purchase"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "يوفنتوس: بطاقة اللاعب ومسيرته الحالية",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/francisco-fernandes-da-conceicao"
+    },
+    {
+      "id": "squad",
+      "title": "يوفنتوس: قائمة الفريق الأول للرجال",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: يوفنتوس في الدوري الإيطالي 2026/27",
+      "url": "https://fbref.com/en/squads/e0652b02/Juventus-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Francisco_Concei%C3%A7%C3%A3o"
+    },
+    {
+      "id": "purchase",
+      "title": "يوفنتوس: شراء كونسيساو نهائيًا",
+      "url": "https://www.juventus.com/en/news/articles/francisco-conceicao-signs-a-permanent-deal"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "يوفنتوس",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:39:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط، موسم 2026/27، حتى مباراة فينيزيا في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص يوفنتوس، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
