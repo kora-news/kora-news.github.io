@@ -1,0 +1,104 @@
+{
+  "id": "vinicius-junior",
+  "nameAr": "فينيسيوس جونيور",
+  "nameEn": "Vinícius Júnior",
+  "squadName": "Vini Jr.",
+  "clubId": "real-madrid",
+  "birthDate": "2000-07-12",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T15:08:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لريال مدريد وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج فينيسيوس في أكاديمية فلامنغو ثم الفريق الأول، وانضم إلى ريال مدريد في يوليو 2018. جدد عقده مع النادي في أغسطس 2026 حتى يونيو 2032.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2017",
+      "clubAr": "أكاديمية فلامنغو",
+      "typeAr": "أكاديمية",
+      "textAr": "تدرج في ناشئي فلامنغو وفق تسلسل المسيرة في صفحته الرسمية بريال مدريد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2018",
+      "clubAr": "فلامنغو",
+      "typeAr": "الفريق الأول",
+      "textAr": "لعب للفريق الأول قبل انتقاله الفعلي إلى ريال مدريد في 2018، وفق السيرة الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2018",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى ريال مدريد في سن الثامنة عشرة، وفق بيان النادي الرسمي الأحدث عن تجديده.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "6 أغسطس 2026",
+      "clubAr": "ريال مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "اتفق مع النادي على تمديد عقده حتى 30 يونيو 2032. لا نعتمد نهاية 2027 التي كانت تخص عقدًا سابقًا.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة فينيسيوس الرسمية",
+      "url": "https://www.realmadrid.com/en-US/football/squad/vinicius-paixao-de-oliveira-junior"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: تجديد فينيسيوس حتى 2032",
+      "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-vini-jr-renovado-hasta-2032-06-08-2026"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل فينيسيوس في الدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/players/7111d552/matchlogs/2026-2027/c12/Vinicius-Junior-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/vinicius-junior"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:08:00+02:00",
+      "sourceIds": [
+        "stats",
+        "current"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط حتى مباراة سيلتا فيغو يوم 21 نوفمبر، وفق سجل المسابقة المفصل وبمقارنة إجمالي صفحة النادي. لا تشمل دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "vinicius-junior-real-madrid-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "real-madrid",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/vinicius-junior",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/04339655a21da3ed9c791629e6649745a635029cc1db7297255ffe40e6963220/vinicius-junior-real-madrid-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}

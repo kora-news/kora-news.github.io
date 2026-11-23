@@ -1,0 +1,134 @@
+{
+  "id": "kylian-mbappe",
+  "nameAr": "كيليان مبابي",
+  "nameEn": "Kylian Mbappé",
+  "squadName": "Mbappé",
+  "clubId": "real-madrid",
+  "birthDate": "1998-12-20",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T15:08:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لريال مدريد وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ مبابي في ناشئي موناكو ثم فريقه الأول، وانتقل إلى باريس سان جيرمان على سبيل الإعارة في 2017 قبل تثبيت الصفقة في 2018. انضم إلى ريال مدريد في 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013",
+      "clubAr": "أكاديمية موناكو",
+      "typeAr": "أكاديمية",
+      "textAr": "انضم إلى ناشئي موناكو في 2013، وفق السيرة المنشورة من ريال مدريد.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2 ديسمبر 2015",
+      "clubAr": "موناكو",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر لأول مرة أمام كان في الدوري الفرنسي، وفق توثيق الاتحاد الأوروبي.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "31 أغسطس 2017",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "إعارة",
+      "textAr": "انتقل من موناكو بإعارة لموسم واحد مع خيار جعل الانتقال نهائيًا في الصيف التالي، وفق خبر الاتحاد الأوروبي وقتها.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2018",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "انتقال نهائي",
+      "textAr": "بدأ انتقاله النهائي إلى باريس بعد موسم الإعارة، وفق تقرير ESPN المنشور يوم بدء الصفقة الدائمة.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "يونيو ويوليو 2024",
+      "clubAr": "ريال مدريد",
+      "typeAr": "انتقال",
+      "textAr": "أعلن ريال مدريد الاتفاق يوم 3 يونيو، ثم وقع اللاعب يوم 16 يوليو عقدًا لخمس مواسم. نفصل تاريخ الإعلان عن توقيع العقد.",
+      "sourceIds": [
+        "contract",
+        "sign"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ريال مدريد: صفحة مبابي الرسمية",
+      "url": "https://www.realmadrid.com/en-US/football/squad/kylian-mbappe"
+    },
+    {
+      "id": "arrival",
+      "title": "ريال مدريد: مسيرة مبابي عند ضمه",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-nuevo-jugador-del-real-madrid-03-06-2024"
+    },
+    {
+      "id": "loan",
+      "title": "UEFA: إعارة مبابي إلى باريس في أغسطس 2017",
+      "url": "https://www.uefa.com/uefachampionsleague/news/0257-0df0061abe10-936b1f6a50e1-1000--why-paris-made-their-move-for-kylian-mbappe/"
+    },
+    {
+      "id": "permanent",
+      "title": "ESPN: بداية انتقال مبابي النهائي إلى باريس في يوليو 2018",
+      "url": "https://www.espn.com/soccer/story/_/id/37557579/kylian-mbappe-now-fully-contract-psg-loan-expires"
+    },
+    {
+      "id": "contract",
+      "title": "ريال مدريد: إعلان الاتفاق مع مبابي",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/comunicado-oficial-mbappe-03-06-2024"
+    },
+    {
+      "id": "sign",
+      "title": "ريال مدريد: توقيع مبابي في يوليو 2024",
+      "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/kylian-mbappe-firmo-su-contrato-con-el-real-madrid-16-07-2024"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل مباريات مبابي 2026/27",
+      "url": "https://fbref.com/en/players/42fd9c7f/matchlogs/2026-2027/Kylian-Mbappe-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/kylian-mbappe"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "ريال مدريد",
+      "appearances": 13,
+      "goals": 13,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:08:00+02:00",
+      "sourceIds": [
+        "stats",
+        "current"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط حتى مباراة سيلتا فيغو يوم 21 نوفمبر، وفق سجل المسابقة المفصل وبمقارنة إجمالي صفحة النادي. لا تشمل دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "kylian-mbappe-real-madrid-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "real-madrid",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/kylian-mbappe",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/811ed9ef07a14e0dace017e7210ed71d65454bbb829c97279d43fa1011748469/kylian-mbappe-real-madrid-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}
