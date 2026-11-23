@@ -1,0 +1,127 @@
+{
+  "id": "pablo-barrios",
+  "nameAr": "بابلو باريوس",
+  "nameEn": "Pablo Barrios",
+  "squadName": "BARRIOS",
+  "clubId": "atletico-madrid",
+  "birthDate": "2003-06-15",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في موراتالاث وريال مدريد قبل أكاديمية أتلتيكو في 2017. بدأ بالفريق الأول في أكتوبر 2022 وصعد رسميًا في يناير 2023، ثم جدد حتى 2030 في مايو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل سبتمبر 2011",
+      "clubAr": "موراتالاث",
+      "typeAr": "ناشئون",
+      "textAr": "محطته السابقة لريال مدريد.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2011–2017",
+      "clubAr": "أكاديمية ريال مدريد",
+      "typeAr": "ناشئون",
+      "textAr": "قضى ست سنوات قبل أتلتيكو وفق تقرير ماركا المعاصر للانتقال.",
+      "sourceIds": [
+        "early"
+      ]
+    },
+    {
+      "whenAr": "صيف 2017",
+      "clubAr": "أكاديمية أتلتيكو مدريد",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "تؤكد مادة التجديد 2017/18، ويتوافق معها تقرير الانتقال في يونيو 2017.",
+      "sourceIds": [
+        "early",
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "29 أكتوبر 2022",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "ظهر أمام قادش ثم لعب بدوري الأبطال والكأس.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "23 يناير 2023",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تصعيد رسمي وتجديد",
+      "textAr": "أصبح لاعبًا بالفريق الأول رسميًا بعقد حتى 2028 آنذاك.",
+      "sourceIds": [
+        "promotion"
+      ]
+    },
+    {
+      "whenAr": "22 مايو 2025",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/pablo-barrios-rivas-2026-2027"
+    },
+    {
+      "id": "renewal",
+      "title": "أتلتيكو: تجديد باريوس حتى 2030",
+      "url": "https://en.atleticodemadrid.com/noticias/pablo-barrios-renews-his-contract-until-2030"
+    },
+    {
+      "id": "promotion",
+      "title": "أتلتيكو: تصعيد باريوس في يناير 2023",
+      "url": "https://en.atleticodemadrid.com/noticias/pablo-barrios-signs-contract-extension-until-2028"
+    },
+    {
+      "id": "early",
+      "title": "ماركا: انتقال باريوس من ريال مدريد في يونيو 2017",
+      "url": "https://www.marca.com/en/football/spanish-football/2017/06/27/59524488ca474136678b4632.html"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

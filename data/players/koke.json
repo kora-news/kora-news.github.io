@@ -1,0 +1,98 @@
+{
+  "id": "koke",
+  "nameAr": "كوكي",
+  "nameEn": "Koke",
+  "squadName": "KOKE",
+  "clubId": "atletico-madrid",
+  "birthDate": "1992-01-08",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في أكاديمية أتلتيكو منذ 2000، وبدأ مع الفريق الأول في سبتمبر 2009 قبل الاستقرار معه. جدد في يوليو 2026 حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2000–2011",
+      "clubAr": "أكاديمية أتلتيكو مدريد",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في فئات النادي حتى الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "19 سبتمبر 2009",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "بدأ مع الفريق الأول قبل استقراره الكامل لاحقًا.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "منذ 2011",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "استقرار بالفريق الأول",
+      "textAr": "واصل مسيرته مع ناديه دون محطة انتقال أخرى منشورة بالسيرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/jorge-resurreccion-merodio-2026-2027"
+    },
+    {
+      "id": "renewal",
+      "title": "أتلتيكو: تجديد كوكي حتى 2027",
+      "url": "https://en.atleticodemadrid.com/noticias/koke-will-continue-wearing-the-atletico-de-madrid-colours-next-season"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

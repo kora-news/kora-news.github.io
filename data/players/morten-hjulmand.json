@@ -1,0 +1,107 @@
+{
+  "id": "morten-hjulmand",
+  "nameAr": "مورتن هيولماند",
+  "nameEn": "Morten Hjulmand",
+  "squadName": "HJULMAND",
+  "clubId": "atletico-madrid",
+  "birthDate": "1999-06-25",
+  "nationalityAr": "دنماركي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في كوبنهاغن وبدأ احترافيًا بأدميرا في 2018. انتقل لليتشي في يناير 2021 وسبورتينغ في 2023 ثم أتلتيكو في يوليو 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "كوبنهاغن",
+      "typeAr": "تكوين",
+      "textAr": "تدرج قبل الاحتراف بالنمسا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2018–يناير 2021",
+      "clubAr": "أدميرا فاكر",
+      "typeAr": "انتقال وبداية احترافية",
+      "textAr": "قضى موسمين ونصف في النمسا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2021–2023",
+      "clubAr": "ليتشي",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في إيطاليا وساهم في الصعود لدوري الدرجة الأولى.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023–2026",
+      "clubAr": "سبورتينغ لشبونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطته البرتغالية قبل إسبانيا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "11 يوليو 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/morten-hjulmand-2026-2027"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم هيولماند ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-hjulmand"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

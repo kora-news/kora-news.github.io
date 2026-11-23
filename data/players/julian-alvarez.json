@@ -1,0 +1,113 @@
+{
+  "id": "julian-alvarez",
+  "nameAr": "خوليان ألفاريز",
+  "nameEn": "Julián Álvarez",
+  "squadName": "J. ALVAREZ",
+  "clubId": "atletico-madrid",
+  "birthDate": "2000-01-31",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في ريفر بليت وبدأ احترافيًا في أكتوبر 2018. اشتراه مانشستر سيتي في يناير 2022 وأبقاه معارًا في ريفر حتى الصيف، ثم لعب موسمين بإنجلترا قبل أتلتيكو في أغسطس 2024 حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "أكاديمية ريفر بليت",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل الفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "27 أكتوبر 2018–يناير 2022",
+      "clubAr": "ريفر بليت",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ بالفريق الأول واستمر حتى صفقة سيتي.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "31 يناير 2022",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "وقع لسيتي وأعلن بقاؤه معارًا لريفر حتى يوليو على الأقل.",
+      "sourceIds": [
+        "city"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022–2024",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "لعب موسمين في إنجلترا قبل أتلتيكو.",
+      "sourceIds": [
+        "arrival",
+        "city"
+      ]
+    },
+    {
+      "whenAr": "12 أغسطس 2024",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من سيتي بعقد حتى 2030.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/julian-alvarez-2026-2027"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم ألفاريز ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-julian-alvarez"
+    },
+    {
+      "id": "city",
+      "title": "مانشستر سيتي: شراء ألفاريز وإعارته لريفر",
+      "url": "https://www.mancity.com/news/mens/manchester-city-complete-signing-of-julian-alvarez-63779231"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 4,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 166,
+  "profileCount": 179,
   "players": [
     {
       "clubId": "ac-milan",
@@ -670,9 +670,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rodrigo-mendoza",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -681,9 +681,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "johnny-cardoso",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -692,9 +692,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "koke",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -703,9 +703,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lee-kang-in",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -714,9 +714,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pablo-barrios",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -725,9 +725,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alex-baena",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -736,9 +736,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marcos-llorente",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -747,9 +747,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "arnau-ortiz",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -758,9 +758,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "giuliano-simeone",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -769,9 +769,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "morten-hjulmand",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -791,9 +791,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ademola-lookman",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -802,9 +802,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jonathan-david",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "atletico-madrid",
@@ -813,9 +813,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "julian-alvarez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",

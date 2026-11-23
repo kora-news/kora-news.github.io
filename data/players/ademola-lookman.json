@@ -1,0 +1,130 @@
+{
+  "id": "ademola-lookman",
+  "nameAr": "أديمولا لوكمان",
+  "nameEn": "Ademola Lookman",
+  "squadName": "LOOKMAN",
+  "clubId": "atletico-madrid",
+  "birthDate": "1997-10-20",
+  "nationalityAr": "نيجيري",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في واترلو وتشارلتون ثم إيفرتون، وأعير للايبزيغ قبل شرائه. خاض إعارتين لفولهام وليستر ثم انتقل لأتالانتا في 2022 وأتلتيكو في فبراير 2026 حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم نوفمبر 2015",
+      "clubAr": "واترلو وتشارلتون",
+      "typeAr": "تكوين وبداية احترافية",
+      "textAr": "ظهر بالفريق الأول لتشارلتون في نوفمبر 2015.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2017",
+      "clubAr": "إيفرتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "بدأ مرحلته بالدوري الإنجليزي.",
+      "sourceIds": [
+        "atalanta"
+      ]
+    },
+    {
+      "whenAr": "يناير–صيف 2018",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "إعارة",
+      "textAr": "أعير من إيفرتون ثم عاد إليه.",
+      "sourceIds": [
+        "atalanta"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد هذه المرة بانتقال دائم.",
+      "sourceIds": [
+        "atalanta"
+      ]
+    },
+    {
+      "whenAr": "2020/21 ثم 2021/22",
+      "clubAr": "فولهام ثم ليستر سيتي",
+      "typeAr": "إعارتان",
+      "textAr": "أعير للناديين الإنجليزيين من لايبزيغ.",
+      "sourceIds": [
+        "atalanta"
+      ]
+    },
+    {
+      "whenAr": "4 أغسطس 2022",
+      "clubAr": "أتالانتا",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من لايبزيغ بصفة نهائية.",
+      "sourceIds": [
+        "atalanta"
+      ]
+    },
+    {
+      "whenAr": "2 فبراير 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من أتالانتا بعقد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بيانات لوكمان ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-lookman"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم لوكمان حتى 2030",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-lookman"
+    },
+    {
+      "id": "atalanta",
+      "title": "أتالانتا: ضم لوكمان وتسلسل إعاراته",
+      "url": "https://en.atalanta.it/news/welcome-lookman"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

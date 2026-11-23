@@ -1,0 +1,107 @@
+{
+  "id": "lee-kang-in",
+  "nameAr": "لي كانغ إن",
+  "nameEn": "Lee Kang-in",
+  "squadName": "KANG IN",
+  "clubId": "atletico-madrid",
+  "birthDate": "2001-02-19",
+  "nationalityAr": "كوري جنوبي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "وصل لأكاديمية فالنسيا في العاشرة وظهر بالفريق الأول في أكتوبر 2018. انتقل لمايوركا في 2021 وباريس في 2023، ثم لأتلتيكو في يوليو 2026 حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن 10",
+      "clubAr": "أكاديمية فالنسيا",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج نحو الفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "30 أكتوبر 2018",
+      "clubAr": "فالنسيا",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "ظهر في كأس الملك واستمر حتى 2021.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2021–2023",
+      "clubAr": "مايوركا",
+      "typeAr": "انتقال",
+      "textAr": "قضى موسمين قبل باريس.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023–2026",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب ثلاثة مواسم في فرنسا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "25 يوليو 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2031 قادمًا من باريس.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بيانات لي كانغ إن ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/kang-in-lee-signs-with-atletico-de-madrid"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم لي كانغ إن حتى 2031",
+      "url": "https://en.atleticodemadrid.com/noticias/kang-in-lee-signs-with-atletico-de-madrid"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 13,
+      "goals": 2,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

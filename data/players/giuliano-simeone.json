@@ -1,0 +1,116 @@
+{
+  "id": "giuliano-simeone",
+  "nameAr": "جوليانو سيميوني",
+  "nameEn": "Giuliano Simeone",
+  "squadName": "GIULIANO",
+  "clubId": "atletico-madrid",
+  "birthDate": "2002-12-18",
+  "nationalityAr": "إسباني وأرجنتيني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "انضم لأكاديمية أتلتيكو في 2019 وتدرج للرديف، ثم خاض إعارتين لسرقسطة وألافيس. استقر بالفريق الأول منذ 2024 وجدد في يناير 2026 حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2019–2022",
+      "clubAr": "أكاديمية أتلتيكو والرديف",
+      "typeAr": "ناشئون وتصعيد",
+      "textAr": "تدرج ووصل للرديف قبل الإعارات.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "20 أبريل 2022",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "ظهر في الدوري أمام غرناطة.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "ريال سرقسطة",
+      "typeAr": "إعارة",
+      "textAr": "أعير لموسم في الدرجة الثانية.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "ألافيس",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا معارًا قبل العودة.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "أصبح عضوًا دائمًا بالفريق الأول.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "15 يناير 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/giuliano-simeone-baldini-2026-2027"
+    },
+    {
+      "id": "renewal",
+      "title": "أتلتيكو: تجديد جوليانو وتسلسل إعاراته",
+      "url": "https://en.atleticodemadrid.com/noticias/giuliano-signs-contract-extension-until-2030"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 13,
+      "goals": 4,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

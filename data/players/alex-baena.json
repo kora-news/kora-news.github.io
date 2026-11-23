@@ -1,0 +1,107 @@
+{
+  "id": "alex-baena",
+  "nameAr": "أليكس باينا",
+  "nameEn": "Álex Baena",
+  "squadName": "ÁLEX B.",
+  "clubId": "atletico-madrid",
+  "birthDate": "2001-07-20",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في فياريال منذ 2011 وبدأ بالفريق الأول في يوليو 2020. أعير لجيرونا في 2021/22 ثم عاد لفياريال قبل انتقاله لأتلتيكو في يوليو 2025 حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2020",
+      "clubAr": "أكاديمية فياريال",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج حتى الفريق الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "13 يوليو 2020",
+      "clubAr": "فياريال",
+      "typeAr": "بداية بالفريق الأول",
+      "textAr": "ظهر في الدوري أمام ريال سوسيداد.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "جيرونا",
+      "typeAr": "إعارة",
+      "textAr": "لعب معارًا وساهم في صعود الفريق للدوري الأول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022–2025",
+      "clubAr": "فياريال",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد واستمر قبل الانتقال لأتلتيكو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2 يوليو 2025",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع لخمس سنوات حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بيانات باينا ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-baena"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم باينا حتى 2030",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-baena"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 13,
+      "goals": 6,
+      "assists": 3,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

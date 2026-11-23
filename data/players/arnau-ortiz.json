@@ -1,0 +1,143 @@
+{
+  "id": "arnau-ortiz",
+  "nameAr": "أرناو أورتيز",
+  "nameEn": "Arnau Ortiz",
+  "squadName": "ARNAU ORTIZ",
+  "clubId": "atletico-madrid",
+  "birthDate": "2001-10-29",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في فيغيريس ولعب لبيرالادا، ثم جيرونا الذي أعاره لأربعة أندية. لعب لشلاسك فروتسواف في 2024/25 قبل رديف أتلتيكو في 2025 وتصعيده للفريق الأول في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2019–2021",
+      "clubAr": "فيغيريس ثم بيرالادا",
+      "typeAr": "تكوين وبدايات",
+      "textAr": "تدرج في فيغيريس ثم لعب لبيرالادا.",
+      "sourceIds": [
+        "arrival",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "جيرونا",
+      "typeAr": "انتقال",
+      "textAr": "انضم لجيرونا وخرج لاحقًا في إعارات.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "بينيا ديبورتيفا",
+      "typeAr": "إعارة",
+      "textAr": "أعير من جيرونا.",
+      "sourceIds": [
+        "arrival",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "ريال مورسيا",
+      "typeAr": "إعارة",
+      "textAr": "محطة إعارة أخرى.",
+      "sourceIds": [
+        "arrival",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24 ثم 2024",
+      "clubAr": "إلدينسي ثم قرطاجنة",
+      "typeAr": "إعارتان",
+      "textAr": "قضى فترتي إعارة ضمن عقده مع جيرونا.",
+      "sourceIds": [
+        "arrival",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "شلاسك فروتسواف",
+      "typeAr": "انتقال",
+      "textAr": "انتقل للنادي البولندي قبل أتلتيكو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2025",
+      "clubAr": "أتلتيكو مادرينييو",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم للرديف بعقد مع النادي حتى 30 يونيو 2028.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "17 أغسطس 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تصعيد",
+      "textAr": "أصبح لاعبًا بالفريق الأول بعد موسم مع الرديف.",
+      "sourceIds": [
+        "promotion"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/arnau-ortiz-sanchez-2026-2027"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم أرناو ومسيرته وإعاراته",
+      "url": "https://www.atleticodemadrid.com/noticias/arnau-ortiz-nuevo-refuerzo-para-el-ataque-del-atletico-madrileno"
+    },
+    {
+      "id": "promotion",
+      "title": "أتلتيكو: تصعيد أرناو للفريق الأول",
+      "url": "https://en.atleticodemadrid.com/noticias/arnau-ortiz-becomes-a-first-team-player"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

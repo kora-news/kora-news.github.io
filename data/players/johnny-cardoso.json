@@ -1,0 +1,98 @@
+{
+  "id": "johnny-cardoso",
+  "nameAr": "جوني كاردوسو",
+  "nameEn": "Johnny Cardoso",
+  "squadName": "JOHNNY",
+  "clubId": "atletico-madrid",
+  "birthDate": "2001-09-20",
+  "nationalityAr": "أمريكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في أفاي وكريسيوما وإنترناسيونال، وبدأ احترافيًا في سبتمبر 2019. انتقل لريال بيتيس في شتاء 2023/24 ثم لأتلتيكو في يوليو 2025 حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "أفاي ثم كريسيوما",
+      "typeAr": "تكوين",
+      "textAr": "محطتاه قبل إنترناسيونال.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "الناشئون ثم 15 سبتمبر 2019",
+      "clubAr": "إنترناسيونال",
+      "typeAr": "تدرج وبداية احترافية",
+      "textAr": "ظهر بالفريق الأول أمام أتلتيكو مينيرو.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "شتاء 2023/24",
+      "clubAr": "ريال بيتيس",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من البرازيل وقضى موسمًا ونصفًا في إسبانيا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "16 يوليو 2025",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من بيتيس بعقد حتى 2030.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: كاردوسو ومسيرته",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-johnny-cardoso"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم كاردوسو حتى 2030",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-johnny-cardoso"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

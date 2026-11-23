@@ -1,0 +1,113 @@
+{
+  "id": "jonathan-david",
+  "nameAr": "جوناثان ديفيد",
+  "nameEn": "Jonathan David",
+  "squadName": "J. DAVID",
+  "clubId": "atletico-madrid",
+  "birthDate": "2000-01-14",
+  "nationalityAr": "كندي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تطور في أوتاوا ثم انتقل لغينت مطلع 2018 وليل في 2020 ويوفنتوس في 2025. انضم لأتلتيكو معارًا لموسم 2026/27، وليس بانتقال دائم.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون",
+      "clubAr": "أوتاوا",
+      "typeAr": "تكوين",
+      "textAr": "جذبت مستوياته في العاصمة الكندية اهتمام غينت.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "مطلع 2018–2020",
+      "clubAr": "غينت",
+      "typeAr": "انتقال",
+      "textAr": "خاض موسمين في بلجيكا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2020–2025",
+      "clubAr": "ليل",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى خمسة أعوام قبل إيطاليا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2025",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال",
+      "textAr": "انضم للنادي الإيطالي بعد ليل.",
+      "sourceIds": [
+        "juve"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "إعارة",
+      "textAr": "انضم من يوفنتوس لموسم 2026/27؛ لا نصف الصفقة بأنها شراء.",
+      "sourceIds": [
+        "arrival",
+        "juve"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/jonathan-david-2026-2027"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: إعارة جوناثان ديفيد",
+      "url": "https://en.atleticodemadrid.com/noticias/welcome-jonathan-david"
+    },
+    {
+      "id": "juve",
+      "title": "يوفنتوس: إعارة ديفيد لأتلتيكو موسم 2026/27",
+      "url": "https://www.juventus.com/en/news/articles/jonathan-david-joins-atletico-madrid-on-loan-01-09-26"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 7,
+      "goals": 3,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

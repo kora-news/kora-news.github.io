@@ -1,0 +1,118 @@
+{
+  "id": "marcos-llorente",
+  "nameAr": "ماركوس يورينتي",
+  "nameEn": "Marcos Llorente",
+  "squadName": "MARCOS LLORENTE",
+  "clubId": "atletico-madrid",
+  "birthDate": "1995-01-30",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:32:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لأتلتيكو مدريد.",
+  "summaryAr": "تدرج في ريال مدريد منذ 2008/09 ولعب لكاستيا، ثم أعير لألافيس في 2016/17 وعاد للفريق الأول. انتقل لأتلتيكو في 2019 وجدد في 2021 حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008/09–2016",
+      "clubAr": "ريال مدريد وكاستيا",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "تدرج وظهر مع الفريق الأول في أكتوبر 2015.",
+      "sourceIds": [
+        "madrid"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "ألافيس",
+      "typeAr": "إعارة",
+      "textAr": "قضى الموسم مع ألافيس قبل العودة إلى ريال مدريد.",
+      "sourceIds": [
+        "madrid"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "ريال مدريد",
+      "typeAr": "عودة وتصعيد",
+      "textAr": "استقر بالفريق الأول بعد موسم ألافيس.",
+      "sourceIds": [
+        "madrid"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن الاتفاق مع ريال مدريد في 20 يونيو، وبدأ رسميًا مع أتلتيكو في أغسطس.",
+      "sourceIds": [
+        "arrival",
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "18 أغسطس 2021",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "أتلتيكو: بطاقة اللاعب ومسيرته",
+      "url": "https://en.atleticodemadrid.com/jugadores/marcos-llorente-moreno-2026-2027"
+    },
+    {
+      "id": "madrid",
+      "title": "ريال مدريد: مسيرة يورينتي",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/marcos-llorente-moreno"
+    },
+    {
+      "id": "arrival",
+      "title": "أتلتيكو: ضم يورينتي من ريال مدريد",
+      "url": "https://en.atleticodemadrid.com/noticias/agreement-over-the-transfer-of-marcos-llorente"
+    },
+    {
+      "id": "renewal",
+      "title": "أتلتيكو: تجديد يورينتي حتى 2027",
+      "url": "https://www.atleticodemadrid.com/noticias/marcos-llorente-renueva-hasta-2027"
+    },
+    {
+      "id": "squad",
+      "title": "أتلتيكو: قائمة الفريق الأول الحالية",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أتلتيكو بالدوري الإسباني 2026/27",
+      "url": "https://fbref.com/en/squads/db3b9613/2026-2027/c12/Atletico-Madrid-Stats-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "أتلتيكو مدريد",
+      "appearances": 13,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T18:32:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، موسم 2026/27، حتى مباراة خيتافي في 22 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص أتلتيكو مدريد، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
