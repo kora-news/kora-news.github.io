@@ -143,7 +143,18 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "marcel-sabitzer-verified-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "borussia-dortmund",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/marcel-sabitzer",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/ec98bea990e29f1a24c09cc38e479de58af5868440d504d578ce2c0a1d0ea2c9/marcel-sabitzer-borussia-dortmund-2026-27-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding and lower body where applicable; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:20:00+02:00",
+    "identityReferenceUrl": "https://www.bvb.de/de/en/teams/football/player/marcel-sabitzer.html",
+    "identityReferenceAssetUrl": "https://s7g10.scene7.com/is/image/BORUSSIADORTMUNDGMBHANDCOKGAA/sabitzer-stage-1?ts=1782835623467&dpr=off"
   }
 }

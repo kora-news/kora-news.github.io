@@ -119,7 +119,18 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "lewis-koumas-verified-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "liverpool",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/lewis-koumas",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/3693a31ad6a0a636818c2da1ba7a070b71710ea763618e1aca63fc9d846089a7/lewis-koumas-liverpool-fc-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding and lower body where applicable; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:20:00+02:00",
+    "identityReferenceUrl": "https://www.liverpoolfc.com/teams/mens-team/lewis-koumas",
+    "identityReferenceAssetUrl": "https://contentfulproxy.stadion.io/rm6ms1yxue4m/5QnrYsJD6W6thLzats7DkS/8ce4eeac3812837bb18451c47c4f16e8/lewis-koumas-hero-image.jpg?fm=webp&fit=fill&f=face&w=2000&h=1016"
   }
 }

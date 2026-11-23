@@ -142,7 +142,18 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "emre-can-verified-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "borussia-dortmund",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/emre-can",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/0e01c07991e948db800694a4e87411cac4d47ae327ec6d61d1a4e28bf93cc272/emre-can-borussia-dortmund-2026-27-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding and lower body where applicable; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:20:00+02:00",
+    "identityReferenceUrl": "https://www.bvb.de/de/en/teams/football/player/emre-can.html",
+    "identityReferenceAssetUrl": "https://s7g10.scene7.com/is/image/BORUSSIADORTMUNDGMBHANDCOKGAA/can-stage-1?ts=1782835623278&dpr=off"
   }
 }

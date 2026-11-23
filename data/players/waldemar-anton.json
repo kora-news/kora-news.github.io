@@ -87,7 +87,18 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "waldemar-anton-verified-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "borussia-dortmund",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/waldemar-anton",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/94a5dd5f065948e6dc96534aa9939f678d917a6ba55514591e9ce630324a9545/waldemar-anton-borussia-dortmund-2026-27-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding and lower body where applicable; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:20:00+02:00",
+    "identityReferenceUrl": "https://www.bvb.de/de/en/teams/football/player/waldemar-anton.html",
+    "identityReferenceAssetUrl": "https://s7g10.scene7.com/is/image/BORUSSIADORTMUNDGMBHANDCOKGAA/anton-stage-1?ts=1782835615395&dpr=off"
   }
 }
