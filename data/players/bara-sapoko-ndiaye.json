@@ -107,7 +107,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "bara-sapoko-ndiaye-bayern-munich-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "bayern-munich",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://fcbayern.com/en/teams/first-team/bara-sapoko-ndiaye",
+    "sourceAssetUrl": "https://img.fcbayern.com/image/upload/f_png/q_auto/w_1000/v1786621024/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/bara-sapoko-ndiaye.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }
