@@ -1,0 +1,148 @@
+{
+  "id": "emre-can",
+  "nameAr": "إيمري تشان",
+  "nameEn": "Emre Can",
+  "squadName": "Emre Can",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1994-01-12",
+  "nationalityAr": "ألماني",
+  "positionAr": "مدافع ولاعب وسط",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في فرانكفورت وبايرن، ثم لعب لليفركوزن وليفربول ويوفنتوس. انضم لدورتموند معارًا في يناير 2020 وتحول انتقاله لدائم في الصيف. جدد لاحقًا حتى 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2000–2006",
+      "clubAr": "بلاو غيلب فرانكفورت",
+      "typeAr": "ناشئون",
+      "textAr": "محطته الأولى قبل آينتراخت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2006–2009",
+      "clubAr": "آينتراخت فرانكفورت",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه في مدينته.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2009–2013",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر بالفريق الأول في كأس السوبر يوم 12 أغسطس 2012.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمًا قبل الانتقال لإنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2018",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب أربعة مواسم مع النادي الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018–يناير 2020",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال",
+      "textAr": "انتقل من إنجلترا لإيطاليا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2020",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "إعارة",
+      "textAr": "بدأ بإعارة من يوفنتوس مع إمكانية تحويلها لانتقال دائم.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2020",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد النادي الاتفاق على شراء اللاعب وبدء عقده الدائم في يوليو.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "2026",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "تجديد عقد",
+      "textAr": "تؤكد سيرته الحالية اتفاق التمديد حتى 2027.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/emre-can.html"
+    },
+    {
+      "id": "loan",
+      "title": "دورتموند: إعارة تشان من يوفنتوس",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/eng/News/Overview/Germany-international-Can-joins-BVB.html"
+    },
+    {
+      "id": "permanent",
+      "title": "دورتموند: شراء تشان وبدء العقد في يوليو 2020",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Emre-Can-bis-2024-Borusse.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. لا يظهر اللاعب في جدول الإحصاءات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

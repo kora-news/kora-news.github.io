@@ -1,0 +1,156 @@
+{
+  "id": "fabio-silva",
+  "nameAr": "فابيو سيلفا",
+  "nameEn": "Fabio Silva",
+  "squadName": "Fabio Silva",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2002-07-19",
+  "nationalityAr": "برتغالي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في بورتو وبنفيكا وعاد لبورتو، ثم انتقل لوولفرهامبتون في 2020. خاض إعارات لأندرلخت وأيندهوفن ورينجرز ولاس بالماس قبل انتقاله لدورتموند في أغسطس 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2015",
+      "clubAr": "بورتو",
+      "typeAr": "ناشئون",
+      "textAr": "بداية تكوينه في البرتغال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "بنفيكا",
+      "typeAr": "ناشئون",
+      "textAr": "قضى فترة قبل العودة لبورتو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2020",
+      "clubAr": "بورتو",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر احترافيًا في موسم 2019/20.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020",
+      "clubAr": "وولفرهامبتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم للدوري الإنجليزي وهو في الثامنة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022–يناير 2023",
+      "clubAr": "أندرلخت",
+      "typeAr": "إعارة",
+      "textAr": "إعارة من وولفرهامبتون.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2023",
+      "clubAr": "بي إس في أيندهوفن",
+      "typeAr": "إعارة",
+      "textAr": "انتقل معارًا للنادي الهولندي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو–ديسمبر 2023",
+      "clubAr": "وولفرهامبتون",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد قبل إعارته التالية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2024",
+      "clubAr": "رينجرز",
+      "typeAr": "إعارة",
+      "textAr": "خاض النصف الثاني في اسكتلندا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "لاس بالماس",
+      "typeAr": "إعارة",
+      "textAr": "لعب في الدوري الإسباني معارًا من وولفرهامبتون.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "وولفرهامبتون",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد قبل انتقاله لألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من وولفرهامبتون في نهاية سوق الصيف.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/fabio-silva.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 9,
+      "goals": 3,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

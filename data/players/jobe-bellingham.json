@@ -1,0 +1,84 @@
+{
+  "id": "jobe-bellingham",
+  "nameAr": "جوب بيلينغهام",
+  "nameEn": "Jobe Bellingham",
+  "squadName": "Jobe Bellingham",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2005-09-23",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في برمنغهام وظهر احترافيًا في يناير 2022. انتقل لسندرلاند في 2023 ثم لدورتموند في يونيو 2025 بعقد حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم يناير 2022",
+      "clubAr": "برمنغهام سيتي",
+      "typeAr": "تكوين وبداية احترافية",
+      "textAr": "ظهر أمام بليموث في كأس الاتحاد وهو في السادسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023–يونيو 2025",
+      "clubAr": "سندرلاند",
+      "typeAr": "انتقال دائم",
+      "textAr": "ساعد الفريق على الصعود للدوري الممتاز في موسمه الثاني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "10 يونيو 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع لخمس سنوات حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/jobe-bellingham.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

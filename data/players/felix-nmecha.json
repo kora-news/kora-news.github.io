@@ -1,0 +1,84 @@
+{
+  "id": "felix-nmecha",
+  "nameAr": "فيليكس نميشا",
+  "nameEn": "Felix Nmecha",
+  "squadName": "Felix Nmecha",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2000-10-10",
+  "nationalityAr": "ألماني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في مانشستر سيتي ثم انتقل لفولفسبورغ في صيف 2021. انضم لدورتموند في يوليو 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2021",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج بالأكاديمية قبل الظهور مع الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2021–2023",
+      "clubAr": "فولفسبورغ",
+      "typeAr": "انتقال",
+      "textAr": "انتقل لألمانيا وقضى موسمين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من فولفسبورغ.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/felix-nmecha.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 10,
+      "goals": 5,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

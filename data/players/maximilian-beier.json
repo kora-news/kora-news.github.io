@@ -1,0 +1,111 @@
+{
+  "id": "maximilian-beier",
+  "nameAr": "ماكسيميليان باير",
+  "nameEn": "Maximilian Beier",
+  "squadName": "Maximilian Beier",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2002-10-17",
+  "nationalityAr": "ألماني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في كيرشموزر ثم كوتبوس، وانتقل لهوفنهايم في 2018. أعير لهانوفر موسمين وعاد في 2023، ثم انضم لدورتموند في أغسطس 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "كيرشموزر",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في نادي مدينته قبل الانتقال لكوتبوس.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2018",
+      "clubAr": "إنرغي كوتبوس",
+      "typeAr": "ناشئون",
+      "textAr": "واصل تكوينه قبل هوفنهايم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2018–2021",
+      "clubAr": "هوفنهايم",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر بالبوندسليغا في 8 فبراير 2020.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2021–يونيو 2023",
+      "clubAr": "هانوفر 96",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمين لاكتساب خبرة الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "هوفنهايم",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد واستقر في الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "12 أغسطس 2024",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من هوفنهايم.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/maximilian-beier.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

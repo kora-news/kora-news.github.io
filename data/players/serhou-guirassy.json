@@ -1,0 +1,166 @@
+{
+  "id": "serhou-guirassy",
+  "nameAr": "سيرهو غيراسي",
+  "nameEn": "Serhou Guirassy",
+  "squadName": "Serhou Guirassy",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1996-03-12",
+  "nationalityAr": "غيني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "بدأ في فرنسا ولعب للافال وليل مع إعارة لأوكسير، ثم كولن وأميان ورين. انضم لشتوتغارت معارًا في 2022 واشتراه في 2023، ثم انتقل لدورتموند في 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات حتى 2011",
+      "clubAr": "أميلي ومونتارجي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الناديين قبل لافال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2011–2015",
+      "clubAr": "لافال",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول قبل بلوغه الثامنة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "ليل",
+      "typeAr": "انتقال",
+      "textAr": "انضم في صيف 2015.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2016",
+      "clubAr": "أوكسير",
+      "typeAr": "إعارة",
+      "textAr": "أعير من ليل للنصف الثاني من الموسم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2016–يناير 2019",
+      "clubAr": "كولن",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربة في ألمانيا قبل العودة لفرنسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2019",
+      "clubAr": "أميان",
+      "typeAr": "إعارة",
+      "textAr": "انضم من كولن بإعارة مع خيار شراء.",
+      "sourceIds": [
+        "amiens-loan"
+      ]
+    },
+    {
+      "whenAr": "2019–2020",
+      "clubAr": "أميان",
+      "typeAr": "انتقال دائم",
+      "textAr": "أصبح انتقاله نهائيًا بعد بقاء الفريق بالدوري الفرنسي.",
+      "sourceIds": [
+        "amiens-purchase"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2020–2022",
+      "clubAr": "رين",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطته الفرنسية قبل شتوتغارت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2022–مايو 2023",
+      "clubAr": "شتوتغارت",
+      "typeAr": "إعارة",
+      "textAr": "عاد للبوندسليغا معارًا من رين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مايو 2023",
+      "clubAr": "شتوتغارت",
+      "typeAr": "انتقال دائم",
+      "textAr": "حوّل النادي الإعارة لانتقال دائم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2024",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعد موسمه التهديفي مع شتوتغارت.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/serhou-guirassy.html"
+    },
+    {
+      "id": "amiens-loan",
+      "title": "Football365: إعارة غيراسي لأميان في يناير 2019",
+      "url": "https://www.football365.fr/amiens-confirme-serhou-guirassy-cologne-8862970.html"
+    },
+    {
+      "id": "amiens-purchase",
+      "title": "Kölner Stadt-Anzeiger: تحويل انتقال غيراسي لأميان إلى دائم",
+      "url": "https://www.ksta.de/sport/1-fc-koeln/1-fc-koeln-serhou-guirassy-wechselt-fuer-fuenf-millionen-euro-zum-sc-amiens-160616"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 8,
+      "goals": 3,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "carney-chukwuemeka",
+  "nameAr": "كارني تشوكويميكا",
+  "nameEn": "Carney Chukwuemeka",
+  "squadName": "Carney Chukwuemeka",
+  "clubId": "borussia-dortmund",
+  "birthDate": "2003-10-20",
+  "nationalityAr": "نمساوي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في نورثامبتون وأستون فيلا ثم انتقل لتشيلسي في أغسطس 2022. أعير لدورتموند في فبراير 2025 وعاد إليه نهائيًا في أغسطس بعقد لخمس سنوات.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–مارس 2016",
+      "clubAr": "نورثامبتون تاون",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في أكاديمية النادي الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مارس 2016–أغسطس 2022",
+      "clubAr": "أستون فيلا",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر في الدوري الممتاز في مايو 2021.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2022",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لست سنوات عند وصوله.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "فبراير–يوليو 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "إعارة",
+      "textAr": "خاض الفترة الأولى معارًا من تشيلسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو–أغسطس 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد لفترة قصيرة قبل الاتفاق الدائم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2025",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع لخمس سنوات وأصبح انتقاله نهائيًا.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/carney-chukwuemeka.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 4,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

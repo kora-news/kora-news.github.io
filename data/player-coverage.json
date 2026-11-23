@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 192,
+  "profileCount": 200,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1429,9 +1429,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jobe-bellingham",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1440,9 +1440,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "felix-nmecha",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1451,9 +1451,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "serhou-guirassy",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1462,9 +1462,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "maximilian-beier",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1473,9 +1473,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "carney-chukwuemeka",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1506,9 +1506,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marcel-sabitzer",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1517,9 +1517,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "fabio-silva",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",
@@ -1539,9 +1539,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.bvb.de/de/en/teams/football/first-team.html",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "emre-can",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",

@@ -1,0 +1,149 @@
+{
+  "id": "marcel-sabitzer",
+  "nameAr": "مارسيل سابيتزر",
+  "nameEn": "Marcel Sabitzer",
+  "squadName": "Marcel Sabitzer",
+  "clubId": "borussia-dortmund",
+  "birthDate": "1994-03-17",
+  "nationalityAr": "نمساوي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:47:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبوروسيا دورتموند.",
+  "summaryAr": "تدرج في النمسا ولعب لأدميرا ورابيد، ثم تعاقد معه لايبزيغ في 2014 وأعاره لسالزبورغ موسمًا. انتقل لبايرن في 2021 وأعير لمانشستر يونايتد في 2023 قبل دورتموند حتى 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات حتى 2009",
+      "clubAr": "أدميرا فيلاخ، غراتسر، فينر نويشتات وأوستريا فيينا",
+      "typeAr": "ناشئون",
+      "textAr": "محطات التكوين المذكورة في سيرة دورتموند.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2009–2012",
+      "clubAr": "أدميرا فاكر مودلينغ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر احترافيًا في السادسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2013–2014",
+      "clubAr": "رابيد فيينا",
+      "typeAr": "انتقال",
+      "textAr": "لعب قبل توقيعه للايبزيغ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "مايو 2014",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "اتفاق انتقال",
+      "textAr": "وقع لأربع سنوات، مع إعارته لسالزبورغ للموسم التالي.",
+      "sourceIds": [
+        "salzburg"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "سالزبورغ",
+      "typeAr": "إعارة",
+      "textAr": "أعير من لايبزيغ وفاز بالدوري والكأس.",
+      "sourceIds": [
+        "current",
+        "salzburg"
+      ]
+    },
+    {
+      "whenAr": "2015–2021",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "استقر في الفريق الألماني.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2021",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم قبل إعارته لاحقًا ليونايتد.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2022/23",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "قضى النصف الثاني معارًا من بايرن.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023",
+      "clubAr": "بوروسيا دورتموند",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "دورتموند: بطاقة اللاعب ومسيرته",
+      "url": "https://www.bvb.de/de/en/teams/football/player/marcel-sabitzer.html"
+    },
+    {
+      "id": "salzburg",
+      "title": "Salzburger Nachrichten: توقيع لايبزيغ وإعارة سالزبورغ في 2014",
+      "url": "https://www.sn.at/salzburg/sport/sabitzer-wechsel-zu-bullen-bestaetigt-dibon-zu-rapid-art-116074"
+    },
+    {
+      "id": "arrival",
+      "title": "دورتموند: التعاقد مع سابيتزر حتى 2027",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/eng/News/Overview/BVB-sign-Marcel-Sabitzer.html"
+    },
+    {
+      "id": "squad",
+      "title": "دورتموند: قائمة الفريق الأول",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: دورتموند في الدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/add600ae/2026-2027/c20/Dortmund-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بوروسيا دورتموند",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T18:47:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة بوروسيا مونشنغلادباخ في 21 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بوروسيا دورتموند، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
