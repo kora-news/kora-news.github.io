@@ -106,7 +106,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "illan-meslier-arsenal-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "arsenal",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.arsenal.com/fixtures/men/players/illan-meslier-aDo8i7c0UDx3",
+    "sourceAssetUrl": "https://assets.arsenal.com/prod/images/medium_square/12624e813b99-arsenalmenssquad262730illan-meslier.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }
