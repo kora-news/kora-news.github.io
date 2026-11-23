@@ -1,0 +1,112 @@
+{
+  "id": "ronald-araujo",
+  "nameAr": "رونالد أراوخو",
+  "nameEn": "Ronald Araujo",
+  "squadName": "Ronald Araujo",
+  "clubId": "liverpool",
+  "birthDate": "1999-03-07",
+  "nationalityAr": "أوروغواياني",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "بدأ في الأوروغواي ولعب لرنتيستاس وبوسطن ريفر، ثم برشلونة ورديفه. انضم لليفربول معارًا لموسم 2026/27.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012–2015",
+      "clubAr": "هوراكان دي ريفيرا",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع هوراكان دي ريفيرا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "رنتيستاس",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع رنتيستاس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "بوسطن ريفر",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بوسطن ريفر.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2026",
+      "clubAr": "برشلونة",
+      "typeAr": "رديف وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع برشلونة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "10 أغسطس 2026",
+      "clubAr": "ليفربول",
+      "typeAr": "إعارة لموسم 2026/27",
+      "textAr": "أعلن النادي إعارة من برشلونة لهذا الموسم.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/ronald-araujo"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo"
+    },
+    {
+      "id": "arrival",
+      "title": "ليفربول: إعارة أراوخو لموسم 2026/27",
+      "url": "https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-ronald-araujo-loan"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

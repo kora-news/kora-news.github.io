@@ -1,0 +1,89 @@
+{
+  "id": "trey-nyoni",
+  "nameAr": "تري نيوني",
+  "nameEn": "Trey Nyoni",
+  "squadName": "Trey Nyoni",
+  "clubId": "liverpool",
+  "birthDate": "2007-06-30",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في ليستر ثم انضم لأكاديمية ليفربول في 2023. ظهر مع الفريق الأول في كأس إنجلترا في فبراير 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013–2023",
+      "clubAr": "ليستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ليستر سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال للأكاديمية",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2024",
+      "clubAr": "ليفربول",
+      "typeAr": "بداية رسمية",
+      "textAr": "ظهر أمام ساوثهامبتون في كأس إنجلترا.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/trey-nyoni"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Trey_Nyoni"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

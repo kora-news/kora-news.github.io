@@ -1,0 +1,116 @@
+{
+  "id": "conor-bradley",
+  "nameAr": "كونور برادلي",
+  "nameEn": "Conor Bradley",
+  "squadName": "Conor Bradley",
+  "clubId": "liverpool",
+  "birthDate": "2003-07-09",
+  "nationalityAr": "أيرلندي شمالي",
+  "positionAr": "ظهير أيمن",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في سانت باتريك ودنغانون ثم ليفربول. ظهر مع الفريق الأول في 2021 وأعير لبولتون في 2022/23 قبل العودة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012–2016",
+      "clubAr": "سانت باتريك",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع سانت باتريك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2019",
+      "clubAr": "دنغانون سويفتس",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع دنغانون سويفتس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "ليفربول",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "ليفربول",
+      "typeAr": "بداية مع الفريق الأول",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "بولتون واندررز",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع بولتون واندررز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "ليفربول",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/conor-bradley"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Conor_Bradley"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

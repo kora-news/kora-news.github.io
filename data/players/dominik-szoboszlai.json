@@ -16,12 +16,11 @@
       "goals": 2,
       "assists": 1,
       "through": "2026-11-22",
-      "checkedAt": "2026-11-23T14:21:00+02:00",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
       "sourceIds": [
-        "stats",
-        "latest-match"
+        "stats-current"
       ],
-      "noteAr": "أرقام الدوري فقط من صفحة FBref الحالية حتى مباراة مانشستر يونايتد يوم 22 نوفمبر، التي أكد تقرير النادي تسجيله فيها. بعض صفحات سجل المباريات الأقدم لا تشمل تلك المباراة؛ لا نخلطها بالأرقام المحدثة أو بأهداف المنتخب والكؤوس."
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
     }
   ],
   "id": "dominik-szoboszlai",
@@ -78,6 +77,11 @@
       "id": "photo",
       "title": "FootyLogos: مصدر الصورة المختارة",
       "url": "https://www.footylogos.com/player-pngs/dominik-szoboszlai"
+    },
+    {
+      "id": "stats-current",
+      "title": "FBref: أرقام الدوري الإنجليزي 2026/27 المحدثة",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
     }
   ],
   "career": [

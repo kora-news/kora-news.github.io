@@ -1,0 +1,130 @@
+{
+  "id": "victor-munoz",
+  "nameAr": "فيكتور مونيوز",
+  "nameEn": "Victor Munoz",
+  "squadName": "Victor Munoz",
+  "clubId": "liverpool",
+  "birthDate": "2003-07-13",
+  "nationalityAr": "إسباني",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في سان غابرييل وبرشلونة ودام وريال مدريد، ثم لعب لأوساسونا قبل انضمامه لليفربول في صيف 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012–2014",
+      "clubAr": "سان غابرييل",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع سان غابرييل.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2017",
+      "clubAr": "برشلونة",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع برشلونة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2021",
+      "clubAr": "دام",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع دام.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "آر إس سي إنترناسيونال",
+      "typeAr": "فريق تطوير",
+      "textAr": "لعب قبل كاستيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "ريال مدريد",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع ريال مدريد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "أوساسونا",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع أوساسونا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "18 يونيو 2026",
+      "clubAr": "ليفربول",
+      "typeAr": "إعلان الاتفاق",
+      "textAr": "أعلن النادي الاتفاق على ضمه من أوساسونا للصيف.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/victor-munoz"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Mu%C3%B1oz_(footballer%2C_born_2003)"
+    },
+    {
+      "id": "arrival",
+      "title": "ليفربول: الاتفاق على ضم فيكتور مونيوز",
+      "url": "https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-spain-forward-victor-munoz"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 10,
+      "goals": 3,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

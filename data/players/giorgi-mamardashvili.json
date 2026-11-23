@@ -1,0 +1,139 @@
+{
+  "id": "giorgi-mamardashvili",
+  "nameAr": "جيورجي مامارداشفيلي",
+  "nameEn": "Giorgi Mamardashvili",
+  "squadName": "Giorgi Mamardashvili",
+  "clubId": "liverpool",
+  "birthDate": "2000-09-29",
+  "nationalityAr": "جورجي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في غاغرا ودينامو تبليسي وأعير لروستافي ولوكوموتيف. لعب لفالنسيا، واتفق على انتقاله لليفربول في 2024 مع وصوله الفعلي في 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2012",
+      "clubAr": "غاغرا",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع غاغرا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2021",
+      "clubAr": "دينامو تبليسي",
+      "typeAr": "ناشئون وفريق أول مسجل",
+      "textAr": "محطة في مسيرة اللاعب مع دينامو تبليسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2020",
+      "clubAr": "روستافي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع روستافي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "لوكوموتيف تبليسي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع لوكوموتيف تبليسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "فالنسيا",
+      "typeAr": "إعارة أولية",
+      "textAr": "محطة في مسيرة اللاعب مع فالنسيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "ديسمبر 2021",
+      "clubAr": "فالنسيا",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع فالنسيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024",
+      "clubAr": "ليفربول",
+      "typeAr": "اتفاق انتقال مؤجل",
+      "textAr": "استمر مع فالنسيا حتى نهاية موسم 2024/25.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "ليفربول",
+      "typeAr": "انضمام للفريق",
+      "textAr": "بدأ اللعب للنادي بعد بقائه موسمًا أخيرًا في إسبانيا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/giorgi-mamardashvili"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Giorgi_Mamardashvili"
+    },
+    {
+      "id": "arrival",
+      "title": "ليفربول: اتفاق 2024 على انضمام مامارداشفيلي في 2025",
+      "url": "https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-giorgi-mamardashvili"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

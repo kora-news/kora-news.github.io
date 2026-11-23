@@ -1,0 +1,98 @@
+{
+  "id": "jeremie-frimpong",
+  "nameAr": "جيريمي فريمبونغ",
+  "nameEn": "Jeremie Frimpong",
+  "squadName": "Jeremie Frimpong",
+  "clubId": "liverpool",
+  "birthDate": "2000-12-10",
+  "nationalityAr": "هولندي",
+  "positionAr": "ظهير وجناح خلفي",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في مانشستر سيتي ثم لعب لسيلتيك وباير ليفركوزن. انتقل لليفربول في مايو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2019",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع مانشستر سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–يناير 2021",
+      "clubAr": "سيلتيك",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع سيلتيك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع باير ليفركوزن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "مايو 2025",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/jeremie-frimpong"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Jeremie_Frimpong"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

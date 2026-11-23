@@ -1,0 +1,153 @@
+{
+  "id": "vitezslav-jaros",
+  "nameAr": "فيتيسلاف ياروش",
+  "nameEn": "Vitezslav Jaros",
+  "squadName": "Vitezslav Jaros",
+  "clubId": "liverpool",
+  "birthDate": "2001-07-23",
+  "nationalityAr": "تشيكي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في بريبرام وسلافيا براغ ثم ليفربول. خاض إعارات في أيرلندا وإنجلترا والنمسا وهولندا قبل العودة للقائمة الحالية.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2011",
+      "clubAr": "بريبرام",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع بريبرام.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2011–2017",
+      "clubAr": "سلافيا براغ",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع سلافيا براغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2020",
+      "clubAr": "ليفربول",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "سانت باتريك أتلتيك",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع سانت باتريك أتلتيك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الأول من 2022",
+      "clubAr": "نوتس كاونتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع نوتس كاونتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "ستوكبورت كاونتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع ستوكبورت كاونتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2023/24",
+      "clubAr": "شتورم غراتس",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع شتورم غراتس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أكتوبر 2024",
+      "clubAr": "ليفربول",
+      "typeAr": "بداية رسمية للفريق الأول",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "أياكس",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع أياكس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2026/27",
+      "clubAr": "ليفربول",
+      "typeAr": "عودة وقائمة حالية",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history",
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/vitezslav-jaros"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADt%C4%9Bzslav_Jaro%C5%A1"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "freddie-woodman",
+  "nameAr": "فريدي وودمان",
+  "nameEn": "Freddie Woodman",
+  "squadName": "Freddie Woodman",
+  "clubId": "liverpool",
+  "birthDate": "1997-03-04",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في كريستال بالاس ونيوكاسل وخاض إعارات متعددة. لعب لبريستون من 2022 ثم انضم لليفربول في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2013",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع كريستال بالاس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2022",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع نيوكاسل يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014",
+      "clubAr": "هارتلبول يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع هارتلبول يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015",
+      "clubAr": "كرولي تاون",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع كرولي تاون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017",
+      "clubAr": "كيلمارنوك",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع كيلمارنوك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "أبردين",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع أبردين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "سوانزي سيتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع سوانزي سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2021/22",
+      "clubAr": "بورنموث",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع بورنموث.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2025",
+      "clubAr": "بريستون نورث إند",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بريستون نورث إند.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2025",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/freddie-woodman"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Freddie_Woodman"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

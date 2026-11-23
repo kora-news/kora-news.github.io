@@ -1,0 +1,103 @@
+{
+  "id": "bradley-barcola",
+  "nameAr": "برادلي باركولا",
+  "nameEn": "Bradley Barcola",
+  "squadName": "Bradley Barcola",
+  "clubId": "liverpool",
+  "birthDate": "2002-09-02",
+  "nationalityAr": "فرنسي",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في فيلوربان وليون، ثم لعب لباريس سان جيرمان من 2023. انضم لليفربول في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2010",
+      "clubAr": "بوير فيلوربان",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع بوير فيلوربان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2023",
+      "clubAr": "ليون",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع ليون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع باريس سان جيرمان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "31 أغسطس 2026",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/bradley-barcola"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Bradley_Barcola"
+    },
+    {
+      "id": "arrival",
+      "title": "ليفربول: التعاقد مع باركولا",
+      "url": "https://www.liverpoolfc.com/news/liverpool-sign-bradley-barcola-paris-saint-germain"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 4,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

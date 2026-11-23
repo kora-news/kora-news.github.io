@@ -1,0 +1,125 @@
+{
+  "id": "alexis-mac-allister",
+  "nameAr": "أليكسيس ماك أليستر",
+  "nameEn": "Alexis Mac Allister",
+  "squadName": "Alexis Mac Allister",
+  "clubId": "liverpool",
+  "birthDate": "1998-12-24",
+  "nationalityAr": "أرجنتيني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في الأرجنتين ولعب لأرجنتينوس، ثم اشتراه برايتون وأعاره لناديه السابق وبوكا جونيورز. انضم لليفربول في يونيو 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "ديبورتيفو باركي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ديبورتيفو باركي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "الناشئون–2019",
+      "clubAr": "أرجنتينوس جونيورز",
+      "typeAr": "تكوين وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع أرجنتينوس جونيورز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2019",
+      "clubAr": "برايتون أند هوف ألبيون",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع برايتون أند هوف ألبيون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "أرجنتينوس جونيورز",
+      "typeAr": "إعارة بعد البيع",
+      "textAr": "محطة في مسيرة اللاعب مع أرجنتينوس جونيورز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "بوكا جونيورز",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع بوكا جونيورز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2023",
+      "clubAr": "برايتون أند هوف ألبيون",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "محطة في مسيرة اللاعب مع برايتون أند هوف ألبيون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2023",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/alexis-mac-allister"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Alexis_Mac_Allister"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 11,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "milos-kerkez",
+  "nameAr": "ميلوش كيركيز",
+  "nameEn": "Milos Kerkez",
+  "squadName": "Milos Kerkez",
+  "clubId": "liverpool",
+  "birthDate": "2003-11-07",
+  "nationalityAr": "مجري",
+  "positionAr": "ظهير أيسر",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في صربيا والنمسا والمجر ثم ميلان. لعب لألكمار وبورنموث قبل انتقاله لليفربول في يونيو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات–2014",
+      "clubAr": "فرباس",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع فرباس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2019",
+      "clubAr": "رابيد فيينا",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع رابيد فيينا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "هودميزوفاشارهلي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع هودميزوفاشارهلي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2021",
+      "clubAr": "غيور",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع غيور.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2022",
+      "clubAr": "ميلان",
+      "typeAr": "تكوين وفريق أول مسجل",
+      "textAr": "لم يشارك في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "ألكمار",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ألكمار.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "بورنموث",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بورنموث.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2025",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/milos-kerkez"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Milos_Kerkez"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

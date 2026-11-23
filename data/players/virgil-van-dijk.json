@@ -16,12 +16,11 @@
       "goals": 0,
       "assists": 0,
       "through": "2026-11-22",
-      "checkedAt": "2026-11-23T14:21:00+02:00",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
       "sourceIds": [
-        "stats",
-        "latest-match"
+        "stats-current"
       ],
-      "noteAr": "بيانات الدوري فقط من سجل FBref حتى مباراة مانشستر يونايتد يوم 22 نوفمبر. لا تشمل أهداف المنتخب أو الكؤوس."
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
     }
   ],
   "id": "virgil-van-dijk",
@@ -73,6 +72,11 @@
       "id": "photo",
       "title": "FootyLogos: مصدر الصورة المختارة",
       "url": "https://www.footylogos.com/player-pngs/virgil-van-dijk"
+    },
+    {
+      "id": "stats-current",
+      "title": "FBref: أرقام الدوري الإنجليزي 2026/27 المحدثة",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
     }
   ],
   "career": [

@@ -1,0 +1,125 @@
+{
+  "id": "wataru-endo",
+  "nameAr": "واتارو إندو",
+  "nameEn": "Wataru Endo",
+  "squadName": "Wataru Endo",
+  "clubId": "liverpool",
+  "birthDate": "1993-02-09",
+  "nationalityAr": "ياباني",
+  "positionAr": "وسط دفاعي ومدافع",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "بدأ في اليابان ولعب لشونان وأوراوا ثم سينت ترويدن. انتقل لشتوتغارت بإعارة ثم شراء قبل ليفربول في 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1999–2007",
+      "clubAr": "مينامي توتسوكا",
+      "typeAr": "تكوين مدرسي ومحلي",
+      "textAr": "محطة في مسيرة اللاعب مع مينامي توتسوكا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2008–2015",
+      "clubAr": "شونان بيلمار",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع شونان بيلمار.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "أوراوا ريد دايموندز",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع أوراوا ريد دايموندز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "سينت ترويدن",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع سينت ترويدن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "شتوتغارت",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع شتوتغارت.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2023",
+      "clubAr": "شتوتغارت",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع شتوتغارت.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/wataru-endo"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Wataru_End%C5%8D"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "lewis-koumas",
+  "nameAr": "لويس كوماس",
+  "nameEn": "Lewis Koumas",
+  "squadName": "Lewis Koumas",
+  "clubId": "liverpool",
+  "birthDate": "2005-09-19",
+  "nationalityAr": "ويلزي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:56:26+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لليفربول.",
+  "summaryAr": "تدرج في ترانمير ثم ليفربول وظهر رسميًا في فبراير 2024. أعير لستوك وبرمنغهام وهال قبل العودة للقائمة الحالية.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013–2016",
+      "clubAr": "ترانمير روفرز",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ترانمير روفرز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2024",
+      "clubAr": "ليفربول",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2024",
+      "clubAr": "ليفربول",
+      "typeAr": "بداية رسمية",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "ستوك سيتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع ستوك سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2025–يناير 2026",
+      "clubAr": "برمنغهام سيتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع برمنغهام سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2026",
+      "clubAr": "هال سيتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع هال سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2026/27",
+      "clubAr": "ليفربول",
+      "typeAr": "عودة وقائمة حالية",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "squad"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: بطاقة اللاعب الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/lewis-koumas"
+    },
+    {
+      "id": "squad",
+      "title": "ليفربول: قائمة الفريق الأول للرجال",
+      "url": "https://www.liverpoolfc.com/teams/mens-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: ليفربول في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Lewis_Koumas"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T19:56:46+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة مانشستر يونايتد في 22 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص ليفربول، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

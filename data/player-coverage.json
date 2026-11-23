@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 350,
+  "profileCount": 379,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2617,9 +2617,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alexander-isak",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2628,9 +2628,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "federico-chiesa",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2639,9 +2639,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "cody-gakpo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2650,9 +2650,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "hugo-ekitike",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2661,9 +2661,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "victor-munoz",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2672,9 +2672,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "bradley-barcola",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2683,9 +2683,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lewis-koumas",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2694,9 +2694,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rio-ngumoha",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2705,9 +2705,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jayden-danns",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2716,9 +2716,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "wataru-endo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2727,9 +2727,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "florian-wirtz",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2749,9 +2749,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alexis-mac-allister",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2760,9 +2760,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ryan-gravenberch",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2771,9 +2771,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "trey-nyoni",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2782,9 +2782,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "james-mcconnell",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2793,9 +2793,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joe-gomez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2815,9 +2815,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jeremy-jacquet",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2826,9 +2826,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "milos-kerkez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2837,9 +2837,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "conor-bradley",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2848,9 +2848,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "giovanni-leoni",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2859,9 +2859,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kostas-tsimikas",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2870,9 +2870,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jeremie-frimpong",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2881,9 +2881,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ronald-araujo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2892,9 +2892,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luke-chambers",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2903,9 +2903,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alisson-becker",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2914,9 +2914,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "giorgi-mamardashvili",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2925,9 +2925,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "freddie-woodman",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2936,9 +2936,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "vitezslav-jaros",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "liverpool",
@@ -2947,9 +2947,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "harvey-davies",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
