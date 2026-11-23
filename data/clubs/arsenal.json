@@ -105,6 +105,21 @@
       "publishedOn": "2026-05-24",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "current-squad",
+      "url": "https://www.arsenal.com/fixtures/men/players",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "publisher": "arsenal",
+      "checkedAt": "2026-11-23T13:37:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "url": "https://media-assets.arsenal.com/layout_arsenal.svg",
+      "title": "شعار النادي من موقعه الرسمي",
+      "publisher": "arsenal",
+      "checkedAt": "2026-11-23T13:37:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
@@ -391,6 +406,137 @@
     "noteAr": "الفوز 3-0 على مانشستر سيتي في كارديف. أحدث لقب رسمي مثبت، لا مباراة ودية.",
     "sourceIds": [
       "shield"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:37:00+02:00",
+    "scopeAr": "الفريق الأول للرجال كما يظهر في دليل النادي عند المراجعة. لا تشمل هذه القائمة المعارين خارج النادي أو قوائم الأكاديمية المنفصلة. المراكز وفق تصنيف النادي، وليست تشكيلًا لمباراة.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "David Raya",
+        "number": 1,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Kepa Arrizabalaga",
+        "number": 13,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Illan Meslier",
+        "number": 30,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "William Saliba",
+        "number": 2,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Cristhian Mosquera",
+        "number": 3,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Ben White",
+        "number": 4,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Piero Hincapie",
+        "number": 5,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Gabriel",
+        "number": 6,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Jurrien Timber",
+        "number": 12,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Ezri Konsa",
+        "number": 15,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Riccardo Calafiori",
+        "number": 33,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Myles Lewis-Skelly",
+        "number": 49,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Martin Odegaard",
+        "number": 8,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Eberechi Eze",
+        "number": 10,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Mikel Merino",
+        "number": 23,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Martin Zubimendi",
+        "number": 36,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Bruno Guimaraes",
+        "number": 39,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Declan Rice",
+        "number": 41,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Bukayo Saka",
+        "number": 7,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Viktor Gyökeres",
+        "number": 14,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Christos Tzolis",
+        "number": 17,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Noni Madueke",
+        "number": 20,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Kai Havertz",
+        "number": 29,
+        "positionAr": "الهجوم"
+      }
+    ]
+  },
+  "crest": {
+    "file": "arsenal.svg",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

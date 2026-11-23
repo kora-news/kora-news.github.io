@@ -165,6 +165,19 @@
       "publishedOn": "2026-11-19",
       "checkedAt": "2026-11-22T18:19:00+02:00",
       "noteAr": "يؤيد رصيد فلاهوفيتش النهائي 68 في 168 مباراة ورحيله، ولا يقدم جدولًا موحدًا لكل الهدافين التاريخيين."
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://www.juventus.com/en/teams/first-team-men/squad/",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://www.juventus.com/images/image/upload/f_auto/dev/assets/logo/juventus_logo",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
@@ -451,6 +464,167 @@
       "juve-league-honors",
       "juve-dazn",
       "juve-title-date"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Kamil Grabara",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Carlo Pinsoglio",
+        "number": 23,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Guglielmo Vicario",
+        "number": 25,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Norberto Murara Neto",
+        "number": 33,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Mehmet Zeki Çelik",
+        "number": 2,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Gleison Bremer",
+        "number": 3,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Federico Gatti",
+        "number": 4,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Lloyd Kelly",
+        "number": 6,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Pierre Kalulu",
+        "number": 15,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Andrea Cambiaso",
+        "number": 20,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Daniele Rugani",
+        "number": 24,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Jhon Lucumí",
+        "number": 26,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Juan David Cabal",
+        "number": 32,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Manuel Locatelli",
+        "number": 5,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Teun Koopmeiners",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Douglas Luiz",
+        "number": 12,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Kerim Alajbegović",
+        "number": 17,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Khéphren Thuram",
+        "number": 19,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Weston McKennie",
+        "number": 22,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Pape Matar Sarr",
+        "number": 29,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Nicolas Ivan Gonzalez",
+        "number": 31,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Francisco Conceição",
+        "number": 7,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Randal Kolo Muani",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Kenan Yildiz",
+        "number": 10,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Edon Zhegrova",
+        "number": 11,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Jeremie Boga",
+        "number": 13,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Arkadiusz Milik",
+        "number": 14,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Jeff Ekhator",
+        "number": 18,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Nick Woltemade",
+        "number": 27,
+        "positionAr": "مهاجم"
+      }
+    ]
+  },
+  "crest": {
+    "file": "juventus.png",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

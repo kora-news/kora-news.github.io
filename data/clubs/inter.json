@@ -135,6 +135,19 @@
       "publishedOn": "2026-11-22",
       "checkedAt": "2026-11-22T23:41:00+02:00",
       "noteAr": "نتيجة نهائية بعد صافرة النهاية."
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://www.inter.it/en/teams/first-team",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://media.inter.it/html/img/squadre/2017/1.png",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [],
@@ -374,6 +387,143 @@
       "inter-title",
       "inter-league-honors",
       "inter-calendar"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Josep Martínez Riera",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Aleksandar Stanković",
+        "number": 5,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "John Stones",
+        "number": 6,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Piotr  Zieliński",
+        "number": 7,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Petar Sučić",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Marcus Thuram",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Lautaro Martínez",
+        "number": 10,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Luis Henrique Tomaz de Lima",
+        "number": 11,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Raffaele Di Gennaro",
+        "number": 12,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Ange-Yoan Bonny",
+        "number": 14,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Andy Diouf",
+        "number": 17,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Hakan Çalhanoğlu",
+        "number": 20,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Curtis Jones",
+        "number": 21,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Henrikh Mkhitaryan",
+        "number": 22,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Nicolò Barella",
+        "number": 23,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Manuel Akanji",
+        "number": 25,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Benjamin Pavard",
+        "number": 28,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Carlos Augusto Zopolato Neves",
+        "number": 30,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Yann-Aurel Bisseck",
+        "number": 31,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Federico Dimarco",
+        "number": 32,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Ivan Provedel",
+        "number": 49,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Pio Esposito",
+        "number": 94,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Alessandro Bastoni",
+        "number": 95,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Djed Spence",
+        "number": 99,
+        "positionAr": "مدافع"
+      }
+    ],
+    "noteAr": "البيانات مأخوذة من قائمة النادي، بما فيها بيانات الصفحة المدمجة؛ وليست تشكيل المباراة الأخيرة."
+  },
+  "crest": {
+    "file": "inter.png",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

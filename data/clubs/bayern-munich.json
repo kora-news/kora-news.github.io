@@ -435,11 +435,152 @@
       "publishedOn": "2026-08-22",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://fcbayern.com/en/teams/first-team",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
     }
   ],
   "unresolved": [
     "حسم قائمة موحدة للهدافين العشرة من سجل النادي، خصوصاً تغطية مباريات ما قبل البوندسليجا والمسابقات التاريخية.",
     "إكمال حصر البطولات المحلية والإقليمية التاريخية دون خلطها بالبطولات الوطنية.",
     "توثيق جدول شامل لترتيب الأكثر تتويجاً؛ رصيد نوير ومولر موثق، لكن شمول ترتيب جميع اللاعبين لم يُحسم."
-  ]
+  ],
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Manuel Neuer",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Sven Ulreich",
+        "number": 26,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Jonas Urbig",
+        "number": 40,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Dayot Upamecano",
+        "number": 2,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Minjae Kim",
+        "number": 3,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Jonathan Tah",
+        "number": 4,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Nathaniel Brown",
+        "number": 11,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Alphonso Davies",
+        "number": 19,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Hiroki Ito",
+        "number": 21,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Sacha Boey",
+        "number": 23,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Josip Stanišić",
+        "number": 44,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Joshua Kimmich",
+        "number": 6,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Tom Bischof",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Jamal Musiala",
+        "number": 10,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Konrad Laimer",
+        "number": 27,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Bara Sapoko Ndiaye",
+        "number": 39,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Lennart Karl",
+        "number": 42,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Aleksandar Pavlović",
+        "number": 45,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "David Santos Daiber",
+        "number": null,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Serge Gnabry",
+        "number": 7,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Harry Kane",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Luis Díaz",
+        "number": 14,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Michael Olise",
+        "number": 17,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Ismael Saibari",
+        "number": 34,
+        "positionAr": "مهاجم"
+      }
+    ],
+    "noteAr": "إسماعيل صيباري مصنف مهاجمًا في دليل النادي. لم يُذكر رقم قميص لديفيد سانتوس دايبر في الدليل، لذلك نترك خانته بلا رقم."
+  },
+  "crest": {
+    "status": "rights-review",
+    "noteAr": "شعار بايرن قيد مراجعة حقوق الاستخدام."
+  }
 }

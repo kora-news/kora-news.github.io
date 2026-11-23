@@ -95,6 +95,21 @@
       "publishedOn": "2025-07-13",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "current-squad",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "publisher": "chelsea",
+      "checkedAt": "2026-11-23T13:37:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "url": "https://img.chelseafc.com/image/upload/f_auto,c_pad,w_230,h_230,ar_1,q_auto:best/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026-27.png",
+      "title": "شعار النادي من موقعه الرسمي",
+      "publisher": "chelsea",
+      "checkedAt": "2026-11-23T13:37:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [],
@@ -413,6 +428,172 @@
       "honors",
       "recent-honors",
       "world-final"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:37:00+02:00",
+    "scopeAr": "الفريق الأول للرجال كما يظهر في دليل النادي عند المراجعة. لا تشمل هذه القائمة المعارين خارج النادي أو قوائم الأكاديمية المنفصلة. المراكز وفق تصنيف النادي، وليست تشكيلًا لمباراة.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Emiliano Martinez",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Teddy Sharman-Lowe",
+        "number": 28,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Mike Penders",
+        "number": 39,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Gaga Slonina",
+        "number": 44,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Marco Palestra",
+        "number": 2,
+        "positionAr": "ظهير / جناح خلفي"
+      },
+      {
+        "nameEn": "Wesley Fofana",
+        "number": 3,
+        "positionAr": "قلب دفاع"
+      },
+      {
+        "nameEn": "Maxence Lacroix",
+        "number": 5,
+        "positionAr": "قلب دفاع"
+      },
+      {
+        "nameEn": "Levi Colwill",
+        "number": 6,
+        "positionAr": "قلب دفاع"
+      },
+      {
+        "nameEn": "Jorrel Hato",
+        "number": 21,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Reece James",
+        "number": 24,
+        "positionAr": "مدافع / جناح خلفي / وسط"
+      },
+      {
+        "nameEn": "Malo Gusto",
+        "number": 27,
+        "positionAr": "ظهير أيمن"
+      },
+      {
+        "nameEn": "Pep Chavarria",
+        "number": 29,
+        "positionAr": "ظهير أيسر"
+      },
+      {
+        "nameEn": "Aaron Anselmino",
+        "number": 30,
+        "positionAr": "قلب دفاع"
+      },
+      {
+        "nameEn": "Josh Acheampong",
+        "number": 34,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Olutayo Subuloye",
+        "number": 37,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Valentin Barco",
+        "number": 4,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Jordan Henderson",
+        "number": 14,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Moises Caicedo",
+        "number": 25,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Reggie Watson",
+        "number": 31,
+        "positionAr": "وسط مركزي"
+      },
+      {
+        "nameEn": "Mahdi Nicoll-Jazuli",
+        "number": 32,
+        "positionAr": "وسط هجومي"
+      },
+      {
+        "nameEn": "Romeo Lavia",
+        "number": 45,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Pedro Neto",
+        "number": 7,
+        "positionAr": "جناح"
+      },
+      {
+        "nameEn": "Joao Pedro",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Cole Palmer",
+        "number": 10,
+        "positionAr": "وسط هجومي / جناح"
+      },
+      {
+        "nameEn": "Jamie Gittens",
+        "number": 11,
+        "positionAr": "جناح"
+      },
+      {
+        "nameEn": "Morgan Rogers",
+        "number": 17,
+        "positionAr": "وسط هجومي / جناح"
+      },
+      {
+        "nameEn": "Danny Welbeck",
+        "number": 18,
+        "positionAr": "رأس حربة"
+      },
+      {
+        "nameEn": "Emmanuel Emegha",
+        "number": 22,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Geovany Quenda",
+        "number": 23,
+        "positionAr": "جناح / جناح خلفي"
+      },
+      {
+        "nameEn": "Estevao Willian",
+        "number": 41,
+        "positionAr": "مهاجم"
+      }
+    ]
+  },
+  "crest": {
+    "file": "chelsea.png",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

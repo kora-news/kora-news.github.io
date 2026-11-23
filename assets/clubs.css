@@ -109,3 +109,20 @@
  .latest-trophy h3{font-size:1.3rem}
 }
 @media(prefers-reduced-motion:reduce){.club-tile{transition:none}.club-tile:hover{transform:none}}
+
+/* Official club marks, used for editorial identification. */
+.club-crest{display:block;width:80px;height:80px;object-fit:contain;object-position:center;background:#351759;border-radius:14px;padding:9px;flex-shrink:0}
+.club-tile .club-crest{position:absolute;inset-inline-end:22px;top:22px;width:70px;height:70px}
+.club-tile h2{max-width:calc(100% - 72px);min-height:45px;margin-block-start:24px}
+.club-profile-head>.club-crest{width:104px;height:104px;margin-block-end:18px}
+.club-squad{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-block:18px}
+.squad-player{display:flex;align-items:center;gap:14px;padding:17px 15px;border:1px solid var(--card-border);border-radius:12px;background:var(--card);min-width:0}
+.squad-player>div{min-width:0;flex:1}.squad-player h3{font-size:1rem;line-height:1.6}
+.squad-number{color:var(--gold);font-size:1.25rem;font-weight:900;min-width:30px;text-align:center;flex-shrink:0}
+.squad-name-en{font-size:.95rem;font-weight:700;overflow-wrap:anywhere;text-align:start}
+.squad-position{font-size:.78rem;color:var(--muted);margin-block-start:5px}
+@media(max-width:540px){.club-squad{grid-template-columns:1fr}.club-tile h2{font-size:1.3rem}.club-tile .club-crest{width:66px;height:66px;inset-inline-end:20px;top:20px}.squad-player{padding:15px}.club-profile-head>.club-crest{width:90px;height:90px}}
+
+.club-crest-pending{display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px dashed var(--card-border);color:var(--gold);text-align:center}.club-crest-pending bdi{font-size:1rem;font-weight:900}.club-crest-pending small{font-size:.45rem;line-height:1.5;color:var(--muted)}
+
+.crest-tottenham,.crest-juventus,.crest-real-madrid{background:#fff}

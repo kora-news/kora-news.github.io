@@ -145,6 +145,21 @@
       "publishedOn": "2026-11-22",
       "checkedAt": "2026-11-22T20:24:00+02:00",
       "noteAr": "فُحصت صفحة المباراة نفسها، وأظهرت FT ونتيجة 4-0؛ لا اعتماد على لوحة نتائج متأخرة."
+    },
+    {
+      "id": "current-squad",
+      "url": "https://www.manutd.com/en/teams/mens-team",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "publisher": "manchester-united",
+      "checkedAt": "2026-11-23T13:37:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "url": "https://contentfulproxy.stadion.io/unzgbvss5tuy/5GFoxbOTd249o0VhuZNczI/cde0cb3a7b895c6a99f2796433232819/TONAL_CREST_Black%C3%83___3x-png.png?fm=webp&f=center&w=600&h=600",
+      "title": "شعار النادي من موقعه الرسمي",
+      "publisher": "manchester-united",
+      "checkedAt": "2026-11-23T13:37:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
@@ -501,6 +516,172 @@
       "honors",
       "records",
       "fa-final"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:37:00+02:00",
+    "scopeAr": "الفريق الأول للرجال كما يظهر في دليل النادي عند المراجعة. لا تشمل هذه القائمة المعارين خارج النادي أو قوائم الأكاديمية المنفصلة. المراكز وفق تصنيف النادي، وليست تشكيلًا لمباراة.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Matheus Cunha",
+        "number": 10,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Amad",
+        "number": 16,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Shea Lacey",
+        "number": 31,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Bryan Mbeumo",
+        "number": 19,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Marcus Rashford",
+        "number": 9,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Benjamin Šeško",
+        "number": 30,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Joshua Zirkzee",
+        "number": 11,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Carlos Baleba",
+        "number": 20,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Bruno Fernandes",
+        "number": 8,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Jack Fletcher",
+        "number": 38,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Tyler Fletcher",
+        "number": 39,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Kobbie Mainoo",
+        "number": 37,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Mason Mount",
+        "number": 7,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Andrey Santos",
+        "number": 17,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Youri Tielemans",
+        "number": 18,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Manuel Ugarte",
+        "number": 25,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Harry Amass",
+        "number": 41,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Patrick Chinazaekpere Dorgu",
+        "number": 13,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Diogo Dalot",
+        "number": 2,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Matthijs de Ligt",
+        "number": 4,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Ayden Heaven",
+        "number": 26,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Harry Maguire",
+        "number": 5,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Lisandro Martínez",
+        "number": 6,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Noussair Mazraoui",
+        "number": 3,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Luke Shaw",
+        "number": 23,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Leny Yoro",
+        "number": 15,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Karl Darlow",
+        "number": 12,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Tom Heaton",
+        "number": 22,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Senne Lammens",
+        "number": 1,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Dermot Mee",
+        "number": 45,
+        "positionAr": "حراس المرمى"
+      }
+    ]
+  },
+  "crest": {
+    "file": "manchester-united.png",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

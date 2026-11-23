@@ -528,10 +528,170 @@
       "publishedOn": "2026-01-11",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": "تقرير خسارة ريال مدريد نهائي السوبر الإسباني 2026؛ لا يثبت وحده ترتيب جميع ألقاب النادي."
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://www.realmadrid.com/en-US/football/first-team/players",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://cdn.cookielaw.org/logos/c046eb22-33d5-43cd-9e7b-28a54872fef2/01a1ca77-656c-7bf2-ad20-6d5e7ad9d017/c7ef16ea-c9b3-43d5-8fc4-fe159d7c05cb/LogoRM.png",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
     "رصيد رونالدو 451 حسب عد النادي مقابل 450 حسب رابطة الليجا وأوبتا بسبب هدف 2010 المتنازع عليه مع بيبي؛ الرقمان معروضان والمختار هو عد النادي المالك",
     "أرقام خينتو وبيري وبوتراجينيو تتذبذب بهدف أو هدفين بين المراجع"
-  ]
+  ],
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Courtois",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Lunin",
+        "number": 13,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Asencio",
+        "number": 2,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "E. Militão",
+        "number": 3,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Huijsen",
+        "number": 4,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Trent",
+        "number": 12,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Konaté",
+        "number": 16,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Cucurella",
+        "number": 17,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Á. Carreras",
+        "number": 18,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Rüdiger",
+        "number": 22,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "F. Mendy",
+        "number": 23,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Dumfries",
+        "number": 24,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Bellingham",
+        "number": 5,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Camavinga",
+        "number": 6,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Valverde",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Tchouaméni",
+        "number": 14,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Arda Güler",
+        "number": 15,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Bernardo Silva",
+        "number": 20,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Thiago",
+        "number": 27,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Brahim",
+        "number": 21,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Vini Jr.",
+        "number": 7,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Endrick",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Mbappé",
+        "number": 10,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Rodrygo",
+        "number": 11,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "C. Espí",
+        "number": 19,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Diomande",
+        "number": 25,
+        "positionAr": "مهاجم"
+      }
+    ],
+    "noteAr": "تصنيف براهيم هنا مهاجم، وفق الوصف الصريح في بطاقة اللاعب الرسمية."
+  },
+  "crest": {
+    "file": "real-madrid.png",
+    "sourceIds": [
+      "club-crest"
+    ]
+  }
 }

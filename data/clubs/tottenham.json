@@ -85,6 +85,21 @@
       "publishedOn": null,
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": "يستخدم 268 لجريفز مقابل 266 في قائمة النادي؛ لم نخلط طريقتي العد."
+    },
+    {
+      "id": "current-squad",
+      "url": "https://www.tottenhamhotspur.com/teams/mens/squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "publisher": "tottenham",
+      "checkedAt": "2026-11-23T13:37:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "url": "https://www.tottenhamhotspur.com/resources/ver/v2.4.11/i/svg-output/icons.svg#icn-spurs-badge",
+      "title": "شعار النادي من موقعه الرسمي",
+      "publisher": "tottenham",
+      "checkedAt": "2026-11-23T13:37:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
@@ -412,6 +427,167 @@
     "sourceIds": [
       "honors",
       "final"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:37:00+02:00",
+    "scopeAr": "الفريق الأول للرجال كما يظهر في دليل النادي عند المراجعة. لا تشمل هذه القائمة المعارين خارج النادي أو قوائم الأكاديمية المنفصلة. المراكز وفق تصنيف النادي، وليست تشكيلًا لمباراة.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Andy Robertson",
+        "number": 3,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Tosin Adarabioyo",
+        "number": 4,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Marcos Senesi",
+        "number": 5,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Jan Paul van Hecke",
+        "number": 6,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Xavi Simons",
+        "number": 7,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Conor Gallagher",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Richarlison",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "James Maddison",
+        "number": 10,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Mathys Tel",
+        "number": 11,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Destiny Udogie",
+        "number": 13,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Archie Gray",
+        "number": 14,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Lucas Bergvall",
+        "number": 15,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Sandro Tonali",
+        "number": 16,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Sávio",
+        "number": 17,
+        "positionAr": "جناح"
+      },
+      {
+        "nameEn": "Mateus Fernandes",
+        "number": 18,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Dominic Solanke",
+        "number": 19,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Mohammed Kudus",
+        "number": 20,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Dejan Kulusevski",
+        "number": 21,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Omar Marmoush",
+        "number": 22,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Pedro Porro",
+        "number": 23,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Mykhailo Mudryk",
+        "number": 27,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Wilson Odobert",
+        "number": 28,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Rodrigo Bentancur",
+        "number": 30,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Antonin Kinsky",
+        "number": 31,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Ben Davies",
+        "number": 33,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Micky van de Ven",
+        "number": 37,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Martin Dúbravka",
+        "number": 39,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Brandon Austin",
+        "number": 40,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Luca Williams-Barnett",
+        "number": 68,
+        "positionAr": "وسط هجومي"
+      }
+    ]
+  },
+  "crest": {
+    "file": "tottenham.svg",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

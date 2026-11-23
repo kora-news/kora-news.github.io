@@ -49,6 +49,7 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
     }
   }
   if(!records.size) return [];
+  const logo=(c,r,rel)=>r?.crest?.file?`<img class="club-crest crest-${esc(c.id)}" src="${rel}assets/club-logos/${esc(r.crest.file)}" alt="شعار ${esc(c.nameAr)}" width="88" height="88" loading="eager">`:r?.crest?.status==='rights-review'?`<span class="club-crest club-crest-pending" role="img" aria-label="شعار ${esc(c.nameAr)} قيد مراجعة الحقوق"><bdi>FCB</bdi><small>حقوق الشعار<br>قيد المراجعة</small></span>`:'';
   const css='<link rel="stylesheet" href="RELPATHassets/clubs.css">';
   const pageHead=(title,desc,rel,canonical)=>head(title,desc,rel,canonical).replace('</head>',css.replace('RELPATH',rel)+'</head>');
   const date=s=>{
@@ -61,18 +62,19 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
   const label='دليل الأندية';
   const cards=CLUBS.map((c,i)=>{
     const r=records.get(c.id), ready=Boolean(r);
-    const inside=`<span class="club-tile-country">${c.leagueAr}</span><span class="club-tile-number" aria-hidden="true">${String(i+1).padStart(2,'0')}</span><h2>${c.nameAr}</h2><p lang="en" dir="ltr">${c.nameEn}</p><span class="club-tile-bottom">${ready?'التاريخ والبطولات والسجلات <span aria-hidden="true">←</span>':'قيد التوثيق'}</span>`;
+    const inside=`<span class="club-tile-country">${c.leagueAr}</span>${logo(c,r,'')}<h2>${c.nameAr}</h2><p lang="en" dir="ltr">${c.nameEn}</p><span class="club-tile-bottom">${ready?'القائمة والتاريخ والبطولات <span aria-hidden="true">←</span>':'قيد التوثيق'}</span>`;
     return `<article class="club-tile${ready?'':' pending'}" data-league="${c.leagueId}" data-name="${esc(c.nameAr+' '+c.nameEn+' '+c.id+' '+(c.id==='inter'?'إنتر ميلان Inter Milan':c.id==='tottenham'?'توتنهام هوتسبير Tottenham Hotspur Spurs':c.id==='bayern-munich'?'بايرن ميونيخ':''))}">${ready?`<a href="clubs/${c.id}.html">${inside}</a>`:`<div>${inside}</div>`}</article>`;
   }).join('\n');
   const index=pageHead(label+' | كورة نيوز','تاريخ الأندية وبطولاتها وهدافوها وسجلات لاعبيها، مع مصادر وتواريخ مراجعة واضحة.','','clubs.html')+header('','clubs')+`
 <main class="container club-directory">
-  <header class="club-directory-head"><span class="badge">التاريخ لا يُختصر في نتيجة</span><h1>دليل الأندية</h1><p>تاريخ النادي، بطولاته، واللاعبون الذين صنعوا أرقامه.</p><p class="club-scope">${genericScope}</p></header>
+  <header class="club-directory-head"><span class="badge">التاريخ لا يُختصر في نتيجة</span><h1>دليل الأندية</h1><p>شعارات الأندية، قوائم فرقها الأولى، وتاريخها وبطولاتها.</p><p class="club-scope">${genericScope}</p></header>
   <section class="club-controls" aria-label="البحث في الأندية"><label for="club-search">ابحث عن ناديك</label><input id="club-search" type="search" placeholder="اسم النادي بالعربية أو الإنجليزية" autocomplete="off"><div class="club-filters" role="group" aria-label="الدولة">${[['all','الكل'],['england','إنجلترا'],['spain','إسبانيا'],['italy','إيطاليا'],['germany','ألمانيا']].map(([id,name])=>`<button type="button" data-filter="${id}" aria-pressed="${id==='all'}">${name}</button>`).join('')}</div></section>
   <div class="club-directory-count" aria-live="polite">الأندية الظاهرة: <span id="club-visible">14</span></div><section class="club-tiles">${cards}</section><p id="club-no-results" hidden>لم نجد ناديًا بهذا الاسم. جرّب اسمًا آخر أو اختر «الكل».</p>
   <aside class="club-method"><h2>كيف تُقرأ الأرقام؟</h2><p>هذه صفحات مرجعية وليست لوحة نتائج مباشرة. لكل سجل تاريخ مراجعة ومصدر، وتُذكر اختلافات احتساب البطولات أو الأهداف بجوار الأرقام. لا نملأ أي معلومة غير مثبتة برقم تقديري.</p><p>«الأكثر تتويجًا» يعني الألقاب التي أحرزها اللاعب مع النادي نفسه، وليس إجمالي ألقابه طوال مسيرته.</p></aside>
 </main><script src="assets/clubs.js" defer></script>`+footer('');
   fs.writeFileSync(path.join(dist,'clubs.html'),index);
   fs.mkdirSync(path.join(dist,'clubs'),{recursive:true});
+  const logoPath=path.join(root,'assets','club-logos');if(fs.existsSync(logoPath))fs.cpSync(logoPath,path.join(dist,'assets','club-logos'),{recursive:true});
   const generated=['clubs.html'];
   for(const c of CLUBS) {
     const r=records.get(c.id); if(!r) continue;
@@ -102,13 +104,21 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
     const resultHTML=section('result','آخر نتيجة موثقة',resultVerified?`<p class="club-record-note">تم التحقق حتى ${esc(date(result.checkedAt||r.checkedAt))}. نتيجة مسجلة، وليست خدمة تحديث مباشر.</p><p class="club-match-meta">${esc(result.competitionAr||'')} · ${esc(date(result.playedOn))}</p><div class="club-result"><div><h3>${esc(result.homeTeamAr)}</h3><strong>${number(result.homeScore)}</strong></div><span class="club-match-final">نهاية المباراة</span><div><h3>${esc(result.awayTeamAr)}</h3><strong>${number(result.awayScore)}</strong></div></div>${typeof result.penaltyHomeScore==='number'?`<p>ركلات الترجيح: ${esc(result.homeTeamAr)} ${number(result.penaltyHomeScore)}، ${esc(result.awayTeamAr)} ${number(result.penaltyAwayScore)}.</p>`:''}${note(result.noteAr)}<div class="club-refs">${refs(result.sourceIds)}</div>`:incomplete(result.noteAr||'لم نثبت أحدث نتيجة مكتملة بعد.'));
     const trophy=r.latestTrophy||{};
     const trophyHTML=section('latest-trophy','آخر لقب رسمي',trophy.status==='verified'?`<div class="latest-trophy"><span class="badge">آخر تتويج موثق</span><h3>${esc(trophy.competitionAr)}</h3>${trophy.season?`<p>الموسم: <bdi>${esc(trophy.season)}</bdi></p>`:''}${trophy.wonOn?`<p>${esc(date(trophy.wonOn))}</p>`:''}</div>${note(trophy.noteAr)}<div class="club-refs">${refs(trophy.sourceIds)}</div>`:incomplete(trophy.noteAr||'آخر لقب رسمي قيد التوثيق.'));
+    const sq=r.squad||{};
+    if(sq.status==='verified'){
+      if(!sq.items?.length)throw new Error(c.id+' empty squad');
+      if(!sq.sourceIds?.length||sq.sourceIds.some(id=>!bySource.has(id)))throw new Error(c.id+' uncited squad');
+      const names=new Set();
+      for(const p of sq.items){if(!(p.nameAr||p.nameEn)||!p.positionAr)throw new Error(c.id+' incomplete squad member');if(names.has(p.nameEn||p.nameAr))throw new Error(c.id+' duplicate player');names.add(p.nameEn||p.nameAr);}
+    }
+    const squadHTML=section('squad','قائمة الفريق الأول',sq.status==='verified'?note(sq.scopeAr)+note(sq.noteAr)+`<p class="club-record-note">مراجعة القائمة: ${esc(date(sq.checkedAt))}. ${refs(sq.sourceIds)}</p><div class="club-squad">${sq.items.map(p=>`<article class="squad-player"><span class="squad-number">${p.number==null?'':number(p.number)}</span><div>${p.nameAr?`<h3>${esc(p.nameAr)}</h3>`:''}${p.nameEn?`<p class="squad-name-en" lang="en" dir="ltr">${esc(p.nameEn)}</p>`:''}<p class="squad-position">${esc(p.positionAr)}</p></div></article>`).join('')}</div>`:incomplete('قائمة الفريق قيد التحقق من المصدر الرسمي.'));
     const sourcesHTML=section('sources','المصادر ومنهج العد',`<ol class="club-source-list">${sources.map((s,i)=>`<li id="source-${i+1}">${link(s.url,s.title||s.publisher||s.url)}${s.publisher?`<span>${esc(s.publisher)}</span>`:''}${s.publishedOn?`<span>تاريخ المصدر: ${esc(date(s.publishedOn))}</span>`:''}${s.checkedAt?`<span>مراجعة: ${esc(date(s.checkedAt))}</span>`:''}${note(s.noteAr)}</li>`).join('')}</ol>`);
     const warnings=(r.unresolved||[]).filter(Boolean);
     const html=pageHead(c.nameAr+': التاريخ والبطولات والسجلات | كورة نيوز','تاريخ '+c.nameAr+' وبطولاته وهدافوه والأكثر تتويجًا معه، مع آخر نتيجة ولقب رسمي ومصادر البيانات.','../',`clubs/${c.id}.html`)+header('../','clubs')+`
-<main class="container club-page"><a class="club-back" href="../clubs.html">دليل الأندية ←</a><header class="club-profile-head"><span class="badge">${c.leagueAr}</span><h1>${c.nameAr}</h1><p class="club-english" lang="en" dir="ltr">${c.nameEn}</p><p class="club-scope">${esc(r.scopeAr||genericScope)}</p><p class="club-reviewed">آخر مراجعة للصفحة: ${esc(date(r.checkedAt))}. النتائج والأرقام لقطة موثقة وليست تحديثًا مباشرًا.</p></header>
-<nav class="club-jump" aria-label="أقسام صفحة النادي">${[['history','التاريخ'],['honors','البطولات'],['scorers','الهدافون'],['decorated','الأكثر تتويجًا'],['result','آخر نتيجة'],['latest-trophy','آخر لقب'],['sources','المصادر']].map(([id,t])=>`<a href="#${id}">${t}</a>`).join('')}</nav>
+<main class="container club-page"><a class="club-back" href="../clubs.html">دليل الأندية ←</a><header class="club-profile-head">${logo(c,r,'../')}<span class="badge">${c.leagueAr}</span><h1>${c.nameAr}</h1><p class="club-english" lang="en" dir="ltr">${c.nameEn}</p><p class="club-scope">${esc(r.scopeAr||genericScope)}</p><p class="club-reviewed">آخر مراجعة للصفحة: ${esc(date(r.checkedAt))}. النتائج والأرقام لقطة موثقة وليست تحديثًا مباشرًا.</p></header>
+<nav class="club-jump" aria-label="أقسام صفحة النادي">${[['squad','قائمة الفريق'],['history','التاريخ'],['honors','البطولات'],['scorers','الهدافون'],['decorated','الأكثر تتويجًا'],['result','آخر نتيجة'],['latest-trophy','آخر لقب'],['sources','المصادر']].map(([id,t])=>`<a href="#${id}">${t}</a>`).join('')}</nav>
 ${warnings.length?`<aside class="club-audit"><h2>تنبيهات التوثيق</h2><ul>${warnings.map(t=>`<li>${esc(t)}</li>`).join('')}</ul></aside>`:''}
-<div class="club-content">${historyHTML}${honorsHTML}${scorersHTML}${decoratedHTML}${resultHTML}${trophyHTML}${sourcesHTML}</div></main>`+footer('../');
+<div class="club-content">${squadHTML}${historyHTML}${honorsHTML}${scorersHTML}${decoratedHTML}${resultHTML}${trophyHTML}${sourcesHTML}</div></main>`+footer('../');
     fs.writeFileSync(path.join(dist,'clubs',c.id+'.html'),html); generated.push('clubs/'+c.id+'.html');
   }
   return generated;

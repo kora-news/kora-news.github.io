@@ -430,11 +430,160 @@
       "publishedOn": "2026-11-17",
       "checkedAt": "2026-11-22T18:05:00+02:00",
       "noteAr": "يعرض الموسم 2025/26: رابع الدوري ووصيف الكأس ونصف نهائي دوري الأبطال، ويذكر بطولات تاريخية سابقة للسوبر وألقابًا إقليمية منفصلة."
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://en.atleticodemadrid.com/equipos/atletico-de-madrid-2026-2027-2",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://en.atleticodemadrid.com/images/EscudoATM.svg",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
     "رصيد لويس أراجونيس 172 هدفًا في مرجع و 173 في مراجع أخرى؛ المرتبة الثانية ثابتة في كل الأحوال",
     "قائمة العشرة الأوائل تعتمد على مرجع مجمع من بيانات ويكيبيديا 2026 مع تأكيد جزئي من ESPN وTransfermarkt؛ لم يُعثر على صفحة نادي واحدة تعرض القائمة كاملة",
     "توحيد تصنيف سابقات السوبر والجوائز الإقليمية القديمة خارج حصيلة 32 لقبًا لدى رابطة الليجا."
-  ]
+  ],
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "J. MUSSO",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "OBLAK",
+        "number": 13,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "ESQUIVEL",
+        "number": 25,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "HANCKO",
+        "number": 17,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "MARC PUBILL",
+        "number": 18,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "ROMERO",
+        "number": 21,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "GRIMALDO",
+        "number": 22,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "LE NORMAND",
+        "number": 24,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "D. MARTÍNEZ",
+        "number": 30,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "OBED VARGAS",
+        "number": 3,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "MENDOZA",
+        "number": 4,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "JOHNNY",
+        "number": 5,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "KOKE",
+        "number": 6,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "KANG IN",
+        "number": 7,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "BARRIOS",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "ÁLEX B.",
+        "number": 10,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "MARCOS LLORENTE",
+        "number": 14,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "ARNAU ORTIZ",
+        "number": 16,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "GIULIANO",
+        "number": 20,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "HJULMAND",
+        "number": 23,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "SØRLOTH",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "LOOKMAN",
+        "number": 11,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "J. DAVID",
+        "number": 15,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "J. ALVAREZ",
+        "number": 19,
+        "positionAr": "مهاجم"
+      }
+    ]
+  },
+  "crest": {
+    "file": "atletico-madrid.png",
+    "sourceIds": [
+      "club-crest"
+    ]
+  }
 }

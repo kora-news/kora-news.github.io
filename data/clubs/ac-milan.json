@@ -125,6 +125,19 @@
       "publishedOn": null,
       "checkedAt": "2026-11-22T17:51:30+02:00",
       "noteAr": "يثبت لقبي ميلان في 1951 و 1956 وطبيعة مشاركة أبطال فرنسا وإيطاليا والبرتغال وإسبانيا، لكنه لا يحسم التصنيف القانوني المعاصر أو الإدراج في إجمالي البطولات الرسمية."
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://www.acmilan.com/en/teams/men-first-team",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://media.inter.it/png/archivio-v2/clubs/c7d58216-f80a-4eb4-b79e-6995c1d7b218.png",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
@@ -391,6 +404,158 @@
       "milan-title",
       "milan-league-honors",
       "milan-recent-honors"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Mike Maignan",
+        "number": 16,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Pietro Terracciano",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Lorenzo Torriani",
+        "number": 96,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Davide Bartesaghi",
+        "number": 33,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Koni De Winter",
+        "number": 5,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Sankhoun Diawara",
+        "number": 13,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Pervis Estupiñan",
+        "number": 2,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Matteo Gabbia",
+        "number": 46,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Mario Gila",
+        "number": 34,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Strahinja Pavlović",
+        "number": 31,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Filippo Terracciano",
+        "number": 42,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Fikayo Tomori",
+        "number": 23,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Valeri Ivanov Vladimirov",
+        "number": 35,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Alphadjo Cisse",
+        "number": 70,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Christian Comotto",
+        "number": 28,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Omari Hutchinson",
+        "number": 20,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Ardon Jashari",
+        "number": 30,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Ruben Loftus-Cheek",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Luka Modrić",
+        "number": 14,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Diego Moreira",
+        "number": 22,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Yunus Musah",
+        "number": 80,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Christian Pulisic",
+        "number": 11,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Adrien Rabiot",
+        "number": 12,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Alexis Saelemaekers",
+        "number": 56,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Francesco Camarda",
+        "number": 73,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Samuel Chukwueze",
+        "number": 21,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Gonçalo Ramos",
+        "number": 9,
+        "positionAr": "مهاجم"
+      }
+    ],
+    "noteAr": "تصنيف أوماري هاتشينسون هنا لاعب وسط، وفق النسخة الإنجليزية الحالية لدليل النادي."
+  },
+  "crest": {
+    "file": "ac-milan.png",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

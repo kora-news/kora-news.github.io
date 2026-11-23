@@ -538,10 +538,174 @@
       "publishedOn": "2026-11-22",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": "تأكيد مستقل لنتيجة مباراة اليوم"
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/squad",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://www.fcbarcelona.com/resources/v14.1.7-9526/i/elements/fcb-meta-logo.png",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
     "رصيد ليفاندوفسكي النهائي عند رحيله 119 هدفًا (سبورتس إليستريتد) مقابل 120 (ميس جازيت)؛ خارج العشرة الأوائل في كلتا الحالتين",
     "أرقام حقبة ساميتيير وإسكولا وأروتشا في منتصف القائمة تعتمد على جدول بطريقة عد النادي كما أعادت نشره سبورتس إليستريتد، دون صفحة نادي واحدة تعرض القائمة كاملة"
-  ]
+  ],
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Joan García",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Wojciech Szczesny",
+        "number": 13,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Dominik Livakovic",
+        "number": 25,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "João Cancelo",
+        "number": 2,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Alejandro Balde",
+        "number": 3,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Pau Cubarsí",
+        "number": 5,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Xavi Espart",
+        "number": 12,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Andreas Christensen",
+        "number": 15,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Gerard Martín",
+        "number": 18,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Jules Koundé",
+        "number": 23,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Eric García",
+        "number": 24,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Brian Fariñas",
+        "number": 4,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Gavi",
+        "number": 6,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Fermín López",
+        "number": 7,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Pedri",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Rodri",
+        "number": 16,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Dani Olmo",
+        "number": 20,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Frenkie de Jong",
+        "number": 21,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Marc Bernal",
+        "number": 22,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Gabriel Jesus",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Lamine Yamal",
+        "number": 10,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Raphinha",
+        "number": 11,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Karim Adeyemi",
+        "number": 14,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Anthony Gordon",
+        "number": 17,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Roony Bardghji",
+        "number": 19,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Jesse Bisiwu",
+        "number": 27,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Hamza Mohamed Abdelkarim Elsayed Selim",
+        "number": 29,
+        "positionAr": "مهاجم"
+      }
+    ]
+  },
+  "crest": {
+    "file": "barcelona.png",
+    "sourceIds": [
+      "club-crest"
+    ]
+  }
 }

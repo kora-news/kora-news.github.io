@@ -115,6 +115,21 @@
       "publishedOn": "2026-11-22",
       "checkedAt": "2026-11-22T20:24:00+02:00",
       "noteAr": "فُحصت صفحة المباراة نفسها، وأظهرت FT ونتيجة 4-0؛ لا اعتماد على لوحة نتائج متأخرة."
+    },
+    {
+      "id": "current-squad",
+      "url": "https://www.liverpoolfc.com/teams/mens-team",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "publisher": "liverpool",
+      "checkedAt": "2026-11-23T13:37:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "url": "https://stadion-edge.liverpoolfc.com/images/lfc.svg",
+      "title": "شعار النادي من موقعه الرسمي",
+      "publisher": "liverpool",
+      "checkedAt": "2026-11-23T13:37:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [],
@@ -469,6 +484,177 @@
     "sourceIds": [
       "honors",
       "title"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:37:00+02:00",
+    "scopeAr": "الفريق الأول للرجال كما يظهر في دليل النادي عند المراجعة. لا تشمل هذه القائمة المعارين خارج النادي أو قوائم الأكاديمية المنفصلة. المراكز وفق تصنيف النادي، وليست تشكيلًا لمباراة.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Alexander Isak",
+        "number": 9,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Federico Chiesa",
+        "number": 14,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Cody Gakpo",
+        "number": 18,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Hugo Ekitike",
+        "number": 22,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Victor Munoz",
+        "number": 23,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Bradley Barcola",
+        "number": 29,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Lewis Koumas",
+        "number": 67,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Rio Ngumoha",
+        "number": 73,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Jayden Danns",
+        "number": 76,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Wataru Endo",
+        "number": 3,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Florian Wirtz",
+        "number": 7,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Dominik Szoboszlai",
+        "number": 8,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Alexis Mac Allister",
+        "number": 10,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Ryan Gravenberch",
+        "number": 38,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Trey Nyoni",
+        "number": 42,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "James McConnell",
+        "number": 53,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Joe Gomez",
+        "number": 2,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Virgil van Dijk",
+        "number": 4,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Jeremy Jacquet",
+        "number": 5,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Milos Kerkez",
+        "number": 6,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Conor Bradley",
+        "number": 12,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Giovanni Leoni",
+        "number": 15,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Kostas Tsimikas",
+        "number": 21,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Jeremie Frimpong",
+        "number": 30,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Ronald Araujo",
+        "number": 33,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Luke Chambers",
+        "number": 44,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Alisson Becker",
+        "number": 1,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Giorgi Mamardashvili",
+        "number": 25,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Freddie Woodman",
+        "number": 28,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Vitezslav Jaros",
+        "number": 56,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Harvey Davies",
+        "number": 95,
+        "positionAr": "حراس المرمى"
+      }
+    ]
+  },
+  "crest": {
+    "file": "liverpool.svg",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }

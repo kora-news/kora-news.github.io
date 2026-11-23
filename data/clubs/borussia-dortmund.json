@@ -466,10 +466,185 @@
       "publishedOn": "2026-08-22",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "current-squad",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "url": "https://www.bvb.de/de/en/teams/football/first-team.html",
+      "checkedAt": "2026-11-23T13:39:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "title": "مصدر شعار النادي",
+      "url": "https://www.bvb.de/etc.clientlibs/bvbweb/clientlibs/clientlib-site/resources/images/bvb-logo.svg",
+      "checkedAt": "2026-11-23T13:39:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [
     "حسم قائمة موحدة رسمية للهدافين، خصوصاً برايسلر وزورك وأرقام ما قبل البوندسليجا، قبل نشر ترتيب نهائي بلا تحذير.",
     "إثبات شمول ترتيب الأكثر تتويجاً لجميع اللاعبين؛ الأرصدة الثلاثة المذكورة موثقة ولكن التفوق المطلق والحصر النهائي غير محسومين."
-  ]
+  ],
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:39:00+02:00",
+    "scopeAr": "قائمة الفريق الأول للرجال وفق دليل النادي عند المراجعة، وليست قائمة تسجيل لكل مسابقة أو تشكيلًا لمباراة. المراكز كما يصنفها النادي.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Gregor Kobel",
+        "number": 1,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Waldemar Anton",
+        "number": 3,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Nico Schlotterbeck",
+        "number": 4,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Ramy Bensebaini",
+        "number": 5,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Jobe Bellingham",
+        "number": 7,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Felix Nmecha",
+        "number": 8,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Serhou Guirassy",
+        "number": 9,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Maximilian Beier",
+        "number": 14,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Carney Chukwuemeka",
+        "number": 17,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Ethan Nwaneri",
+        "number": 18,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Konstantinos Karetsas",
+        "number": 19,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Marcel Sabitzer",
+        "number": 20,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Fabio Silva",
+        "number": 21,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Joane Gadou",
+        "number": 22,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Emre Can",
+        "number": 23,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Daniel Svensson",
+        "number": 24,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Joey Veerman",
+        "number": 25,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Julian Ryerson",
+        "number": 26,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Justin Lerma",
+        "number": 28,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Patrick Drewes",
+        "number": 30,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Alexander Meyer",
+        "number": 33,
+        "positionAr": "حارس مرمى"
+      },
+      {
+        "nameEn": "Kaua Prates",
+        "number": 36,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Filippo Mane",
+        "number": 39,
+        "positionAr": "مدافع"
+      },
+      {
+        "nameEn": "Samuele Inacio",
+        "number": 40,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Mathis Albert",
+        "number": 41,
+        "positionAr": "مهاجم"
+      },
+      {
+        "nameEn": "Enzo dos Santos",
+        "number": 44,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Giannis Konstantelias",
+        "number": 45,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Mussa Kaba",
+        "number": 48,
+        "positionAr": "لاعب وسط"
+      },
+      {
+        "nameEn": "Luca Reggiani",
+        "number": 49,
+        "positionAr": "مدافع"
+      }
+    ],
+    "noteAr": "القائمة تتبع دليل الفريق الأول للنادي فقط، دون دمج الأسماء الإضافية في قوائم تسجيل الدوري."
+  },
+  "crest": {
+    "file": "borussia-dortmund.png",
+    "sourceIds": [
+      "club-crest"
+    ]
+  }
 }

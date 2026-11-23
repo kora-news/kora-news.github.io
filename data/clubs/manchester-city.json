@@ -95,6 +95,21 @@
       "publishedOn": "2026-08-16",
       "checkedAt": "2026-11-22T17:50:00+02:00",
       "noteAr": ""
+    },
+    {
+      "id": "current-squad",
+      "url": "https://www.mancity.com/players/mens",
+      "title": "دليل الفريق الأول الحالي على موقع النادي",
+      "publisher": "manchester-city",
+      "checkedAt": "2026-11-23T13:37:00+02:00"
+    },
+    {
+      "id": "club-crest",
+      "url": "https://core.mancity.com/assets/images/crest/ManCity-Coloured.svg",
+      "title": "شعار النادي من موقعه الرسمي",
+      "publisher": "manchester-city",
+      "checkedAt": "2026-11-23T13:37:00+02:00",
+      "noteAr": "الشعار علامة تخص النادي، ويُستخدم للتعريف التحريري فقط دون الإيحاء برعاية أو اعتماد."
     }
   ],
   "unresolved": [],
@@ -427,6 +442,152 @@
       "latest-title",
       "honors",
       "shield-loss"
+    ]
+  },
+  "squad": {
+    "status": "verified",
+    "checkedAt": "2026-11-23T13:37:00+02:00",
+    "scopeAr": "الفريق الأول للرجال كما يظهر في دليل النادي عند المراجعة. لا تشمل هذه القائمة المعارين خارج النادي أو قوائم الأكاديمية المنفصلة. المراكز وفق تصنيف النادي، وليست تشكيلًا لمباراة.",
+    "sourceIds": [
+      "current-squad"
+    ],
+    "items": [
+      {
+        "nameEn": "Marcus Bettinelli",
+        "number": 13,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Gianluigi Donnarumma",
+        "number": 1,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Gerónimo Rulli",
+        "number": 28,
+        "positionAr": "حراس المرمى"
+      },
+      {
+        "nameEn": "Rayan Aït-Nouri",
+        "number": 21,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Kaden Braithwaite",
+        "number": 61,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Rúben Dias",
+        "number": 3,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Marc Guéhi",
+        "number": 6,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Joško Gvardiol",
+        "number": 24,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Abdukodir Khusanov",
+        "number": 45,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Rico Lewis",
+        "number": 82,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Matheus Nunes",
+        "number": 27,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Vitor Reis",
+        "number": 22,
+        "positionAr": "الدفاع"
+      },
+      {
+        "nameEn": "Elliot Anderson",
+        "number": 5,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Ayyoub Bouaddi",
+        "number": 32,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Rayan Cherki",
+        "number": 10,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Enzo Fernández",
+        "number": 17,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Phil Foden",
+        "number": 47,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Mateo Kovačić",
+        "number": 8,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Nico O'Reilly",
+        "number": 33,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Floyd Samba",
+        "number": 75,
+        "positionAr": "الوسط"
+      },
+      {
+        "nameEn": "Allan",
+        "number": 37,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Jérémy Doku",
+        "number": 11,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Erling Haaland",
+        "number": 9,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Ryan Mcaidoo",
+        "number": 56,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Iliman Ndiaye",
+        "number": 7,
+        "positionAr": "الهجوم"
+      },
+      {
+        "nameEn": "Antoine Semenyo",
+        "number": 42,
+        "positionAr": "الهجوم"
+      }
+    ]
+  },
+  "crest": {
+    "file": "manchester-city.svg",
+    "sourceIds": [
+      "club-crest"
     ]
   }
 }
