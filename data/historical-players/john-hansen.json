@@ -1,0 +1,52 @@
+{
+  "id": "john-hansen",
+  "nameEn": "John Hansen",
+  "nameAr": "جون هانسن",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم دنماركي وصل إلى يوفنتوس عام 1948 بعد تألقه في أولمبياد لندن. جمع بين القوة البدنية والمهارة وحس التهديف، واستمر مع النادي حتى 1954.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم دنماركي وصل إلى يوفنتوس عام 1948 بعد تألقه في أولمبياد لندن. جمع بين القوة البدنية والمهارة وحس التهديف، واستمر مع النادي حتى 1954.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 124 هدفًا في 187 مباراة وفاز بلقبين للدوري مع يوفنتوس وفق سجل النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "John Hansen | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/john-hansen"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Hansen.jpeg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/john-hansen",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جون هانسن في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "john-hansen-history-0ccd17ef.jpg",
+    "width": 300,
+    "height": 300
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

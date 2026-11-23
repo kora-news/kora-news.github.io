@@ -1,0 +1,65 @@
+{
+  "id": "julio-elicegui",
+  "nameAr": "خوليو إليسيجي",
+  "nameEn": "Julio Elícegui",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "خوليو أنطونيو إليسيجي مهاجم من نافارا عُرف بقطار إيرون. انضم إلى أتلتيكو قادمًا من ريال أونيون قبل الحرب الأهلية، وعاد ليلعب مع أتلتيكو أفياثيون في موسم أول لقب للدوري.",
+  "sourceIds": [
+    "bio",
+    "first-league"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1933–1940 مع انقطاع الحرب",
+      "textAr": "خوليو أنطونيو إليسيجي مهاجم من نافارا عُرف بقطار إيرون. انضم إلى أتلتيكو قادمًا من ريال أونيون قبل الحرب الأهلية، وعاد ليلعب مع أتلتيكو أفياثيون في موسم أول لقب للدوري.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "هدف حسم الدوري الأول",
+      "textAr": "سجّل الهدف الثاني في الفوز 2–0 على فالنسيا يوم 28 أبريل 1940، في المباراة التي حسمت أول لقب دوري في تاريخ النادي.",
+      "sourceIds": [
+        "bio",
+        "first-league"
+      ]
+    }
+  ],
+  "birthDate": "1910-12-05",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Historical biography: Julio Elícegui",
+      "url": "https://www.marca.com/blogs/ni-mas-ni-menos/2014/12/07/julio-antonio-elicegui-el-expreso-de.html"
+    },
+    {
+      "id": "first-league",
+      "title": "Atletico official account of first league title",
+      "url": "https://www.atleticodemadrid.com/noticias/se-cumplen-82-anos-de-nuestra-primera-liga"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://objetos.estaticos-marca.com/blogs/ni-mas-ni-menos/imagenes_posts/2014/12/07/123954_300x220.jpg",
+    "pageUrl": "https://www.marca.com/blogs/ni-mas-ni-menos/2014/12/07/julio-antonio-elicegui-el-expreso-de.html",
+    "author": "Marca archive, photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية للاعب",
+    "identityEvidence": "صورة أرشيفية مضمنة في السيرة المخصصة لإليسيجي في ماركا.",
+    "file": "julio-elicegui-history-b183f8d6.jpg",
+    "width": 300,
+    "height": 220
+  },
+  "notesAr": [
+    "تختلف المصادر في حصيلة الأهداف بين 110 و113 و114. الصورة الأرشيفية الأصلية صغيرة (300×220 بكسل)."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tommy-browell",
+  "nameAr": "تومي برويل",
+  "nameEn": "Tommy Browell",
+  "aliases": [
+    "Thomas Browell"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم مانشستر سيتي بين 1913 و1926، تأثرت مسيرته بتوقف المنافسات أربع سنوات خلال الحرب العالمية الأولى.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم مانشستر سيتي بين 1913 و1926، تأثرت مسيرته بتوقف المنافسات أربع سنوات خلال الحرب العالمية الأولى.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "139 هدفا في 247 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "31 هدفًا في 1920/21",
+      "textAr": "سجّل 31 هدفًا في 43 مباراة خلال أكثر مواسمه غزارة مع سيتي، وأنهى مسيرته بالنادي برصيد 139 هدفًا في 247 مباراة.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Tommy Browell archive photograph",
+      "url": "https://efcheritagesociety.com/toffees-and-tigers-everton-fc-heritage-society-live-at-the-km-stadium/"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://efcheritagesociety.com/wp-content/uploads/2026/10/Athletic_News_17_April_1911_0001_Clip.jpg",
+    "pageUrl": "https://efcheritagesociety.com/toffees-and-tigers-everton-fc-heritage-society-live-at-the-km-stadium/",
+    "author": "W. H. Duncan, Hull, via Everton FC Heritage Society",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "تومي براويل في 1911 بقميص هال سيتي، قص من اللوحة اليمنى المسماة في أرشيف صحيفة أثليتيك نيوز.",
+    "identityEvidence": "Named historical biography identifies this individual portrait. For Browell, visible right panel label T. Browell and article identifies Tommy.",
+    "file": "tommy-browell-history-92ccca8c.jpg",
+    "width": 368,
+    "height": 503
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:26:04+02:00"
+}

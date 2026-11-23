@@ -1,0 +1,58 @@
+{
+  "id": "ferenc-puskas",
+  "nameAr": "فيرينتس بوشكاش",
+  "nameEn": "Ferenc Puskás",
+  "aliases": [
+    "ferenc-puskas-biro"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وُلد في بودابست واشتهر بقوة ودقة قدمه اليسرى. انضم لريال مدريد في الحادية والثلاثين، وسجّل 242 هدفًا في 262 مباراة بين 1958 و1967.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "1958–1967",
+      "textAr": "مهاجم وُلد في بودابست واشتهر بقوة ودقة قدمه اليسرى. انضم لريال مدريد في الحادية والثلاثين، وسجّل 242 هدفًا في 262 مباراة بين 1958 و1967.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "ثلاث كؤوس أوروبية",
+      "textAr": "فاز بثلاثة ألقاب لكأس أوروبا وخمسة ألقاب للدوري الإسباني مع ريال مدريد.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1927-04-01",
+  "positionAr": "مهاجم",
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Ferenc Puskás",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/ferenc-puskas-biro"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330186261671?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/ferenc-puskas-biro",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Puskas",
+    "file": "ferenc-puskas-history-8b1c9c04.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

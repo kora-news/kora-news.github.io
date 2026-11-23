@@ -1,0 +1,54 @@
+{
+  "id": "omar-sivori",
+  "nameEn": "Omar Sivori",
+  "nameAr": "عمر سيفوري",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم عُرف بالمراوغة والخيال والقدرة على تجاوز المنافسين. ارتدى قميص يوفنتوس بين 1957 و1965 وكان أحد رموز الفريق في تلك الحقبة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم عُرف بالمراوغة والخيال والقدرة على تجاوز المنافسين. ارتدى قميص يوفنتوس بين 1957 و1965 وكان أحد رموز الفريق في تلك الحقبة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "أصبح أول لاعب من يوفنتوس ينال الكرة الذهبية عام 1961، وفاز بثلاثة ألقاب للدوري وكأس إيطاليا مرتين.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Omar Sivori | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/omar-sivori"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Sivori.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/omar-sivori",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "عمر سيفوري في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "omar-sivori-history-d7ad723f.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [
+    "تعرض صفحة النادي 253 و259 مباراة في موضعين مختلفين، لذلك لم نثبت إجمالي المشاركات في هذا الملف."
+  ],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

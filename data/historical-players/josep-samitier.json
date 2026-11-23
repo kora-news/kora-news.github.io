@@ -1,0 +1,57 @@
+{
+  "id": "josep-samitier",
+  "nameAr": "جوسيب ساميتيير",
+  "nameEn": "Josep Samitier",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "من رموز برشلونة في عشرينيات القرن الماضي، عُرف بالمهارة والقفز واللعب الأكروباتي. بدأ في الوسط واشتهر لاحقًا مهاجمًا، وكان من نجوم الفريق عند افتتاح ملعب ليس كورتس.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1918–1933 بحسب صفحة النادي",
+      "textAr": "من رموز برشلونة في عشرينيات القرن الماضي، عُرف بالمهارة والقفز واللعب الأكروباتي. بدأ في الوسط واشتهر لاحقًا مهاجمًا، وكان من نجوم الفريق عند افتتاح ملعب ليس كورتس.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "أول دوري إسباني",
+      "textAr": "شارك في إحراز أول نسخة من الدوري الإسباني موسم 1928–1929، وفاز بخمس بطولات لكأس إسبانيا مع برشلونة.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "وسط ومهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Josep Samitier",
+      "url": "https://www.fcbarcelona.com/en/card/648404/josep-samitier"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/20/f1cf8c84-5fc8-4229-85e0-c052392e9250/15267795.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648404/josep-samitier",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Josep Samitier",
+    "file": "josep-samitier-history-ff81aad5.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "إجمالي 361 هدفًا في السيرة يتبع نطاقًا تاريخيًا أشمل من قائمة الأهداف الرسمية. الفترة المعروضة منسوبة لسجل النادي."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

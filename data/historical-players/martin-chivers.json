@@ -1,0 +1,91 @@
+{
+  "id": "martin-chivers",
+  "nameEn": "Martin Chivers",
+  "nameAr": "مارتن تشيفرز",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي انضم من ساوثهامبتون في يناير 1968، وتعافى من إصابة قوية ليقود هجوم توتنهام خلال نجاحاته في مطلع السبعينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "1968–1976",
+      "textAr": "مهاجم إنجليزي انضم من ساوثهامبتون في يناير 1968، وتعافى من إصابة قوية ليقود هجوم توتنهام خلال نجاحاته في مطلع السبعينيات.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "174 هدفا",
+      "textAr": "سجل 174 هدفا في 367 مباراة مع توتنهام.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس الرابطة 1971",
+      "textAr": "سجل هدفي الفوز على أستون فيلا في النهائي.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس الاتحاد الأوروبي 1972",
+      "textAr": "سجل هدفي توتنهام في ذهاب النهائي أمام وولفرهامبتون، ضمن مشوار التتويج.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس الرابطة 1973",
+      "textAr": "أضاف لقبا ثانيا لكأس الرابطة عام 1973.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Martin Chivers - official club biography",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/hall-of-fame/martin-chivers"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/c37e276b-2847-4974-b8e9-715223c2a486/martinchivers-3.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: chivers explicitly numbered caption in goalscorers gallery",
+    "file": "martin-chivers-history-6c319c17.jpg",
+    "width": 2048,
+    "height": 992
+  },
+  "notesAr": [
+    "عنوان السيرة يكتب 1967–80، بينما متنها وجدول النادي يثبتان الانضمام في يناير 1968 وفترة التسجيل 1968–1976؛ استُخدم المتن لا العنوان."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

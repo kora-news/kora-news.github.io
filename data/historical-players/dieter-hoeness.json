@@ -1,0 +1,52 @@
+{
+  "id": "dieter-hoeness",
+  "nameAr": "ديتر هونيس",
+  "nameEn": "Dieter Hoeneß",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني ارتبط اسمه بهجوم بايرن وبالكرات الرأسية والمثابرة. بقيت مشاركته في نهائي كأس ألمانيا 1982 من أشهر لحظاته مع النادي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "مهاجم ألماني ارتبط اسمه بهجوم بايرن وبالكرات الرأسية والمثابرة. بقيت مشاركته في نهائي كأس ألمانيا 1982 من أشهر لحظاته مع النادي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "يورد بايرن له 145 هدفًا، ويستعيد دوره في الفوز بنهائي كأس ألمانيا 1982 رغم إصابته في الرأس.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Dieter Hoeneß | Club/DFB record",
+      "url": "https://fcbayern.com/en/news/2023/01/dieter-hoeness-interview-proud-to-be-a-part-of-bayern-s-history"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/034/962/custom_style_1_Dieter_Hoeneß.jpg?1493072043",
+    "pageUrl": "https://datencenter.dfb.de/personen/dieter-hoeness/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ديتر هونيس في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "dieter-hoeness-history-5a60d11c.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "steven-gerrard",
+  "nameAr": "ستيفن جيرارد",
+  "nameEn": "Steven Gerrard",
+  "aliases": [
+    "Steven George Gerrard",
+    "Stevie G"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وسط إنجليزي تدرّج في ليفربول وأصبح قائده وأحد أبرز رموزه، من أول ظهور للفريق الأول في 1998 حتى رحيله في 2015.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1998-2015",
+      "textAr": "لاعب وسط إنجليزي تدرّج في ليفربول وأصبح قائده وأحد أبرز رموزه، من أول ظهور للفريق الأول في 1998 حتى رحيله في 2015.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "دوري الأبطال وثلاثية كؤوس 2001",
+      "textAr": "فاز بدوري الأبطال 2005، وكان من عناصر الفريق المتوّج بكأس إنجلترا وكأس الرابطة وكأس الاتحاد الأوروبي في 2001. سجّل 186 هدفًا في 710 مباريات.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "لاعب وسط",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Steven Gerrard | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/info/steven-gerrard"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2025-02/past-players-steven-gerrard-15022025-cover_4fee91bff1f805e5c92ad2bc4a5abf26.webp?itok=it7OSR5n&width=1680",
+    "pageUrl": "https://www.liverpoolfc.com/info/steven-gerrard",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ستيفن جيرارد في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "steven-gerrard-history-6a096dbf.jpg",
+    "width": 1440,
+    "height": 810
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

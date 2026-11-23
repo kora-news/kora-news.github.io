@@ -1,0 +1,70 @@
+{
+  "id": "paco-campos",
+  "nameAr": "باكو كامبوس",
+  "nameEn": "Paco Campos",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "فرانسيسكو كامبوس سالامانكا، المعروف بباكو كامبوس، مهاجم من جزر الكناري لعب لأتلتيكو أفياثيون في الأربعينيات. جمع بين التسجيل والتمرير والكرات الرأسية، وكان ضمن الفريق الذي فاز بأول لقب دوري للنادي.",
+  "sourceIds": [
+    "bio",
+    "first-league"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1939–1948",
+      "textAr": "فرانسيسكو كامبوس سالامانكا، المعروف بباكو كامبوس، مهاجم من جزر الكناري لعب لأتلتيكو أفياثيون في الأربعينيات. جمع بين التسجيل والتمرير والكرات الرأسية، وكان ضمن الفريق الذي فاز بأول لقب دوري للنادي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "بطل الدوري مرتين",
+      "textAr": "فاز بالدوري الإسباني موسمي 1939–1940 و1940–1941، وسجّل أول هدفي الفوز على فالنسيا في مباراة حسم لقب 1940.",
+      "sourceIds": [
+        "bio",
+        "first-league"
+      ]
+    }
+  ],
+  "birthDate": "1916-03-08",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Historical biography: Paco Campos",
+      "url": "https://historia-hispanica.rah.es/biografias/8483-francisco-campos-salamanca"
+    },
+    {
+      "id": "first-league",
+      "title": "Atletico official account of first league title",
+      "url": "https://www.atleticodemadrid.com/noticias/se-cumplen-82-anos-de-nuestra-primera-liga"
+    },
+    {
+      "id": "photo-page",
+      "title": "Marca photograph identifying Francisco Campos Salamanca",
+      "url": "https://www.marca.com/futbol/primera-division/album/2023/11/15/6552807846163f06038b45a7_30.html"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2023/11/14/16999685738775.jpg",
+    "pageUrl": "https://www.marca.com/futbol/primera-division/album/2023/11/15/6552807846163f06038b45a7_30.html",
+    "author": "Marca archive, photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية للاعب",
+    "identityEvidence": "معرض ماركا يسمي فرانسيسكو كامبوس سالامانكا في شريحة اللاعب من لاس بالماس.",
+    "file": "paco-campos-history-866f0c68.jpg",
+    "width": 1980,
+    "height": 1320
+  },
+  "notesAr": [
+    "تختلف المصادر في بعض تفاصيل الأهداف والوفاة، لذلك لا نعرض إجماليًا موحدًا أو تاريخ وفاة هنا."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

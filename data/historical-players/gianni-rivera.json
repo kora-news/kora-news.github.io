@@ -1,0 +1,59 @@
+{
+  "id": "gianni-rivera",
+  "nameEn": "Gianni Rivera",
+  "nameAr": "جياني ريفيرا",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "صانع لعب إيطالي بدأ رحلته مع ميلان في 1960 وهو في السابعة عشرة. ارتبط اسمه بجيل النادي الذي أحرز كأس أوروبا للمرة الأولى وبالقميص رقم 10.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "صانع لعب إيطالي بدأ رحلته مع ميلان في 1960 وهو في السابعة عشرة. ارتبط اسمه بجيل النادي الذي أحرز كأس أوروبا للمرة الأولى وبالقميص رقم 10.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "نال الكرة الذهبية، وساهم في الفوز بكأس أوروبا الأولى لميلان عام 1963.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Gianni Rivera | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/rivera"
+    },
+    {
+      "id": "portrait",
+      "title": "Gianni Rivera archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/gianni-rivera/profil/spieler/145347"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/145347-1461759844.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/gianni-rivera/profil/spieler/145347",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جياني ريفيرا في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "gianni-rivera-history-4a549141.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [
+    "حُذف تاريخ الميلاد لأن الصفحة الرسمية تعرض تاريخًا غير معقول في 2019."
+  ],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

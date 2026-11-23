@@ -1,0 +1,57 @@
+{
+  "id": "laszlo-kubala",
+  "nameAr": "لاسلو كوبالا",
+  "nameEn": "László Kubala",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وُلد في بودابست وانضم لبرشلونة في يونيو 1950 قبل ظهوره الأول في أبريل 1951. اشتهر بالمهارة والركلات الحرة، وكان من رموز فريق الكؤوس الخمس.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1950–1961، الظهور الأول 1951",
+      "textAr": "لاعب وُلد في بودابست وانضم لبرشلونة في يونيو 1950 قبل ظهوره الأول في أبريل 1951. اشتهر بالمهارة والركلات الحرة، وكان من رموز فريق الكؤوس الخمس.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "سبعة أهداف في مباراة",
+      "textAr": "سجّل سبعة أهداف في فوز برشلونة 9–0 على سبورتينج خيخون يوم 10 فبراير 1952، وفاز بأربعة ألقاب للدوري الإسباني.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: László Kubala",
+      "url": "https://www.fcbarcelona.com/en/card/648245/ladislao-kubala"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/19/51f0a31c-c2af-4b3a-b1b0-0a5024c297bb/15267246.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648245/ladislao-kubala",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Ladislao Kubala",
+    "file": "laszlo-kubala-history-fa90a24c.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "إجمالي 281 هدفًا في السيرة ليس موسومًا بأنه للمباريات الرسمية فقط؛ لذلك يظل منفصلًا عن نطاق قائمة الهدافين الرسمية."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

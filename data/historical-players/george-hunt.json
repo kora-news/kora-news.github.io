@@ -1,0 +1,74 @@
+{
+  "id": "george-hunt",
+  "nameEn": "George Hunt",
+  "nameAr": "جورج هانت",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي عرف بقدرته على التسجيل مع توتنهام في الثلاثينيات. سجل 138 هدفا في 198 مباراة، وساهم في صعود الفريق عام 1933.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "1930–1937",
+      "textAr": "مهاجم إنجليزي عرف بقدرته على التسجيل مع توتنهام في الثلاثينيات. سجل 138 هدفا في 198 مباراة، وساهم في صعود الفريق عام 1933.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "138 هدفا",
+      "textAr": "تسجل قائمة النادي له 138 هدفا.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "موسمان غزيران",
+      "textAr": "سجل 36 هدفا في 1932/33 و35 هدفا في 1933/34 بحسب التقرير الرسمي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "George Hunt - official club biography",
+      "url": "https://www.tottenhamhotspur.com/news/1035670/harry-joins-illustrious-list-of-30-goal-strikers"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/e5acffd7-a850-41d6-8fc9-cb54025d7f53/george-hunt-1.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: hunt explicitly numbered caption in goalscorers gallery",
+    "file": "george-hunt-history-3900a086.jpg",
+    "width": 1200,
+    "height": 581
+  },
+  "notesAr": [
+    "تقرير 2015 يكتب التوقيع في 1929 رغم أن جدول الفترات فيه وفي صفحات النادي يكتب 1930–37؛ لم يُنقل تاريخ التوقيع المختلف."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

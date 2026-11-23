@@ -1,0 +1,57 @@
+{
+  "id": "lukasz-piszczek",
+  "nameAr": "لوكاش بيشتشيك",
+  "nameEn": "Łukasz Piszczek",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مدافع بولندي وصل إلى دورتموند عام 2010، بعدما بدأ مسيرته مهاجمًا ثم تحوّل إلى مركز الظهير الأيمن. أمضى أحد عشر عامًا مع الفريق.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مدافع بولندي وصل إلى دورتموند عام 2010، بعدما بدأ مسيرته مهاجمًا ثم تحوّل إلى مركز الظهير الأيمن. أمضى أحد عشر عامًا مع الفريق.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "خاض 382 مباراة وفاز بالدوري مرتين وكأس ألمانيا ثلاث مرات والسوبر الألماني ثلاث مرات مع دورتموند.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Łukasz Piszczek | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Lukasz-Piszczek-Fuer-immer-einer-von-uns.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Łukasz Piszczek individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/lukasz-piszczek/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/081/474/custom_style_1_Lukasz_Piszczek.jpg?1493107766",
+    "pageUrl": "https://datencenter.dfb.de/personen/lukasz-piszczek/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "لوكاش بيشتشيك في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonŁukasz Piszczek",
+    "file": "lukasz-piszczek-history-5eaeeec0.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

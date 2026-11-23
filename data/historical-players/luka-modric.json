@@ -1,0 +1,46 @@
+{
+  "id": "luka-modric",
+  "nameAr": "لوكا مودريتش",
+  "nameEn": "Luka Modrić",
+  "aliases": [
+    "luka-modric"
+  ],
+  "existingProfileId": "luka-modric",
+  "summaryAr": "لاعب وسط كرواتي امتدت فترته مع ريال مدريد من 2012 إلى 2025. تذكر سيرته الرسمية 597 مباراة و43 هدفًا، و28 لقبًا مع النادي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "2012–2025",
+      "textAr": "لاعب وسط كرواتي امتدت فترته مع ريال مدريد من 2012 إلى 2025. تذكر سيرته الرسمية 597 مباراة و43 هدفًا، و28 لقبًا مع النادي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "28 لقبًا مع ريال مدريد",
+      "textAr": "تضم حصيلته مع النادي ستة ألقاب أوروبية وأربعة للدوري الإسباني. وفاز بالكرة الذهبية عام 2018.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1985-09-09",
+  "positionAr": "لاعب وسط",
+  "nationalityAr": "كرواتي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Luka Modrić",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/luka-modric"
+    }
+  ],
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "sergio-aguero",
+  "nameAr": "سيرخيو أغويرو",
+  "nameEn": "Sergio Aguero",
+  "aliases": [
+    "Sergio Leonel Agüero del Castillo",
+    "Kun Agüero"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم أرجنتيني أصبح الهداف التاريخي لمانشستر سيتي. امتدت مسيرته مع النادي من 2011 إلى 2021، ويخلد تمثاله خارج ملعب الاتحاد هدف حسم الدوري في 2012.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم أرجنتيني أصبح الهداف التاريخي لمانشستر سيتي. امتدت مسيرته مع النادي من 2011 إلى 2021، ويخلد تمثاله خارج ملعب الاتحاد هدف حسم الدوري في 2012.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "260 هدفا في 390 مباراة بين 2011 و2021. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "14 لقبًا كبيرًا",
+      "textAr": "فاز مع سيتي بـ14 لقبًا كبيرًا، وسجّل هدف حسم الدوري في 2012 ضمن مسيرته التي شهدت 260 هدفًا في 390 مباراة.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Sergio Agüero historical photograph source",
+      "url": "https://www.transfermarkt.com/sergio-aguero/profil/spieler/26399"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/26399-1580460866.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/sergio-aguero/profil/spieler/26399",
+    "author": "Transfermarkt archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "سيرخيو أغويرو في صورة أرشيفية من الصفحة المسماة في المصدر.",
+    "identityEvidence": "Named individual profile image alt and title match this player.",
+    "file": "sergio-aguero-history-c75af5bb.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:24:23+02:00"
+}

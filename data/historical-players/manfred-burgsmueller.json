@@ -1,0 +1,57 @@
+{
+  "id": "manfred-burgsmueller",
+  "nameAr": "مانفريد بورجسمولر",
+  "nameEn": "Manfred Burgsmüller",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني انضم إلى دورتموند في أكتوبر 1976 بعد عودة النادي إلى البوندسليغا. أصبح من أبرز نجوم الفريق وقاده بين 1979 و1983.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم ألماني انضم إلى دورتموند في أكتوبر 1976 بعد عودة النادي إلى البوندسليغا. أصبح من أبرز نجوم الفريق وقاده بين 1979 و1983.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 135 هدفًا لدورتموند في البوندسليغا، وفق سجل النادي في تأبينه عام 2019.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Manfred Burgsmüller | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Borussia-Dortmund-trauert-um-Manfred-Burgsmueller.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Manfred Burgsmüller individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/manfred-burgsmueller/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/105/669/custom_style_1_Manfred-Burgsmueller.jpg?1493126206",
+    "pageUrl": "https://datencenter.dfb.de/personen/manfred-burgsmueller/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "مانفريد بورجسمولر في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonManfred Burgsmüller",
+    "file": "manfred-burgsmueller-history-3feb6d33.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

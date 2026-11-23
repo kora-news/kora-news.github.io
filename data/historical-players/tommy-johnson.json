@@ -1,0 +1,70 @@
+{
+  "id": "tommy-johnson",
+  "nameAr": "تومي جونسون",
+  "nameEn": "Tommy Johnson",
+  "aliases": [
+    "Thomas Clark Fisher Johnson"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم مثّل مانشستر سيتي بين 1919 و1930، ولعب في مركزي المهاجم الداخلي وقلب الهجوم. سجل في أول مباراة دوري للنادي على ملعب ماين رود.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم مثّل مانشستر سيتي بين 1919 و1930، ولعب في مركزي المهاجم الداخلي وقلب الهجوم. سجل في أول مباراة دوري للنادي على ملعب ماين رود.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "166 هدفا في 355 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "38 هدفًا في موسم واحد",
+      "textAr": "سجّل 38 هدفًا في موسم 1928/29، وهو رقم قياسي للنادي ظل قائمًا حتى حقبة إيرلينغ هالاند.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Tommy Johnson historical photograph source",
+      "url": "https://www.mancity.com/mancitylegends/johnson-tommy"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.mancity.com/meta/media/o1xmhu5j/johnson-mob.jpg",
+    "pageUrl": "https://www.mancity.com/mancitylegends/johnson-tommy",
+    "author": "Manchester City FC (club archive)",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "تومي جونسون في لقطة من العشرينيات، من أرشيف مانشستر سيتي الرسمي",
+    "identityEvidence": "الصورة المرفقة قص من اللوحة الأولى من مونتاج صفحة mancitylegends/johnson-tommy؛ الأصل الكامل مرفق أيضا johnson.jpg",
+    "replaces": "wikipedia/en lead image (fair-use classification concern)",
+    "derivedFrom": "johnson.jpg left panel crop (original montage attached)",
+    "file": "tommy-johnson-history-173cc50d.jpg",
+    "width": 381,
+    "height": 480
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

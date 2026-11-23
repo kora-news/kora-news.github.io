@@ -1,0 +1,52 @@
+{
+  "id": "paulo-dybala",
+  "nameEn": "Paulo Dybala",
+  "nameAr": "باولو ديبالا",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "لاعب هجوم أمضى سبعة أعوام مع يوفنتوس، وبرز بمهارته وحلوله الهجومية ولحظاته الحاسمة. ودّعه النادي في يونيو 2022 بعد رحلة مليئة بالأهداف والألقاب.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "لاعب هجوم أمضى سبعة أعوام مع يوفنتوس، وبرز بمهارته وحلوله الهجومية ولحظاته الحاسمة. ودّعه النادي في يونيو 2022 بعد رحلة مليئة بالأهداف والألقاب.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "أنهى فترته مع يوفنتوس بـ115 هدفًا في 293 مباراة و12 لقبًا وفق بيان وداع النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Paulo Dybala | official club biography",
+      "url": "https://www.juventus.com/en/news/articles/suerte-paulo"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.juventus.com/images/image/private/t_editorial_landscape_12_desktop/dev/lalf27be0p2znjxvw7tv.jpg",
+    "pageUrl": "https://www.juventus.com/en/news/articles/suerte-paulo",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "باولو ديبالا في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official named player page image.",
+    "file": "paulo-dybala-history-5f10f3f1.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

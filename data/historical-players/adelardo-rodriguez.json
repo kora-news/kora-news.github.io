@@ -1,0 +1,58 @@
+{
+  "id": "adelardo-rodriguez",
+  "nameAr": "أديلاردو رودريجيز",
+  "nameEn": "Adelardo Rodríguez",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وسط إسباني جمع بين صناعة اللعب والالتزام البدني. أمضى 17 موسمًا مع أتلتيكو وخاض 553 مباراة رسمية، وتنسب له صفحة الأساطير عشرة ألقاب.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1959–1976",
+      "textAr": "لاعب وسط إسباني جمع بين صناعة اللعب والالتزام البدني. أمضى 17 موسمًا مع أتلتيكو وخاض 553 مباراة رسمية، وتنسب له صفحة الأساطير عشرة ألقاب.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "عشرة ألقاب للنادي",
+      "textAr": "حقق عشرة ألقاب مع أتلتيكو عبر فترته 1959–1976، ومن بينها كأس الكؤوس الأوروبية عام 1962.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1939-09-26",
+  "positionAr": "لاعب وسط",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Atletico official Paseo de Leyendas: Adelardo Rodríguez",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/leyendas/adelardo"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://cdn.prod.website-files.com/6a96ea2375ce6e2538c881ca/6aa7c6a959d9060ea7b54f82_LEYENDA_PRINCIPAL_ADELARDO.png",
+    "pageUrl": "https://paseodeleyendas.atleticodemadrid.com/leyendas/adelardo",
+    "author": "Atletico de Madrid archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من سيرة أتلتيكو الرسمية",
+    "identityEvidence": "الصورة الرئيسية والبيانات الوصفية في صفحة الأسطورة المسماة باسمه",
+    "file": "adelardo-rodriguez-history-2817a7b2.jpg",
+    "width": 1400,
+    "height": 600
+  },
+  "notesAr": [
+    "تعرض صفحة الأساطير 113 هدفًا، وبعض القوائم 112. تُنسب حصيلة الألقاب العشرة إلى نص النادي ولا تعني إعادة عد جميع البطولات هنا."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

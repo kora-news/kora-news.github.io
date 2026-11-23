@@ -1,0 +1,56 @@
+{
+  "id": "roger-hunt",
+  "nameAr": "روجر هانت",
+  "nameEn": "Roger Hunt",
+  "aliases": [
+    "Sir Roger Hunt"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي من أعمدة فريق بيل شانكلي، ساعد ليفربول على الصعود ثم التتويج بالدوري وكأس إنجلترا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1959-1969",
+      "textAr": "مهاجم إنجليزي من أعمدة فريق بيل شانكلي، ساعد ليفربول على الصعود ثم التتويج بالدوري وكأس إنجلترا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "لقبان للدوري وكأس إنجلترا",
+      "textAr": "فاز بالدوري في 1963/64 و1965/66 وبكأس إنجلترا 1965، وسجّل 285 هدفًا في 492 مباراة.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Roger Hunt | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/past-players/roger-hunt"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://contentfulproxy.stadion.io/rm6ms1yxue4m/asset_pp_roger_hunt/4ca0db98e88d30453036dfe2d176a5f5/past-players-roger-hunt-25022025_c9850fe9c52c423bc0aa141fb66f228f.jpg?fm=webp&fit=fill&f=center&w=1920&h=1080",
+    "pageUrl": "https://www.liverpoolfc.com/past-players/roger-hunt",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روجر هانت في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "roger-hunt-history-715b5bef.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

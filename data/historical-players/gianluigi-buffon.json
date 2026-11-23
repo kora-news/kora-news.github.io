@@ -1,0 +1,54 @@
+{
+  "id": "gianluigi-buffon",
+  "nameEn": "Gianluigi Buffon",
+  "nameAr": "جانلويجي بوفون",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "حارس مرمى إيطالي مثّل يوفنتوس في فترتين: 2001–2018 و2019–2021. كان من قادة الفريق ووجوهه البارزة على مدار سنوات طويلة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "حارس مرمى إيطالي مثّل يوفنتوس في فترتين: 2001–2018 و2019–2021. كان من قادة الفريق ووجوهه البارزة على مدار سنوات طويلة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "يورد سجل النادي 685 مشاركة، وخمس كؤوس لإيطاليا وستة ألقاب للسوبر الإيطالي مع يوفنتوس.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Gianluigi Buffon | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/gianluigi-buffon"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Buffon.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/gianluigi-buffon",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جانلويجي بوفون في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "gianluigi-buffon-history-e164aefd.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [
+    "عد ألقاب الدوري في صفحة النادي يختلف عن سجل المسابقة الرسمي بشأن لقبَي 2004/05 و2005/06؛ لا نعرض هنا إجماليًا يخلط نطاقَي العد."
+  ],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

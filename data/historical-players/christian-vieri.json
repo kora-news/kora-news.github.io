@@ -1,0 +1,52 @@
+{
+  "id": "christian-vieri",
+  "nameEn": "Christian Vieri",
+  "nameAr": "كريستيان فييري",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "مهاجم إيطالي خاض ستة مواسم مع إنتر، وبدأ مشواره مع الفريق بثلاثية أمام فيرونا في أغسطس 1999. اشتهر بالقوة والتسديدات الحاسمة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "مهاجم إيطالي خاض ستة مواسم مع إنتر، وبدأ مشواره مع الفريق بثلاثية أمام فيرونا في أغسطس 1999. اشتهر بالقوة والتسديدات الحاسمة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 123 هدفًا في 190 مباراة، وفاز بكأس إيطاليا 2004/05 وبلقب هداف الدوري في 2002/03.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Christian Vieri | official club biography",
+      "url": "https://www.inter.it/en/club/hall-of-fame/christian-vieri"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/283cd28064192d4d/webimage-INTER-BRESCIA-crop.png",
+    "pageUrl": "https://www.inter.it/en/club/hall-of-fame/christian-vieri",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "كريستيان فييري في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: INTER-BRESCIA crop",
+    "file": "christian-vieri-history-591e9d7a.jpg",
+    "width": 800,
+    "height": 450
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

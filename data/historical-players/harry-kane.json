@@ -1,0 +1,63 @@
+{
+  "id": "harry-kane",
+  "nameAr": "هاري كين",
+  "nameEn": "Harry Kane",
+  "aliases": [],
+  "existingProfileId": "harry-kane",
+  "summaryAr": "مهاجم إنجليزي أصبح الهداف التاريخي لتوتنهام برصيد 280 هدفًا، ثم أحرز الدوري الألماني مع بايرن في 2024/25.",
+  "sourceIds": [
+    "spurs"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "2011–2023",
+      "textAr": "الهداف التاريخي لتوتنهام برصيد 280 هدفا بحسب القائمة الرسمية للنادي.",
+      "sourceIds": [
+        "spurs"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    },
+    {
+      "clubId": "bayern-munich",
+      "periodAr": "من 2023",
+      "textAr": "توج مع بايرن ميونخ بلقب الدوري الألماني في موسم 2024/25.",
+      "sourceIds": [
+        "bayern"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "الهداف التاريخي",
+      "textAr": "سجل 280 هدفا مع توتنهام بحسب قائمة النادي المنشورة في مايو 2025.",
+      "sourceIds": [
+        "spurs"
+      ]
+    },
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "الدوري الألماني 2024/25",
+      "textAr": "أحرز أول لقب كبير في مسيرته بعد تأكد تتويج بايرن بالدوري في مايو 2025.",
+      "sourceIds": [
+        "bayern"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "spurs",
+      "title": "Official Spurs all-time scorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "bayern",
+      "title": "Kane on championship: Emotions were running high",
+      "url": "https://fcbayern.com/en/news/2025/05/harry-kane-on-title-win"
+    }
+  ],
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

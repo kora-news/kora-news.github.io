@@ -1,0 +1,57 @@
+{
+  "id": "kaka",
+  "nameEn": "Kaka",
+  "nameAr": "كاكا",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "صانع لعب برازيلي وصل إلى ميلان من ساو باولو عام 2003. جمع بين المهارة والسرعة في الانطلاق، وأصبح من أبرز لاعبي الفريق في منتصف العقد الأول من الألفية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "صانع لعب برازيلي وصل إلى ميلان من ساو باولو عام 2003. جمع بين المهارة والسرعة في الانطلاق، وأصبح من أبرز لاعبي الفريق في منتصف العقد الأول من الألفية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "سجّل عشرة أهداف في مشوار دوري الأبطال 2006/07 الذي انتهى بتتويج ميلان، وفاز بالكرة الذهبية وجائزة فيفا لأفضل لاعب عام 2007.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Kaka | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/kaka"
+    },
+    {
+      "id": "portrait",
+      "title": "Kaka archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/kaka/leistungsdaten/spieler/3366"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/3366-1683638749.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/kaka/leistungsdaten/spieler/3366",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "كاكا في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "kaka-history-746c1d99.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

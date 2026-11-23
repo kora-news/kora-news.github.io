@@ -1,0 +1,57 @@
+{
+  "id": "kenny-dalglish",
+  "nameAr": "كيني دالغليش",
+  "nameEn": "Kenny Dalglish",
+  "aliases": [
+    "Sir Kenny Dalglish",
+    "King Kenny"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم اسكتلندي جاء إلى ليفربول من سيلتيك في أغسطس 1977، ثم جمع بين اللعب والتدريب في مرحلة لاحقة من مسيرته مع النادي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1977-1990",
+      "textAr": "مهاجم اسكتلندي جاء إلى ليفربول من سيلتيك في أغسطس 1977، ثم جمع بين اللعب والتدريب في مرحلة لاحقة من مسيرته مع النادي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "ثلاث كؤوس لأوروبا وست بطولات دوري",
+      "textAr": "فاز لاعبًا بكأس أوروبا أعوام 1978 و1981 و1984 وبست بطولات دوري، وسجّل 172 هدفًا في 515 مباراة.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Kenny Dalglish | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/info/kenny-dalglish"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2025-01/kenny-dalglish-past-players-cover_3b9b2f6ea0afd8904e4f28f0b0c067b1.webp?itok=DlEb-yc5&width=1680",
+    "pageUrl": "https://www.liverpoolfc.com/info/kenny-dalglish",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "كيني دالغليش في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "kenny-dalglish-history-b8e1901f.jpg",
+    "width": 1440,
+    "height": 810
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

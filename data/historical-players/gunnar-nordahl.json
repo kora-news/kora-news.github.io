@@ -1,0 +1,65 @@
+{
+  "id": "gunnar-nordahl",
+  "nameEn": "Gunnar Nordahl",
+  "nameAr": "غونار نوردال",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم سويدي انضم إلى ميلان في يناير 1949 بعد التتويج الأولمبي مع السويد. أصبح أحد أبرز هدافي النادي وشكّل مع غرين وليدهولم الثلاثي السويدي الشهير.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم سويدي انضم إلى ميلان في يناير 1949 بعد التتويج الأولمبي مع السويد. أصبح أحد أبرز هدافي النادي وشكّل مع غرين وليدهولم الثلاثي السويدي الشهير.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "تصدّر هدافي الدوري الإيطالي خمس مرات، ويورد ميلان له 221 هدفًا بقميص النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "ac-milan",
+      "labelAr": "عودة لقب الدوري",
+      "textAr": "أسهم في عودة لقب الدوري إلى ميلان بعد سنوات طويلة، وفق نبذة النادي التي تصفه هدافه التاريخي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Gunnar Nordahl | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/nordahl"
+    },
+    {
+      "id": "portrait",
+      "title": "Gunnar Nordahl archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/gunnar-nordahl/leistungsdaten/spieler/140644"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/140644-1521817636.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/gunnar-nordahl/leistungsdaten/spieler/140644",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "غونار نوردال في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "gunnar-nordahl-history-8e70100f.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

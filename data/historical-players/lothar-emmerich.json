@@ -1,0 +1,57 @@
+{
+  "id": "lothar-emmerich",
+  "nameAr": "لوثار إيمريش",
+  "nameEn": "Lothar Emmerich",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني من أساطير دورتموند عُرف باسم إيما. ساهم في حقبة الستينيات وشارك مع ألمانيا في كأس العالم 1966.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم ألماني من أساطير دورتموند عُرف باسم إيما. ساهم في حقبة الستينيات وشارك مع ألمانيا في كأس العالم 1966.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بصدارة هدافي البوندسليغا عامي 1966 و1967، وشارك في تتويج دورتموند بكأس الكؤوس الأوروبية 1966.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Lothar Emmerich | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Fussballerischer-Nachlass-Lothar-Emmerichs-kommt-ins-Borusseum.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Lothar Emmerich individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/lothar-emmerich/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/037/252/custom_style_1_Lothar_Emmerich.jpg?1493073861",
+    "pageUrl": "https://datencenter.dfb.de/personen/lothar-emmerich/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "لوثار إيمريش في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonLothar Emmerich",
+    "file": "lothar-emmerich-history-38309907.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

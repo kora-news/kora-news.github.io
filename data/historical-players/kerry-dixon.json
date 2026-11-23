@@ -1,0 +1,91 @@
+{
+  "id": "kerry-dixon",
+  "nameAr": "كيري ديكسون",
+  "nameEn": "Kerry Dixon",
+  "aliases": [
+    "Kerry Michael Dixon"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي من مواليد 24 يوليو 1961، انضم إلى تشيلسي قادما من ريدينغ عام 1983 وقاده للصعود إلى الدرجة الأولى في موسمه الأول. هداف الدرجة في ثلاثة مواسم متتالية صاعدا من الثالثة إلى الأولى، وفاز بالحذاء الذهبي للدرجة الأولى موسم 1985/86. مثّل إنجلترا في كأس العالم 1986، ورحل عن تشيلسي عام 1992 برصيد 193 هدفا.",
+  "sourceIds": [
+    "bio",
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1983–1992",
+      "textAr": "تسعة مواسم سجل خلالها 193 هدفا في 413 مباراة، ورحل وهو على بعد تسعة أهداف من الرقم القياسي آنذاك.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "ثالث الهدافين التاريخيين",
+      "textAr": "193 هدفا في جميع المسابقات. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers",
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "الحذاء الذهبي للدرجة الأولى",
+      "textAr": "هداف الدرجة الأولى موسم 1985/86، بعد تصدري هدافي الدرجتين الثالثة (مع ريدينغ) والثانية في الموسمين السابقين.",
+      "sourceIds": [
+        "scorers",
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "لقب الدرجة الثانية مرتين",
+      "textAr": "الصعود بطلا موسمي 1983/84 و1988/89، مع كأس الأعضاء الكامل عام 1989–90.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    }
+  ],
+  "birthDate": "1961-07-24",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Kerry Dixon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kerry_Dixon"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "portrait",
+      "title": "Kerry Dixon historical photograph source",
+      "url": "https://www.chelseafc.com/en/kerry-dixon"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/f_auto,c_fill,w_1000,q_90/editorial/historical/players/dixon-89127265.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/kerry-dixon",
+    "author": "Chelsea FC (club archive)",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "كيري ديكسون في مباراة لتشيلسي ضد أرسنال في الثمانينيات، من أرشيف النادي الرسمي",
+    "identityEvidence": "صورة منشورة على صفحة اللاعب الرسمية في موقع تشيلسي ضمن قسم تاريخ النادي؛ اسم الملف يحمل dixon",
+    "file": "kerry-dixon-history-cb556f09.jpg",
+    "width": 1000,
+    "height": 640
+  },
+  "notesAr": [
+    "لم يُعثر على صورة حرة موثقة؛ صفحة النادي الرسمية عنه مرشحة كمصدر صورة بإذن غير مؤكد: https://www.chelseafc.com/en/kerry-dixon"
+  ],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

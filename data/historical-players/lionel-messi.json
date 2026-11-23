@@ -1,0 +1,57 @@
+{
+  "id": "lionel-messi",
+  "nameAr": "ليونيل ميسي",
+  "nameEn": "Lionel Messi",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم أرجنتيني تدرّج في لا ماسيا وظهر رسميًا مع الفريق الأول عام 2004. أنهى فترته مع برشلونة عام 2021 برصيد 672 هدفًا في 778 مباراة رسمية، وهو سجل النادي في الأهداف والمشاركات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "الفريق الأول رسميًا: 2004–2021",
+      "textAr": "مهاجم أرجنتيني تدرّج في لا ماسيا وظهر رسميًا مع الفريق الأول عام 2004. أنهى فترته مع برشلونة عام 2021 برصيد 672 هدفًا في 778 مباراة رسمية، وهو سجل النادي في الأهداف والمشاركات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "35 لقبًا مع برشلونة",
+      "textAr": "حقق 35 لقبًا رئيسيًا مع الفريق الأول، بينها أربعة لدوري أبطال أوروبا وعشرة للدوري الإسباني.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": "أرجنتيني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Lionel Messi",
+      "url": "https://www.fcbarcelona.com/en/card/2214377/leo-messi"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/2214377/leo-messi",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Leo Messi",
+    "file": "lionel-messi-history-3d7f5282.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "النبذة تخص فترة برشلونة حتى 2021، وليست حصيلة محدثة لكل مسيرته. رصيد 35 يخص الألقاب الرئيسية؛ تسرد صفحة النادي الكؤوس الكتالونية على نحو منفصل."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

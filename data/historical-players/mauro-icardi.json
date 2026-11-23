@@ -1,0 +1,59 @@
+{
+  "id": "mauro-icardi",
+  "nameEn": "Mauro Icardi",
+  "nameAr": "ماورو إيكاردي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم أرجنتيني وُلد في روساريو، انضم إلى إنتر صيف 2013 قادمًا من سامبدوريا. أصبح قائدًا للفريق في موسم 2015/16 وبرز ضمن هدافي النادي التاريخيين.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "انضم إلى إنتر في 2013 وأصبح قائدًا للفريق في موسم 2015/16.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "تصدّر هدافي الدوري الإيطالي في موسم 2014/15 برصيد 22 هدفًا، وسجّل أول أهدافه بقميص إنتر أمام يوفنتوس في سبتمبر 2013.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Mauro Icardi: The anatomy of a goalscorer | Inter",
+      "url": "https://www.inter.it/en/news/2018-03-18-mauro-icardi-the-anatomy-of-a-goalscorer"
+    },
+    {
+      "id": "archive",
+      "title": "Mauro Icardi | Inter player archive",
+      "url": "https://www.inter.it/en/archivio_giocatore/G0926/mauro-icardi"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.inter.it/img/186034.jpg",
+    "pageUrl": "https://www.inter.it/en/archivio_giocatore/G0926/mauro-icardi",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ماورو إيكاردي في صورة أرشيفية بقميص إنتر",
+    "identityEvidence": "Official named Icardi archive page og:image redirects to this actual recognizable individual portrait. Downloaded and pixels inspected.",
+    "file": "mauro-icardi-history-3610163d.jpg",
+    "width": 200,
+    "height": 280
+  },
+  "notesAr": [
+    "يعرض أرشيف اللاعب 126 هدفًا في 222 مباراة، بينما تعرض قائمة النادي وخبر مايو 2019 رقمَي 124 و219؛ لا نثبت إجماليًا موحدًا بين النطاقين."
+  ],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ted-drake",
+  "nameEn": "Ted Drake",
+  "nameAr": "تيد دريك",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي اشتهر بالقوة والسرعة والإنهاء. كان من أعمدة هجوم أرسنال في الثلاثينيات وصاحب إحدى أشهر المباريات الفردية في تاريخ النادي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "الثلاثينيات والأربعينيات",
+      "textAr": "مهاجم إنجليزي اشتهر بالقوة والسرعة والإنهاء. كان من أعمدة هجوم أرسنال في الثلاثينيات وصاحب إحدى أشهر المباريات الفردية في تاريخ النادي.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "42 هدفا في الدوري",
+      "textAr": "سجل 42 هدفا في موسم تتويج أرسنال بدوري 1934/35.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "سباعية في مباراة",
+      "textAr": "سجل أهداف أرسنال السبعة في الفوز 7–1 خارج أرضه على أستون فيلا يوم 14 ديسمبر 1935.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Ted Drake - official club biography",
+      "url": "https://www.arsenal.com/men/ted-drake-aCvGk2h8cWrk"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/5f0b7da5a9f2-ted-drake-scores-seven-goals-at-aston-villas-villa-park.webp",
+    "pageUrl": "https://www.arsenal.com/men/ted-drake-aCvGk2h8cWrk",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Ted Drake",
+    "file": "ted-drake-history-07523a05.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [
+    "سيرة دريك الرسمية تذكر 136 هدفا في 182 مباراة؛ جدول الهدافين يذكر 139 في 184. لم يُدمجا ولم تُغير أرقام قائمة الهدافين."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

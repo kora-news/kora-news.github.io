@@ -1,0 +1,54 @@
+{
+  "id": "roberto-boninsegna",
+  "nameEn": "Roberto Boninsegna",
+  "nameAr": "روبرتو بونينسيغنا",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "مهاجم إيطالي لُقّب ببونيمبا، عاد إلى إنتر عام 1969 بعد أن مرّ بقطاع ناشئيه. اشتهر بالقوة والقدم اليسرى وحب التسجيل، واستمر مع الفريق حتى 1976.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "مهاجم إيطالي لُقّب ببونيمبا، عاد إلى إنتر عام 1969 بعد أن مرّ بقطاع ناشئيه. اشتهر بالقوة والقدم اليسرى وحب التسجيل، واستمر مع الفريق حتى 1976.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بالدوري 1970/71 وتصدّر هدافي الدوري الإيطالي مرتين خلال فترته مع إنتر.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Roberto Boninsegna | official club biography",
+      "url": "https://www.inter.it/en/news/lautaro-third-place-with-boninsegna-all-time-goalscorers-list-inter"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/28d4d9a929018e41/webimage-AN06772-Boninsegna-Roberto.png",
+    "pageUrl": "https://www.inter.it/en/news/lautaro-third-place-with-boninsegna-all-time-goalscorers-list-inter",
+    "author": "Celso Battaia",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روبرتو بونينسيغنا في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: AN06772 Boninsegna Roberto",
+    "file": "roberto-boninsegna-history-7728a3a5.jpg",
+    "width": 573,
+    "height": 600
+  },
+  "notesAr": [
+    "171 هدفًا في عدّ المسابقات الأساسية مقابل 173 عند إدخال هدفي بطولة أرماندو بيكي 1971؛ كما تختلف المشاركات 281/287. لم تُدمج الأعداد."
+  ],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

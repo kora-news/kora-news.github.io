@@ -1,0 +1,60 @@
+{
+  "id": "andriy-shevchenko",
+  "nameEn": "Andriy Shevchenko",
+  "nameAr": "أندري شيفتشينكو",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم أوكراني انضم إلى ميلان في 1999. جمع بين السرعة واللعب بالقدمين والضربات الرأسية، وسجّل ركلة الترجيح الحاسمة في نهائي دوري الأبطال أمام يوفنتوس عام 2003.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم أوكراني انضم إلى ميلان في 1999. جمع بين السرعة واللعب بالقدمين والضربات الرأسية، وسجّل ركلة الترجيح الحاسمة في نهائي دوري الأبطال أمام يوفنتوس عام 2003.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "فاز بدوري الأبطال والدوري الإيطالي مع ميلان، ونال الكرة الذهبية عام 2004.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Andriy Shevchenko | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/shevchenko"
+    },
+    {
+      "id": "portrait",
+      "title": "Andriy Shevchenko archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/andriy-shevchenko/leistungsdaten/spieler/3522"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/3522-1570438190.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/andriy-shevchenko/leistungsdaten/spieler/3522",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "أندري شيفتشينكو في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "andriy-shevchenko-history-d0cc079d.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [
+    "الصفحة الرسمية تتناقض داخليًا بين عدّاد 173/296 ونص 175/322؛ لم تُستخدم الإجماليات في النبذة.",
+    "تختلف أرقام صفحة النادي داخليًا: العداد 173 هدفًا في 296 مباراة، والمتن 175 هدفًا في 322 مباراة. لا نثبت إجماليًا موحدًا هنا."
+  ],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

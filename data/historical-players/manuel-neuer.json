@@ -1,0 +1,40 @@
+{
+  "id": "manuel-neuer",
+  "nameAr": "مانويل نوير",
+  "nameEn": "Manuel Neuer",
+  "aliases": [],
+  "existingProfileId": "manuel-neuer",
+  "summaryAr": "حارس مرمى ألماني انضم إلى بايرن عام 2011 وتولّى شارة القيادة في 2017.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "حارس مرمى ألماني انضم إلى بايرن عام 2011 وتولّى شارة القيادة في 2017.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بالثلاثية مع بايرن عامي 2013 و2020، ونال جائزة فيفا لأفضل حارس عام 2020.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Manuel Neuer | Club/DFB record",
+      "url": "https://fcbayern.com/en/teams/first-team/manuel-neuer"
+    }
+  ],
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "alfredo-di-stefano",
+  "nameAr": "ألفريدو دي ستيفانو",
+  "nameEn": "Alfredo Di Stéfano",
+  "aliases": [
+    "alfredo-di-stefano-laulhe"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وُلد في بوينس آيرس، وأصبح من رموز ريال مدريد خلال 1953–1964. سجّل 308 أهداف رسمية، وكان محور الفريق الذي أحرز كأس أوروبا خمس مرات متتالية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "1953–1964",
+      "textAr": "مهاجم وُلد في بوينس آيرس، وأصبح من رموز ريال مدريد خلال 1953–1964. سجّل 308 أهداف رسمية، وكان محور الفريق الذي أحرز كأس أوروبا خمس مرات متتالية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "خماسية كأس أوروبا",
+      "textAr": "شارك في الفوز بخمسة ألقاب متتالية لكأس أوروبا، وسجّل في كل واحد من النهائيات الخمسة. وفاز بالكرة الذهبية في 1957 و1959.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1926-07-04",
+  "positionAr": "مهاجم",
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Alfredo Di Stéfano",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/alfredo-di-stefano-laulhe"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330186262231?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/alfredo-di-stefano-laulhe",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Di Stéfano",
+    "file": "alfredo-di-stefano-history-743e10c1.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

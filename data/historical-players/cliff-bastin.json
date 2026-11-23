@@ -1,0 +1,77 @@
+{
+  "id": "cliff-bastin",
+  "nameEn": "Cliff Bastin",
+  "nameAr": "كليف باستين",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "جناح أيسر بارز في أرسنال خلال الثلاثينيات، جمع بين صناعة الفرص والتسجيل. بقي رقمه البالغ 178 هدفا للنادي صامدا حتى تجاوزه إيان رايت عام 1997.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "من 1929",
+      "textAr": "جناح أيسر بارز في أرسنال خلال الثلاثينيات، جمع بين صناعة الفرص والتسجيل. بقي رقمه البالغ 178 هدفا للنادي صامدا حتى تجاوزه إيان رايت عام 1997.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "خمسة ألقاب دوري",
+      "textAr": "فاز بخمسة ألقاب للدوري مع أرسنال.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "كأس إنجلترا مرتين",
+      "textAr": "كان ضمن فريق التتويج عام 1930 وأضاف اللقب مرة أخرى عام 1936.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "178 هدفا",
+      "textAr": "تسجل قائمة أرسنال الرسمية له 178 هدفا.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Cliff Bastin - official club biography",
+      "url": "https://www.arsenal.com/news/cliff-bastin-akT6s6E1oGGo"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/f4a4eeaa265f-cliff-bastin-forward-for-arsenal-football-club-and-england.webp",
+    "pageUrl": "https://www.arsenal.com/news/cliff-bastin-akT6s6E1oGGo",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Cliff Bastin",
+    "file": "cliff-bastin-history-95a650f5.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [
+    "تختلف المصادر الرسمية في عدد المباريات: السيرة 395، وجدول الهدافين 396. أُهمل العدد في النص."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

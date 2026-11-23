@@ -1,0 +1,52 @@
+{
+  "id": "karl-heinz-rummenigge",
+  "nameAr": "كارل هاينتس رومينيجه",
+  "nameEn": "Karl-Heinz Rummenigge",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني انضم إلى بايرن عام 1974 وهو في الثامنة عشرة. تميّز بالسرعة والحركة والحسم، ثم عاد إلى النادي في أدوار إدارية بعد نهاية مشواره لاعبًا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "مهاجم ألماني انضم إلى بايرن عام 1974 وهو في الثامنة عشرة. تميّز بالسرعة والحركة والحسم، ثم عاد إلى النادي في أدوار إدارية بعد نهاية مشواره لاعبًا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بكأس أوروبا عامي 1975 و1976، وبالدوري عامي 1980 و1981، ونال جائزة أفضل لاعب في أوروبا عامي 1980 و1981.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Karl-Heinz Rummenigge | Club/DFB record",
+      "url": "https://fcbayern.com/en/club/hall-of-fame/karl-heinz-rummenigge"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/035/005/custom_style_1_Karl-Heinz_Rummenigge.jpg?1493072084",
+    "pageUrl": "https://datencenter.dfb.de/personen/karl-heinz-rummenigge/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "كارل هاينتس رومينيجه في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "karl-heinz-rummenigge-history-c583e65c.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

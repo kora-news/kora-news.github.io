@@ -32,6 +32,8 @@ jobs:
         run: node scripts/check-news.js
       - name: Validate player profiles
         run: node scripts/check-players.js
+      - name: Validate historical player profiles
+        run: node scripts/check-historical-players.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,56 @@
+{
+  "id": "fernando-torres",
+  "nameAr": "فرناندو توريس",
+  "nameEn": "Fernando Torres",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إسباني من رموز أتلتيكو، بدأ مع الفريق في الدرجة الثانية وعاد إليه في يناير 2015 بعد تجربته في إنجلترا وإيطاليا. تنشر سيرته الرسمية 129 هدفًا في 404 مباريات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "2001–2007 و2015–2018",
+      "textAr": "مهاجم إسباني من رموز أتلتيكو، بدأ مع الفريق في الدرجة الثانية وعاد إليه في يناير 2015 بعد تجربته في إنجلترا وإيطاليا. تنشر سيرته الرسمية 129 هدفًا في 404 مباريات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "الدوري الأوروبي 2018",
+      "textAr": "أنهى فترته لاعبًا في أتلتيكو برفع كأس الدوري الأوروبي عام 2018 بجوار جابي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1984-03-20",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Atletico official Paseo de Leyendas: Fernando Torres",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/leyendas/fernando-torres"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://cdn.prod.website-files.com/6a96ea2375ce6e2538c881ca/6a9abedfa0fdb5f38a0174ed_LEYENDA_PRINCIPAL_TORRES.png",
+    "pageUrl": "https://paseodeleyendas.atleticodemadrid.com/leyendas/fernando-torres",
+    "author": "Atletico de Madrid archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من سيرة أتلتيكو الرسمية",
+    "identityEvidence": "الصورة الرئيسية والبيانات الوصفية في صفحة الأسطورة المسماة باسمه",
+    "file": "fernando-torres-history-96cfa619.jpg",
+    "width": 1400,
+    "height": 600
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "michael-zorc",
+  "nameAr": "مايكل زورك",
+  "nameEn": "Michael Zorc",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وسط ألماني تدرّج في دورتموند وأصبح من قادته، ثم عمل في الإدارة الرياضية بعد الاعتزال. ارتبط اسمه طويلًا بالقميص الأصفر والأسود.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "لاعب وسط ألماني تدرّج في دورتموند وأصبح من قادته، ثم عمل في الإدارة الرياضية بعد الاعتزال. ارتبط اسمه طويلًا بالقميص الأصفر والأسود.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز لاعبًا بالدوري عامي 1995 و1996 وبكأس ألمانيا 1989 وبدوري الأبطال وكأس الإنتركونتيننتال 1997.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Michael Zorc | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Michael-Zorc-Ein-Leben-in-Schwarzgelb.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Michael Zorc individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/michael-zorc/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/038/464/custom_style_1_Michael_Zorc.jpg?1493075466",
+    "pageUrl": "https://datencenter.dfb.de/personen/michael-zorc/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "مايكل زورك في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonMichael Zorc",
+    "file": "michael-zorc-history-1ab532ab.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [
+    "تختلف إجماليات الأهداف التاريخية بين سجل النادي وبعض القواعد الإحصائية؛ نعتمد هنا الإنجاز الموثق المحدد دون مزج نطاقات العد."
+  ],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ian-wright",
+  "nameEn": "Ian Wright",
+  "nameAr": "إيان رايت",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي انضم من كريستال بالاس وأصبح أحد أبرز هدافي أرسنال. تجاوز رقم كليف باستين في سبتمبر 1997 وأنهى مشواره مع النادي برصيد 185 هدفا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1991–1998",
+      "textAr": "مهاجم إنجليزي انضم من كريستال بالاس وأصبح أحد أبرز هدافي أرسنال. تجاوز رقم كليف باستين في سبتمبر 1997 وأنهى مشواره مع النادي برصيد 185 هدفا.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "185 هدفا",
+      "textAr": "سجل 185 هدفا في 288 مباراة بحسب قائمة النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "كأسا 1993",
+      "textAr": "ساهم في الفوز بكأس إنجلترا وكأس الرابطة عام 1993، وسجل في نهائي كأس إنجلترا ومباراة الإعادة.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "دوري 1997/98",
+      "textAr": "حصل على ميدالية بطل الدوري في موسمه الأخير مع أرسنال.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Ian Wright - official club biography",
+      "url": "https://www.arsenal.com/men/ian-wright-aRV5u3B5WSZS"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/93f53cfd5b35-ian-wright-breaks-cliff-bastins-record.webp",
+    "pageUrl": "https://www.arsenal.com/men/ian-wright-aRV5u3B5WSZS",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Ian Wright",
+    "file": "ian-wright-history-0de021dd.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

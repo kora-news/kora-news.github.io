@@ -1,0 +1,60 @@
+{
+  "id": "cristiano-ronaldo",
+  "nameAr": "كريستيانو رونالدو",
+  "nameEn": "Cristiano Ronaldo",
+  "aliases": [
+    "cristiano-ronaldo-dos-santos-aveiro"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم برتغالي سجّل 451 هدفًا في 438 مباراة رسمية لريال مدريد بحسب عد النادي. امتدت فترته في الفريق من 2009 إلى 2018، وشهدت أربعة ألقاب لدوري أبطال أوروبا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "2009–2018",
+      "textAr": "مهاجم برتغالي سجّل 451 هدفًا في 438 مباراة رسمية لريال مدريد بحسب عد النادي. امتدت فترته في الفريق من 2009 إلى 2018، وشهدت أربعة ألقاب لدوري أبطال أوروبا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "دوري أبطال أوروبا",
+      "textAr": "فاز بأربعة ألقاب لدوري أبطال أوروبا مع ريال مدريد خلال فترته 2009–2018.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1985-02-05",
+  "positionAr": "مهاجم",
+  "nationalityAr": "برتغالي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Cristiano Ronaldo",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330603286208?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/cristiano-ronaldo-dos-santos-aveiro",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Cristiano Ronaldo",
+    "file": "cristiano-ronaldo-history-a7c74eaa.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [
+    "يعتمد هذا الملف عد ريال مدريد: 451 هدفًا. تحتسب بعض المراجع 450 هدفًا بسبب نسبة هدف ريال سوسيداد عام 2010 إلى بيبي."
+  ],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

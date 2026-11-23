@@ -1,0 +1,52 @@
+{
+  "id": "alessandro-altobelli",
+  "nameEn": "Alessandro Altobelli",
+  "nameAr": "أليساندرو ألتوبيلي",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "مهاجم إيطالي لُقّب بسبيلّو، انضم إلى إنتر من بريشيا عام 1977. قضى أحد عشر موسمًا مع النادي وعُرف بقوته في الكرات الرأسية وحسه التهديفي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "مهاجم إيطالي لُقّب بسبيلّو، انضم إلى إنتر من بريشيا عام 1977. قضى أحد عشر موسمًا مع النادي وعُرف بقوته في الكرات الرأسية وحسه التهديفي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 209 أهداف في 466 مباراة، وفاز بالدوري 1979/80 وكأس إيطاليا مرتين مع إنتر.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Alessandro Altobelli | official club biography",
+      "url": "https://www.inter.it/en/news/altobelli-turns-70-inter-is-my-family-my-everything"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/3a50a30a023523e9/webimage-AD00093-Altobelli-A.png",
+    "pageUrl": "https://www.inter.it/en/news/altobelli-turns-70-inter-is-my-family-my-everything",
+    "author": "Foto Aldo Martinuzzi - Milano",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "أليساندرو ألتوبيلي في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: AD00093 Altobelli A",
+    "file": "alessandro-altobelli-history-e80695a3.jpg",
+    "width": 404,
+    "height": 600
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

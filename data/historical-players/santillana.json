@@ -1,0 +1,58 @@
+{
+  "id": "santillana",
+  "nameAr": "سانتيانا",
+  "nameEn": "Santillana",
+  "aliases": [
+    "carlos-alonso-gonzalez"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "كارلوس ألونسو جونزاليس، المعروف بسانتيانا، مهاجم اشتهر بالقفز والضربات الرأسية. لعب لريال مدريد من 1971 إلى 1988 وسجّل 290 هدفًا في 645 مباراة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "1971–1988",
+      "textAr": "كارلوس ألونسو جونزاليس، المعروف بسانتيانا، مهاجم اشتهر بالقفز والضربات الرأسية. لعب لريال مدريد من 1971 إلى 1988 وسجّل 290 هدفًا في 645 مباراة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "تسعة ألقاب للدوري",
+      "textAr": "أسهم في الفوز بتسعة ألقاب للدوري الإسباني ضمن 16 بطولة أحرزها مع ريال مدريد.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1952-08-23",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Santillana",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/carlos-alonso-gonzalez"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330186262723?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/carlos-alonso-gonzalez",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Santillana",
+    "file": "santillana-history-ea806f25.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

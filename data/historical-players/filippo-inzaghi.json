@@ -1,0 +1,57 @@
+{
+  "id": "filippo-inzaghi",
+  "nameEn": "Filippo Inzaghi",
+  "nameAr": "فيليبو إنزاغي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي لُقّب بسوبر بيبو. وصل إلى ميلان بعد تجارب منها أتالانتا ويوفنتوس، وارتبط اسمه بالحسم داخل منطقة الجزاء وفي النهائيات الأوروبية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم إيطالي لُقّب بسوبر بيبو. وصل إلى ميلان بعد تجارب منها أتالانتا ويوفنتوس، وارتبط اسمه بالحسم داخل منطقة الجزاء وفي النهائيات الأوروبية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "سجّل ثنائية نهائي دوري الأبطال 2007 أمام ليفربول، وفاز مع ميلان بدوري الأبطال مرتين وبكأس العالم للأندية 2007.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Filippo Inzaghi | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/inzaghi"
+    },
+    {
+      "id": "portrait",
+      "title": "Filippo Inzaghi archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/filippo-inzaghi/profil/spieler/5821"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/5821-1590494397.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/filippo-inzaghi/profil/spieler/5821",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "فيليبو إنزاغي في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "filippo-inzaghi-history-2b67338d.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

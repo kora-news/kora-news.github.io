@@ -1,0 +1,54 @@
+{
+  "id": "roberto-bettega",
+  "nameEn": "Roberto Bettega",
+  "nameAr": "روبرتو بيتيغا",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي تدرّج في ناشئي يوفنتوس ومثّل الفريق الأول بين 1970 و1983. تميّز بضربات الرأس والقدرة على إنهاء الهجمات بكلتا القدمين.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم إيطالي تدرّج في ناشئي يوفنتوس ومثّل الفريق الأول بين 1970 و1983. تميّز بضربات الرأس والقدرة على إنهاء الهجمات بكلتا القدمين.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بسبعة ألقاب للدوري الإيطالي وكأس إيطاليا مرتين وكأس الاتحاد الأوروبي مع يوفنتوس.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Roberto Bettega | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/roberto-bettega"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Bettega.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/roberto-bettega",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روبرتو بيتيغا في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "roberto-bettega-history-74d36751.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [
+    "تعرض صفحة النادي 179 هدفًا في العداد و178 في متن النبذة؛ لذلك لم نعتمد أحدهما إجماليًا موحدًا هنا."
+  ],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

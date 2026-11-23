@@ -1,0 +1,59 @@
+{
+  "id": "juergen-schuetz",
+  "nameAr": "يورجن شوتس",
+  "nameEn": "Jürgen Schütz",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب هجوم ألماني عُرف باسم تشارلي، وشكّل مع تيمو كونييتسكا ثنائي ماكس وموريتس. كان من نجوم دورتموند في آخر مواسم نظام الأوبرليغا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "لاعب هجوم ألماني عُرف باسم تشارلي، وشكّل مع تيمو كونييتسكا ثنائي ماكس وموريتس. كان من نجوم دورتموند في آخر مواسم نظام الأوبرليغا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "تصدّر هدافي أوبرليغا الغرب في 1962/63 بـ25 هدفًا، وساهم في فوز دورتموند ببطولة ألمانيا 1963.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Jürgen Schütz | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Das-letzte-deutsche-Endspiel-60-Jahre-Deutscher-Meister.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Jürgen Schütz individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/juergen-schuetz/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/037/263/custom_style_1_Jürgen_Schütz.jpg?1493073868",
+    "pageUrl": "https://datencenter.dfb.de/personen/juergen-schuetz/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "يورجن شوتس في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonJürgen Schütz",
+    "file": "juergen-schuetz-history-49e4a8dc.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [
+    "تختلف إجماليات الأهداف التاريخية بين سجل النادي وبعض القواعد الإحصائية؛ نعتمد هنا الإنجاز الموثق المحدد دون مزج نطاقات العد."
+  ],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

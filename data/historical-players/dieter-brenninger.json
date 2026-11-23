@@ -1,0 +1,52 @@
+{
+  "id": "dieter-brenninger",
+  "nameAr": "ديتر بريننجر",
+  "nameEn": "Dieter Brenninger",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني وُلد في ألتينإردينغ. كان من وجوه بايرن في حقبة الصعود إلى البوندسليغا والنجاحات الأولى خلال الستينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "مهاجم ألماني وُلد في ألتينإردينغ. كان من وجوه بايرن في حقبة الصعود إلى البوندسليغا والنجاحات الأولى خلال الستينيات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز مع بايرن بالدوري 1968/69 وكأس الكؤوس الأوروبية 1966/67 وكأس ألمانيا أربع مرات وفق سجل الاتحاد الألماني.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Dieter Brenninger | Club/DFB record",
+      "url": "https://datencenter.dfb.de/en/data-center/people/dieter-brenninger/player"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/038/951/custom_style_1_Dieter_Brenninger.jpg?1493075742",
+    "pageUrl": "https://datencenter.dfb.de/personen/dieter-brenninger/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ديتر بريننجر في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "dieter-brenninger-history-0c5da665.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

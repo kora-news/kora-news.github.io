@@ -1,0 +1,1220 @@
+[
+  {
+    "nameEn": "Adi Preißler",
+    "nameAr": "آدي برايسلر",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Marco Reus",
+    "nameAr": "ماركو رويس",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Manfred Burgsmüller",
+    "nameAr": "مانفريد بورجسمولر",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Michael Zorc",
+    "nameAr": "مايكل زورك",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Timo Konietzka",
+    "nameAr": "تيمو كونييتسكا",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Lothar Emmerich",
+    "nameAr": "لوثار إيمريش",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Jürgen Schütz",
+    "nameAr": "يورجن شوتس",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Pierre-Emerick Aubameyang",
+    "nameAr": "بيير إيميريك أوباميانج",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Alfred Niepieklo",
+    "nameAr": "ألفريد نيبيكلو",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Alfred Kelbassa",
+    "nameAr": "ألفريد كيلباسا",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Stéphane Chapuisat",
+    "nameAr": "ستيفان شابويزا",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Łukasz Piszczek",
+    "nameAr": "لوكاش بيشتشيك",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Marcel Schmelzer",
+    "nameAr": "مارسيل شميلتسر",
+    "existingProfileId": null,
+    "clubIds": [
+      "borussia-dortmund"
+    ]
+  },
+  {
+    "nameEn": "Frank Lampard",
+    "nameAr": "فرانك لامبارد",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Bobby Tambling",
+    "nameAr": "بوبي تامبلينج",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Kerry Dixon",
+    "nameAr": "كيري ديكسون",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Didier Drogba",
+    "nameAr": "ديدييه دروجبا",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Roy Bentley",
+    "nameAr": "روي بنتلي",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Peter Osgood",
+    "nameAr": "بيتر أوسجود",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Jimmy Greaves",
+    "nameAr": "جيمي جريفز",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea",
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "George Mills",
+    "nameAr": "جورج ميلز",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Eden Hazard",
+    "nameAr": "إيدين هازارد",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "George Hilsdon",
+    "nameAr": "جورج هيلسدون",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "John Terry",
+    "nameAr": "جون تيري",
+    "existingProfileId": null,
+    "clubIds": [
+      "chelsea"
+    ]
+  },
+  {
+    "nameEn": "Ian Rush",
+    "nameAr": "إيان راش",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Roger Hunt",
+    "nameAr": "روجر هانت",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Mohamed Salah",
+    "nameAr": "محمد صلاح",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Gordon Hodgson",
+    "nameAr": "غوردون هودجسون",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Billy Liddell",
+    "nameAr": "بيلي ليدل",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Steven Gerrard",
+    "nameAr": "ستيفن جيرارد",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Robbie Fowler",
+    "nameAr": "روبي فاولر",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Kenny Dalglish",
+    "nameAr": "كيني دالغليش",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Michael Owen",
+    "nameAr": "مايكل أوين",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Harry Chambers",
+    "nameAr": "هاري تشامبرز",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Phil Neal",
+    "nameAr": "فيل نيل",
+    "existingProfileId": null,
+    "clubIds": [
+      "liverpool"
+    ]
+  },
+  {
+    "nameEn": "Cristiano Ronaldo",
+    "nameAr": "كريستيانو رونالدو",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Karim Benzema",
+    "nameAr": "كريم بنزيما",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Raúl",
+    "nameAr": "راؤول جونزاليس",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Alfredo Di Stéfano",
+    "nameAr": "ألفريدو دي ستيفانو",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Santillana",
+    "nameAr": "سانتيانا",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Ferenc Puskás",
+    "nameAr": "فيرينتس بوشكاش",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Hugo Sánchez",
+    "nameAr": "هوجو سانشيز",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Paco Gento",
+    "nameAr": "باكو خينتو",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Pirri",
+    "nameAr": "بيري",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Emilio Butragueño",
+    "nameAr": "إيميليو بوتراجينيو",
+    "existingProfileId": null,
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Luka Modrić",
+    "nameAr": "لوكا مودريتش",
+    "existingProfileId": "luka-modric",
+    "clubIds": [
+      "real-madrid"
+    ]
+  },
+  {
+    "nameEn": "Sergio Aguero",
+    "nameAr": "سيرخيو أغويرو",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Eric Brook",
+    "nameAr": "إريك بروك",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Erling Haaland",
+    "nameAr": "إيرلينغ هالاند",
+    "existingProfileId": "erling-haaland",
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Tommy Johnson",
+    "nameAr": "تومي جونسون",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Colin Bell",
+    "nameAr": "كولين بيل",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Billy Meredith",
+    "nameAr": "بيلي ميريديث",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Joe Hayes",
+    "nameAr": "جو هايز",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Francis Lee",
+    "nameAr": "فرانسيس لي",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Tommy Browell",
+    "nameAr": "تومي برويل",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Billy Gillespie",
+    "nameAr": "بيلي غيليسبي",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Fred Tilson",
+    "nameAr": "فريد تيلسون",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Phil Foden",
+    "nameAr": "فيل فودين",
+    "existingProfileId": "phil-foden",
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Bernardo Silva",
+    "nameAr": "برناردو سيلفا",
+    "existingProfileId": "bernardo-silva",
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "John Stones",
+    "nameAr": "جون ستونز",
+    "existingProfileId": "john-stones",
+    "clubIds": [
+      "manchester-city"
+    ]
+  },
+  {
+    "nameEn": "Giuseppe Meazza",
+    "nameAr": "جوزيبي مياتزا",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Alessandro Altobelli",
+    "nameAr": "أليساندرو ألتوبيلي",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Lautaro Martinez",
+    "nameAr": "لاوتارو مارتينيز",
+    "existingProfileId": "lautaro-martinez",
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Roberto Boninsegna",
+    "nameAr": "روبرتو بونينسيغنا",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Sandro Mazzola",
+    "nameAr": "ساندرو ماتزولا",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Luigi Cevenini III",
+    "nameAr": "لويجي تشيفينيني الثالث",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Benito Lorenzi",
+    "nameAr": "بينيتو لورينتسي",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Istvan Nyers",
+    "nameAr": "إشتفان نيرش",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Mauro Icardi",
+    "nameAr": "ماورو إيكاردي",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Christian Vieri",
+    "nameAr": "كريستيان فييري",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Javier Zanetti",
+    "nameAr": "خافيير زانيتي",
+    "existingProfileId": null,
+    "clubIds": [
+      "inter"
+    ]
+  },
+  {
+    "nameEn": "Harry Kane",
+    "nameAr": "هاري كين",
+    "existingProfileId": "harry-kane",
+    "clubIds": [
+      "tottenham",
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Bobby Smith",
+    "nameAr": "بوبي سميث",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Martin Chivers",
+    "nameAr": "مارتن تشيفرز",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Son Heung-min",
+    "nameAr": "سون هيونج مين",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Cliff Jones",
+    "nameAr": "كليف جونز",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Jermain Defoe",
+    "nameAr": "جيرمين ديفو",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "George Hunt",
+    "nameAr": "جورج هانت",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Len Duquemin",
+    "nameAr": "لين دوكيمين",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Alan Gilzean",
+    "nameAr": "آلان جيلزين",
+    "existingProfileId": null,
+    "clubIds": [
+      "tottenham"
+    ]
+  },
+  {
+    "nameEn": "Alessandro Del Piero",
+    "nameAr": "أليساندرو ديل بييرو",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Giampiero Boniperti",
+    "nameAr": "جامبييرو بونيبيرتي",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Roberto Bettega",
+    "nameAr": "روبرتو بيتيغا",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "David Trezeguet",
+    "nameAr": "دافيد تريزيغيه",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Omar Sivori",
+    "nameAr": "عمر سيفوري",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Felice Borel",
+    "nameAr": "فيليتشي بوريل",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Pietro Anastasi",
+    "nameAr": "بيترو أناستازي",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "John Hansen",
+    "nameAr": "جون هانسن",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Roberto Baggio",
+    "nameAr": "روبرتو باجيو",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Paulo Dybala",
+    "nameAr": "باولو ديبالا",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Gianluigi Buffon",
+    "nameAr": "جانلويجي بوفون",
+    "existingProfileId": null,
+    "clubIds": [
+      "juventus"
+    ]
+  },
+  {
+    "nameEn": "Wayne Rooney",
+    "nameAr": "واين روني",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Bobby Charlton",
+    "nameAr": "بوبي تشارلتون",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Denis Law",
+    "nameAr": "دينيس لو",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Jack Rowley",
+    "nameAr": "جاك رولي",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Dennis Viollet",
+    "nameAr": "دينيس فيوليت",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "George Best",
+    "nameAr": "جورج بست",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Joe Spence",
+    "nameAr": "جو سبينس",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Ryan Giggs",
+    "nameAr": "رايان جيجز",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Mark Hughes",
+    "nameAr": "مارك هيوز",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Paul Scholes",
+    "nameAr": "بول سكولز",
+    "existingProfileId": null,
+    "clubIds": [
+      "manchester-united"
+    ]
+  },
+  {
+    "nameEn": "Gerd Müller",
+    "nameAr": "جيرد مولر",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Robert Lewandowski",
+    "nameAr": "روبرت ليفاندوفسكي",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Thomas Müller",
+    "nameAr": "توماس مولر",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Rainer Ohlhauser",
+    "nameAr": "راينر أولهاوزر",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Karl-Heinz Rummenigge",
+    "nameAr": "كارل هاينتس رومينيجه",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Roland Wohlfarth",
+    "nameAr": "رولاند فولفارت",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Dieter Hoeneß",
+    "nameAr": "ديتر هونيس",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Arjen Robben",
+    "nameAr": "آريين روبن",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Dieter Brenninger",
+    "nameAr": "ديتر بريننجر",
+    "existingProfileId": null,
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Manuel Neuer",
+    "nameAr": "مانويل نوير",
+    "existingProfileId": "manuel-neuer",
+    "clubIds": [
+      "bayern-munich"
+    ]
+  },
+  {
+    "nameEn": "Antoine Griezmann",
+    "nameAr": "أنطوان جريزمان",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Luis Aragonés",
+    "nameAr": "لويس أراجونيس",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Adrián Escudero",
+    "nameAr": "أدريان إسكوديرو",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Paco Campos",
+    "nameAr": "باكو كامبوس",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "José Eulogio Gárate",
+    "nameAr": "خوسيه إيولوجيو جاراتي",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Fernando Torres",
+    "nameAr": "فرناندو توريس",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Joaquín Peiró",
+    "nameAr": "خواكين بيرو",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Adelardo Rodríguez",
+    "nameAr": "أديلاردو رودريجيز",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Julio Elícegui",
+    "nameAr": "خوليو إليسيجي",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Enrique Collar",
+    "nameAr": "إنريكي كويار",
+    "existingProfileId": null,
+    "clubIds": [
+      "atletico-madrid"
+    ]
+  },
+  {
+    "nameEn": "Gunnar Nordahl",
+    "nameAr": "غونار نوردال",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Andriy Shevchenko",
+    "nameAr": "أندري شيفتشينكو",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Gianni Rivera",
+    "nameAr": "جياني ريفيرا",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Jose Altafini",
+    "nameAr": "جوزيه ألتافيني",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Aldo Boffi",
+    "nameAr": "ألدو بوفي",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Filippo Inzaghi",
+    "nameAr": "فيليبو إنزاغي",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Marco van Basten",
+    "nameAr": "ماركو فان باستن",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Giuseppe Santagostino",
+    "nameAr": "جوزيبي سانتاغوستينو",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Kaka",
+    "nameAr": "كاكا",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Pierino Prati",
+    "nameAr": "بييرينو براتي",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Paolo Maldini",
+    "nameAr": "باولو مالديني",
+    "existingProfileId": null,
+    "clubIds": [
+      "ac-milan"
+    ]
+  },
+  {
+    "nameEn": "Thierry Henry",
+    "nameAr": "تييري هنري",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Ian Wright",
+    "nameAr": "إيان رايت",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Cliff Bastin",
+    "nameAr": "كليف باستين",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "John Radford",
+    "nameAr": "جون رادفورد",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Jimmy Brain",
+    "nameAr": "جيمي برين",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Ted Drake",
+    "nameAr": "تيد دريك",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Doug Lishman",
+    "nameAr": "دوغ ليشمان",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Robin van Persie",
+    "nameAr": "روبن فان بيرسي",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Joe Hulme",
+    "nameAr": "جو هولم",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "David Jack",
+    "nameAr": "ديفيد جاك",
+    "existingProfileId": null,
+    "clubIds": [
+      "arsenal"
+    ]
+  },
+  {
+    "nameEn": "Lionel Messi",
+    "nameAr": "ليونيل ميسي",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "César Rodríguez",
+    "nameAr": "سيزار رودريجيز",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Luis Suárez",
+    "nameAr": "لويس سواريز",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "László Kubala",
+    "nameAr": "لاسلو كوبالا",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Josep Samitier",
+    "nameAr": "جوسيب ساميتيير",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Josep Escolà",
+    "nameAr": "جوسيب إسكولا",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Paulino Alcántara",
+    "nameAr": "باولينو ألكانتارا",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Samuel Eto'o",
+    "nameAr": "صامويل إيتو",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Rivaldo",
+    "nameAr": "ريفالدو",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  },
+  {
+    "nameEn": "Mariano Martín",
+    "nameAr": "ماريانو مارتين",
+    "existingProfileId": null,
+    "clubIds": [
+      "barcelona"
+    ]
+  }
+]

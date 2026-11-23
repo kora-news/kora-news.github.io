@@ -1,0 +1,68 @@
+{
+  "id": "jimmy-brain",
+  "nameEn": "Jimmy Brain",
+  "nameAr": "جيمي برين",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم من هدافي أرسنال البارزين في العشرينيات. سجل هدف الفوز في ظهوره الأول أمام توتنهام، وتصدر هدافي الفريق أربعة مواسم متتالية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1923–1931",
+      "textAr": "مهاجم من هدافي أرسنال البارزين في العشرينيات. سجل هدف الفوز في ظهوره الأول أمام توتنهام، وتصدر هدافي الفريق أربعة مواسم متتالية.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "139 هدفا",
+      "textAr": "سجل 139 هدفا في 232 مباراة بحسب النادي.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "بطل دوري 1930/31",
+      "textAr": "شارك في 16 مباراة ونال ميدالية بطل الدوري في موسم أول لقب لأرسنال.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Jimmy Brain - official club biography",
+      "url": "https://www.arsenal.com/men/jimmy-brain-a846b9J1OiNq"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/afac11b0298d-jimmy-brain.webp",
+    "pageUrl": "https://www.arsenal.com/men/jimmy-brain-a846b9J1OiNq",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Jimmy Brain",
+    "file": "jimmy-brain-history-f38f48d1.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "son-heung-min",
+  "nameEn": "Son Heung-min",
+  "nameAr": "سون هيونج مين",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم كوري جنوبي قضى عشرة أعوام مع توتنهام، وسجل 173 هدفا في 454 مباراة بحسب صفحة أساطير النادي. حمل شارة القيادة ورفع لقب الدوري الأوروبي في 2025.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "2015–2025",
+      "textAr": "مهاجم كوري جنوبي قضى عشرة أعوام مع توتنهام، وسجل 173 هدفا في 454 مباراة بحسب صفحة أساطير النادي. حمل شارة القيادة ورفع لقب الدوري الأوروبي في 2025.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "الدوري الأوروبي 2025",
+      "textAr": "قاد النادي إلى رفع كأس الدوري الأوروبي بعد الفوز 1–0 على مانشستر يونايتد في بلباو يوم 21 مايو 2025.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "الحذاء الذهبي 2021/22",
+      "textAr": "توج بالحذاء الذهبي للدوري الإنجليزي برصيد 23 هدفا.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "جائزة بوشكاش 2020",
+      "textAr": "فاز بالجائزة عن هدفه الفردي أمام بيرنلي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Son Heung-min - official club biography",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/legends/heung-min-son"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-resources/2026/02/12/88214992-093c-4abb-9535-6afefacdbb62/AM017132.jpg?width=1920&height=1080",
+    "pageUrl": "https://www.tottenhamhotspur.com/the-club/history/legends/heung-min-son",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Heung-Min Son",
+    "file": "son-heung-min-history-5db67a76.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  "notesAr": [
+    "لا ادعاء بناد حالي. الصفحة الرسمية تحتوي خطأ تاريخيا في فقرة وصوله إلى 150 هدفا ضد أرسنال؛ لم يُنقل."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

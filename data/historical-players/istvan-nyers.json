@@ -1,0 +1,52 @@
+{
+  "id": "istvan-nyers",
+  "nameEn": "Istvan Nyers",
+  "nameAr": "إشتفان نيرش",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "مهاجم وُلد في فرنسا لأبوين مجريين وعُرف أيضًا باسم إتيان أو ستيفانو. مثّل إنتر بين 1948 و1954 وتميّز بالسرعة والتسديد القوي بكلتا القدمين.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "مهاجم وُلد في فرنسا لأبوين مجريين وعُرف أيضًا باسم إتيان أو ستيفانو. مثّل إنتر بين 1948 و1954 وتميّز بالسرعة والتسديد القوي بكلتا القدمين.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 133 هدفًا في 182 مباراة، وفاز بالدوري مرتين وبصدارة هدافي الدوري في موسمه الأول مع إنتر.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Istvan Nyers | official club biography",
+      "url": "https://www.inter.it/en/news/istvan-nyers-top-scorers-table-history-inter-lautaro"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/2b098b3d6c9e33a/webimage-Nyers-Istvan-primo-piano-in-campo-negativo.png",
+    "pageUrl": "https://www.inter.it/en/news/istvan-nyers-top-scorers-table-history-inter-lautaro",
+    "author": "Celso Battaia",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "إشتفان نيرش في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: Nyers Istvan - primo piano - in campo - negativo",
+    "file": "istvan-nyers-history-3f4eece1.jpg",
+    "width": 480,
+    "height": 600
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

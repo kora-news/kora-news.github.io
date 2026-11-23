@@ -1,0 +1,74 @@
+{
+  "id": "jermain-defoe",
+  "nameEn": "Jermain Defoe",
+  "nameAr": "جيرمين ديفو",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي لعب لتوتنهام على فترتين، وعُرف بتحركاته وإنهائه داخل منطقة الجزاء. سجل في ظهوره الأول أمام بورتسموث وأنهى مشواره مع النادي برصيد 143 هدفا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "2004–2008 و2009–2014",
+      "textAr": "مهاجم إنجليزي لعب لتوتنهام على فترتين، وعُرف بتحركاته وإنهائه داخل منطقة الجزاء. سجل في ظهوره الأول أمام بورتسموث وأنهى مشواره مع النادي برصيد 143 هدفا.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "143 هدفا",
+      "textAr": "سجل 143 هدفا لتوتنهام بحسب قائمة النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "23 هدفا أوروبيا",
+      "textAr": "أنهى مشواره مع النادي في 2014 برصيد 23 هدفا في المسابقات الأوروبية.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Jermain Defoe - official club biography",
+      "url": "https://www.tottenhamhotspur.com/news/1038025/jds-farewell"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/83e81880-36cd-4908-9167-310b833a26c2/jermaindefoe-sheriff-europe-goal-23.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: defoe explicitly numbered caption in goalscorers gallery",
+    "file": "jermain-defoe-history-27e9781f.jpg",
+    "width": 2048,
+    "height": 992
+  },
+  "notesAr": [
+    "لم تُنسب إليه كأس الرابطة 2008: يوضح وداع النادي أنه غاب عن ميداليتها لتزامن اللقب مع انتقاله إلى بورتسموث."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

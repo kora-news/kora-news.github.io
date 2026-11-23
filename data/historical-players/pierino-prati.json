@@ -1,0 +1,57 @@
+{
+  "id": "pierino-prati",
+  "nameEn": "Pierino Prati",
+  "nameAr": "بييرينو براتي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي تدرّج في ناشئي ميلان ومنحه نيريو روكو فرصة الفريق الأول. مثّل الفريق في حقبة أوروبية بارزة واشتهر بتنوّع أساليبه في إنهاء الهجمات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم إيطالي تدرّج في ناشئي ميلان ومنحه نيريو روكو فرصة الفريق الأول. مثّل الفريق في حقبة أوروبية بارزة واشتهر بتنوّع أساليبه في إنهاء الهجمات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "سجّل ثلاثية أمام أياكس في نهائي كأس أوروبا عام 1969، وفاز أيضًا مع ميلان بالدوري الإيطالي وكأس الإنتركونتيننتال.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Pierino Prati | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/prati"
+    },
+    {
+      "id": "portrait",
+      "title": "Pierino Prati archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.us/pierino-prati/leistungsdaten/spieler/145524"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/145524-1563376513.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.us/pierino-prati/leistungsdaten/spieler/145524",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بييرينو براتي في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "pierino-prati-history-3a28a917.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

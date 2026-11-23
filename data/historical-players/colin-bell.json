@@ -1,0 +1,68 @@
+{
+  "id": "colin-bell",
+  "nameAr": "كولين بيل",
+  "nameEn": "Colin Bell",
+  "aliases": [
+    "Nijinsky"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وسط من رموز مانشستر سيتي، عُرف بقدرته الكبيرة على الركض ومساهماته في صناعة الأهداف وتسجيلها. يخلده تمثال إلى جانب فرانسيس لي ومايك سامربي.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "لاعب وسط من رموز مانشستر سيتي، عُرف بقدرته الكبيرة على الركض ومساهماته في صناعة الأهداف وتسجيلها. يخلده تمثال إلى جانب فرانسيس لي ومايك سامربي.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "153 هدفا في 501 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "لقب الدوري 1968",
+      "textAr": "كان من أبرز عناصر فريق لقب الدوري 1968، وسجّل للنادي 153 هدفًا في 501 مباراة بحسب سجله الرسمي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "لاعب وسط",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Colin Bell historical photograph source",
+      "url": "https://www.transfermarkt.com/colin-bell/profil/spieler/176897"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/176897-1609937655.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/colin-bell/profil/spieler/176897",
+    "author": "Transfermarkt archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "كولين بيل في صورة أرشيفية من الصفحة المسماة في المصدر.",
+    "identityEvidence": "Named individual profile image alt and title match this player.",
+    "file": "colin-bell-history-8cc6833c.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

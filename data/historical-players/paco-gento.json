@@ -1,0 +1,60 @@
+{
+  "id": "paco-gento",
+  "nameAr": "باكو خينتو",
+  "nameEn": "Paco Gento",
+  "aliases": [
+    "francisco-gento-lopez"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "جناح أيسر إسباني اشتهر بالسرعة والعرضيات. قضى 18 موسمًا مع ريال مدريد، وخاض 600 مباراة رسمية وسجّل 182 هدفًا بحسب السيرة الرسمية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "1953–1971",
+      "textAr": "جناح أيسر إسباني اشتهر بالسرعة والعرضيات. قضى 18 موسمًا مع ريال مدريد، وخاض 600 مباراة رسمية وسجّل 182 هدفًا بحسب السيرة الرسمية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "ست كؤوس أوروبية",
+      "textAr": "حقق ستة ألقاب لكأس أوروبا، وقاد فريق ريال مدريد المتوج باللقب عام 1966.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1933-10-21",
+  "positionAr": "جناح أيسر",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Paco Gento",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/francisco-gento-lopez"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330186259529?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/francisco-gento-lopez",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Gento",
+    "file": "paco-gento-history-620b877d.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [
+    "تذكر السيرة الرسمية 182 هدفًا، بينما تذكر بعض قوائم الهدافين 183. يظل نطاق اختلاف العد ظاهرًا بجوار السجل."
+  ],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

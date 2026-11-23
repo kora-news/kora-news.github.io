@@ -1,0 +1,58 @@
+{
+  "id": "antoine-griezmann",
+  "nameAr": "أنطوان جريزمان",
+  "nameEn": "Antoine Griezmann",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم فرنسي متعدد الأدوار، أصبح الهداف التاريخي لأتلتيكو مدريد. تنشر صفحة أساطير النادي حصيلة 212 هدفًا في 501 مباراة لفترتيه مع الفريق.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "2014–2019 و2021–2026 بحسب صفحة الأساطير",
+      "textAr": "مهاجم فرنسي متعدد الأدوار، أصبح الهداف التاريخي لأتلتيكو مدريد. تنشر صفحة أساطير النادي حصيلة 212 هدفًا في 501 مباراة لفترتيه مع الفريق.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "الدوري الأوروبي 2018",
+      "textAr": "حقق الدوري الأوروبي وكأس السوبر الأوروبي عام 2018، وكأس السوبر الإسباني عام 2014.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1991-03-21",
+  "positionAr": "مهاجم",
+  "nationalityAr": "فرنسي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Atletico official Paseo de Leyendas: Antoine Griezmann",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/leyendas/griezmann"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://cdn.prod.website-files.com/6a96ea2375ce6e2538c881ca/6aa7db55cc1e535f6321c643_LEYENDA_PRINCIPAL_GRIEZMANN.jpg",
+    "pageUrl": "https://paseodeleyendas.atleticodemadrid.com/leyendas/griezmann",
+    "author": "Atletico de Madrid archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من سيرة أتلتيكو الرسمية",
+    "identityEvidence": "الصورة الرئيسية والبيانات الوصفية في صفحة الأسطورة المسماة باسمه",
+    "file": "antoine-griezmann-history-edd5d0d3.jpg",
+    "width": 1400,
+    "height": 600
+  },
+  "notesAr": [
+    "حصيلة 212 هدفًا في 501 مباراة من صفحة الأساطير وقت المراجعة، وليست عدادًا مباشرًا أو إثباتًا لناديه الحالي."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

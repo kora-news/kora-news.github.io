@@ -1,0 +1,59 @@
+{
+  "id": "alfred-niepieklo",
+  "nameAr": "ألفريد نيبيكلو",
+  "nameEn": "Alfred Niepieklo",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني كان أحد أضلاع ثلاثي الألفريدو إلى جانب برايسلر وكيلباسا. مثّل دورتموند في الخمسينيات وتميّز بالمهارة وحس التهديف.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم ألماني كان أحد أضلاع ثلاثي الألفريدو إلى جانب برايسلر وكيلباسا. مثّل دورتموند في الخمسينيات وتميّز بالمهارة وحس التهديف.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز ببطولتي ألمانيا 1956 و1957، وكان من ثلاثي الألفريدو الذي قاد هجوم دورتموند.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Alfred Niepieklo | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Trauer-um-Alfred-Niepieklo.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Alfred Niepieklo individual archive photograph",
+      "url": "https://www.transfermarkt.com/alfred-niepieklo/profil/spieler/289741"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/289741-1649929842.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/alfred-niepieklo/profil/spieler/289741",
+    "author": "imago images",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ألفريد نيبيكلو في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Transfermarkt named profile image identifies Alfred Niepieklo and credits imago images.",
+    "file": "alfred-niepieklo-history-90c7829f.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [
+    "تختلف إجماليات الأهداف التاريخية بين سجل النادي وبعض القواعد الإحصائية؛ نعتمد هنا الإنجاز الموثق المحدد دون مزج نطاقات العد."
+  ],
+  "checkedAt": "2026-11-24T01:17:22+02:00"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "alfred-kelbassa",
+  "nameAr": "ألفريد كيلباسا",
+  "nameEn": "Alfred Kelbassa",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني وصل إلى دورتموند عام 1954 وأصبح أحد ثلاثي الألفريدو. جمع بين السرعة والقوة وحسم الهجمات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم ألماني وصل إلى دورتموند عام 1954 وأصبح أحد ثلاثي الألفريدو. جمع بين السرعة والقوة وحسم الهجمات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز ببطولة ألمانيا مع دورتموند ثلاث مرات: 1956 و1957 و1963، وتصدّر هدافي أوبرليغا الغرب في 1957 و1958.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Alfred Kelbassa | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2025/4/21/Zum-100-Geburtstag-von-Alfred-Freddy-Kelbassa.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Alfred Kelbassa individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/alfred-kelbassa/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/037/265/custom_style_1_Alfred_Kelbassa.jpg?1493073870",
+    "pageUrl": "https://datencenter.dfb.de/personen/alfred-kelbassa/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ألفريد كيلباسا في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonAlfred Kelbassa",
+    "file": "alfred-kelbassa-history-9870178c.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [
+    "تختلف إجماليات الأهداف التاريخية بين سجل النادي وبعض القواعد الإحصائية؛ نعتمد هنا الإنجاز الموثق المحدد دون مزج نطاقات العد."
+  ],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

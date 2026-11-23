@@ -1,0 +1,57 @@
+{
+  "id": "paolo-maldini",
+  "nameEn": "Paolo Maldini",
+  "nameAr": "باولو مالديني",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "أحد أبرز قادة ميلان عبر تاريخه. ظهر مع الفريق الأول في 20 يناير 1985، ثم ورث شارة القيادة من فرانكو باريزي عام 1997.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "أحد أبرز قادة ميلان عبر تاريخه. ظهر مع الفريق الأول في 20 يناير 1985، ثم ورث شارة القيادة من فرانكو باريزي عام 1997.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "خاض 902 مباراة رسمية وفاز بـ26 لقبًا مع ميلان وفق سجل النادي، ورفع كأس دوري الأبطال قائدًا عام 2003.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Paolo Maldini | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/paolo-maldini"
+    },
+    {
+      "id": "portrait",
+      "title": "Paolo Maldini archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/paolo-maldini/leistungsdaten/spieler/5803"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/5803-1570438594.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/paolo-maldini/leistungsdaten/spieler/5803",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "باولو مالديني في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "paolo-maldini-history-7aa93555.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

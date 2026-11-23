@@ -1,0 +1,56 @@
+{
+  "id": "adrian-escudero",
+  "nameAr": "أدريان إسكوديرو",
+  "nameEn": "Adrián Escudero",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إسباني بدأ من الجناح الأيسر قبل انتقاله إلى قلب الهجوم. خاض 330 مباراة وسجّل 169 هدفًا مع أتلتيكو، منها 150 في الدوري بحسب النادي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1945–1958",
+      "textAr": "مهاجم إسباني بدأ من الجناح الأيسر قبل انتقاله إلى قلب الهجوم. خاض 330 مباراة وسجّل 169 هدفًا مع أتلتيكو، منها 150 في الدوري بحسب النادي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "بطولتا الدوري",
+      "textAr": "فاز بالدوري الإسباني موسمي 1949–1950 و1950–1951، ضمن 13 موسمًا مع أتلتيكو.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1927-11-24",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Atletico official Paseo de Leyendas: Adrián Escudero",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/leyendas/escudero"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://cdn.prod.website-files.com/6a96ea2375ce6e2538c881ca/6aa7c6917c6fd66c86f3d9a3_LEYENDA_PRINCIPAL_ESCUDERO.png",
+    "pageUrl": "https://paseodeleyendas.atleticodemadrid.com/leyendas/escudero",
+    "author": "Atletico de Madrid archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من سيرة أتلتيكو الرسمية",
+    "identityEvidence": "الصورة الرئيسية والبيانات الوصفية في صفحة الأسطورة المسماة باسمه",
+    "file": "adrian-escudero-history-b40b9613.jpg",
+    "width": 1400,
+    "height": 600
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "peter-osgood",
+  "nameAr": "بيتر أوسجود",
+  "nameEn": "Peter Osgood",
+  "aliases": [
+    "Peter Leslie Osgood",
+    "Ossie"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي (20 فبراير 1947 – 1 مارس 2006)، الملقب بملك ستامفورد بريدج، وأحد أعظم مهاجمي تشيلسي عبر التاريخ. فاز مع النادي بكأس الاتحاد 1970 وكأس الكؤوس الأوروبية 1971 وسجل في كل أدوار الكأس عام 1970. أقيم تمثال له خارج الملعب عام 2010 تقديرا لمكانته.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1964–1974 و1978–1979",
+      "textAr": "150 هدفا في 380 مباراة مع تشيلسي على فترتين، ومكانة جماهيرية خالدة توجت بتمثال خارج الستاد.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "خامس الهدافين التاريخيين بالتساوي",
+      "textAr": "150 هدفا في جميع المسابقات، بالتساوي مع روي بنتلي. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "كأس الاتحاد الإنجليزي 1970",
+      "textAr": "سجل في كل أدوار البطولة في طريق اللقب، وهو إنجاز لم يتكرر وفق النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "كأس الكؤوس الأوروبية 1971",
+      "textAr": "سجل هدف الفوز في مباراة الإعادة ضد ريال مدريد في النهائي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1947-02-20",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Peter Osgood - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peter_Osgood"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "portrait",
+      "title": "Peter Osgood historical photograph source",
+      "url": "https://www.chelseafc.com/en/peter-osgood"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/f_auto,c_fill,w_1000,q_90/editorial/news/2020/04/Osgood_Leeds_GettyImages-79020786.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/peter-osgood",
+    "author": "Getty Images, via Chelsea FC",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بيتر أوزجود يسدد ضربة رأسية شهيرة أمام ليدز يونايتد، صورة غيتي منشورة على موقع تشيلسي",
+    "identityEvidence": "اسم الملف يحمل Osgood ومعرّف GettyImages-79020786؛ منشورة على صفحة أوزجود في موقع النادي",
+    "file": "peter-osgood-history-a2a9a588.jpg",
+    "width": 1000,
+    "height": 602
+  },
+  "notesAr": [
+    "صورة ويكيبيديا الحالية له مولدة بالذكاء الاصطناعي (مصدرها منصة perchance) فاستُبعدت. صفحة النادي الرسمية مرشحة كمصدر صورة بإذن غير مؤكد: https://www.chelseafc.com/en/peter-osgood — ويوجد بديل حر هو صورة تمثاله: https://commons.wikimedia.org/wiki/File:Peter_Osgood_statue_outside_Stamford_Bridge.jpg"
+  ],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

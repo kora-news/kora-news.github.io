@@ -1,0 +1,54 @@
+{
+  "id": "sandro-mazzola",
+  "nameEn": "Sandro Mazzola",
+  "nameAr": "ساندرو ماتزولا",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "لاعب هجوم ووسط إيطالي من رموز إنتر الكبير في عهد هيلينيو هيريرا. ظهر في الدوري أمام يوفنتوس عام 1961 وسجّل هدف الفريق في تلك المباراة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "لاعب هجوم ووسط إيطالي من رموز إنتر الكبير في عهد هيلينيو هيريرا. ظهر في الدوري أمام يوفنتوس عام 1961 وسجّل هدف الفريق في تلك المباراة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل ثنائية نهائي كأس أوروبا 1964 أمام ريال مدريد، وفاز بأربعة ألقاب للدوري وكأسي أوروبا وكأسَي إنتركونتيننتال.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Sandro Mazzola | official club biography",
+      "url": "https://www.inter.it/en/club/hall-of-fame/sandro-mazzola"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/3646c05b796e3e2f/webimage-AN05665-Mazzola-Alessandro-crop.png",
+    "pageUrl": "https://www.inter.it/en/club/hall-of-fame/sandro-mazzola",
+    "author": "nessuna indicazione",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ساندرو ماتزولا في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: AN05665 Mazzola Alessandro crop",
+    "file": "sandro-mazzola-history-b70c1bbe.jpg",
+    "width": 800,
+    "height": 450
+  },
+  "notesAr": [
+    "تختلف أرقام الأهداف في صفحات إنتر بين 158 و160 و161 وتُذكر بطولة بيكي بشكل منفصل؛ لم يُستخدم إجمالي موحّد."
+  ],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

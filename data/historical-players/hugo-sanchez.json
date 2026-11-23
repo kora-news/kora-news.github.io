@@ -1,0 +1,58 @@
+{
+  "id": "hugo-sanchez",
+  "nameAr": "هوجو سانشيز",
+  "nameEn": "Hugo Sánchez",
+  "aliases": [
+    "hugo-sanchez"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم مكسيكي لعب لريال مدريد بين 1985 و1992. سجّل 208 أهداف في 282 مباراة رسمية، واشتهر بالنهايات الهوائية والاحتفال بالشقلبة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "1985–1992",
+      "textAr": "مهاجم مكسيكي لعب لريال مدريد بين 1985 و1992. سجّل 208 أهداف في 282 مباراة رسمية، واشتهر بالنهايات الهوائية والاحتفال بالشقلبة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "خمس بطولات دوري متتالية",
+      "textAr": "شارك في خمسة ألقاب متتالية للدوري الإسباني، وحقق جائزة هداف الدوري أربع مرات خلال فترته في ريال مدريد.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1958-07-11",
+  "positionAr": "مهاجم",
+  "nationalityAr": "مكسيكي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Hugo Sánchez",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/hugo-sanchez"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330192171801?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/hugo-sanchez",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Hugo Sánchez",
+    "file": "hugo-sanchez-history-ebeb2247.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

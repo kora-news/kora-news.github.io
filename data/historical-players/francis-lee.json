@@ -1,0 +1,69 @@
+{
+  "id": "francis-lee",
+  "nameAr": "فرانسيس لي",
+  "nameEn": "Francis Lee",
+  "aliases": [
+    "Francis Henry Lee",
+    "Franny Lee"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي من أعمدة فريق مانشستر سيتي في أواخر الستينيات، جمع بين التسجيل وصناعة اللعب. عاد لاحقًا رئيسًا للنادي عام 1994.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم إنجليزي من أعمدة فريق مانشستر سيتي في أواخر الستينيات، جمع بين التسجيل وصناعة اللعب. عاد لاحقًا رئيسًا للنادي عام 1994.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "148 هدفا في 330 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "الدوري 1968 وكأس الكؤوس 1970",
+      "textAr": "سجّل الهدف الرابع في الفوز 4–3 بنيوكاسل الذي حسم دوري 1968، وركلة جزاء في نهائي كأس الكؤوس الأوروبية 1970. فاز مع النادي بست بطولات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Francis Lee official photo gallery",
+      "url": "https://www.mancity.com/news/mens/francis-lee-man-city-gallery-63831914"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.mancity.com/meta/media/2swlerub/fl3.jpg?width=976",
+    "pageUrl": "https://www.mancity.com/news/mens/francis-lee-man-city-gallery-63831914",
+    "author": "Manchester City FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "فرانسيس لي في صورة من فترة ما بعد الاعتزال، قص من معرض النادي الرسمي.",
+    "identityEvidence": "Named gallery shows Francis Lee, cropped central man in pale coat, matched against other gallery photos.",
+    "file": "francis-lee-history-912bb1df.jpg",
+    "width": 256,
+    "height": 414
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:27:44+02:00"
+}

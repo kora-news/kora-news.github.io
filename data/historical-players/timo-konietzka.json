@@ -1,0 +1,57 @@
+{
+  "id": "timo-konietzka",
+  "nameAr": "تيمو كونييتسكا",
+  "nameEn": "Timo Konietzka",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني عُرف باسم تيمو، لعب لدورتموند في الستينيات وعاد إليه لاحقًا مدربًا. ارتبط اسمه بلحظة البداية التاريخية للبوندسليغا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم ألماني عُرف باسم تيمو، لعب لدورتموند في الستينيات وعاد إليه لاحقًا مدربًا. ارتبط اسمه بلحظة البداية التاريخية للبوندسليغا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "أحرز أول هدف في تاريخ البوندسليغا يوم 24 أغسطس 1963، وفاز ببطولة ألمانيا مع دورتموند في العام نفسه.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Timo Konietzka | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Timo-Konietzka-Der-Schuetze-des-ersten-Bundesliga-Tores-ist-gestorben.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Timo Konietzka individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/timo-konietzka/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/035/048/custom_style_1_Timo_Konietzka.jpg?1493072130",
+    "pageUrl": "https://datencenter.dfb.de/personen/timo-konietzka/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "تيمو كونييتسكا في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonTimo Konietzka",
+    "file": "timo-konietzka-history-a2d206cd.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

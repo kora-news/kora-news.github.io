@@ -1,0 +1,74 @@
+{
+  "id": "dennis-viollet",
+  "nameAr": "دينيس فيوليت",
+  "nameEn": "Dennis Viollet",
+  "aliases": [
+    "Dennis Sydney Viollet"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي من جيل أبناء بازبي في مانشستر يونايتد، نجا من كارثة ميونيخ وعاد إلى اللعب مع الفريق.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-united",
+      "periodAr": "1953–1962",
+      "textAr": "مهاجم إنجليزي من جيل أبناء بازبي في مانشستر يونايتد، نجا من كارثة ميونيخ وعاد إلى اللعب مع الفريق.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "مانشستر يونايتد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-united",
+      "labelAr": "السجل التهديفي مع يونايتد",
+      "textAr": "179 هدفًا في جميع المسابقات، بحسب قائمة United In Focus الإحصائية.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-united",
+      "labelAr": "لقبا الدوري 1956 و1957",
+      "textAr": "فاز بالدوري موسمي 1955/56 و1956/57، وسجّل أربعة أهداف في فوز يونايتد 10–0 على أندرلخت في سبتمبر 1956.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Dennis Viollet - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dennis_Viollet"
+    },
+    {
+      "id": "scorers",
+      "title": "Manchester United's all-time leading goalscorers",
+      "url": "https://www.unitedinfocus.com/records/manchester-uniteds-all-time-leading-goalscorers/"
+    },
+    {
+      "id": "portrait",
+      "title": "Dennis Viollet historical photograph source",
+      "url": "https://www.transfermarkt.com/dennis-viollet/profil/spieler/289653"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/289653-1637057053.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/dennis-viollet/profil/spieler/289653",
+    "author": "Transfermarkt archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "دينيس فيوليت في صورة أرشيفية من الصفحة المسماة في المصدر.",
+    "identityEvidence": "Named individual profile image alt and title match this player.",
+    "file": "dennis-viollet-history-e72ddcc2.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

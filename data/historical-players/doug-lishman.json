@@ -1,0 +1,68 @@
+{
+  "id": "doug-lishman",
+  "nameEn": "Doug Lishman",
+  "nameAr": "دوغ ليشمان",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم انضم إلى أرسنال من والسول في مايو 1948، وكان هداف الفريق خمسة مواسم متتالية بين 1951 و1955، رغم الإصابات التي أثرت في بدايته.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1948–1956",
+      "textAr": "مهاجم انضم إلى أرسنال من والسول في مايو 1948، وكان هداف الفريق خمسة مواسم متتالية بين 1951 و1955، رغم الإصابات التي أثرت في بدايته.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "137 هدفا",
+      "textAr": "سجل 137 هدفا في 244 مباراة لأرسنال.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "دوري 1952/53",
+      "textAr": "ساهم في الفوز بالدوري وسجل 22 هدفا خلال الموسم بحسب سيرته الرسمية.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Doug Lishman - official club biography",
+      "url": "https://www.arsenal.com/men/doug-lishman-aEt0K5P7nAzL"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/5603dd360451-doug-lishman.webp",
+    "pageUrl": "https://www.arsenal.com/men/doug-lishman-aEt0K5P7nAzL",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Doug Lishman",
+    "file": "doug-lishman-history-a5db6a87.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

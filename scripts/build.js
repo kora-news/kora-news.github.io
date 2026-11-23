@@ -6,6 +6,7 @@ const fs = require('fs');
 const path = require('path');
 const { buildClubs } = require('./clubs');
 const { buildPlayers } = require('./players');
+const { buildHistoricalPlayers } = require('./historical-players');
 
 const ROOT = path.join(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'posts');
@@ -244,6 +245,7 @@ fs.writeFileSync(path.join(DIST, '404.html'), nf);
 
 // Club reference section shares navigation and identity with the news site.
 const playerPages = buildPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news});
+playerPages.push(...buildHistoricalPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news}));
 const clubPages = buildClubs({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news});
 
 // feed.xml + sitemap.xml + robots.txt

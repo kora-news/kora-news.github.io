@@ -1,0 +1,58 @@
+{
+  "id": "samuel-etoo",
+  "nameAr": "صامويل إيتو",
+  "nameEn": "Samuel Eto'o",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم كاميروني انضم لبرشلونة من مايوركا عام 2004. لعب دورًا هجوميًا مهمًا خلال خمسة مواسم، وسجّل في نهائيي دوري أبطال أوروبا 2006 و2009.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "2004–2009",
+      "textAr": "مهاجم كاميروني انضم لبرشلونة من مايوركا عام 2004. لعب دورًا هجوميًا مهمًا خلال خمسة مواسم، وسجّل في نهائيي دوري أبطال أوروبا 2006 و2009.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "هدفان في نهائيين أوروبيين",
+      "textAr": "تُوّج بدوري أبطال أوروبا في 2005–2006 و2008–2009 وبثلاث بطولات للدوري الإسباني.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": "كاميروني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Samuel Eto'o",
+      "url": "https://www.fcbarcelona.com/en/card/648033/samuel-etoo"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/19/2630a7bd-fcd7-4907-9861-4e9ca7e2aa2e/4665030.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648033/samuel-etoo",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Samuel Eto'o",
+    "file": "samuel-etoo-history-baf0cfbb.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "تفرق السيرة بين 152 هدفًا بالنطاق الشامل و131 هدفًا رسميًا.",
+    "تسجل قائمة النادي التاريخية الموجودة 130 هدفًا، بينما يذكر متن سيرة النادي 131 هدفًا رسميًا؛ أبقينا اختلاف العد واضحًا بدل توحيده بصمت."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

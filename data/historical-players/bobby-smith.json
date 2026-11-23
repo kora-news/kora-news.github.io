@@ -1,0 +1,82 @@
+{
+  "id": "bobby-smith",
+  "nameEn": "Bobby Smith",
+  "nameAr": "بوبي سميث",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "قلب هجوم قوي انضم إلى توتنهام من تشيلسي في ديسمبر 1955. كان هداف فريق الثنائية التاريخية وكون شراكات هجومية مؤثرة مع ليس ألين وجيمي جريفز.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "1955–1964",
+      "textAr": "قلب هجوم قوي انضم إلى توتنهام من تشيلسي في ديسمبر 1955. كان هداف فريق الثنائية التاريخية وكون شراكات هجومية مؤثرة مع ليس ألين وجيمي جريفز.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "208 أهداف",
+      "textAr": "سجل 208 أهداف لتوتنهام بحسب القائمة الرسمية.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "ثنائية 1960/61",
+      "textAr": "كان هداف الفريق في موسم ثنائية الدوري وكأس إنجلترا، برصيد 33 هدفا في 43 مباراة.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس الكؤوس 1963",
+      "textAr": "ساهم بأربعة أهداف في مشوار التتويج الأوروبي عام 1963.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Bobby Smith - official club biography",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/hall-of-fame/bobby-smith"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/b49f686f-7743-4f89-95e5-e1dc46c995a3/bobby-smith-282.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: bobby-smith explicitly numbered caption in goalscorers gallery",
+    "file": "bobby-smith-history-3e131bb4.jpg",
+    "width": 1200,
+    "height": 581
+  },
+  "notesAr": [
+    "سيرة النادي تحمل خطأ مطبعيا في فقرة حسم دوري الثنائية إذ تكتب أبريل 1960؛ لم يُنقل هذا التاريخ."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

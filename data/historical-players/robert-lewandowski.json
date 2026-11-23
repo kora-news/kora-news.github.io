@@ -1,0 +1,52 @@
+{
+  "id": "robert-lewandowski",
+  "nameAr": "روبرت ليفاندوفسكي",
+  "nameEn": "Robert Lewandowski",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم بولندي انتقل إلى بايرن من دورتموند عام 2014 واستمر حتى 2022. أصبح من أبرز هدافي النادي بفضل ثباته أمام المرمى وقدرته على التسجيل بطرق متنوعة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "مهاجم بولندي انتقل إلى بايرن من دورتموند عام 2014 واستمر حتى 2022. أصبح من أبرز هدافي النادي بفضل ثباته أمام المرمى وقدرته على التسجيل بطرق متنوعة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 344 هدفًا في 375 مباراة وفاز بثمانية ألقاب للدوري ودوري الأبطال مع بايرن، وأحرز 41 هدفًا في بوندسليغا 2020/21.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Robert Lewandowski | Club/DFB record",
+      "url": "https://fcbayern.com/en/news/2022/07/lewandowski-moves-to-barcelona"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/081/486/custom_style_1_Robert_Lewandowski.jpg?1493107780",
+    "pageUrl": "https://datencenter.dfb.de/personen/robert-lewandowski/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روبرت ليفاندوفسكي في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "robert-lewandowski-history-f8a1d68d.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

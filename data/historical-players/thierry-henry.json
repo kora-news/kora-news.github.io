@@ -1,0 +1,67 @@
+{
+  "id": "thierry-henry",
+  "nameEn": "Thierry Henry",
+  "nameAr": "تييري هنري",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم فرنسي حوّله أرسين فينغر من جناح إلى قلب هجوم. أصبح الهداف التاريخي لأرسنال وكان من أبرز لاعبي فريق الدوري بلا هزيمة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1999–2007، وإعارة في 2012",
+      "textAr": "مهاجم فرنسي حوّله أرسين فينغر من جناح إلى قلب هجوم. أصبح الهداف التاريخي لأرسنال وكان من أبرز لاعبي فريق الدوري بلا هزيمة.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "الهداف التاريخي",
+      "textAr": "سجل 228 هدفا لأرسنال بحسب قائمة النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "ثنائية 2002 ودوري اللاهزيمة",
+      "textAr": "ساهم في ثنائية الدوري وكأس إنجلترا عام 2002، ثم لقب الدوري دون هزيمة في 2003/04.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Thierry Henry - official club biography",
+      "url": "https://www.arsenal.com/men/thierry-henry-aISst2A5NEEa"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/d98263d3681f-thierry-henry-v-real-madrid-february-2006.webp",
+    "pageUrl": "https://www.arsenal.com/men/thierry-henry-aISst2A5NEEa",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Thierry Henry",
+    "file": "thierry-henry-history-d3058e47.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

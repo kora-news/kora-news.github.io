@@ -1,0 +1,75 @@
+{
+  "id": "joe-hulme",
+  "nameEn": "Joe Hulme",
+  "nameAr": "جو هولم",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "جناح أيمن انضم إلى أرسنال من بلاكبيرن عام 1926، وشارك في نجاحات الفريق خلال عهد هربرت تشابمان. سجل 125 هدفا خلال 374 مباراة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1926–1938",
+      "textAr": "جناح أيمن انضم إلى أرسنال من بلاكبيرن عام 1926، وشارك في نجاحات الفريق خلال عهد هربرت تشابمان. سجل 125 هدفا خلال 374 مباراة.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "كأس إنجلترا 1930",
+      "textAr": "شارك في النهائي الذي انتهى بالفوز 2–0 على هدرسفيلد ومنح أرسنال أول بطولة كبرى.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "كأس إنجلترا 1936",
+      "textAr": "أضاف ميدالية كأس إنجلترا الثانية عام 1936.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "125 هدفا",
+      "textAr": "تسجل قائمة هدافي النادي له 125 هدفا.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Joe Hulme - official club biography",
+      "url": "https://www.arsenal.com/men/joe-hulme-awwzT3f5cwjg"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/15918bd9a8ed-joe-hulme.webp",
+    "pageUrl": "https://www.arsenal.com/men/joe-hulme-awwzT3f5cwjg",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Joe Hulme",
+    "file": "joe-hulme-history-eb9bb51b.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

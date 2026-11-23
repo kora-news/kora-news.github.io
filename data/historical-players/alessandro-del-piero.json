@@ -1,0 +1,54 @@
+{
+  "id": "alessandro-del-piero",
+  "nameEn": "Alessandro Del Piero",
+  "nameAr": "أليساندرو ديل بييرو",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وقائد إيطالي مثّل يوفنتوس بين 1993 و2012. ارتبط اسمه بالقميص رقم 10 وبالتسديدات المقوسة، ويحمل سجل النادي في الأهداف والمشاركات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم وقائد إيطالي مثّل يوفنتوس بين 1993 و2012. ارتبط اسمه بالقميص رقم 10 وبالتسديدات المقوسة، ويحمل سجل النادي في الأهداف والمشاركات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز مع يوفنتوس بدوري الأبطال وكأس الإنتركونتيننتال، ويورد سجل النادي 705 مشاركات و290 هدفًا.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Alessandro Del Piero | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/alessandro-del-piero"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Del%20Piero.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/alessandro-del-piero",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "أليساندرو ديل بييرو في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "alessandro-del-piero-history-a75beaa2.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [
+    "عد ألقاب الدوري في صفحة النادي يختلف عن سجل المسابقة الرسمي بشأن لقبَي 2004/05 و2005/06؛ لا نعرض هنا إجماليًا يخلط نطاقَي العد."
+  ],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

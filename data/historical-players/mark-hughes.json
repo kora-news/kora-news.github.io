@@ -1,0 +1,75 @@
+{
+  "id": "mark-hughes",
+  "nameAr": "مارك هيوز",
+  "nameEn": "Mark Hughes",
+  "aliases": [
+    "Leslie Mark Hughes",
+    "Sparky"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ويلزي لعب لمانشستر يونايتد على فترتين، وساهم في نجاحاته المحلية والأوروبية خلال أواخر الثمانينيات وأوائل التسعينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-united",
+      "periodAr": "1980–1986 و1988–1995",
+      "textAr": "مهاجم ويلزي لعب لمانشستر يونايتد على فترتين، وساهم في نجاحاته المحلية والأوروبية خلال أواخر الثمانينيات وأوائل التسعينيات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "مانشستر يونايتد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-united",
+      "labelAr": "السجل التهديفي مع يونايتد",
+      "textAr": "163 هدفًا في جميع المسابقات، بحسب قائمة United In Focus الإحصائية.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-united",
+      "labelAr": "كأس الكؤوس 1991 ولقبا الدوري الأولان",
+      "textAr": "كأس الكؤوس الأوروبية 1990–91، والدوري 1992–93 و1993–94 مع ثلاثة كؤوس اتحاد.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Mark Hughes - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mark_Hughes"
+    },
+    {
+      "id": "scorers",
+      "title": "Manchester United's all-time leading goalscorers",
+      "url": "https://www.unitedinfocus.com/records/manchester-uniteds-all-time-leading-goalscorers/"
+    },
+    {
+      "id": "portrait",
+      "title": "Mark Hughes historical photograph source",
+      "url": "https://www.transfermarkt.com/mark-hughes/profil/spieler/8022"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/8022-1542291240.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/mark-hughes/profil/spieler/8022",
+    "author": "Transfermarkt archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "مارك هيوز في صورة أرشيفية من الصفحة المسماة في المصدر.",
+    "identityEvidence": "Named individual profile image alt and title match this player.",
+    "file": "mark-hughes-history-88612e7b.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

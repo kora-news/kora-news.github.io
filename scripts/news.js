@@ -3,7 +3,7 @@ const fs=require('fs'),path=require('path');
 function normalize(s){return String(s).normalize('NFD').replace(/[\u0300-\u036f\u064b-\u065f\u0670]/g,'').replace(/[أإآٱ]/g,'ا').replace(/ى/g,'ي').replace(/ـ/g,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();}
 function createNews(root,posts,esc,fmtDate){
  const clubs=fs.readdirSync(path.join(root,'data/clubs')).filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join(root,'data/clubs',f),'utf8')));
- const players=require('./players').profiles(root);
+ const players=[...require('./players').profiles(root),...require('./historical-players').historicalProfiles(root).filter(p=>!p.existingProfileId)];
  const aliases=JSON.parse(fs.readFileSync(path.join(root,'data/news-aliases.json'),'utf8'));
  const entities=[...clubs.map(c=>({key:'club:'+c.id,id:c.id,type:'clubs',name:c.nameAr,aliases:[c.nameAr,c.nameEn,...(aliases.clubs[c.id]||[])]})),...players.map(p=>({key:'player:'+p.id,id:p.id,type:'players',name:p.nameAr,aliases:[p.nameAr,p.nameEn,...(aliases.players[p.id]||[])]}))];
  const matches=(text,alias)=>(' '+normalize(text)+' ').includes(' '+normalize(alias)+' ');

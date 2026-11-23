@@ -1,0 +1,68 @@
+{
+  "id": "robin-van-persie",
+  "nameEn": "Robin van Persie",
+  "nameAr": "روبن فان بيرسي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم هولندي انضم من فينورد عام 2004 وتطور في أرسنال إلى قائد وهداف. سجل 132 هدفا قبل انتقاله إلى مانشستر يونايتد في أغسطس 2012.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "2004–2012",
+      "textAr": "مهاجم هولندي انضم من فينورد عام 2004 وتطور في أرسنال إلى قائد وهداف. سجل 132 هدفا قبل انتقاله إلى مانشستر يونايتد في أغسطس 2012.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "132 هدفا",
+      "textAr": "أنهى مشواره مع أرسنال برصيد 132 هدفا في 278 مباراة.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "جوائز موسم 2011/12",
+      "textAr": "سجل 37 هدفا في جميع المسابقات وفاز بالحذاء الذهبي للدوري وجائزتي رابطة اللاعبين وكتاب كرة القدم.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Robin van Persie - official club biography",
+      "url": "https://www.arsenal.com/men/robin-van-persie-aolzP3V3YmCx"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/384daff5d3c9-1112-arsenal-5-2-tottenham-hotspur-robin-van-persie.webp",
+    "pageUrl": "https://www.arsenal.com/men/robin-van-persie-aolzP3V3YmCx",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: Robin Van Persie",
+    "file": "robin-van-persie-history-85b85f0c.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

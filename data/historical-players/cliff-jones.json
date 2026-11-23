@@ -1,0 +1,82 @@
+{
+  "id": "cliff-jones",
+  "nameEn": "Cliff Jones",
+  "nameAr": "كليف جونز",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "جناح ويلزي اشتهر بالسرعة والشجاعة في التسجيل. انضم إلى توتنهام من سوانزي في فبراير 1958 وكان من أبرز عناصر فريق بيل نيكلسون في الستينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "1958–1968",
+      "textAr": "جناح ويلزي اشتهر بالسرعة والشجاعة في التسجيل. انضم إلى توتنهام من سوانزي في فبراير 1958 وكان من أبرز عناصر فريق بيل نيكلسون في الستينيات.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "159 هدفا",
+      "textAr": "سجل 159 هدفا لتوتنهام بحسب القائمة الرسمية.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "ثنائية 1960/61",
+      "textAr": "كان من عناصر فريق ثنائية الدوري وكأس إنجلترا.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "نجاح أوروبي 1963",
+      "textAr": "ساهم في إحراز كأس الكؤوس الأوروبية وصنع أول هدفين في النهائي أمام أتلتيكو مدريد.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Cliff Jones - official club biography",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/hall-of-fame/cliff-jones"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/5809cf57-3daf-4129-8e27-bdc72166589d/legends-cliffjones-2.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: cliff-jones explicitly numbered caption in goalscorers gallery",
+    "file": "cliff-jones-history-77788d4c.jpg",
+    "width": 2048,
+    "height": 992
+  },
+  "notesAr": [
+    "عنوان السيرة يكتب 1957–78، لكن تفاصيل الانتقال والمتن تثبت فبراير 1958 إلى أكتوبر 1968؛ استُخدمت التفاصيل."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

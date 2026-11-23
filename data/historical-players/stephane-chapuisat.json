@@ -1,0 +1,57 @@
+{
+  "id": "stephane-chapuisat",
+  "nameAr": "ستيفان شابويزا",
+  "nameEn": "Stéphane Chapuisat",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم سويسري مثّل بوروسيا دورتموند بين 1991 و1999. كان من وجوه هجوم الفريق في مرحلة نجاحاته المحلية والأوروبية في التسعينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم سويسري مثّل بوروسيا دورتموند بين 1991 و1999. كان من وجوه هجوم الفريق في مرحلة نجاحاته المحلية والأوروبية في التسعينيات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بالدوري الألماني عامي 1995 و1996 وبدوري الأبطال 1997 وفق سجل الاتحاد الألماني.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Stéphane Chapuisat | BVB/DFB history",
+      "url": "https://datencenter.dfb.de/personen/stephane-chapuisat/spieler"
+    },
+    {
+      "id": "portrait",
+      "title": "Stéphane Chapuisat individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/stephane-chapuisat/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/098/552/custom_style_1_Chapi.jpg?1493120419",
+    "pageUrl": "https://datencenter.dfb.de/personen/stephane-chapuisat/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ستيفان شابويزا في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonStéphane Chapuisat",
+    "file": "stephane-chapuisat-history-f30d30a0.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

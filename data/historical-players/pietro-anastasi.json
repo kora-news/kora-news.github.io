@@ -1,0 +1,52 @@
+{
+  "id": "pietro-anastasi",
+  "nameEn": "Pietro Anastasi",
+  "nameAr": "بيترو أناستازي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي من كاتانيا مثّل يوفنتوس بين 1968 و1976. امتاز بالسرعة والمهارة والقوة، وأصبح من وجوه هجوم الفريق في السبعينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم إيطالي من كاتانيا مثّل يوفنتوس بين 1968 و1976. امتاز بالسرعة والمهارة والقوة، وأصبح من وجوه هجوم الفريق في السبعينيات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "ثلاث بطولات دوري وإنجاز دولي",
+      "textAr": "فاز مع يوفنتوس بثلاثة ألقاب للدوري الإيطالي، وشارك مع إيطاليا في الفوز ببطولة أوروبا 1968.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Pietro Anastasi | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/pietro-anastasi"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Anastasi.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/pietro-anastasi",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بيترو أناستازي في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "pietro-anastasi-history-dd6504fc.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ian-rush",
+  "nameAr": "إيان راش",
+  "nameEn": "Ian Rush",
+  "aliases": [
+    "Ian James Rush"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ويلزي وهداف ليفربول التاريخي، ارتبطت مسيرته في أنفيلد بفترتين بينهما موسم في يوفنتوس.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1980-1987/1988-1996",
+      "textAr": "مهاجم ويلزي وهداف ليفربول التاريخي، ارتبطت مسيرته في أنفيلد بفترتين بينهما موسم في يوفنتوس.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "خمس بطولات دوري وكأسان لأوروبا",
+      "textAr": "فاز بالدوري خمس مرات وبكأس أوروبا عامي 1981 و1984، وسجّل 346 هدفًا في 660 مباراة مع ليفربول.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Ian Rush | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/info/ian-rush"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2025-02/past-players-ian-rush-20022025_a4ba0d252756f6d8113ef250a30d83f3.webp?itok=ydAgcUsS&width=1680",
+    "pageUrl": "https://www.liverpoolfc.com/info/ian-rush",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "إيان راش في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "ian-rush-history-84fbd90c.jpg",
+    "width": 1440,
+    "height": 810
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

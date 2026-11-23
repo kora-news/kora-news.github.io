@@ -1,0 +1,60 @@
+{
+  "id": "marco-van-basten",
+  "nameEn": "Marco van Basten",
+  "nameAr": "ماركو فان باستن",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم هولندي انتقل من أياكس إلى ميلان صيف 1987. عُرف بمهارته ودقته وتنوّع طرق تسجيله، وكان من وجوه جيل ميلان الأوروبي في أواخر الثمانينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم هولندي انتقل من أياكس إلى ميلان صيف 1987. عُرف بمهارته ودقته وتنوّع طرق تسجيله، وكان من وجوه جيل ميلان الأوروبي في أواخر الثمانينيات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "فاز مع ميلان بكأس أوروبا مرتين، وحصل على الكرة الذهبية ثلاث مرات خلال مسيرته.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Marco van Basten | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/van-basten"
+    },
+    {
+      "id": "portrait",
+      "title": "Marco van Basten archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/marco-van-basten/leistungsdaten/spieler/74471"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/74471-1590494247.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/marco-van-basten/leistungsdaten/spieler/74471",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ماركو فان باستن في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "marco-van-basten-history-3b0d4398.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [
+    "الصفحة الرسمية تتناقض داخليًا بين عدّاد 129/205 ونص 125/201 وتعرض عمر اعتزال غير متسق؛ حُذفت هذه الحقول ولم تُحسم.",
+    "تختلف أرقام صفحة النادي داخليًا: العداد 129 هدفًا في 205 مباريات، والمتن 125 هدفًا في 201 مباراة. لذلك لا نثبت إجماليًا موحدًا هنا."
+  ],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "eric-brook",
+  "nameAr": "إريك بروك",
+  "nameEn": "Eric Brook",
+  "aliases": [
+    "Eric Fred Brook"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "جناح أيسر قوي التسديد من نجوم مانشستر سيتي في سنوات ما بين الحربين. كان يميل إلى التحرك نحو العمق بدل البقاء على الخط.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "جناح أيسر قوي التسديد من نجوم مانشستر سيتي في سنوات ما بين الحربين. كان يميل إلى التحرك نحو العمق بدل البقاء على الخط.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "177 هدفا في 493 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "كأس 1934 ودوري 1937",
+      "textAr": "صنع هدف فريد تيلسون الفائز في نهائي كأس إنجلترا 1934، وساهم في التتويج بالدوري عام 1937.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "جناح أيسر",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Eric Brook historical photograph source",
+      "url": "https://www.mancity.com/mancitylegends/brook-eric"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.mancity.com/meta/media/aclp21td/brook-mob.jpg",
+    "pageUrl": "https://www.mancity.com/mancitylegends/brook-eric",
+    "author": "Manchester City FC (club archive)",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "إيريك بروك في صورة شخصية من أرشيف مانشستر سيتي الرسمي (صفحة أساطير النادي)",
+    "identityEvidence": "صورة الغلاف في صفحة mancitylegends/brook-eric واسم الملف brook",
+    "replaces": "wikipedia/en lead image (fair-use classification concern)",
+    "file": "eric-brook-history-3ca9c6eb.jpg",
+    "width": 1920,
+    "height": 1101
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

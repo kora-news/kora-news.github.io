@@ -2,6 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const { profiles } = require('./players');
+const {historyByName,norm}=require('./historical-players');
 const CLUBS = [
   ['arsenal','أرسنال','Arsenal','england','إنجلترا'],
   ['liverpool','ليفربول','Liverpool','england','إنجلترا'],
@@ -21,6 +22,8 @@ const CLUBS = [
 
 function buildClubs({root,dist,head,header,footer,esc,fmtDate,news}) {
   const playerProfiles=profiles(root);
+  const historicalNames=historyByName(root);
+  const historicalName=x=>{const id=historicalNames.get(norm(x.nameEn))||historicalNames.get(norm(x.nameAr));return id?`<a class="squad-profile-link" href="../players/${esc(id)}.html">${esc(x.nameAr||x.nameEn)}</a>`:esc(x.nameAr||x.nameEn);};
   const profileByName=new Map(playerProfiles.map(p=>[p.clubId+'|'+p.squadName,p]));
   const playerName=(c,p)=>{const profile=profileByName.get(c.id+'|'+p.nameEn);return profile?`<a class="squad-profile-link" href="../players/${esc(profile.id)}.html">${esc(p.nameEn)}</a>`:esc(p.nameEn);};
   const dir = process.env.CLUBS_DATA_DIR || path.join(root,'data','clubs');
@@ -106,9 +109,9 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate,news}) {
     const honorsHTML=section('honors','بطولات النادي',note(h.scopeAr)+stamp(h.asOf)+(h.complete?'':incomplete())+`<div class="honors-list">${(h.items||[]).map(x=>`<article class="honor-row"><div><h3>${esc(x.competitionAr)}</h3>${x.seasons?.length?`<details><summary>مواسم التتويج</summary><p dir="auto">${x.seasons.map(esc).join('، ')}</p></details>`:''}${note(x.noteAr)}<div class="club-refs">${refs(x.sourceIds)}</div></div><div class="honor-number">${number(x.count)}<span>لقبًا</span></div></article>`).join('')}</div>`+note(h.noteAr));
     const top=r.topScorers||{};
     if(top.complete && (!Array.isArray(top.items)||top.items.length<10)) throw new Error(c.id+' top scorers marked complete with fewer than ten');
-    const scorersHTML=section('scorers','الهدافون التاريخيون',note(top.scopeAr)+stamp(top.asOf)+(top.entrantCheckedAt?`<p class="club-record-note">فحص دخول أسماء جديدة: ${esc(date(top.entrantCheckedAt))} ${refs(top.entrantSourceIds)}</p>`:'')+(top.complete?'':incomplete('القائمة أدناه مقيدة بتاريخ المصادر ونطاق عدها. لم يكتمل توثيق ترتيب حديث وموحد للعشرة الأوائل.'))+`<ol class="scorers-list">${(top.items||[]).map((x,i)=>`<li><span class="scorer-rank">${number(x.rank??i+1)}</span><div class="scorer-name"><strong>${esc(x.nameAr||x.nameEn)}</strong>${x.nameEn?`<small lang="en" dir="ltr">${esc(x.nameEn)}</small>`:''}<div class="club-refs">${refs(x.sourceIds)}</div></div><div class="scorer-goals">${number(x.goals)}<span>هدفًا</span></div></li>`).join('')}</ol>`+note(top.noteAr));
+    const scorersHTML=section('scorers','الهدافون التاريخيون',note('الاسم المرتبط يفتح ملف اللاعب ومسيرته وإنجازاته الموثقة. الملفات التاريخية منفصلة عن نطاق أرقام هذه القائمة.')+note(top.scopeAr)+stamp(top.asOf)+(top.entrantCheckedAt?`<p class="club-record-note">فحص دخول أسماء جديدة: ${esc(date(top.entrantCheckedAt))} ${refs(top.entrantSourceIds)}</p>`:'')+(top.complete?'':incomplete('القائمة أدناه مقيدة بتاريخ المصادر ونطاق عدها. لم يكتمل توثيق ترتيب حديث وموحد للعشرة الأوائل.'))+`<ol class="scorers-list">${(top.items||[]).map((x,i)=>`<li><span class="scorer-rank">${number(x.rank??i+1)}</span><div class="scorer-name"><strong>${historicalName(x)}</strong>${x.nameEn?`<small lang="en" dir="ltr">${esc(x.nameEn)}</small>`:''}<div class="club-refs">${refs(x.sourceIds)}</div></div><div class="scorer-goals">${number(x.goals)}<span>هدفًا</span></div></li>`).join('')}</ol>`+note(top.noteAr));
     const decorated=r.mostDecorated||{};
-    const decoratedHTML=section('decorated',decorated.status==='verified'?'الأكثر تتويجًا مع النادي':'توثيق الأكثر تتويجًا مع النادي',note(decorated.scopeAr)+stamp(decorated.asOf)+(decorated.status==='verified'?'':incomplete('لم يُحسم سجل الأكثر تتويجًا الشامل. الأرصدة المذكورة أدناه موثقة لأصحابها، ولا تُثبت وحدها ترتيب جميع اللاعبين أو حصر المتصدرين.'))+`<div class="decorated-list">${(decorated.items||[]).map(x=>`<article><div><h3>${esc(x.nameAr||x.nameEn)}</h3>${x.nameEn?`<p lang="en" dir="ltr">${esc(x.nameEn)}</p>`:''}<div class="club-refs">${refs(x.sourceIds)}</div></div><div class="decorated-total">${number(x.titles)}<span>لقبًا مع النادي</span></div></article>`).join('')}</div>`+note(decorated.noteAr));
+    const decoratedHTML=section('decorated',decorated.status==='verified'?'الأكثر تتويجًا مع النادي':'توثيق الأكثر تتويجًا مع النادي',note(decorated.scopeAr)+stamp(decorated.asOf)+(decorated.status==='verified'?'':incomplete('لم يُحسم سجل الأكثر تتويجًا الشامل. الأرصدة المذكورة أدناه موثقة لأصحابها، ولا تُثبت وحدها ترتيب جميع اللاعبين أو حصر المتصدرين.'))+`<div class="decorated-list">${(decorated.items||[]).map(x=>`<article><div><h3>${historicalName(x)}</h3>${x.nameEn?`<p lang="en" dir="ltr">${esc(x.nameEn)}</p>`:''}<div class="club-refs">${refs(x.sourceIds)}</div></div><div class="decorated-total">${number(x.titles)}<span>لقبًا مع النادي</span></div></article>`).join('')}</div>`+note(decorated.noteAr));
     const result=r.latestResult||{};
     if(result.playedOn && new Date(result.playedOn+'T00:00:00Z')>new Date()) throw new Error(c.id+' result is in the future');
     const resultVerified=result.status==='verified' && typeof result.homeScore==='number' && typeof result.awayScore==='number';

@@ -1,0 +1,81 @@
+{
+  "id": "roy-bentley",
+  "nameAr": "روي بنتلي",
+  "nameEn": "Roy Bentley",
+  "aliases": [
+    "Roy Thomas Frank Bentley"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي (17 مايو 1924 – 20 أبريل 2018)، قاد تشيلسي قائدا إلى أول لقب دوري في تاريخه موسم 1954–55. كان هداف الفريق في كل مواسمه الثمانية مع النادي، ولعب 367 مباراة، ومثّل إنجلترا في 12 مباراة دولية.",
+  "sourceIds": [
+    "bio",
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "textAr": "ثمانية مواسم كان فيها هداف الفريق كل موسم، وقاده كقائد إلى أول بطولة دوري في تاريخ النادي.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "خامس الهدافين التاريخيين بالتساوي",
+      "textAr": "150 هدفا في جميع المسابقات، بالتساوي مع بيتر أوسجود. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "أول لقب دوري في تاريخ النادي",
+      "textAr": "قاد تشيلسي إلى بطولة الدوري موسم 1954–55.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    }
+  ],
+  "birthDate": "1924-05-17",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Roy Bentley - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roy_Bentley"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "portrait",
+      "title": "Roy Bentley historical photograph source",
+      "url": "https://www.chelseafc.com/en/roy-bentley"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/f_auto,c_fill,w_1000,q_90/site-sections/about-chelsea/history/former-key-players/player%20-%20roy-bentley.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/roy-bentley",
+    "author": "Chelsea FC (club archive)",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روي بنتلي (يمين) في لقطة هوائية لتشيلسي في الخمسينيات، من صفحته الرسمية في موقع النادي",
+    "identityEvidence": "الصورة مستخدمة في صفحة اللاعب الرسمية chelseafc.com/en/roy-bentley واسم الملف player - roy-bentley",
+    "replaces": "previous Fulham 1958 team photo (public-domain, post-Chelsea, team shot judged weak for a portrait)",
+    "file": "roy-bentley-history-f0dbb5ef.jpg",
+    "width": 1000,
+    "height": 563
+  },
+  "notesAr": [
+    "الصورة المتاحة الحرة هي صورة جماعية لفريق فولهام 1958 يظهر فيها بنتلي؛ لا توجد صورة فردية حرة له بقميص تشيلسي."
+  ],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

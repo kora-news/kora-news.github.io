@@ -1,0 +1,60 @@
+{
+  "id": "emilio-butragueno",
+  "nameAr": "إيميليو بوتراجينيو",
+  "nameEn": "Emilio Butragueño",
+  "aliases": [
+    "emilio-butragueno-santos"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إسباني منح لقبه اسمه لجيل كينتا ديل بويتري. ظهر مع الفريق الأول لريال مدريد في فبراير 1984، وخاض 463 مباراة رسمية وسجّل 171 هدفًا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "الفريق الأول: 1984–1995",
+      "textAr": "مهاجم إسباني منح لقبه اسمه لجيل كينتا ديل بويتري. ظهر مع الفريق الأول لريال مدريد في فبراير 1984، وخاض 463 مباراة رسمية وسجّل 171 هدفًا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "كأس الاتحاد الأوروبي",
+      "textAr": "شارك في التتويج بكأس الاتحاد الأوروبي عامي 1985 و1986، وفاز بجائزة هداف الدوري في موسم 1990–1991.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1963-07-22",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Emilio Butragueño",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/emilio-butragueno-santos"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330192171600?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/emilio-butragueno-santos",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Butragueño",
+    "file": "emilio-butragueno-history-5f0b3edf.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [
+    "الفترة تخص الفريق الأول منذ 1984؛ عنوان السيرة يشمل كاستيا منذ 1982. تذكر السيرة 171 هدفًا وبعض القوائم 170."
+  ],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

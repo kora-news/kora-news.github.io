@@ -1,0 +1,59 @@
+{
+  "id": "luis-suarez",
+  "nameAr": "لويس سواريز",
+  "nameEn": "Luis Suárez",
+  "aliases": [
+    "Luis Suarez Diaz"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم أوروجواياني انضم لبرشلونة عام 2014 وقضى معه ستة مواسم. سجّل 198 هدفًا في المباريات الرسمية، وأحرز هدفًا في نهائي دوري أبطال أوروبا 2015 أمام يوفنتوس.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "2014–2020",
+      "textAr": "مهاجم أوروجواياني انضم لبرشلونة عام 2014 وقضى معه ستة مواسم. سجّل 198 هدفًا في المباريات الرسمية، وأحرز هدفًا في نهائي دوري أبطال أوروبا 2015 أمام يوفنتوس.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "ثلاثية 2015",
+      "textAr": "شارك في ثلاثية موسم 2014–2015، وفاز بأربعة ألقاب للدوري الإسباني وأربعة لكأس الملك مع برشلونة.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": "أوروجواياني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Luis Suárez",
+      "url": "https://www.fcbarcelona.com/en/card/1841260/luis-suarez"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/2020/09/06/c7355114-245c-48a3-b5fe-0cea11dc9379/SUAREZ-56-min.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/1841260/luis-suarez",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Luis Suárez",
+    "file": "luis-suarez-history-61a3b8fd.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "هذا ملف لويس سواريز دياز الأوروجواياني. يذكر المتن 198 هدفًا رسميًا، ومربع المسيرة 210 أهداف بنطاق أوسع."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

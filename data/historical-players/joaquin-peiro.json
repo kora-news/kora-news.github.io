@@ -1,0 +1,63 @@
+{
+  "id": "joaquin-peiro",
+  "nameAr": "خواكين بيرو",
+  "nameEn": "Joaquín Peiró",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إسباني اشتهر بالسرعة على الجهة اليسرى، وشكّل مع إنريكي كويار ثنائي الجناح الجهنمي. خاض 219 مباراة مع أتلتيكو قبل انتقاله إلى إيطاليا عام 1962.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1955–1962",
+      "textAr": "مهاجم إسباني اشتهر بالسرعة على الجهة اليسرى، وشكّل مع إنريكي كويار ثنائي الجناح الجهنمي. خاض 219 مباراة مع أتلتيكو قبل انتقاله إلى إيطاليا عام 1962.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "ثلاث بطولات مع أتلتيكو",
+      "textAr": "فاز بكأس إسبانيا عامي 1960 و1961 وبكأس الكؤوس الأوروبية عام 1962.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1936-01-29",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Historical biography: Joaquín Peiró",
+      "url": "https://www.atleticodemadrid.com/noticias/la-familia-rojiblanca-esta-de-luto-por-el-fallecimiento-de-joaquin-peiro"
+    },
+    {
+      "id": "first-league",
+      "title": "Atletico official account of first league title",
+      "url": "https://www.atleticodemadrid.com/noticias/se-cumplen-82-anos-de-nuestra-primera-liga"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.atleticodemadrid.com/system/file5s/63048/medium2/58Mcf2gWpq_5.png?1584537290",
+    "pageUrl": "https://www.atleticodemadrid.com/noticias/la-familia-rojiblanca-esta-de-luto-por-el-fallecimiento-de-joaquin-peiro",
+    "author": "Atletico de Madrid archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "خواكين بيرو في لقطة أرشيفية داخل الملعب",
+    "identityEvidence": "النعي الرسمي يعرض الصورة بوسم Foto Joaquín Peiró.",
+    "file": "joaquin-peiro-history-ffb2fd9b.jpg",
+    "width": 300,
+    "height": 180
+  },
+  "notesAr": [
+    "يذكر النعي الرسمي 129 هدفًا وتذكر بعض القوائم 128. الصورة الأصلية صغيرة وأرشيفية، وبيرو إلى يمين اللقطة."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

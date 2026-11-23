@@ -1,0 +1,54 @@
+{
+  "id": "david-trezeguet",
+  "nameEn": "David Trezeguet",
+  "nameAr": "دافيد تريزيغيه",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم فرنسي وصل إلى يوفنتوس عام 2000 واستمر معه حتى 2010. اشتهر بالحسم داخل منطقة الجزاء والتسجيل بلمسة واحدة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم فرنسي وصل إلى يوفنتوس عام 2000 واستمر معه حتى 2010. اشتهر بالحسم داخل منطقة الجزاء والتسجيل بلمسة واحدة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 171 هدفًا في 320 مباراة مع يوفنتوس وفق قاعة مشاهير النادي. كما تسجل الصفحة فوزه بكأس السوبر الإيطالي مرتين.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "David Trezeguet | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/david-trezeguet"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Trezeguet.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/david-trezeguet",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "دافيد تريزيغيه في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "david-trezeguet-history-fd9931ca.jpg",
+    "width": 600,
+    "height": 768
+  },
+  "notesAr": [
+    "عد ألقاب الدوري في صفحة النادي يختلف عن سجل المسابقة الرسمي بشأن لقبَي 2004/05 و2005/06؛ لا نعرض هنا إجماليًا يخلط نطاقَي العد."
+  ],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

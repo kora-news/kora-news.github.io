@@ -1,0 +1,57 @@
+{
+  "id": "pierre-emerick-aubameyang",
+  "nameAr": "بيير إيميريك أوباميانج",
+  "nameEn": "Pierre-Emerick Aubameyang",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم غابوني انضم إلى دورتموند عام 2013 واستمر حتى انتقاله إلى آرسنال في يناير 2018. تميّز بالسرعة والحسم أمام المرمى.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "مهاجم غابوني انضم إلى دورتموند عام 2013 واستمر حتى انتقاله إلى آرسنال في يناير 2018. تميّز بالسرعة والحسم أمام المرمى.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل 141 هدفًا في 213 مباراة، وأحرز ركلة الفوز في نهائي كأس ألمانيا 2017 وتصدّر هدافي البوندسليغا 2016/17 بـ31 هدفًا.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Pierre-Emerick Aubameyang | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/BVB-verstaendigt-sich-mit-Arsenal-auf-Aubameyang-Transfer.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Pierre-Emerick Aubameyang individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/pierre-emerick-aubameyang/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/126/829/custom_style_1_Pierre-Emerick_Aubameyang_GAB_GettyImages-461680806.jpg?1493146529",
+    "pageUrl": "https://datencenter.dfb.de/personen/pierre-emerick-aubameyang/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بيير إيميريك أوباميانج في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonPierre-Emerick Aubameyang",
+    "file": "pierre-emerick-aubameyang-history-ec522b6e.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

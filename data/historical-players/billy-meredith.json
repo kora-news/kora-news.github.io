@@ -1,0 +1,68 @@
+{
+  "id": "billy-meredith",
+  "nameAr": "بيلي ميريديث",
+  "nameEn": "Billy Meredith",
+  "aliases": [
+    "William Henry Meredith"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "جناح ويلزي من أوائل نجوم مانشستر سيتي، لعب للنادي على فترتين متباعدتين قبل اعتزاله في عشرينيات القرن الماضي.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "جناح ويلزي من أوائل نجوم مانشستر سيتي، لعب للنادي على فترتين متباعدتين قبل اعتزاله في عشرينيات القرن الماضي.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "152 هدفا في 394 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "أول كأس كبرى للنادي",
+      "textAr": "ساهم في فوز سيتي بكأس إنجلترا 1904، أول بطولة كبرى في تاريخه.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "جناح أيمن",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Billy Meredith archive photograph",
+      "url": "https://spartacus-educational.com/MANCmeredith.htm"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://spartacus-educational.com/MANUmeredith3.jpg",
+    "pageUrl": "https://spartacus-educational.com/MANCmeredith.htm",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بيلي ميريديث في صورة أرشيفية، من موقع سبارتاكوس التعليمي.",
+    "identityEvidence": "Named historical biography identifies this individual portrait. For Browell, visible right panel label T. Browell and article identifies Tommy.",
+    "file": "billy-meredith-history-7004726f.jpg",
+    "width": 150,
+    "height": 259
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:26:04+02:00"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "marco-reus",
+  "nameAr": "ماركو رويس",
+  "nameEn": "Marco Reus",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب هجوم ألماني من أبناء دورتموند، أمضى اثني عشر عامًا محترفًا مع الفريق قبل وداعه في 2024. كان من قادة الفريق وأبرز وجوهه في تلك الحقبة.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "لاعب هجوم ألماني من أبناء دورتموند، أمضى اثني عشر عامًا محترفًا مع الفريق قبل وداعه في 2024. كان من قادة الفريق وأبرز وجوهه في تلك الحقبة.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "كأس ألمانيا مرتين",
+      "textAr": "فاز مع دورتموند بكأس ألمانيا في 2016/17 و2020/21، وفق سجل الاتحاد الألماني.",
+      "sourceIds": [
+        "portrait"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Marco Reus | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Dortmunder-Junge.-Schwarzgelbe-Legende-das-letzte-Heimspiel-von-Marco-Reus.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Marco Reus individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/marco-reus/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/213/766/custom_style_1_reus.jpg?1573468123",
+    "pageUrl": "https://datencenter.dfb.de/personen/marco-reus/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ماركو رويس في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonMarco Reus",
+    "file": "marco-reus-history-ac64c8a8.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

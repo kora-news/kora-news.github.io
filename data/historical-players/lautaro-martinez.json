@@ -1,0 +1,39 @@
+{
+  "id": "lautaro-martinez",
+  "nameEn": "Lautaro Martinez",
+  "nameAr": "لاوتارو مارتينيز",
+  "existingProfileId": "lautaro-martinez",
+  "summaryAr": "انضم إلى إنتر صيف 2018 وأصبح قائدًا للفريق في صيف 2023.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "قائد إنتر منذ صيف 2023.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات تاريخية",
+      "textAr": "يعرض سجل النادي ثلاثة ألقاب للدوري وثلاث كؤوس لإيطاليا وثلاثة ألقاب للسوبر الإيطالي خلال فترته.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Lautaro Martinez | Inter",
+      "url": "https://www.inter.it/en/teams/first-team/player/lautaro-martinez"
+    }
+  ],
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

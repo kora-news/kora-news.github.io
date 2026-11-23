@@ -1,0 +1,60 @@
+{
+  "id": "karim-benzema",
+  "nameAr": "كريم بنزيما",
+  "nameEn": "Karim Benzema",
+  "aliases": [
+    "karim-benzema"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم فرنسي قضى 14 موسمًا مع ريال مدريد. تُسجّل سيرته الرسمية 354 هدفًا في 648 مباراة، وحصل على الكرة الذهبية عام 2022 بعد موسم بارز محليًا وأوروبيًا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "2009–2023",
+      "textAr": "مهاجم فرنسي قضى 14 موسمًا مع ريال مدريد. تُسجّل سيرته الرسمية 354 هدفًا في 648 مباراة، وحصل على الكرة الذهبية عام 2022 بعد موسم بارز محليًا وأوروبيًا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "خمسة ألقاب أوروبية",
+      "textAr": "فاز بخمسة ألقاب لدوري أبطال أوروبا و25 بطولة مع النادي بين 2009 و2023.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1987-12-19",
+  "positionAr": "مهاجم",
+  "nationalityAr": "فرنسي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Karim Benzema",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/karim-benzema"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330830945339?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/karim-benzema",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Benzema",
+    "file": "karim-benzema-history-c482d8d3.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [
+    "الأرقام هنا من السيرة النهائية: 354 هدفًا في 648 مباراة. بيان الوداع السابق للمباراة الأخيرة ذكر 353 هدفًا في 647 مباراة."
+  ],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

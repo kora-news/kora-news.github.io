@@ -1,0 +1,90 @@
+{
+  "id": "didier-drogba",
+  "nameAr": "ديدييه دروجبا",
+  "nameEn": "Didier Drogba",
+  "aliases": [
+    "Didier Yves Drogba Tébily"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيفواري من مواليد 11 مارس 1978، اشتهر بمسيرته مع تشيلسي حيث يعد رابع هدافي النادي عبر التاريخ وأكثر الأجانب تسجيلا له. اشتهر بتسجيله في النهائيات الكبرى، وسجّل هدف التعادل وركلة الترجيح الحاسمة في نهائي دوري الأبطال 2012. اختير أفضل لاعب أفريقي عامي 2006 و2009، ودخل قاعة مشاهير الدوري الإنجليزي عام 2022.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "textAr": "فترتان مع تشيلسي توج خلالهما بأربعة ألقاب دوري ودوري الأبطال، وسجل 164 هدفا في جميع المسابقات.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "رابع الهدافين التاريخيين وأكثر الأجانب تسجيلا",
+      "textAr": "164 هدفا في جميع المسابقات. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب. ويوضح النادي أن ركلة الترجيح الحاسمة في نهائي 2012 لا تضاف إلى حصيلته.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "نهائي دوري الأبطال 2012",
+      "textAr": "أحرز هدف التعادل في نهائي 2012 ضد بايرن ميونخ ثم سدد ركلة الترجيح الحاسمة؛ سجل في أربع نهائيات كأس اتحاد مختلفة وهو رقم قياسي.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "الدوري الإنجليزي الممتاز",
+      "textAr": "البطل أعوام 2004–05 و2005–06 و2009–10 و2014–15.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "كأس الاتحاد وكأس الرابطة",
+      "textAr": "كأس الاتحاد أعوام 2006–07 و2008–09 و2009–10 و2011–12، وكأس الرابطة أعوام 2004–05 و2006–07 و2014–15.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1978-03-11",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إيفواري",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Didier Drogba - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Didier_Drogba"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Didier_Drogba_%282019%29_%28cropped2%29.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Didier_Drogba_(2019)_(cropped2).jpg",
+    "author": "Y.Leclercq",
+    "license": "CC BY-SA 4.0",
+    "rightsStatus": "open-license",
+    "captionAr": "دروجبا عام 2019",
+    "identityEvidence": "اسم الملف ووصفه في ويكيميديا كومنز: Didier Drogba (2019)",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changesAr": "أعيد ترميز الصورة بصيغة JPEG؛ لا تعديل على الملامح أو القميص.",
+    "file": "didier-drogba-history-4d92d919.jpg",
+    "width": 1239,
+    "height": 1599
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:11:23+02:00"
+}

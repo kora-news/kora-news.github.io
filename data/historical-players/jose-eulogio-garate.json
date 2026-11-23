@@ -1,0 +1,58 @@
+{
+  "id": "jose-eulogio-garate",
+  "nameAr": "خوسيه إيولوجيو جاراتي",
+  "nameEn": "José Eulogio Gárate",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وُلد في ساراندي بالأرجنتين واشتهر بالمهارة والضربات الرأسية واللعب النظيف. لُقّب بمهندس منطقة الجزاء، وأوقفته إصابة في الركبة عن الاستمرار مبكرًا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1966–1977",
+      "textAr": "مهاجم وُلد في ساراندي بالأرجنتين واشتهر بالمهارة والضربات الرأسية واللعب النظيف. لُقّب بمهندس منطقة الجزاء، وأوقفته إصابة في الركبة عن الاستمرار مبكرًا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "ثلاث جوائز بيتشيتشي",
+      "textAr": "تقاسم صدارة هدافي الدوري الإسباني في أعوام 1969 و1970 و1971، وشارك في الفوز بالدوري موسمي 1969–1970 و1972–1973.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1944-09-20",
+  "positionAr": "مهاجم",
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Atletico official Paseo de Leyendas: José Eulogio Gárate",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/leyendas/garate"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://cdn.prod.website-files.com/6a96ea2375ce6e2538c881ca/6a9ab4cf836a7554587f6022_LEYENDA_PRINCIPAL_GARATE.png",
+    "pageUrl": "https://paseodeleyendas.atleticodemadrid.com/leyendas/garate",
+    "author": "Atletico de Madrid archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من سيرة أتلتيكو الرسمية",
+    "identityEvidence": "الصورة الرئيسية والبيانات الوصفية في صفحة الأسطورة المسماة باسمه",
+    "file": "jose-eulogio-garate-history-4775097d.jpg",
+    "width": 1400,
+    "height": 600
+  },
+  "notesAr": [
+    "تعرض صفحة الأساطير 136 هدفًا في 327 مباراة؛ تختلف بعض القوائم بهدفين أو مباراتين، فلا نوحدها دون تفسير."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

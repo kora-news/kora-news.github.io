@@ -1,0 +1,67 @@
+{
+  "id": "david-jack",
+  "nameEn": "David Jack",
+  "nameAr": "ديفيد جاك",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم انضم إلى أرسنال في أكتوبر 1928، وأصبح من عناصر نجاح الفريق في بداية الثلاثينيات. سجل 124 هدفا في 208 مباريات قبل اعتزاله في مايو 1934.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1928–1934",
+      "textAr": "مهاجم انضم إلى أرسنال في أكتوبر 1928، وأصبح من عناصر نجاح الفريق في بداية الثلاثينيات. سجل 124 هدفا في 208 مباريات قبل اعتزاله في مايو 1934.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "كأس إنجلترا 1930",
+      "textAr": "ساهم في فوز أرسنال بكأس إنجلترا على حساب هدرسفيلد.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "ثلاثة ألقاب دوري",
+      "textAr": "نال ألقاب 1930/31 و1932/33 و1933/34، وسجل 34 هدفا في موسم اللقب الأول.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "David Jack - official club biography",
+      "url": "https://www.arsenal.com/news/david-jack-ajAFm2G61F6L"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/5a1c6323600e-cspastars2509290001.webp",
+    "pageUrl": "https://www.arsenal.com/news/david-jack-ajAFm2G61F6L",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: David Jack",
+    "file": "david-jack-history-6013e3f4.jpg",
+    "width": 1800,
+    "height": 1200
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

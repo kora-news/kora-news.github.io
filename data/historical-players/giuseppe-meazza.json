@@ -1,0 +1,54 @@
+{
+  "id": "giuseppe-meazza",
+  "nameEn": "Giuseppe Meazza",
+  "nameAr": "جوزيبي مياتزا",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "مهاجم وصانع لعب إيطالي برز مع إنتر منذ ظهوره عام 1927. قاد الفريق لسنوات وأصبح من رموز كرة القدم الإيطالية، وحمل ملعب سان سيرو اسمه تكريمًا له.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "مهاجم وصانع لعب إيطالي برز مع إنتر منذ ظهوره عام 1927. قاد الفريق لسنوات وأصبح من رموز كرة القدم الإيطالية، وحمل ملعب سان سيرو اسمه تكريمًا له.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "يورد إنتر له 284 هدفًا في 408 مباريات، كما فاز مع إيطاليا بكأسي العالم 1934 و1938.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Giuseppe Meazza | official club biography",
+      "url": "https://www.inter.it/en/club/hall-of-fame/giuseppe-meazza"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/c975e418ea7b091/webimage-STORICO-STORICO-020-MEAZZA-Giuseppe-AC08582-Meazza-Giuseppe.png",
+    "pageUrl": "https://www.inter.it/en/club/hall-of-fame/giuseppe-meazza",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جوزيبي مياتزا في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: STORICO - STORICO 020 - MEAZZA Giuseppe - AC08582 Meazza Giuseppe",
+    "file": "giuseppe-meazza-history-1f0e554d.jpg",
+    "width": 800,
+    "height": 541
+  },
+  "notesAr": [
+    "تتعارض مواضع صفحة المصدر في إجمالي الألقاب وبطولات الدوري، لذلك لا نثبت منها إجماليًا موحدًا."
+  ],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

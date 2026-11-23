@@ -1,0 +1,67 @@
+{
+  "id": "joe-hayes",
+  "nameAr": "جو هايز",
+  "nameEn": "Joe Hayes",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم داخلي من أبناء بولتون لعب لمانشستر سيتي بين 1953 و1965. اشتهر بمهارته وسرعته وفعاليته في مباريات ديربي مانشستر.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم داخلي من أبناء بولتون لعب لمانشستر سيتي بين 1953 و1965. اشتهر بمهارته وسرعته وفعاليته في مباريات ديربي مانشستر.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "152 هدفا في 364 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "كأس إنجلترا 1956",
+      "textAr": "سجّل بعد ثلاث دقائق من بداية نهائي كأس إنجلترا 1956 الذي فاز به سيتي، وله عشرة أهداف في 17 مباراة أمام مانشستر يونايتد بحسب النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم داخلي",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Joe Hayes historical photograph source",
+      "url": "https://www.mancity.com/mancitylegends/hayes-joe"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.mancity.com/meta/media/xi0doaxp/hayes-mob.jpg",
+    "pageUrl": "https://www.mancity.com/mancitylegends/hayes-joe",
+    "author": "Manchester City FC (club archive)",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جو هايز في صورة شخصية ملونة من أرشيف مانشستر سيتي الرسمي (صفحة أساطير النادي)",
+    "identityEvidence": "الصورة المرفقة قص من اللوحة الوسطى من مونتاج صفحة mancitylegends/hayes-joe؛ الأصل الكامل مرفق أيضا hayes.jpg",
+    "derivedFrom": "hayes.jpg middle panel crop (original montage attached)",
+    "file": "joe-hayes-history-45138018.jpg",
+    "width": 372,
+    "height": 480
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "jose-altafini",
+  "nameEn": "Jose Altafini",
+  "nameAr": "جوزيه ألتافيني",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وُلد في البرازيل ووصل إلى ميلان وهو في العشرين بعد الفوز بكأس العالم مع المنتخب البرازيلي. تميّز بالقوة والمهارة أمام المرمى.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم وُلد في البرازيل ووصل إلى ميلان وهو في العشرين بعد الفوز بكأس العالم مع المنتخب البرازيلي. تميّز بالقوة والمهارة أمام المرمى.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "تُوّج بالدوري الإيطالي في 1958/59 و1961/62، وسجّل هدفي ميلان أمام بنفيكا في نهائي كأس أوروبا 1963.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Jose Altafini | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/altafini"
+    },
+    {
+      "id": "portrait",
+      "title": "Jose Altafini archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/jose-altafini/leistungsdaten/spieler/31571/saison/"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/31571-1487854947.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/jose-altafini/leistungsdaten/spieler/31571/saison/",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جوزيه ألتافيني في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "jose-altafini-history-a33a4241.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

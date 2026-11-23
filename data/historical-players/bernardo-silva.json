@@ -1,0 +1,60 @@
+{
+  "id": "bernardo-silva",
+  "nameAr": "برناردو سيلفا",
+  "nameEn": "Bernardo Silva",
+  "aliases": [
+    "Bernardo Mota Veiga de Carvalho e Silva"
+  ],
+  "existingProfileId": "bernardo-silva",
+  "summaryAr": "لاعب وسط برتغالي مثّل مانشستر سيتي خلال حقبة من النجاحات المحلية والأوروبية. يثبت مقال النادي في 22 يوليو 2026 حصيلته البالغة 20 لقبًا مع الفريق.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "لاعب وسط برتغالي مثّل مانشستر سيتي خلال حقبة من النجاحات المحلية والأوروبية. يثبت مقال النادي في 22 يوليو 2026 حصيلته البالغة 20 لقبًا مع الفريق.",
+      "sourceIds": [
+        "haaland-base"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "20 لقبا مع النادي",
+      "textAr": "ألقاب اللاعب مع مانشستر سيتي فقط، بما فيها درع المجتمع كما يحتسبها النادي.",
+      "sourceIds": [
+        "haaland-base"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "دوري الأبطال 2023",
+      "textAr": "ضمن ثلاثية 2022–23 التاريخية، وكأس العالم للأندية 2023.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": null,
+  "positionAr": null,
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Bernardo Silva - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bernardo_Silva"
+    },
+    {
+      "id": "haaland-base",
+      "title": "Manchester City: Foden’s City story so far in numbers, 22 July 2026",
+      "url": "https://www.mancity.com/news/mens/phil-foden-city-stats-so-far-63920317"
+    }
+  ],
+  "notesAr": [
+    "الألقاب المذكورة مع مانشستر سيتي فقط، وفق مصدر مؤرخ، ولا تُعامل بوصفها إجماليًا حيًا لكل المسيرة."
+  ],
+  "checkedAt": "2026-11-24T01:15:26+02:00"
+}

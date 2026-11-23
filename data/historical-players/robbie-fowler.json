@@ -1,0 +1,57 @@
+{
+  "id": "robbie-fowler",
+  "nameAr": "روبي فاولر",
+  "nameEn": "Robbie Fowler",
+  "aliases": [
+    "Robert Bernard Fowler",
+    "God"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي من أبناء ليفربول، عرف بقدرته على التسجيل بكلتا القدمين والرأس، وعاد إلى النادي لفترة ثانية في 2006.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1993-2001 & 2006-2007",
+      "textAr": "مهاجم إنجليزي من أبناء ليفربول، عرف بقدرته على التسجيل بكلتا القدمين والرأس، وعاد إلى النادي لفترة ثانية في 2006.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "183 هدفًا وثلاثية كؤوس 2001",
+      "textAr": "سجّل 183 هدفًا في 369 مباراة، وفاز بكأس إنجلترا وكأس الاتحاد الأوروبي وكأس الرابطة في 2001.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Robbie Fowler | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/info/robbie-fowler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2025-02/past-players-robbie-fowler-19022025_5729c0199f4dfb0434885f6d2bd892f1.webp?itok=0XN7daDX&width=1680",
+    "pageUrl": "https://www.liverpoolfc.com/info/robbie-fowler",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روبي فاولر في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "robbie-fowler-history-739bbbcc.jpg",
+    "width": 1440,
+    "height": 810
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "len-duquemin",
+  "nameEn": "Len Duquemin",
+  "nameAr": "لين دوكيمين",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "قلب هجوم من غيرنزي كان من ركائز أسلوب توتنهام المعروف بالتمرير والتحرك. امتاز بالعمل الجماعي وفتح المساحات بجانب التسجيل.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "الأربعينيات والخمسينيات",
+      "textAr": "قلب هجوم من غيرنزي كان من ركائز أسلوب توتنهام المعروف بالتمرير والتحرك. امتاز بالعمل الجماعي وفتح المساحات بجانب التسجيل.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "دوري الدرجة الثانية 1949/50",
+      "textAr": "سجل 16 هدفا في الدوري خلال موسم الصعود بطلا.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "دوري الدرجة الأولى 1950/51",
+      "textAr": "سجل 14 هدفا في الدوري خلال موسم أول لقب دوري في تاريخ توتنهام.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "134 هدفا",
+      "textAr": "سجل 134 هدفا في 307 مباريات بالدوري وكأس إنجلترا بحسب النادي.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Len Duquemin - official club biography",
+      "url": "https://www.tottenhamhotspur.com/news/1059027/class-of-51-len-duquemin"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/04c80791-699e-45be-9f29-5ae93c268c1f/len-duquemin-2.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: duquemin explicitly numbered caption in goalscorers gallery",
+    "file": "len-duquemin-history-b6b0819a.jpg",
+    "width": 1200,
+    "height": 581
+  },
+  "notesAr": [
+    "تختلف فترات العناوين في قوائم النادي عن تاريخ الرحيل الذي يحدده تقرير 2016 بنوفمبر 1958؛ أُبقي الوصف العام بدلا من فرض فترة واحدة."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

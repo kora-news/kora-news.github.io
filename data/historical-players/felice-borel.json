@@ -1,0 +1,52 @@
+{
+  "id": "felice-borel",
+  "nameEn": "Felice Borel",
+  "nameAr": "فيليتشي بوريل",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي عُرف باسم بوريل الثاني وبحركته الخفيفة داخل الملعب. برز مع يوفنتوس في ثلاثينيات القرن العشرين وعاد لاحقًا إلى النادي لاعبًا ومدربًا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم إيطالي عُرف باسم بوريل الثاني وبحركته الخفيفة داخل الملعب. برز مع يوفنتوس في ثلاثينيات القرن العشرين وعاد لاحقًا إلى النادي لاعبًا ومدربًا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بثلاثة ألقاب متتالية للدوري مع يوفنتوس بين 1933 و1935 وبكأس إيطاليا 1938.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Felice Borel | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/felice-placido-borel-(borel-ii)"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Felice_Placido_Borel_-_1930s_-_FBC_Juventus.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/felice-placido-borel-(borel-ii)",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "فيليتشي بوريل في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "felice-borel-history-4e97024d.jpg",
+    "width": 800,
+    "height": 1271
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

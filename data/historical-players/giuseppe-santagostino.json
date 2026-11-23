@@ -1,0 +1,52 @@
+{
+  "id": "giuseppe-santagostino",
+  "nameEn": "Giuseppe Santagostino",
+  "nameAr": "جوزيبي سانتاغوستينو",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وجناح إيطالي من أبناء مدينة ميلانو وقطاع ناشئي ميلان. ظهر مع الفريق الأول عام 1921 واستمر معه اثني عشر موسمًا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم وجناح إيطالي من أبناء مدينة ميلانو وقطاع ناشئي ميلان. ظهر مع الفريق الأول عام 1921 واستمر معه اثني عشر موسمًا.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "سجّل أول هدف في ملعب سان سيرو يوم 19 سبتمبر 1926، وتجاوز مئة هدف بقميص ميلان.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Giuseppe Santagostino | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/santagostino"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/542c9190-3271-4050-a8e7-be33a440a453/Landing_Santagostino.jpg",
+    "pageUrl": "https://www.acmilan.com/en/club/legends/players/santagostino",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جوزيبي سانتاغوستينو في صورة أرشيفية من صفحة أساطير ميلان",
+    "identityEvidence": "Portrait image on the official named player biography page; downloaded and image-decoded successfully.",
+    "file": "giuseppe-santagostino-history-96ad4884.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

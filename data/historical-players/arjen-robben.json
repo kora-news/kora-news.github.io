@@ -1,0 +1,52 @@
+{
+  "id": "arjen-robben",
+  "nameAr": "آريين روبن",
+  "nameEn": "Arjen Robben",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "جناح هولندي أصبح مع فرانك ريبيري أحد أبرز ثنائيات الأطراف في تاريخ بايرن. عُرف بالسرعة والتقدّم من اليمين إلى الداخل والإنهاء بالقدم اليسرى.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "جناح هولندي أصبح مع فرانك ريبيري أحد أبرز ثنائيات الأطراف في تاريخ بايرن. عُرف بالسرعة والتقدّم من اليمين إلى الداخل والإنهاء بالقدم اليسرى.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "خاض 309 مباريات رسمية وسجّل 144 هدفًا لبايرن، وكان من أبطال الفوز بدوري الأبطال 2013.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Arjen Robben | Club/DFB record",
+      "url": "https://fcbayern.com/en/news/2025/03/interview-arjen-robben-franck-ribery-dominance-is-part-of-bayern"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/026/551/custom_style_1_Arjen-Robben.jpg?1493067466",
+    "pageUrl": "https://datencenter.dfb.de/personen/arjen-robben/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "آريين روبن في صورة أرشيفية من سجل الاتحاد الألماني، بقميص منتخب هولندا.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "arjen-robben-history-28a28ef3.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

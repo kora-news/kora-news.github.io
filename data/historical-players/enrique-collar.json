@@ -1,0 +1,58 @@
+{
+  "id": "enrique-collar",
+  "nameAr": "إنريكي كويار",
+  "nameEn": "Enrique Collar",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "جناح أيسر إسباني اشتهر بالسرعة والمراوغة، وشكّل مع خواكين بيرو ثنائي الجناح الجهنمي في هجوم أتلتيكو. كان من أبرز وجوه الفريق خلال الخمسينيات والستينيات.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "atletico-madrid",
+      "periodAr": "1953–1969",
+      "textAr": "جناح أيسر إسباني اشتهر بالسرعة والمراوغة، وشكّل مع خواكين بيرو ثنائي الجناح الجهنمي في هجوم أتلتيكو. كان من أبرز وجوه الفريق خلال الخمسينيات والستينيات.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "أتلتيكو مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "atletico-madrid",
+      "labelAr": "كأس الكؤوس 1962",
+      "textAr": "حقق كأس الكؤوس الأوروبية عام 1962، وكأس إسبانيا في أعوام 1960 و1961 و1965.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1934-11-02",
+  "positionAr": "جناح أيسر",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Atletico official Paseo de Leyendas: Enrique Collar",
+      "url": "https://paseodeleyendas.atleticodemadrid.com/leyendas/collar"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://cdn.prod.website-files.com/6a96ea2375ce6e2538c881ca/6aa7c69e14616b12a1bf08c4_LEYENDA_PRINCIPAL_COLLAR.png",
+    "pageUrl": "https://paseodeleyendas.atleticodemadrid.com/leyendas/collar",
+    "author": "Atletico de Madrid archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من سيرة أتلتيكو الرسمية",
+    "identityEvidence": "الصورة الرئيسية والبيانات الوصفية في صفحة الأسطورة المسماة باسمه",
+    "file": "enrique-collar-history-3fe0ca91.jpg",
+    "width": 1400,
+    "height": 600
+  },
+  "notesAr": [
+    "تعرض صفحة الأساطير 104 أهداف في 470 مباراة، وتعرض مراجع أخرى 105 أهداف في 468 مباراة؛ يظل اختلاف النطاق ظاهرًا."
+  ],
+  "checkedAt": "2026-11-24T01:07:54+02:00"
+}

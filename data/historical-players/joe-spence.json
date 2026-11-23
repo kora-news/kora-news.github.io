@@ -1,0 +1,66 @@
+{
+  "id": "joe-spence",
+  "nameAr": "جو سبينس",
+  "nameEn": "Joe Spence",
+  "aliases": [
+    "Joseph Waters Spence"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "جناح ومهاجم إنجليزي مثّل مانشستر يونايتد بين 1919 و1933، وكان من أبرز لاعبيه خلال سنوات ما بين الحربين.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-united",
+      "periodAr": "1919–1933",
+      "textAr": "جناح ومهاجم إنجليزي مثّل مانشستر يونايتد بين 1919 و1933، وكان من أبرز لاعبيه خلال سنوات ما بين الحربين.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "مانشستر يونايتد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-united",
+      "labelAr": "السجل التهديفي مع يونايتد",
+      "textAr": "168 هدفًا في جميع المسابقات، بحسب قائمة United In Focus الإحصائية.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "جناح",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Joe Spence (footballer, born 1898) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joe_Spence_(footballer,_born_1898)"
+    },
+    {
+      "id": "scorers",
+      "title": "Manchester United's all-time leading goalscorers",
+      "url": "https://www.unitedinfocus.com/records/manchester-uniteds-all-time-leading-goalscorers/"
+    },
+    {
+      "id": "portrait",
+      "title": "Joe Spence archive photograph",
+      "url": "https://www.united.no/spillere/joe-spence/327686"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://image.united.no/1465662.webp?imageId=1465662&x=0.00&y=7.09&cropw=100.00&croph=92.91&width=480&height=524&format=jpg",
+    "pageUrl": "https://www.united.no/spillere/joe-spence/327686",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جو سبنس في صورة أرشيفية منشورة مع سيرته في موقع المشجعين يونايتد.نو.",
+    "identityEvidence": "Named historical biography identifies this individual portrait. For Browell, visible right panel label T. Browell and article identifies Tommy.",
+    "file": "joe-spence-history-fdfb4c4a.jpg",
+    "width": 480,
+    "height": 524
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:26:04+02:00"
+}

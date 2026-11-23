@@ -1,0 +1,79 @@
+{
+  "id": "george-hilsdon",
+  "nameAr": "جورج هيلسدون",
+  "nameEn": "George Hilsdon",
+  "aliases": [
+    "George Richard Hilsdon",
+    "Gatling Gun"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي (10 أغسطس 1885 – 10 سبتمبر 1941)، لُقب بالمدفع الرشاش، انضم إلى تشيلسي عام 1906 وسجل خمسة أهداف في مباراته الأولى. كان أول لاعب يصل إلى مئة هدف مع النادي، وأنهى فترته الأولى برصيد 108 أهداف في 164 مباراة. أنهت الحرب العالمية الأولى مسيرته بعد إصابته بهجوم غازي، ويخلده النادي بريشة طقس تحمل صورته فوق ستامفورد بريدج.",
+  "sourceIds": [
+    "bio",
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1906–1912",
+      "textAr": "أول نجم هداف في تاريخ النادي الناشئ، وما زالت أهدافه الستة ضد وركسوب تاون في كأس الاتحاد رقما قياسيا للنادي في مباراة واحدة.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "عاشر الهدافين التاريخيين",
+      "textAr": "108 أهداف في جميع المسابقات. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "رقم قياسي في مباراة كأس",
+      "textAr": "ستة أهداف ضد وركسوب تاون في كأس الاتحاد، وهو رقم قياسي للنادي ما زال قائما وفق النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "birthDate": "1885-08-10",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "George Hilsdon - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Hilsdon"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "official-chelsea",
+      "title": "George Hilsdon | Chelsea FC historical profile",
+      "url": "https://www.chelseafc.com/en/george-hilsdon"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/v1521818060/editorial/historical/former-key-players/george-hilsdon_img.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/george-hilsdon",
+    "author": "Chelsea FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جورج هيلسدون في صورة أرشيفية من نادي تشيلسي.",
+    "identityEvidence": "Individual image embedded in named official Chelsea player biography.",
+    "file": "george-hilsdon-history-112ec426.jpg",
+    "width": 600,
+    "height": 338
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:24:21+02:00"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "benito-lorenzi",
+  "nameEn": "Benito Lorenzi",
+  "nameAr": "بينيتو لورينتسي",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "مهاجم إيطالي لُقّب بفيلينو، مثّل إنتر بين 1947 و1958. كوّن مع نيرش وسكوغلوند ثلاثيًا هجوميًا بارزًا وعُرف بمهارته وشخصيته القوية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "مهاجم إيطالي لُقّب بفيلينو، مثّل إنتر بين 1947 و1958. كوّن مع نيرش وسكوغلوند ثلاثيًا هجوميًا بارزًا وعُرف بمهارته وشخصيته القوية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "خاض 314 مباراة وسجّل 143 هدفًا وفاز بلقبين للدوري مع إنتر وفق سجل النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Benito Lorenzi | official club biography",
+      "url": "https://www.inter.it/en/news/100-years-benito-lorenzi-20-december-2025"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/3800443b09e43dc3/webimage-AN05197-Lorenzi-Benito.png",
+    "pageUrl": "https://www.inter.it/en/news/100-years-benito-lorenzi-20-december-2025",
+    "author": "Celso Battaia",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بينيتو لورينتسي في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: AN05197 Lorenzi Benito",
+    "file": "benito-lorenzi-history-050bb34e.jpg",
+    "width": 586,
+    "height": 600
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

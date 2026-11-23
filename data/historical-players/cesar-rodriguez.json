@@ -1,0 +1,57 @@
+{
+  "id": "cesar-rodriguez",
+  "nameAr": "سيزار رودريجيز",
+  "nameEn": "César Rodríguez",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم اشتهر بالضربات الرأسية، وكان من أبرز أفراد هجوم برشلونة في بداية الخمسينيات. ظل متصدر هدافي النادي في المباريات الرسمية نحو ستين عامًا، برصيد 232 هدفًا، قبل أن يتجاوزه ميسي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1939 و1942–1955",
+      "textAr": "مهاجم اشتهر بالضربات الرأسية، وكان من أبرز أفراد هجوم برشلونة في بداية الخمسينيات. ظل متصدر هدافي النادي في المباريات الرسمية بستين عامًا تقريبًا، برصيد 232 هدفًا، قبل أن يتجاوزه ميسي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "خمسة ألقاب للدوري",
+      "textAr": "فاز بخمسة ألقاب للدوري الإسباني، منها بطولتا 1951–1952 و1952–1953.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: César Rodríguez",
+      "url": "https://www.fcbarcelona.com/en/card/648274/cesar-rodriguez"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/19/44288c6b-4c5e-49d7-9547-f66dcb61aebf/15267770.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648274/cesar-rodriguez",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم César Rodríguez",
+    "file": "cesar-rodriguez-history-e1df74f4.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "يذكر متن السيرة 232 هدفًا رسميًا، بينما يسجل مربع المسيرة 304 أهداف بنطاق أوسع."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

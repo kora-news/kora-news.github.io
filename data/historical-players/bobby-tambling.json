@@ -1,0 +1,88 @@
+{
+  "id": "bobby-tambling",
+  "nameAr": "بوبي تامبلينج",
+  "nameEn": "Bobby Tambling",
+  "aliases": [
+    "Robert Victor Tambling"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي (18 سبتمبر 1941 – 3 يونيو 2026) من ناشئي تشيلسي، ظل الهداف التاريخي للنادي 47 عاما برصيد 202 هدف حتى تجاوزه فرانك لامبارد في مايو 2013، وما زال صاحب الرقم القياسي في أهداف الدوري للنادي بواقع 164 هدفا. انتقل لاحقا إلى أيرلندا ولعب في دوريها وأقام فيها بعد الاعتزال.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1959–1970",
+      "textAr": "قاد هجوم تشيلسي في الستينيات وسجل 202 هدف في 370 مباراة.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "ثاني الهدافين التاريخيين",
+      "textAr": "202 هدف في جميع المسابقات، وما زال الأول في أهداف الدوري (164). أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers",
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "خماسية في مباراة واحدة",
+      "textAr": "سجل خمسة أهداف ضد أستون فيلا في فوز 6-2 موسم 1966/67، وهو رقم قياسي للنادي في مباراة واحدة بالدوري وفق النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "كأس الرابطة",
+      "textAr": "البطل عام 1964–65، ووصيف كأس الاتحاد عام 1966–67.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1941-09-18",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Bobby Tambling - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bobby_Tambling"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "official-chelsea",
+      "title": "Bobby Tambling | Chelsea FC historical profile",
+      "url": "https://www.chelseafc.com/en/bobby-tambling"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/v1551112583/editorial/historical/players/Bobby-Tambling.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/bobby-tambling",
+    "author": "Chelsea FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بوبي تامبلينج في صورة أرشيفية من نادي تشيلسي.",
+    "identityEvidence": "Individual image embedded in named official Chelsea player biography.",
+    "file": "bobby-tambling-history-4f37cabb.jpg",
+    "width": 2518,
+    "height": 1800
+  },
+  "notesAr": [
+    "توفي في 3 يونيو 2026 وفق ويكيبيديا الإنجليزية وقت الفحص."
+  ],
+  "checkedAt": "2026-11-24T01:24:21+02:00"
+}

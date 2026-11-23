@@ -1,0 +1,83 @@
+{
+  "id": "bobby-charlton",
+  "nameAr": "بوبي تشارلتون",
+  "nameEn": "Bobby Charlton",
+  "aliases": [
+    "Sir Bobby Charlton",
+    "Sir Robert Charlton"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وسط وهجوم إنجليزي من رموز مانشستر يونايتد. ساهم في إعادة بناء الفريق بعد كارثة ميونيخ، وقاده إلى كأس أوروبا 1968.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-united",
+      "periodAr": "1956–1973",
+      "textAr": "لاعب وسط وهجوم إنجليزي من رموز مانشستر يونايتد. ساهم في إعادة بناء الفريق بعد كارثة ميونيخ، وقاده إلى كأس أوروبا 1968.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "مانشستر يونايتد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-united",
+      "labelAr": "السجل التهديفي مع يونايتد",
+      "textAr": "249 هدفًا في جميع المسابقات، بحسب قائمة United In Focus الإحصائية.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-united",
+      "labelAr": "كأس أوروبا 1968",
+      "textAr": "سجل مرتين في نهائي ويمبلي ضد بنفيكا ليحرز يونايتد أول كأس أوروبية، مع ثلاثة ألقاب دوري وكأس اتحاد.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": null,
+      "labelAr": "كأس العالم والكرة الذهبية 1966",
+      "textAr": "بطل مونديال 1966 مع إنجلترا وأفضل لاعب في أوروبا في العام نفسه.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "لاعب وسط مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Bobby Charlton - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bobby_Charlton"
+    },
+    {
+      "id": "scorers",
+      "title": "Manchester United's all-time leading goalscorers",
+      "url": "https://www.unitedinfocus.com/records/manchester-uniteds-all-time-leading-goalscorers/"
+    },
+    {
+      "id": "portrait",
+      "title": "Bobby Charlton historical photograph source",
+      "url": "https://www.transfermarkt.com/sir-bobby-charlton/profil/spieler/174874"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/174874-1697901579.png?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/sir-bobby-charlton/profil/spieler/174874",
+    "author": "Transfermarkt archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بوبي تشارلتون في صورة أرشيفية من الصفحة المسماة في المصدر.",
+    "identityEvidence": "Named individual profile image alt and title match this player.",
+    "file": "bobby-charlton-history-612d4577.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

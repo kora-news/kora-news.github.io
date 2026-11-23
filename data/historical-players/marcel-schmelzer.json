@@ -1,0 +1,57 @@
+{
+  "id": "marcel-schmelzer",
+  "nameAr": "مارسيل شميلتسر",
+  "nameEn": "Marcel Schmelzer",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "ظهير أيسر ألماني انضم إلى دورتموند في 2005 وتدرّج إلى الفريق الأول. قاد الفريق بين 2016 و2018 وأمضى كامل مسيرته الاحترافية مع النادي.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "ظهير أيسر ألماني انضم إلى دورتموند في 2005 وتدرّج إلى الفريق الأول. قاد الفريق بين 2016 و2018 وأمضى كامل مسيرته الاحترافية مع النادي.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "شارك في 367 مباراة للفريق الأول وفاز بالدوري عامي 2011 و2012 وكأس ألمانيا أعوام 2012 و2017 و2021.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Marcel Schmelzer | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Marcel-Schmelzer-verabschiedet-sich-nach-17-Jahren-in-Schwarzgelb.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Marcel Schmelzer individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/marcel-schmelzer/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/031/614/custom_style_1_Marcel_Schmelzer.jpg?1493069607",
+    "pageUrl": "https://datencenter.dfb.de/personen/marcel-schmelzer/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "مارسيل شميلتسر في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonMarcel Schmelzer",
+    "file": "marcel-schmelzer-history-6ea08041.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

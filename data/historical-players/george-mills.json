@@ -1,0 +1,80 @@
+{
+  "id": "george-mills",
+  "nameAr": "جورج ميلز",
+  "nameEn": "George Mills",
+  "aliases": [
+    "George Robert Mills"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي (29 ديسمبر 1908 – 15 يوليو 1970)، انضم إلى تشيلسي هاويا عام 1929 وقضى فيه مسيرته كلها. كان أول لاعب يسجل مئة هدف في الدوري للنادي، وأنهى مسيرته برصيد 125 هدفا في 239 مباراة قبل أن توقف الحرب العالمية الثانية مسيرته. سجل ثلاثية مع إنجلترا ضد أيرلندا الشمالية عام 1937.",
+  "sourceIds": [
+    "bio",
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1929–1939",
+      "textAr": "قضى مسيرته كلها في تشيلسي وساعده على الصعود في موسمه الأول، وظل وفيا للنادي رغم منافسة مهاجمين أشهر في عصره.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "ثامن الهدافين التاريخيين",
+      "textAr": "125 هدفا في جميع المسابقات. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "أول من كسر حاجز المئة هدف دوري للنادي",
+      "textAr": "أول لاعب يسجل مئة هدف في الدوري بقميص تشيلسي وفق النادي.",
+      "sourceIds": [
+        "scorers",
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1908-12-29",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "George Mills (footballer) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Mills_(footballer)"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "portrait",
+      "title": "George Mills historical photograph source",
+      "url": "https://www.chelseafc.com/en/george-mills"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/f_auto,w_1440,c_fill,q_90/editorial/historical/former-key-players/george-mills_img.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/george-mills",
+    "author": "Chelsea FC (club archive)",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جورج ميلز في صورة شخصية من الثلاثينيات، من صفحته الرسمية في موقع تشيلسي",
+    "identityEvidence": "الصورة مستخدمة في صفحة اللاعب الرسمية chelseafc.com/en/george-mills واسم الملف george-mills_img",
+    "file": "george-mills-history-1c271316.jpg",
+    "width": 1440,
+    "height": 810
+  },
+  "notesAr": [
+    "لم يُعثر على صورة حرة موثقة؛ صفحة النادي الرسمية مرشحة كمصدر صورة بإذن غير مؤكد: https://www.chelseafc.com/en/george-mills"
+  ],
+  "checkedAt": "2026-11-24T01:23:51+02:00"
+}

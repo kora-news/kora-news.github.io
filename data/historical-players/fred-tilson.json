@@ -1,0 +1,70 @@
+{
+  "id": "fred-tilson",
+  "nameAr": "فريد تيلسون",
+  "nameEn": "Fred Tilson",
+  "aliases": [
+    "Samuel Frederick Tilson"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم مانشستر سيتي في عشرينيات وثلاثينيات القرن الماضي، كوّن شراكة هجومية قوية مع إريك بروك تجاوز مجموع أهدافها 300 هدف.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم مانشستر سيتي في عشرينيات وثلاثينيات القرن الماضي، كوّن شراكة هجومية قوية مع إريك بروك تجاوز مجموع أهدافها 300 هدف.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "132 هدفا في 275 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "كأس 1934 ودوري 1937",
+      "textAr": "ساهمت شراكته مع بروك في فوز سيتي بكأس إنجلترا 1933/34 ولقب الدرجة الأولى 1936/37.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Fred Tilson signed England postcard | Graham Budd Auctions 2014",
+      "url": "https://www.budds.com/auctions/past-auctions/2014-05-23-sporting-memorabilia-22nd-23rd-may-2014-81a056a6-8e9b-4afe-b941-be9b71719109/296"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://media.app.artisio.co/media/b20fa6d1-9e1e-4e31-a8b7-df01c351be13/inventory/3182c1f0-2d83-48af-811b-216cdbc2061b/71bb3cd2-cc4d-4d37-ab7e-36732e70bb65/0001_kltYCg_xlg.jpeg?width=500",
+    "pageUrl": "https://www.budds.com/auctions/past-auctions/2014-05-23-sporting-memorabilia-22nd-23rd-may-2014-81a056a6-8e9b-4afe-b941-be9b71719109/296",
+    "author": "Graham Budd Auctions archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "فريد تيلسون بقميص إنجلترا على بطاقة بريدية موقعة، قص طبيعي من صورة مزاد جراهام باد في 2014.",
+    "identityEvidence": "Auction lot description explicitly identifies the signed postcard as Fred Tilson in England shirt. Visible signature names Fred Tilson; crop excludes letters and auction logo.",
+    "file": "fred-tilson-history-2ade2d81.jpg",
+    "width": 362,
+    "height": 580
+  },
+  "notesAr": [
+    "تختلف الصفحات التاريخية للنادي في عدد مبارياته وفترة البداية؛ يذكر تقرير 2025 رقم 275 مباراة، ونحافظ على نسبته لهذا المصدر دون دمج النطاقات."
+  ],
+  "checkedAt": "2026-11-24T01:29:41+02:00"
+}

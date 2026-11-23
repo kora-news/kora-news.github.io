@@ -1,0 +1,76 @@
+{
+  "id": "john-terry",
+  "nameAr": "جون تيري",
+  "nameEn": "John Terry",
+  "aliases": [
+    "John George Terry",
+    "JT"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مدافع إنجليزي تدرّج في تشيلسي وأصبح أكثر من قاد الفريق عبر تاريخه. ظهر مع الفريق الأول في أكتوبر 1998، وأنهى مسيرته معه في 2017 برصيد 717 مباراة و67 هدفًا.",
+  "sourceIds": [
+    "official-chelsea"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1998–2017",
+      "textAr": "قائد تشيلسي التاريخي؛ سجّل النادي له 717 مباراة و67 هدفًا، وخمسة ألقاب للدوري ضمن 15 لقبًا كبيرًا.",
+      "sourceIds": [
+        "official-chelsea"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "15 لقبًا كبيرًا",
+      "textAr": "فاز بخمسة ألقاب للدوري الإنجليزي وخمس كؤوس لإنجلترا وثلاث كؤوس للرابطة، إلى جانب دوري الأبطال 2012 والدوري الأوروبي 2013.",
+      "sourceIds": [
+        "official-chelsea"
+      ]
+    }
+  ],
+  "birthDate": "1980-12-07",
+  "positionAr": "قلب دفاع",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "John Terry - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Terry"
+    },
+    {
+      "id": "terry",
+      "title": "John Terry to begin Academy coaching consultancy role",
+      "url": "https://www.chelseafc.com/en/news/article/john-terry-to-begin-academy-coaching-consultancy-role"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "official-chelsea",
+      "title": "John Terry | Chelsea FC historical profile",
+      "url": "https://www.chelseafc.com/en/john-terry"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/v1538946056/mobile-app/John-Terry-686385252.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/john-terry",
+    "author": "Chelsea FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جون تيري في صورة أرشيفية من نادي تشيلسي.",
+    "identityEvidence": "Individual image embedded in named official Chelsea player biography.",
+    "file": "john-terry-history-274a0d24.jpg",
+    "width": 4245,
+    "height": 2969
+  },
+  "notesAr": [
+    "نطاق الألقاب الكبرى هنا 15، بينما يستخدم سجل النادي الإجمالي نطاقًا أوسع يبلغ 17 لقبًا رسميًا مع درعي المجتمع."
+  ],
+  "checkedAt": "2026-11-24T01:24:21+02:00"
+}

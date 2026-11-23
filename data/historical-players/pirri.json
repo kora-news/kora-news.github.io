@@ -1,0 +1,60 @@
+{
+  "id": "pirri",
+  "nameAr": "بيري",
+  "nameEn": "Pirri",
+  "aliases": [
+    "jose-martinez-sanchez"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "خوسيه مارتينيز سانشيز، المعروف ببيري، لاعب إسباني متعدد الأدوار بين الوسط والدفاع. امتدت مسيرته مع ريال مدريد 16 موسمًا، وخاض 561 مباراة وسجّل 172 هدفًا وفق رأس السيرة الرسمية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "1964–1980",
+      "textAr": "خوسيه مارتينيز سانشيز، المعروف ببيري، لاعب إسباني متعدد الأدوار بين الوسط والدفاع. امتدت مسيرته مع ريال مدريد 16 موسمًا، وخاض 561 مباراة وسجّل 172 هدفًا وفق رأس السيرة الرسمية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "عشرة ألقاب للدوري",
+      "textAr": "أحرز عشرة ألقاب للدوري الإسباني، وكان ضمن الفريق الفائز بكأس أوروبا عام 1966.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1945-03-11",
+  "positionAr": "وسط ودفاع",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Pirri",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/jose-martinez-sanchez"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330192173469?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/jose-martinez-sanchez",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Pirri",
+    "file": "pirri-history-8d74af21.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [
+    "تذكر السيرة الرسمية 172 هدفًا، وتختلف بعض قوائم الهدافين بهدف واحد."
+  ],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "frank-lampard",
+  "nameAr": "فرانك لامبارد",
+  "nameEn": "Frank Lampard",
+  "aliases": [
+    "Frank James Lampard"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "لاعب وسط إنجليزي بدأ مسيرته في وست هام قبل الانتقال إلى تشيلسي عام 2001. خلال ثلاثة عشر عامًا مع النادي أصبح هدافه التاريخي برصيد 211 هدفًا في المباريات الرسمية، وفاز بدوري أبطال أوروبا عام 2012. مثّل إنجلترا في 106 مباريات دولية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "2001–2014",
+      "textAr": "ثلاثة عشر موسما مع تشيلسي، أصبح خلالها الهداف التاريخي للنادي من مركز لاعب الوسط.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "الهداف التاريخي للنادي",
+      "textAr": "211 هدفا في جميع المسابقات، متجاوزا رقم بوبي تامبلينج في مايو 2013. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers",
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "الدوري الإنجليزي الممتاز",
+      "textAr": "البطل أعوام 2004–05 و2005–06 و2009–10.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "دوري أبطال أوروبا",
+      "textAr": "البطل عام 2011–12، ووصيف عام 2007–08.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "كأس الاتحاد الإنجليزي وكأس الرابطة والدوري الأوروبي",
+      "textAr": "كأس الاتحاد أعوام 2006–07 و2008–09 و2009–10 و2011–12، وكأس الرابطة عامي 2004–05 و2006–07، والدوري الأوروبي عام 2012–13.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "أفضل لاعب في إنجلترا",
+      "textAr": "جائزة كتاب كرة القدم (FWA) عام 2005، وثانيا في الكرة الذهبية وجائزة فيفا لأفضل لاعب في العام نفسه.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1978-06-20",
+  "positionAr": "لاعب وسط",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Frank Lampard - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frank_Lampard"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Frank_Lampard_2019.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Frank_Lampard_2019.jpg",
+    "author": "Mehdi Bolourian / Fars Media Corporation",
+    "license": "CC BY 4.0",
+    "rightsStatus": "open-license",
+    "captionAr": "لامبارد عام 2019 في فترة تدريبه تشيلسي",
+    "identityEvidence": "اسم الملف ووصفه في ويكيميديا كومنز: Frank Lampard 2019",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changesAr": "أعيد ترميز الصورة بصيغة JPEG؛ لا تعديل على الملامح أو القميص.",
+    "file": "frank-lampard-history-90e6a69b.jpg",
+    "width": 463,
+    "height": 664
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:11:23+02:00"
+}

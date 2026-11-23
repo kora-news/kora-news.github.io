@@ -1,0 +1,60 @@
+{
+  "id": "raul",
+  "nameAr": "راؤول جونزاليس",
+  "nameEn": "Raúl",
+  "aliases": [
+    "raul-gonzalez-blanco"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وقائد إسباني ارتبط بتاريخ ريال مدريد. بدأ مع الفريق الأول في أكتوبر 1994، وسجّل 323 هدفًا في 741 مباراة، وأسهم في عودة النادي إلى منصة التتويج الأوروبية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "real-madrid",
+      "periodAr": "الفريق الأول: 1994–2010",
+      "textAr": "مهاجم وقائد إسباني ارتبط بتاريخ ريال مدريد. بدأ مع الفريق الأول في أكتوبر 1994، وسجّل 323 هدفًا في 741 مباراة، وأسهم في عودة النادي إلى منصة التتويج الأوروبية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ريال مدريد"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "real-madrid",
+      "labelAr": "ثلاثة ألقاب أوروبية",
+      "textAr": "تُوّج بدوري أبطال أوروبا في 1998 و2000 و2002، وسجّل في نهائيي 2000 و2002.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1977-06-27",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Real Madrid official historical biography: Raúl",
+      "url": "https://www.realmadrid.com/en-US/the-club/history/football-legends/raul-gonzalez-blanco"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.realmadrid.com/is/image/realmadrid/1330186261754?$Mobile$&fit=wrap&wid=312",
+    "pageUrl": "https://www.realmadrid.com/en-US/the-club/history/football-legends/raul-gonzalez-blanco",
+    "author": "Real Madrid CF, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية من صفحة ريال مدريد الرسمية",
+    "identityEvidence": "صورة الملف في صفحة النادي الرسمية، والنص البديل يسمي اللاعب: Raúl",
+    "file": "raul-history-cce2ed61.jpg",
+    "width": 312,
+    "height": 369
+  },
+  "notesAr": [
+    "الفترة المذكورة تخص الفريق الأول؛ عنوان السيرة الرسمية يبدأ من 1992 ويشمل الأكاديمية."
+  ],
+  "checkedAt": "2026-11-24T01:03:56+02:00"
+}

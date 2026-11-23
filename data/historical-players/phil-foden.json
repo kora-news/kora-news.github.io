@@ -1,0 +1,68 @@
+{
+  "id": "phil-foden",
+  "nameAr": "فيل فودين",
+  "nameEn": "Phil Foden",
+  "aliases": [
+    "Philip Walter Foden"
+  ],
+  "existingProfileId": "phil-foden",
+  "summaryAr": "تدرّج في أكاديمية سيتي وظهر مع الفريق الأول عام 2017. سجل النادي في 22 يوليو 2026 يثبت تساويه مع برناردو وستونز في 20 لقبًا.",
+  "sourceIds": [
+    "bio",
+    "foden-stats"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "periodAr": "2017–",
+      "textAr": "تدرّج في أكاديمية سيتي وظهر مع الفريق الأول عام 2017. سجل النادي في 22 يوليو 2026 يثبت تساويه مع برناردو وستونز في 20 لقبًا.",
+      "sourceIds": [
+        "foden-stats",
+        "bio"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "20 لقبا مع النادي",
+      "textAr": "ألقاب اللاعب مع مانشستر سيتي فقط، بما فيها درع المجتمع كما يحتسبها النادي. تعادل ثلاثي في صدارة الأكثر تتويجا وفق مقال النادي بتاريخ 22 يوليو 2026.",
+      "sourceIds": [
+        "haaland-base"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "مئة هدف للنادي",
+      "textAr": "بلغ مئة هدف في 319 مباراة في كأس العالم للأندية 2025؛ وبحلول مقال 22 يوليو 2026 سجل النادي له 110 أهداف.",
+      "sourceIds": [
+        "foden-stats"
+      ]
+    }
+  ],
+  "birthDate": null,
+  "positionAr": null,
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Phil Foden - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phil_Foden"
+    },
+    {
+      "id": "foden-stats",
+      "title": "Foden's City story so far in numbers",
+      "url": "https://www.mancity.com/news/mens/phil-foden-city-stats-so-far-63920317"
+    },
+    {
+      "id": "haaland-base",
+      "title": "Manchester City: Foden’s City story so far in numbers, 22 July 2026",
+      "url": "https://www.mancity.com/news/mens/phil-foden-city-stats-so-far-63920317"
+    }
+  ],
+  "notesAr": [
+    "الألقاب المذكورة مع مانشستر سيتي فقط، وفق مصدر مؤرخ، ولا تُعامل بوصفها إجماليًا حيًا لكل المسيرة."
+  ],
+  "checkedAt": "2026-11-24T01:15:26+02:00"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "adi-preissler",
+  "nameAr": "آدي برايسلر",
+  "nameEn": "Adi Preißler",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب هجوم وقائد ألماني قاد الجيل الأول الذهبي لبوروسيا دورتموند. شكّل مع كيلباسا ونيبيكلو ثلاثي الألفريدو واشتهر بصناعة اللعب وتسجيل الأهداف.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "borussia-dortmund",
+      "textAr": "لاعب هجوم وقائد ألماني قاد الجيل الأول الذهبي لبوروسيا دورتموند. شكّل مع كيلباسا ونيبيكلو ثلاثي الألفريدو واشتهر بصناعة اللعب وتسجيل الأهداف.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بوروسيا دورتموند"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "borussia-dortmund",
+      "labelAr": "محطات بارزة",
+      "textAr": "قاد دورتموند إلى أول بطولتين لألمانيا في تاريخه عامي 1956 و1957.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Adi Preißler | BVB/DFB history",
+      "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/News/Uebersicht/Entscheidend-war-Adi-Preissler.html"
+    },
+    {
+      "id": "portrait",
+      "title": "Adi Preißler individual archive photograph",
+      "url": "https://datencenter.dfb.de/personen/adi-preissler/spieler"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/038/889/custom_style_1_Adi_Preißler.jpg?1493075709",
+    "pageUrl": "https://datencenter.dfb.de/personen/adi-preissler/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "آدي برايسلر في صورة أرشيفية من مصدره المذكور؛ قد تكون بقميص المنتخب أو من فترة لاحقة لمسيرته.",
+    "identityEvidence": "Profilbild vonAdi Preißler",
+    "file": "adi-preissler-history-b179ccc4.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [
+    "تختلف إجماليات الأهداف التاريخية بين سجل النادي وبعض القواعد الإحصائية؛ نعتمد هنا الإنجاز الموثق المحدد دون مزج نطاقات العد."
+  ],
+  "checkedAt": "2026-11-24T01:16:45+02:00"
+}

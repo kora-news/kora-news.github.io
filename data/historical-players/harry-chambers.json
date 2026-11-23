@@ -1,0 +1,57 @@
+{
+  "id": "harry-chambers",
+  "nameAr": "هاري تشامبرز",
+  "nameEn": "Harry Chambers",
+  "aliases": [
+    "Henry Chambers",
+    "Smiler"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ليفربول في سنوات ما بعد الحرب العالمية الأولى، عُرف بلقب سمايلر وبتسديداته القوية بالقدم اليسرى.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1919-1928",
+      "textAr": "مهاجم ليفربول في سنوات ما بعد الحرب العالمية الأولى، عُرف بلقب سمايلر وبتسديداته القوية بالقدم اليسرى.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "بطولتا دوري متتاليتان",
+      "textAr": "ساهم في التتويج بالدوري موسمي 1921/22 و1922/23، وسجّل للنادي 151 هدفًا في 339 مباراة.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Harry Chambers | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/info/harry-chambers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2025-03/past-players-harry-chambers-24032025_0002bcc765df5c41a9262aba152d23b3.webp?itok=i1dWNAfu&width=1680",
+    "pageUrl": "https://www.liverpoolfc.com/info/harry-chambers",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "هاري تشامبرز في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "harry-chambers-history-94f231ca.jpg",
+    "width": 654,
+    "height": 368
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "aldo-boffi",
+  "nameEn": "Aldo Boffi",
+  "nameAr": "ألدو بوفي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي مولود في جيوسانو، انتقل إلى ميلان عام 1936 بعد تجربة مع سيرينيو. برز هدافًا للفريق في السنوات المحيطة بالحرب العالمية الثانية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "ac-milan",
+      "textAr": "مهاجم إيطالي مولود في جيوسانو، انتقل إلى ميلان عام 1936 بعد تجربة مع سيرينيو. برز هدافًا للفريق في السنوات المحيطة بالحرب العالمية الثانية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ميلان"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "ac-milan",
+      "labelAr": "محطات بارزة مع ميلان",
+      "textAr": "فاز بلقب هداف الدوري الإيطالي ثلاث مرات، وفق نبذة النادي الرسمية.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Aldo Boffi | AC Milan",
+      "url": "https://www.acmilan.com/en/club/legends/players/boffi"
+    },
+    {
+      "id": "portrait",
+      "title": "Aldo Boffi archival individual portrait | Transfermarkt",
+      "url": "https://www.transfermarkt.com/aldo-boffi/profil/spieler/300624"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.a.transfermarkt.technology/portrait/big/300624-1699010829.jpg?lm=4711",
+    "pageUrl": "https://www.transfermarkt.com/aldo-boffi/profil/spieler/300624",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "ألدو بوفي في صورة أرشيفية",
+    "identityEvidence": "Individual portrait explicitly identified by name in image alt/title on named Transfermarkt page. Actual downloaded image pixels inspected. Historical context, no current-shirt claim.",
+    "file": "aldo-boffi-history-c191e7ad.jpg",
+    "width": 300,
+    "height": 390
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:03:13+02:00"
+}

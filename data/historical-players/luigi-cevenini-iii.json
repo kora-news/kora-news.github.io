@@ -1,0 +1,52 @@
+{
+  "id": "luigi-cevenini-iii",
+  "nameEn": "Luigi Cevenini III",
+  "nameAr": "لويجي تشيفينيني الثالث",
+  "existingProfileId": null,
+  "aliases": [],
+  "summaryAr": "لاعب وسط هجومي إيطالي عُرف باسم زيزي أو تشيفينيني الثالث لتمييزه عن إخوته. انتقل إلى إنتر عام 1912 وكان من أبرز نجوم النادي في بداياته.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "inter",
+      "textAr": "لاعب وسط هجومي إيطالي عُرف باسم زيزي أو تشيفينيني الثالث لتمييزه عن إخوته. انتقل إلى إنتر عام 1912 وكان من أبرز نجوم النادي في بداياته.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "إنتر"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "inter",
+      "labelAr": "محطات بارزة",
+      "textAr": "قاد إنتر إلى لقب الدوري 1919/20، ويورد النادي له 158 هدفًا في 190 مباراة.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Luigi Cevenini III | official club biography",
+      "url": "https://www.inter.it/en/news/lautaro-hits-158-goals-just-like-cevenini-the-story-of-zizi"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://intermilan.bynder.com/m/7cdf8b97616b33af/webimage-AC03753-Cevenini-III-Luigi.png",
+    "pageUrl": "https://www.inter.it/en/news/lautaro-hits-158-goals-just-like-cevenini-the-story-of-zizi",
+    "author": "",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "لويجي تشيفينيني الثالث في صورة أرشيفية من موقع النادي",
+    "identityEvidence": "Official image metadata names this player: AC03753 Cevenini III Luigi",
+    "file": "luigi-cevenini-iii-history-e77891f6.jpg",
+    "width": 432,
+    "height": 600
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:09:17+02:00"
+}

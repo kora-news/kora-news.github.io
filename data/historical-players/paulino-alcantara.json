@@ -1,0 +1,57 @@
+{
+  "id": "paulino-alcantara",
+  "nameAr": "باولينو ألكانتارا",
+  "nameEn": "Paulino Alcántara",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وُلد في إيلويلو بالفلبين، وكان من نجوم برشلونة في بدايات القرن العشرين. اشتهر بقوة التسديد، واعتزل اللعب عام 1927 ليتفرغ للطب.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1912–1927 بحسب صفحة النادي",
+      "textAr": "مهاجم وُلد في إيلويلو بالفلبين، وكان من نجوم برشلونة في بدايات القرن العشرين. اشتهر بقوة التسديد، واعتزل اللعب عام 1927 ليتفرغ للطب.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "خمس بطولات لكأس إسبانيا",
+      "textAr": "حقق خمس بطولات لكأس إسبانيا وعشر بطولات كتالونية مع برشلونة بين 1912 و1927.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Paulino Alcántara",
+      "url": "https://www.fcbarcelona.com/en/card/648422/paulino-alcantara"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/20/7ac3d2a9-4643-49ce-a294-8b16a6a29f63/15267920.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648422/paulino-alcantara",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Paulino Alcántara",
+    "file": "paulino-alcantara-history-6f32d460.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "إجمالي 404 أهداف في 404 مباريات هو عد السيرة الشامل، وليس للمباريات الرسمية فقط. تتضمن الفترة التاريخية فترات انقطاع عن النادي."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

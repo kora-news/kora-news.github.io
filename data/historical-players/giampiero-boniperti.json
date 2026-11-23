@@ -1,0 +1,52 @@
+{
+  "id": "giampiero-boniperti",
+  "nameEn": "Giampiero Boniperti",
+  "nameAr": "جامبييرو بونيبيرتي",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إيطالي مثّل يوفنتوس بين 1946 و1961، ثم شغل رئاسة النادي لاحقًا. كان من أهم وجوه الفريق في حقبة ما بعد الحرب العالمية الثانية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم إيطالي مثّل يوفنتوس بين 1946 و1961، ثم شغل رئاسة النادي لاحقًا. كان من أهم وجوه الفريق في حقبة ما بعد الحرب العالمية الثانية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "تُوّج لاعبًا بخمسة ألقاب للدوري الإيطالي وكأس إيطاليا مرتين بحسب قاعة مشاهير النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Giampiero Boniperti | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/giampiero-boniperti"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Boniperti.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/giampiero-boniperti",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جامبييرو بونيبيرتي في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "giampiero-boniperti-history-dd18b9a7.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

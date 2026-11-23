@@ -1,0 +1,77 @@
+{
+  "id": "john-radford",
+  "nameEn": "John Radford",
+  "nameAr": "جون رادفورد",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي خدم أرسنال منذ انضمامه متدربا في 1962 حتى رحيله في ديسمبر 1976. جمع بين التسجيل وفتح المساحات لشركائه في الهجوم.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "arsenal",
+      "periodAr": "1962–1976",
+      "textAr": "مهاجم إنجليزي خدم أرسنال منذ انضمامه متدربا في 1962 حتى رحيله في ديسمبر 1976. جمع بين التسجيل وفتح المساحات لشركائه في الهجوم.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "أرسنال"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "arsenal",
+      "labelAr": "149 هدفا",
+      "textAr": "سجل 149 هدفا في 481 مباراة لأرسنال.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "كأس المعارض 1970",
+      "textAr": "سجل برأسه في إياب النهائي أمام أندرلخت، ضمن الفوز الذي منح أرسنال كأس المعارض.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "arsenal",
+      "labelAr": "ثنائية 1971",
+      "textAr": "سجل 21 هدفا في موسم ثنائية الدوري وكأس إنجلترا 1970/71.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "John Radford - official club biography",
+      "url": "https://www.arsenal.com/men/john-radford-agG7v8c5Q8A6"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.arsenal.com/feature/goalscorers-a9glp8a4jbYr"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.arsenal.com/prod/images/xl_landscape/950a846d1fb9-gunners-greatest-50-players-john-radford.webp",
+    "pageUrl": "https://www.arsenal.com/men/john-radford-agG7v8c5Q8A6",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: John Radford",
+    "cropNoteAr": "قص الصورة الفوتوغرافية الأصلية من بطاقة النادي؛ بلا توليد أو تغيير للوجه.",
+    "file": "john-radford-history-18906403.jpg",
+    "width": 370,
+    "height": 265
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

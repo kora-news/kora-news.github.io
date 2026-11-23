@@ -1,0 +1,110 @@
+{
+  "id": "jimmy-greaves",
+  "nameAr": "جيمي جريفز",
+  "nameEn": "Jimmy Greaves",
+  "aliases": [
+    "James Peter Greaves"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم إنجليزي (20 فبراير 1940 – 19 سبتمبر 2021) يُعد من أعظم المهاجمين في تاريخ إنجلترا، وهو الهداف التاريخي للدرجة الأولى الإنجليزية برصيد 357 هدفا. بدأ مع تشيلسي عام 1957 وسجل 132 هدفا في 169 مباراة قبل الانتقال إلى ميلان ثم توتنهام حيث أصبح ثاني هدافيه عبر التاريخ. فاز مع إنجلترا بكأس العالم 1966 وسجل 44 هدفا دوليا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "1957–1961",
+      "textAr": "أربعة مواسم سجل خلالها 132 هدفا في 169 مباراة، منها 13 ثلاثية وخمسة أهداف في مباراة واحدة ثلاث مرات.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    },
+    {
+      "clubId": "tottenham",
+      "periodAr": "1961–1970",
+      "textAr": "ثاني الهدافين التاريخيين لتوتنهام برصيد 266 هدفا، وفاز معه بكأس الاتحاد مرتين وكأس الكؤوس الأوروبية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "سابع الهدافين التاريخيين",
+      "textAr": "132 هدفا في جميع المسابقات. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس الكؤوس الأوروبية 1963",
+      "textAr": "هداف البطولة في طريق توتنهام للقب الأوروبي الأول.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس الاتحاد الإنجليزي",
+      "textAr": "البطل عامي 1961–62 و1966–67.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": null,
+      "labelAr": "هداف الدرجة الأولى ست مرات",
+      "textAr": "رقم قياسي لم يتكرر: هداف الدوري الإنجليزي الأول في ستة مواسم.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": null,
+      "labelAr": "كأس العالم 1966",
+      "textAr": "ضمن تشكيل إنجلترا الفائزة بكأس العالم على أرضها.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1940-02-20",
+  "positionAr": "مهاجم",
+  "nationalityAr": "إنجليزي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Jimmy Greaves - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Greaves"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    },
+    {
+      "id": "official-chelsea",
+      "title": "Jimmy Greaves | Chelsea FC historical profile",
+      "url": "https://www.chelseafc.com/en/jimmy-greaves"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://img.chelseafc.com/image/upload/v1522155120/editorial/historical/players/greaves-chelsea-1242021.jpg",
+    "pageUrl": "https://www.chelseafc.com/en/jimmy-greaves",
+    "author": "Chelsea FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جيمي جريفز في صورة أرشيفية من نادي تشيلسي.",
+    "identityEvidence": "Individual image embedded in named official Chelsea player biography.",
+    "file": "jimmy-greaves-history-82dd3ccc.jpg",
+    "width": 1738,
+    "height": 1715
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:24:21+02:00"
+}

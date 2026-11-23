@@ -1,0 +1,57 @@
+{
+  "id": "phil-neal",
+  "nameAr": "فيل نيل",
+  "nameEn": "Phil Neal",
+  "aliases": [
+    "Philip George Neal",
+    "Zico"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "ظهير إنجليزي انضم إلى ليفربول في 1974، وأصبح من أكثر لاعبيه ثباتًا واستمرارية وتولّى قيادة الفريق في 1984.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "liverpool",
+      "periodAr": "1974-1985",
+      "textAr": "ظهير إنجليزي انضم إلى ليفربول في 1974، وأصبح من أكثر لاعبيه ثباتًا واستمرارية وتولّى قيادة الفريق في 1984.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "ليفربول"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "liverpool",
+      "labelAr": "أربع كؤوس لأوروبا وثماني بطولات دوري",
+      "textAr": "شارك في أول أربعة انتصارات لليفربول بكأس أوروبا أعوام 1977 و1978 و1981 و1984. ويسجل له النادي ثماني بطولات دوري و22 قطعة فضية إجمالًا.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "ظهير أيمن",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Phil Neal | Liverpool FC historical profile",
+      "url": "https://www.liverpoolfc.com/info/phil-neal"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2025-01/past-players-phil-neal-19012025_42ef0898aa83215f4a504daa19b1cbc7.webp?itok=LwMGyDKf&width=1680",
+    "pageUrl": "https://www.liverpoolfc.com/info/phil-neal",
+    "author": "Liverpool FC archive",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "فيل نيل في صورة أرشيفية من نادي ليفربول.",
+    "identityEvidence": "Named Liverpool FC historical profile contains this individual player photograph.",
+    "file": "phil-neal-history-cea39926.jpg",
+    "width": 1440,
+    "height": 811
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:19:11+02:00"
+}

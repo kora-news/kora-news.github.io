@@ -1,0 +1,57 @@
+{
+  "id": "mariano-martin",
+  "nameAr": "ماريانو مارتين",
+  "nameEn": "Mariano Martín",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم اشتهر بالسرعة والتمركز والكرات الرأسية، وكان من أبرز هدافي برشلونة في الأربعينيات. أثرت إصابة في الركبة عام 1944 على استمراره بالمستوى نفسه.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1940–1948 بحسب صفحة النادي",
+      "textAr": "مهاجم اشتهر بالسرعة والتمركز والكرات الرأسية، وكان من أبرز هدافي برشلونة في الأربعينيات. أثرت إصابة في الركبة عام 1944 على استمراره بالمستوى نفسه.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "بطولتا دوري وكأس",
+      "textAr": "حقق الدوري الإسباني في 1944–1945 و1947–1948، وكأس إسبانيا في 1941–1942.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Mariano Martín",
+      "url": "https://www.fcbarcelona.com/en/card/648276/mariano-martin"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/19/7a40c688-a255-48d3-bed8-64503ebad763/15267775.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648276/mariano-martin",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Mariano Martín",
+    "file": "mariano-martin-history-97ec0da6.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "إجمالي 214 هدفًا في 211 مباراة في السيرة يتبع نطاقًا شاملًا، وليس للمباريات الرسمية فقط."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

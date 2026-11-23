@@ -1,0 +1,52 @@
+{
+  "id": "roberto-baggio",
+  "nameEn": "Roberto Baggio",
+  "nameAr": "روبرتو باجيو",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم وصانع لعب إيطالي مثّل يوفنتوس بين 1990 و1995. اشتهر بمهارته الفنية وخياله الهجومي وبالقميص رقم 10.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "juventus",
+      "textAr": "مهاجم وصانع لعب إيطالي مثّل يوفنتوس بين 1990 و1995. اشتهر بمهارته الفنية وخياله الهجومي وبالقميص رقم 10.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "يوفنتوس"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "juventus",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بالكرة الذهبية عام 1993، وبالدوري الإيطالي وكأس إيطاليا وكأس الاتحاد الأوروبي مع يوفنتوس.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Roberto Baggio | Juventus Hall of Fame",
+      "url": "https://halloffame.juventus.com/en/hall-of-fame/roberto-baggio"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://halloffame.juventus.com/calciatori/Juventus%20-%20Hall%20of%20Fame%20-%20Full%20List%20-%20Baggio.jpg",
+    "pageUrl": "https://halloffame.juventus.com/en/hall-of-fame/roberto-baggio",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "روبرتو باجيو في صورة أرشيفية من سجل يوفنتوس",
+    "identityEvidence": "Official individual image whose alt text names the player on the named biography page.",
+    "file": "roberto-baggio-history-8c69d76f.jpg",
+    "width": 496,
+    "height": 726
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:06:43+02:00"
+}

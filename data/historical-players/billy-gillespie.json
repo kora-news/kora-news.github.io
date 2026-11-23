@@ -1,0 +1,66 @@
+{
+  "id": "billy-gillespie",
+  "nameAr": "بيلي غيليسبي",
+  "nameEn": "Billy Gillespie",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم لعب إلى جانب بيلي ميريديث في بدايات مانشستر سيتي. مثّل النادي بين 1896 و1905 وساهم في أول ألقابه الكبرى.",
+  "sourceIds": [
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "textAr": "مهاجم لعب إلى جانب بيلي ميريديث في بدايات مانشستر سيتي. مثّل النادي بين 1896 و1905 وساهم في أول ألقابه الكبرى.",
+      "sourceIds": [
+        "scorers"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "السجل التهديفي مع سيتي",
+      "textAr": "132 هدفا في 231 مباراة. وفق قائمة النادي الرسمية للاعبيه المئة هدف في جميع المسابقات.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "كأس إنجلترا 1904",
+      "textAr": "كان من عناصر فريق الفوز بكأس إنجلترا 1904، وسجّل في ذلك الموسم 21 هدفًا في 30 مباراة بعد 30 هدفًا في 33 مباراة بالموسم السابق.",
+      "sourceIds": [
+        "scorers"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "sources": [
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    },
+    {
+      "id": "portrait",
+      "title": "Billy Gillespie archive photograph",
+      "url": "https://spartacus-educational.com/MANCgillespie.htm"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://spartacus-educational.com/MANCgillespie1.jpg",
+    "pageUrl": "https://spartacus-educational.com/MANCgillespie.htm",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "بيلي جيليسبي، لاعب مانشستر سيتي المولود عام 1873، في صورة أرشيفية صغيرة.",
+    "identityEvidence": "Named historical biography identifies this individual portrait. For Browell, visible right panel label T. Browell and article identifies Tommy.",
+    "file": "billy-gillespie-history-afdbddc2.jpg",
+    "width": 120,
+    "height": 178
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:26:04+02:00"
+}

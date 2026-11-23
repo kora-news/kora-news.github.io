@@ -1,0 +1,52 @@
+{
+  "id": "rainer-ohlhauser",
+  "nameAr": "راينر أولهاوزر",
+  "nameEn": "Rainer Ohlhauser",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني وصل إلى بايرن من ساندهاوزن عام 1961، وكان شريكًا لجيرد مولر في الهجوم خلال الستينيات. عمل في صناعة الصلب بالتوازي مع الكرة في بداياته بميونخ.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "مهاجم ألماني وصل إلى بايرن من ساندهاوزن عام 1961، وكان شريكًا لجيرد مولر في الهجوم خلال الستينيات. عمل في صناعة الصلب بالتوازي مع الكرة في بداياته بميونخ.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "سجّل أول هدف لبايرن في البوندسليغا يوم 21 أغسطس 1965 أمام آينتراخت فرانكفورت.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Rainer Ohlhauser | Club/DFB record",
+      "url": "https://fcbayern.com/de/news/2021/01/rainer-ohlhauser-der-erste-bundesliga-torschuetze-des-fcb"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/038/966/custom_style_1_Rainer_Ohlhauser.jpg?1493075757",
+    "pageUrl": "https://datencenter.dfb.de/personen/rainer-ohlhauser/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "راينر أولهاوزر في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "rainer-ohlhauser-history-af3b4043.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

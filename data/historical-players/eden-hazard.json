@@ -1,0 +1,82 @@
+{
+  "id": "eden-hazard",
+  "nameAr": "إيدين هازارد",
+  "nameEn": "Eden Hazard",
+  "aliases": [
+    "Eden Michael Walter Lucien Hazard"
+  ],
+  "existingProfileId": null,
+  "summaryAr": "جناح أيسر وصانع لعب بلجيكي من مواليد 7 يناير 1991، انضم إلى تشيلسي من ليل عام 2012 وقضى فيه سبعة مواسم سجل خلالها 110 أهداف وفاز بلقبين للدوري ولقبين للدوري الأوروبي، قبل الانتقال إلى ريال مدريد عام 2019. قاد منتخب بلجيكا قائدا.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "chelsea",
+      "periodAr": "2012–2019",
+      "textAr": "سبعة مواسم في تشيلسي توج خلالها بستة ألقاب وسجل 110 أهداف في جميع المسابقات.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "تشيلسي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "chelsea",
+      "labelAr": "تاسع الهدافين التاريخيين",
+      "textAr": "110 أهداف في جميع المسابقات. أهداف الفريق الأول في جميع المسابقات وفق إحصاء النادي الرسمي؛ ركلات الترجيح لا تُحتسب.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "الدوري الإنجليزي الممتاز",
+      "textAr": "البطل موسمي 2014–15 و2016–17، وأفضل لاعب في الدوري موسم 2014–15.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "chelsea",
+      "labelAr": "الدوري الأوروبي مرتين",
+      "textAr": "البطل عامي 2012–13 و2018–19، إضافة إلى كأس الاتحاد 2017–18 وكأس الرابطة 2014–15.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": "1991-01-07",
+  "positionAr": "جناح أيسر / صانع لعب",
+  "nationalityAr": "بلجيكي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Eden Hazard - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eden_Hazard"
+    },
+    {
+      "id": "scorers",
+      "title": "Chelsea FC's all-time record goalscorers",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-fcs-all-time-record-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "pageUrl": "https://commons.wikimedia.org/wiki/File:Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "author": "Amir Hosseini / Fars Media Corporation",
+    "license": "CC BY 4.0",
+    "rightsStatus": "open-license",
+    "captionAr": "هازارد مع تشيلسي قبل نهائي الدوري الأوروبي 2019 في باكو",
+    "identityEvidence": "اسم الملف ووصفه في ويكيميديا كومنز: Eden Hazard at Baku before 2019 UEFA Europe League Final",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "changesAr": "أعيد ترميز الصورة بصيغة JPEG؛ لا تعديل على الملامح أو القميص.",
+    "file": "eden-hazard-history-9469ebab.jpg",
+    "width": 495,
+    "height": 700
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:11:23+02:00"
+}

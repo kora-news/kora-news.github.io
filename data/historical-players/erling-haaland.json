@@ -1,0 +1,63 @@
+{
+  "id": "erling-haaland",
+  "nameAr": "إيرلينغ هالاند",
+  "nameEn": "Erling Haaland",
+  "aliases": [
+    "Erling Braut Haaland"
+  ],
+  "existingProfileId": "erling-haaland",
+  "summaryAr": "مهاجم نرويجي انضم إلى مانشستر سيتي عام 2022 وأسهم في ثلاثية موسمه الأول.",
+  "sourceIds": [
+    "bio",
+    "scorers"
+  ],
+  "associations": [
+    {
+      "clubId": "manchester-city",
+      "periodAr": "2022–",
+      "textAr": "مهاجم نرويجي انضم إلى مانشستر سيتي عام 2022 وأسهم في ثلاثية موسمه الأول.",
+      "sourceIds": [
+        "scorers",
+        "bio"
+      ],
+      "clubAr": "مانشستر سيتي"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "manchester-city",
+      "labelAr": "مئة هدف في 105 مباريات",
+      "textAr": "بلغ حاجز مئة هدف لمانشستر سيتي في 105 مباريات، وفق مقال النادي المؤرخ في 2 يوليو 2025. هذا إنجاز تاريخي وليس إجمالي أهدافه الحالي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "manchester-city",
+      "labelAr": "الثلاثية 2022–23",
+      "textAr": "الدوري وكأس الاتحاد ودوري الأبطال في موسمه الأول، مع الحذاء الذهبي الأوروبي وجائزة أفضل لاعب في أوروبا.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "birthDate": null,
+  "positionAr": null,
+  "nationalityAr": null,
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Erling Haaland - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erling_Haaland"
+    },
+    {
+      "id": "scorers",
+      "title": "All 20 players to score 100 goals for Manchester City",
+      "url": "https://www.mancity.com/news/mens/all-players-100-goals-manchester-city-63861643"
+    }
+  ],
+  "notesAr": [
+    "الألقاب المذكورة مع مانشستر سيتي فقط، وفق مصدر مؤرخ، ولا تُعامل بوصفها إجماليًا حيًا لكل المسيرة."
+  ],
+  "checkedAt": "2026-11-24T01:15:26+02:00"
+}

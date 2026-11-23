@@ -1,0 +1,82 @@
+{
+  "id": "alan-gilzean",
+  "nameEn": "Alan Gilzean",
+  "nameAr": "آلان جيلزين",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم اسكتلندي انضم من دندي واشتهر بذكائه في التحرك ولمساته الرأسية. شكل شراكتين مؤثرتين مع جيمي جريفز ثم مارتن تشيفرز.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "tottenham",
+      "periodAr": "1964–1974",
+      "textAr": "مهاجم اسكتلندي انضم من دندي واشتهر بذكائه في التحرك ولمساته الرأسية. شكل شراكتين مؤثرتين مع جيمي جريفز ثم مارتن تشيفرز.",
+      "sourceIds": [
+        "bio",
+        "scorers"
+      ],
+      "clubAr": "توتنهام هوتسبير"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "tottenham",
+      "labelAr": "133 هدفا",
+      "textAr": "سجل 133 هدفا في 439 مباراة لتوتنهام بحسب النادي.",
+      "sourceIds": [
+        "scorers"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "كأس إنجلترا 1967",
+      "textAr": "ساهم في الفوز بالنهائي أمام تشيلسي.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "clubId": "tottenham",
+      "labelAr": "بطولات السبعينيات",
+      "textAr": "ساهم في كأس الرابطة عامي 1971 و1973 وكأس الاتحاد الأوروبي 1972.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Alan Gilzean - official club biography",
+      "url": "https://www.tottenhamhotspur.com/the-club/history/hall-of-fame/alan-gilzean"
+    },
+    {
+      "id": "scorers",
+      "title": "Official club goalscorers",
+      "url": "https://www.tottenhamhotspur.com/news/983752/sonnys-latest-stats-as-he-joins-select-band-of-spurs-skippers"
+    },
+    {
+      "id": "photo",
+      "title": "Official identified archive photograph",
+      "url": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://resources.thfc.pulselive.com/photo-migration/migration/7c871ca0-4dd8-428d-98f4-4097e4eee964/legends-alangilzean6.jpg?width=752&height=412",
+    "pageUrl": "https://www.tottenhamhotspur.com/news/995750/harry-kane-and-our-all-time-top-goalscorers",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية حقيقية من موقع النادي.",
+    "identityEvidence": "المصدر الرسمي يعرّف الصورة باسم اللاعب: gilzean explicitly numbered caption in goalscorers gallery",
+    "file": "alan-gilzean-history-ee2bc359.jpg",
+    "width": 2048,
+    "height": 992
+  },
+  "notesAr": [
+    "عنوان السيرة 1964–75 لا يطابق متنها الذي يحدد انتهاء مشواره في يونيو 1974؛ استُخدم المتن وقائمة النادي."
+  ],
+  "checkedAt": "2026-11-24T01:20:05+02:00"
+}

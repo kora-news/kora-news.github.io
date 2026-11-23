@@ -1,0 +1,57 @@
+{
+  "id": "josep-escola",
+  "nameAr": "جوسيب إسكولا",
+  "nameEn": "Josep Escolà",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم من برشلونة لُقّب بالأستاذ، عُرف بالتقنية والتسديد واللعب النظيف. انضم للنادي عام 1934، ثم عاد إليه عام 1940 بعد فترة في فرنسا خلال الحرب الأهلية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1934–1949، مع انقطاع خلال الحرب",
+      "textAr": "مهاجم من برشلونة لُقّب بالأستاذ، عُرف بالتقنية والتسديد واللعب النظيف. انضم للنادي عام 1934، ثم عاد إليه عام 1940 بعد فترة في فرنسا خلال الحرب الأهلية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "ثلاث بطولات دوري",
+      "textAr": "فاز بالدوري الإسباني في 1944–1945 و1947–1948 و1948–1949، وبكأس إسبانيا في 1941–1942.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "مهاجم",
+  "nationalityAr": "إسباني",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Josep Escolà",
+      "url": "https://www.fcbarcelona.com/en/card/648286/josep-escola"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/19/abdcb70c-1d0a-44d4-8ac2-24ed2358258e/15267790.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648286/josep-escola",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Josep Escolà",
+    "file": "josep-escola-history-65ad1410.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "إجمالي 236 هدفًا في السيرة ليس موسومًا بأنه للمباريات الرسمية فقط، ولا يحل محل عد القائمة الرسمية."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

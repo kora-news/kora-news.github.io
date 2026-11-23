@@ -1,0 +1,57 @@
+{
+  "id": "rivaldo",
+  "nameAr": "ريفالدو",
+  "nameEn": "Rivaldo",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب برازيلي أعسر انضم لبرشلونة من ديبورتيفو لاكورونيا في 1997. جمع بين اللعب من الجناح والوسط الهجومي والقدرة على التسجيل، وفاز بالكرة الذهبية عام 1999.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "barcelona",
+      "periodAr": "1997–2002",
+      "textAr": "لاعب برازيلي أعسر انضم لبرشلونة من ديبورتيفو لاكورونيا في 1997. جمع بين اللعب من الجناح والوسط الهجومي والقدرة على التسجيل، وفاز بالكرة الذهبية عام 1999.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "برشلونة"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "barcelona",
+      "labelAr": "الكرة الذهبية وبطولتا دوري",
+      "textAr": "فاز بالكرة الذهبية 1999 خلال فترته في برشلونة، وبالدوري الإسباني موسمي 1997–1998 و1998–1999.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "positionAr": "وسط هجومي وجناح أيسر",
+  "nationalityAr": "برازيلي",
+  "sources": [
+    {
+      "id": "bio",
+      "title": "FC Barcelona official historical biography: Rivaldo",
+      "url": "https://www.fcbarcelona.com/en/card/648046/vitor-borba-ferreira-rivaldo"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://www.fcbarcelona.com/photo-resources/fcbarcelona/photo/2018/03/19/b57803b9-7159-48fd-bcdb-eb046357a03e/14908659.jpg?width=1200&height=750",
+    "pageUrl": "https://www.fcbarcelona.com/en/card/648046/vitor-borba-ferreira-rivaldo",
+    "author": "FC Barcelona archive, individual photographer not specified",
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "صورة أرشيفية منشورة في سيرة برشلونة الرسمية",
+    "identityEvidence": "الصورة الرئيسية لصفحة اللاعب الرسمية، بعنوان ونص بديل باسم Vitor Borba Ferreira 'Rivaldo'",
+    "file": "rivaldo-history-c8827fe1.jpg",
+    "width": 1200,
+    "height": 750
+  },
+  "notesAr": [
+    "تذكر السيرة 136 هدفًا في 253 مباراة دون قصرها على المباريات الرسمية؛ يظل هذا النطاق منفصلًا عن قائمة الهدافين الرسمية."
+  ],
+  "checkedAt": "2026-11-24T01:04:49+02:00"
+}

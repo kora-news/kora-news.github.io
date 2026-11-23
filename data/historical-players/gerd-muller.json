@@ -1,0 +1,52 @@
+{
+  "id": "gerd-muller",
+  "nameAr": "جيرد مولر",
+  "nameEn": "Gerd Müller",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "مهاجم ألماني لُقّب بالقنّاص، انضم إلى بايرن عام 1964 قادمًا من نوردلينغن. كان من أهم رموز صعود النادي إلى قمة الكرة الألمانية والأوروبية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "مهاجم ألماني لُقّب بالقنّاص، انضم إلى بايرن عام 1964 قادمًا من نوردلينغن. كان من أهم رموز صعود النادي إلى قمة الكرة الألمانية والأوروبية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "فاز بثلاث كؤوس أوروبية متتالية بين 1974 و1976، وبالدوري الألماني أربع مرات وكأس ألمانيا أربع مرات، وسجّل 365 هدفًا في البوندسليغا.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Gerd Müller | Club/DFB record",
+      "url": "https://fcbayern.com/en/club/hall-of-fame/gerd-muller"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/063/969/custom_style_1_Gerhard-Mueller.jpg?1493094777",
+    "pageUrl": "https://datencenter.dfb.de/personen/gerd-mueller/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "جيرد مولر في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "gerd-muller-history-31196a22.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}

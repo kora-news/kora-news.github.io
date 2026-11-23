@@ -1,0 +1,52 @@
+{
+  "id": "thomas-muller",
+  "nameAr": "توماس مولر",
+  "nameEn": "Thomas Müller",
+  "aliases": [],
+  "existingProfileId": null,
+  "summaryAr": "لاعب هجوم نشأ في بايرن وأصبح أحد أهم رموزه. جمع بين التسجيل وصناعة اللعب والبحث عن المساحات، وحمل سجل النادي في المشاركات الرسمية.",
+  "sourceIds": [
+    "bio"
+  ],
+  "associations": [
+    {
+      "clubId": "bayern-munich",
+      "textAr": "لاعب هجوم نشأ في بايرن وأصبح أحد أهم رموزه. جمع بين التسجيل وصناعة اللعب والبحث عن المساحات، وحمل سجل النادي في المشاركات الرسمية.",
+      "sourceIds": [
+        "bio"
+      ],
+      "clubAr": "بايرن ميونخ"
+    }
+  ],
+  "achievements": [
+    {
+      "clubId": "bayern-munich",
+      "labelAr": "محطات بارزة",
+      "textAr": "أنهى رحلته مع بايرن بـ756 مباراة و250 هدفًا، وفاز بـ13 لقبًا للدوري وبدوري الأبطال مرتين وفق سجل النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "Thomas Müller | Club/DFB record",
+      "url": "https://fcbayern.com/en/news/2025/05/thomas-muller-s-greatest-records-at-bayern"
+    }
+  ],
+  "photo": {
+    "sourceUrl": "https://assets.dfb.de/uploads/000/299/085/custom_style_1_Thomas_Mueller.jpg?1710860947",
+    "pageUrl": "https://datencenter.dfb.de/personen/thomas-mueller/spieler",
+    "author": null,
+    "license": null,
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "captionAr": "توماس مولر في صورة أرشيفية من سجل الاتحاد الألماني، وليست صورة بقميص بايرن الحالي.",
+    "identityEvidence": "Source image or caption explicitly names this player.",
+    "file": "thomas-muller-history-3a975099.jpg",
+    "width": 680,
+    "height": 380
+  },
+  "notesAr": [],
+  "checkedAt": "2026-11-24T01:14:08+02:00"
+}
