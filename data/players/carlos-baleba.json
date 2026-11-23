@@ -106,7 +106,18 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "carlos-baleba-manchester-united-checked-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-united",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.manutd.com/en/teams/mens-team/carlos-baleba",
+    "sourceAssetUrl": "https://dynamic-crop-cdn.scoreplay.io/472/5955367/media_120963187_120576617.jpg?fmt=webp&f=center&w=720&h=981",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Removed studio background and trimmed padding; no face or shirt replacement.",
+    "checkedAt": "2026-11-23T22:27:00+02:00",
+    "identityReferenceUrl": "https://www.manutd.com/en/teams/mens-team/carlos-baleba",
+    "identityReferenceAssetUrl": "https://dynamic-crop-cdn.scoreplay.io/472/5955367/media_120963187_120576617.jpg?fmt=webp&f=center&w=720&h=981"
   }
 }
