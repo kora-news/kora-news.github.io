@@ -22,7 +22,7 @@ const CLUBS = [
 function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
   const playerProfiles=profiles(root);
   const profileByName=new Map(playerProfiles.map(p=>[p.clubId+'|'+p.squadName,p]));
-  const playerName=(c,p)=>{const profile=profileByName.get(c.id+'|'+p.nameEn);return profile?`<a class="squad-profile-link" href="../players/${esc(profile.id)}.html">${esc(p.nameEn)} <span lang="ar">← ملف اللاعب</span></a>`:esc(p.nameEn);};
+  const playerName=(c,p)=>{const profile=profileByName.get(c.id+'|'+p.nameEn);return profile?`<a class="squad-profile-link" href="../players/${esc(profile.id)}.html">${esc(p.nameEn)}</a>`:esc(p.nameEn);};
   const dir = process.env.CLUBS_DATA_DIR || path.join(root,'data','clubs');
   const records = new Map();
   if(fs.existsSync(dir)) for(const f of fs.readdirSync(dir).filter(x=>x.endsWith('.json'))) {

@@ -11,7 +11,7 @@ for(const p of all){
  if(p.photo?.file){assert(p.photo.currentClubId===p.clubId,'Photo shirt mismatch');assert(fs.existsSync(path.join(root,'assets/players',p.photo.file)),'Missing photo asset');if(p.photo.rightsStatus==='reuse-permission-unconfirmed'){assert(p.photo.sourceUrl&&p.photo.status==='current-shirt-rights-unconfirmed');assert(!p.photo.license,'Unconfirmed image must not claim a license');}else{cited(p.photo);assert(p.photo.license&&p.photo.author&&p.photo.captionAr);}}
  const club=JSON.parse(fs.readFileSync(path.join(root,'data/clubs',p.clubId+'.json'),'utf8'));assert(club.squad.items.some(x=>x.nameEn===p.squadName));
  const html=fs.readFileSync(path.join(root,'dist/players',p.id+'.html'),'utf8');assert(html.includes('id="career"')&&html.includes('id="sources"'));
- const clubhtml=fs.readFileSync(path.join(root,'dist/clubs',p.clubId+'.html'),'utf8');assert(clubhtml.includes('../players/'+p.id+'.html'));
+ const clubhtml=fs.readFileSync(path.join(root,'dist/clubs',p.clubId+'.html'),'utf8');assert(clubhtml.includes('../players/'+p.id+'.html'));assert(clubhtml.includes('>'+p.squadName+'</a>'),'Squad profile link must show name alone');assert(!clubhtml.includes('← ملف اللاعب'),'Unexpected squad link label');
 }
 const registry=JSON.parse(fs.readFileSync(path.join(root,'data/player-coverage.json'),'utf8'));assert(registry.profileCount===all.length);assert(registry.players.length===registry.targetCount);
 console.log('Player profile checks passed:',all.length+' published of '+registry.targetCount+' targets');
