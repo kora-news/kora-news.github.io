@@ -1,0 +1,134 @@
+{
+  "id": "conor-gallagher",
+  "nameAr": "كونور غالاغر",
+  "nameEn": "Conor Gallagher",
+  "squadName": "Conor Gallagher",
+  "clubId": "tottenham",
+  "birthDate": "2000-02-06",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في تشيلسي وخاض أربع إعارات قبل الاستقرار مع الفريق الأول. انتقل لأتلتيكو مدريد في 2024 ثم لتوتنهام في يناير 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "بوكهام كولتس وليذرهيد بريداتورز وإبسوم إيغلز",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع بوكهام كولتس وليذرهيد بريداتورز وإبسوم إيغلز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2006–2024",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع تشيلسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الأول من 2019/20",
+      "clubAr": "تشارلتون أتلتيك",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع تشارلتون أتلتيك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2019/20",
+      "clubAr": "سوانزي سيتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع سوانزي سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "وست بروميتش ألبيون",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع وست بروميتش ألبيون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع كريستال بالاس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024–يناير 2026",
+      "clubAr": "أتلتيكو مدريد",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع أتلتيكو مدريد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2026",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/232787/conor-gallagher"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Conor_Gallagher"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

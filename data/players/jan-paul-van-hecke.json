@@ -1,0 +1,116 @@
+{
+  "id": "jan-paul-van-hecke",
+  "nameAr": "يان بول فان هيكه",
+  "nameEn": "Jan Paul van Hecke",
+  "squadName": "Jan Paul van Hecke",
+  "clubId": "tottenham",
+  "birthDate": "2000-06-08",
+  "nationalityAr": "هولندي",
+  "positionAr": "قلب دفاع",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "بدأ في هولندا ووصل لناك بريدا، ثم انتقل لبرايتون وأعير لهيرنفين وبلاكبيرن. انضم لتوتنهام صيف 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "أرنيماودن ثم خوس",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع أرنيماودن ثم خوس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "ناك بريدا",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع ناك بريدا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2026",
+      "clubAr": "برايتون أند هوف ألبيون",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع برايتون أند هوف ألبيون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "هيرنفين",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع هيرنفين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "بلاكبيرن روفرز",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع بلاكبيرن روفرز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/469142/jan-paul-van-hecke"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 11,
+      "goals": 2,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

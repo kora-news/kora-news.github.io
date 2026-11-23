@@ -1,0 +1,89 @@
+{
+  "id": "rodrigo-bentancur",
+  "nameAr": "رودريغو بنتانكور",
+  "nameEn": "Rodrigo Bentancur",
+  "squadName": "Rodrigo Bentancur",
+  "clubId": "tottenham",
+  "birthDate": "1997-06-25",
+  "nationalityAr": "أوروغواياني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في بوكا جونيورز وظهر محترفًا في 2015. انتقل ليوفنتوس في 2017 ثم لتوتنهام في يناير 2022.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2017",
+      "clubAr": "بوكا جونيورز",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع بوكا جونيورز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–يناير 2022",
+      "clubAr": "يوفنتوس",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع يوفنتوس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2022",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/202993/rodrigo-bentancur"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Rodrigo_Bentancur"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "andy-robertson",
+  "nameAr": "آندي روبرتسون",
+  "nameEn": "Andy Robertson",
+  "squadName": "Andy Robertson",
+  "clubId": "tottenham",
+  "birthDate": "1994-03-11",
+  "nationalityAr": "اسكتلندي",
+  "positionAr": "ظهير أيسر",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في سيلتيك وكوينز بارك ثم دندي يونايتد وهال سيتي. قضى تسع سنوات في ليفربول قبل انتقاله لتوتنهام صيف 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2003–2009",
+      "clubAr": "سيلتيك",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع سيلتيك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2009–2013",
+      "clubAr": "كوينز بارك",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع كوينز بارك.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013/14",
+      "clubAr": "دندي يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع دندي يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2017",
+      "clubAr": "هال سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع هال سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2026",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/122798/andy-robertson"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Robertson"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

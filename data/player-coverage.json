@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 322,
+  "profileCount": 350,
   "players": [
     {
       "clubId": "ac-milan",
@@ -3860,9 +3860,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "andy-robertson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3871,9 +3871,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "tosin-adarabioyo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3882,9 +3882,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "marcos-senesi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3893,9 +3893,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jan-paul-van-hecke",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3904,9 +3904,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "xavi-simons",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3915,9 +3915,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "conor-gallagher",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3926,9 +3926,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "richarlison",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3937,9 +3937,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "james-maddison",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3948,9 +3948,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mathys-tel",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3959,9 +3959,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "destiny-udogie",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3970,9 +3970,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "archie-gray",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3981,9 +3981,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lucas-bergvall",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -3992,9 +3992,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "sandro-tonali",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4003,9 +4003,9 @@
       "positionAr": "جناح",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "savio",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4014,9 +4014,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mateus-fernandes",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4025,9 +4025,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dominic-solanke",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4036,9 +4036,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mohammed-kudus",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4047,9 +4047,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dejan-kulusevski",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4069,9 +4069,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pedro-porro",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4080,9 +4080,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mykhailo-mudryk",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4091,9 +4091,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "wilson-odobert",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4102,9 +4102,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rodrigo-bentancur",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4113,9 +4113,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "antonin-kinsky",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4124,9 +4124,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ben-davies",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4135,9 +4135,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "micky-van-de-ven",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4146,9 +4146,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "martin-dubravka",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4157,9 +4157,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "brandon-austin",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "tottenham",
@@ -4168,9 +4168,9 @@
       "positionAr": "وسط هجومي",
       "squadSource": "https://www.tottenhamhotspur.com/teams/mens/squad",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luca-williams-barnett",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     }
   ]
 }

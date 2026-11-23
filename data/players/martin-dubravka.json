@@ -1,0 +1,143 @@
+{
+  "id": "martin-dubravka",
+  "nameAr": "مارتن دوبرافكا",
+  "nameEn": "Martin Dúbravka",
+  "squadName": "Martin Dúbravka",
+  "clubId": "tottenham",
+  "birthDate": "1989-01-15",
+  "nationalityAr": "سلوفاكي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "بدأ في جيلينا ثم إيسبيرغ وليبيريتس وسبارتا براغ. لعب لنيوكاسل وبيرنلي قبل توتنهام صيف 2026، وخاض إعارة قصيرة ليونايتد.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2006–2014",
+      "clubAr": "جيلينا",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع جيلينا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2016",
+      "clubAr": "إيسبيرغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع إيسبيرغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "سلوفان ليبيريتس",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع سلوفان ليبيريتس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "سبارتا براغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع سبارتا براغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2017/18",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع نيوكاسل يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2025",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع نيوكاسل يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "النصف الأول من 2022/23",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع مانشستر يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "بيرنلي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بيرنلي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/67089/martin-d-bravka"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Martin_D%C3%BAbravka"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. الخانات غير المسجلة بالمصدر تبقى غير متاحة، وليست أصفارًا."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

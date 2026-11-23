@@ -1,0 +1,116 @@
+{
+  "id": "richarlison",
+  "nameAr": "ريتشارليسون",
+  "nameEn": "Richarlison",
+  "squadName": "Richarlison",
+  "clubId": "tottenham",
+  "birthDate": "1997-05-10",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في البرازيل مع ريال نوروستي وأمريكا مينيرو ثم فلومينينسي. لعب لواتفورد وإيفرتون قبل توتنهام في 2022.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013/14",
+      "clubAr": "ريال نوروستي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ريال نوروستي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2014–2016",
+      "clubAr": "أمريكا مينيرو",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع أمريكا مينيرو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "فلومينينسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع فلومينينسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017/18",
+      "clubAr": "واتفورد",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع واتفورد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2022",
+      "clubAr": "إيفرتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع إيفرتون.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/212319/-richarlison"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Richarlison"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 1,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "brandon-austin",
+  "nameAr": "براندون أوستن",
+  "nameEn": "Brandon Austin",
+  "squadName": "Brandon Austin",
+  "clubId": "tottenham",
+  "birthDate": "1999-01-08",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في واتفورد وتشيلسي ثم توتنهام، وأعير لفيبورغ وأورلاندو سيتي. ظهر رسميًا مع توتنهام في يناير 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "واتفورد وتشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع تشيلسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2007–2020",
+      "clubAr": "توتنهام",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020",
+      "clubAr": "فيبورغ",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع فيبورغ.",
+      "sourceIds": [
+        "viborg"
+      ]
+    },
+    {
+      "whenAr": "2021",
+      "clubAr": "أورلاندو سيتي",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع أورلاندو سيتي.",
+      "sourceIds": [
+        "history",
+        "debut"
+      ]
+    },
+    {
+      "whenAr": "4 يناير 2025",
+      "clubAr": "توتنهام",
+      "typeAr": "بداية رسمية",
+      "textAr": "ظهر أمام نيوكاسل في الدوري الإنجليزي.",
+      "sourceIds": [
+        "debut"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/214572/brandon-austin"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Brandon_Austin"
+    },
+    {
+      "id": "viborg",
+      "title": "توتنهام: إعارة أوستن لفيبورغ في يناير 2020",
+      "url": "https://www.tottenhamhotspur.com/news/994568/viborg-loan-for-austin"
+    },
+    {
+      "id": "debut",
+      "title": "توتنهام: الظهور الرسمي الأول لأوستن",
+      "url": "https://www.tottenhamhotspur.com/news/989272/austin-assigned-legacy-number"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

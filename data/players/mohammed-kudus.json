@@ -1,0 +1,116 @@
+{
+  "id": "mohammed-kudus",
+  "nameAr": "محمد قدوس",
+  "nameEn": "Mohammed Kudus",
+  "squadName": "Mohammed Kudus",
+  "clubId": "tottenham",
+  "birthDate": "2000-08-02",
+  "nationalityAr": "غاني",
+  "positionAr": "جناح ووسط هجومي",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في غانا ثم لعب لنوردشيلاند وأياكس ووست هام. انتقل لتوتنهام في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2012",
+      "clubAr": "سترونغ تاور",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع سترونغ تاور.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2018",
+      "clubAr": "رايت تو دريم",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع رايت تو دريم.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2020",
+      "clubAr": "نوردشيلاند",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع نوردشيلاند.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2023",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع أياكس.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "وست هام يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع وست هام يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2025",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/460842/mohammed-kudus"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Kudus"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

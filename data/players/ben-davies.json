@@ -1,0 +1,99 @@
+{
+  "id": "ben-davies",
+  "nameAr": "بن ديفيز",
+  "nameEn": "Ben Davies",
+  "squadName": "Ben Davies",
+  "clubId": "tottenham",
+  "birthDate": "1993-04-24",
+  "nationalityAr": "ويلزي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في سوانزي وفيبورغ ثم عاد لسوانزي وظهر مع الفريق الأول في 2012. انتقل لتوتنهام في صيف 2014.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2000/01",
+      "clubAr": "سوانزي سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع سوانزي سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2001–2004",
+      "clubAr": "فيبورغ",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع فيبورغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2004–2014",
+      "clubAr": "سوانزي سيتي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع سوانزي سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2014",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/115556/ben-davies"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Ben_Davies_(footballer%2C_born_1993)"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

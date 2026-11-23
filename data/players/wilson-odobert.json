@@ -1,0 +1,107 @@
+{
+  "id": "wilson-odobert",
+  "nameAr": "ويلسون أودوبير",
+  "nameEn": "Wilson Odobert",
+  "squadName": "Wilson Odobert",
+  "clubId": "tottenham",
+  "birthDate": "2004-11-28",
+  "nationalityAr": "فرنسي",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في تريلبور وباريس سان جيرمان، ولعب لتروي وبيرنلي قبل توتنهام في أغسطس 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2010–2017",
+      "clubAr": "تريلبور",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع تريلبور.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2022",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع باريس سان جيرمان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "تروي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع تروي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "بيرنلي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بيرنلي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/550839/wilson-odobert"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Wilson_Odobert"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

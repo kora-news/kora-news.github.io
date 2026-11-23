@@ -1,0 +1,107 @@
+{
+  "id": "dominic-solanke",
+  "nameAr": "دومينيك سولانكي",
+  "nameEn": "Dominic Solanke",
+  "squadName": "Dominic Solanke",
+  "clubId": "tottenham",
+  "birthDate": "1997-09-14",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في تشيلسي وأعير لفيتيسه ثم لعب لليفربول وبورنموث. انضم لتوتنهام في أغسطس 2024.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2004–2017",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع تشيلسي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "فيتيسه",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع فيتيسه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–يناير 2019",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليفربول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2024",
+      "clubAr": "بورنموث",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بورنموث.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2024",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/154566/dominic-solanke"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Dominic_Solanke"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 11,
+      "goals": 2,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "mathys-tel",
+  "nameAr": "ماتيس تيل",
+  "nameEn": "Mathys Tel",
+  "squadName": "Mathys Tel",
+  "clubId": "tottenham",
+  "birthDate": "2005-04-27",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في أندية فرنسا ثم رين، وانتقل لبايرن ميونخ في 2022. انضم لتوتنهام معارًا في فبراير 2025 ثم بصورة دائمة في الصيف.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012–2020",
+      "clubAr": "فيلييه لو بيل وباريس إف سي وأوبيرفيلييه ومونروج",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع فيلييه لو بيل وباريس إف سي وأوبيرفيلييه ومونروج.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2022",
+      "clubAr": "رين",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع رين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–2025",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع بايرن ميونخ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "فبراير–يونيو 2025",
+      "clubAr": "توتنهام",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/511499/mathys-tel"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Mathys_Tel"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 8,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

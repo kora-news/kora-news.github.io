@@ -1,0 +1,134 @@
+{
+  "id": "xavi-simons",
+  "nameAr": "تشافي سيمونز",
+  "nameEn": "Xavi Simons",
+  "squadName": "Xavi Simons",
+  "clubId": "tottenham",
+  "birthDate": "2003-04-21",
+  "nationalityAr": "هولندي",
+  "positionAr": "وسط هجومي وجناح",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في برشلونة وباريس سان جيرمان، ولعب لأيندهوفن ولايبزيغ بإعارة ثم شراء دائم. انتقل لتوتنهام في 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2010",
+      "clubAr": "ثادر",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع ثادر.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2019",
+      "clubAr": "برشلونة",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع برشلونة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2022",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع باريس سان جيرمان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "أيندهوفن",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع أيندهوفن.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "إعادة شراء",
+      "textAr": "محطة في مسيرة اللاعب مع باريس سان جيرمان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2025",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع آر بي لايبزيغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2025",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع آر بي لايبزيغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/493362/xavi-simons"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Xavi_Simons"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": null,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب. لا يظهر اللاعب في جدول المشاركات؛ لا نحول غياب السجل إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

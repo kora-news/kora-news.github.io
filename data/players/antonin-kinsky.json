@@ -1,0 +1,116 @@
+{
+  "id": "antonin-kinsky",
+  "nameAr": "أنتونين كينسكي",
+  "nameEn": "Antonin Kinsky",
+  "squadName": "Antonin Kinsky",
+  "clubId": "tottenham",
+  "birthDate": "2003-03-13",
+  "nationalityAr": "تشيكي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في أندية براغ ولعب لدوكلا وسلافيا، مع إعارتين لفيشكوف وباردوبيتسه. انتقل لتوتنهام في يناير 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2020",
+      "clubAr": "تيمبو براغ وبوهيميانز ودوكلا براغ",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع تيمبو براغ وبوهيميانز ودوكلا براغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "دوكلا براغ",
+      "typeAr": "فريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع دوكلا براغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "سلافيا براغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع سلافيا براغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "فيشكوف",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع فيشكوف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "باردوبيتسه",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع باردوبيتسه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2025",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/485055/antonin-kinsky"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Kinsk%C3%BD_(footballer%2C_born_2003)"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

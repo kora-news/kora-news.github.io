@@ -1,0 +1,116 @@
+{
+  "id": "james-maddison",
+  "nameAr": "جيمس ماديسون",
+  "nameEn": "James Maddison",
+  "squadName": "James Maddison",
+  "clubId": "tottenham",
+  "birthDate": "1996-11-23",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "وسط هجومي",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في كوفنتري وانتقل لنورويتش، مع إعارتين لكوفنتري وأبردين. لعب لليستر من 2018 ثم لتوتنهام من 2023.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون–2016",
+      "clubAr": "كوفنتري سيتي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع كوفنتري سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2018",
+      "clubAr": "نورويتش سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع نورويتش سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016",
+      "clubAr": "كوفنتري سيتي",
+      "typeAr": "إعارة بعد البيع",
+      "textAr": "محطة في مسيرة اللاعب مع كوفنتري سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "أبردين",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع أبردين.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2018–2023",
+      "clubAr": "ليستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ليستر سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/172780/james-maddison"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/James_Maddison"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "savio",
+  "nameAr": "سافيو",
+  "nameEn": "Sávio",
+  "squadName": "Sávio",
+  "clubId": "tottenham",
+  "birthDate": "2004-04-10",
+  "nationalityAr": "برازيلي",
+  "positionAr": "جناح",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في أتلتيكو مينيرو واشتراه تروي، ثم أعير لأيندهوفن وجيرونا. لعب لمانشستر سيتي من 2024 قبل توتنهام في أغسطس 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2015–2022",
+      "clubAr": "أتلتيكو مينيرو",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع أتلتيكو مينيرو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "تروي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع تروي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "أيندهوفن ورديفه",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع أيندهوفن ورديفه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "جيرونا",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع جيرونا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024–2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع مانشستر سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/510281/-s-vio"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Savinho"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

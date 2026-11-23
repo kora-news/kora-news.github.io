@@ -1,0 +1,116 @@
+{
+  "id": "sandro-tonali",
+  "nameAr": "ساندرو تونالي",
+  "nameEn": "Sandro Tonali",
+  "squadName": "Sandro Tonali",
+  "clubId": "tottenham",
+  "birthDate": "2000-05-08",
+  "nationalityAr": "إيطالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في بياتشينزا وبريشيا، ولعب لميلان بإعارة ثم شراء دائم. انتقل لنيوكاسل في 2023 ثم لتوتنهام في يوليو 2026.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009–2012",
+      "clubAr": "بياتشينزا",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع بياتشينزا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2020",
+      "clubAr": "بريشيا",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "محطة في مسيرة اللاعب مع بريشيا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "ميلان",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع ميلان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2023",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع ميلان.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "نيوكاسل يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع نيوكاسل يونايتد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2026",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/432422/sandro-tonali"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Tonali"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 10,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "pedro-porro",
+  "nameAr": "بيدرو بورو",
+  "nameEn": "Pedro Porro",
+  "squadName": "Pedro Porro",
+  "clubId": "tottenham",
+  "birthDate": "1999-09-13",
+  "nationalityAr": "إسباني",
+  "positionAr": "ظهير أيمن",
+  "checkedAt": "2026-11-23T19:53:12+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتوتنهام.",
+  "summaryAr": "تدرج في إسبانيا ولعب لجيرونا، ثم اشتراه مانشستر سيتي وأعاره لبلد الوليد وسبورتينغ. انضم لتوتنهام بإعارة في يناير 2023 ثم بصورة دائمة.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2017",
+      "clubAr": "خيمناستيكو دون بينيتو ثم رايو فايكانو",
+      "typeAr": "ناشئون",
+      "textAr": "محطة في مسيرة اللاعب مع خيمناستيكو دون بينيتو ثم رايو فايكانو.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "جيرونا وبيرالادا",
+      "typeAr": "فريق أول ورديف",
+      "textAr": "محطة في مسيرة اللاعب مع جيرونا وبيرالادا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع مانشستر سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "بلد الوليد",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع بلد الوليد.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2022",
+      "clubAr": "سبورتينغ لشبونة",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع سبورتينغ لشبونة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "سبورتينغ لشبونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع سبورتينغ لشبونة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2023",
+      "clubAr": "توتنهام",
+      "typeAr": "إعارة",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "توتنهام",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطة في مسيرة اللاعب مع توتنهام.",
+      "sourceIds": [
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "توتنهام: بطاقة اللاعب الحالية",
+      "url": "https://www.tottenhamhotspur.com/player/441164/pedro-porro"
+    },
+    {
+      "id": "squad",
+      "title": "توتنهام: قائمة الفريق الأول للرجال",
+      "url": "https://www.tottenhamhotspur.com/teams/men/players/"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: توتنهام في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/361ca564/2026-2027/c9/Tottenham-Hotspur-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Porro"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "توتنهام",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:53:12+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة إبسويتش تاون في 21 نوفمبر 2026. لا تشمل الكؤوس أو البطولات الأوروبية أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص توتنهام، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
