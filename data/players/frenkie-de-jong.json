@@ -98,6 +98,11 @@
       "id": "photo",
       "title": "FootyLogos: مصدر الصورة المختارة",
       "url": "https://www.footylogos.com/player-pngs/frenkie-de-jong"
+    },
+    {
+      "id": "match",
+      "title": "FBref: تقرير برشلونة وفياريال 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
     }
   ],
   "stats": [
@@ -105,16 +110,17 @@
       "competitionAr": "الدوري الإسباني",
       "season": "2026/27",
       "clubAr": "برشلونة",
-      "appearances": 3,
+      "appearances": 4,
       "goals": 0,
       "assists": 0,
-      "through": "2026-11-21",
-      "checkedAt": "2026-11-23T15:24:00+02:00",
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T15:28:00+02:00",
       "sourceIds": [
         "stats",
-        "crosscheck"
+        "crosscheck",
+        "match"
       ],
-      "noteAr": "النطاق الموثق هنا حتى 21 نوفمبر فقط، وليس بعد مباراة فياريال يوم 22 نوفمبر. إجمالي المشاركات والأهداف يطابق صفحة الدوري؛ الأرقام الصفرية مثبتة في جدول StatsNext وليست قيمًا افتراضية. تعذر استرجاع سجل FBref المفصل الأحدث، لذلك لم نمدد تاريخ التغطية."
+      "noteAr": "أضفنا مشاركته أمام فياريال يوم 22 نوفمبر، بواقع 90 دقيقة دون هدف أو تمريرة حاسمة وفق تقرير المباراة، إلى إجمالي 3 مباريات حتى 21 نوفمبر. أرقام الدوري الإسباني فقط."
     }
   ],
   "photo": {

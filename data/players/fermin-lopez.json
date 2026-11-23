@@ -1,0 +1,128 @@
+{
+  "id": "fermin-lopez",
+  "nameAr": "فيرمين لوبيز",
+  "nameEn": "Fermín López",
+  "squadName": "Fermín López",
+  "clubId": "barcelona",
+  "birthDate": "2003-05-11",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T15:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ فيرمين مع إل كامبيو ثم ريكرياتيفو وبيتيس، ووصل إلى أكاديمية برشلونة صيف 2016. خاض إعارة مع ليناريس في موسم 2022/23، وعاد للفريق الأول قبل تمديد عقده حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "إل كامبيو وريكرياتيفو وبيتيس",
+      "typeAr": "أكاديمية",
+      "textAr": "لعب لنادي بلدته ثم ريكرياتيفو هويلفا قبل الانتقال إلى ناشئي ريال بيتيس. لا نحول المدد التقريبية إلى تواريخ انتقال غير موثقة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2016",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم من بيتيس إلى فئة تحت 14 عامًا، ثم تدرج في فئات لا ماسيا. يؤكد إعلان تجديد 2023 سنة الوصول.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "موسم 2022/23",
+      "clubAr": "ليناريس ديبورتيفو",
+      "typeAr": "إعارة",
+      "textAr": "خرج معارًا من برشلونة لاكتساب خبرة اللعب في الدرجة الثالثة الإسبانية.",
+      "sourceIds": [
+        "history",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "موسم 2023/24",
+      "clubAr": "برشلونة",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد إلى برشلونة وشارك في الإعداد مع الفريق الأول. يؤكد إعلان أغسطس 2023 ظهوره الرسمي أمام فياريال في الفوز 4-3.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024",
+      "clubAr": "برشلونة",
+      "typeAr": "تسجيل الفريق الأول",
+      "textAr": "أصبح مسجلًا ضمن الفريق الأول بعد مشاركاته مع تشافي، وفق السيرة الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "30 يناير و6 فبراير 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "اتفاق ثم توقيع تجديد",
+      "textAr": "أعلن الاتفاق في 30 يناير، ثم وقع العقد في 6 فبراير حتى 2031. نميز تاريخ الاتفاق عن التوقيع.",
+      "sourceIds": [
+        "agreement",
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة فيرمين الرسمية",
+      "url": "https://www.fcbarcelona.com/en/players/118929"
+    },
+    {
+      "id": "history",
+      "title": "برشلونة: تاريخ الأكاديمية والإعارة والظهور الأول",
+      "url": "https://www.fcbarcelona.com/en/news/3658527/fermin-lopez-blaugrana-until-2027"
+    },
+    {
+      "id": "agreement",
+      "title": "برشلونة: اتفاق تجديد فيرمين في يناير 2026",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4441329"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: توقيع فيرمين حتى 2031",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4445576/fermin-signs-contract-extension-until-2031"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل فيرمين في الدوري",
+      "url": "https://fbref.com/en/players/c1fe5f0b/matchlogs/2026-2027/c12/Fermin-Lopez-Match-Logs"
+    },
+    {
+      "id": "match",
+      "title": "FBref: تقرير برشلونة وفياريال 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 12,
+      "goals": 8,
+      "assists": 5,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T15:28:00+02:00",
+      "sourceIds": [
+        "stats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. أضفنا من تقرير المباراة الأخيرة مشاركة وهدفًا دون تمريرة حاسمة إلى سجل الدوري الذي توقف عند 8 نوفمبر."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

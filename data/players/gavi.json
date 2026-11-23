@@ -1,0 +1,113 @@
+{
+  "id": "gavi",
+  "nameAr": "غافي",
+  "nameEn": "Gavi",
+  "squadName": "Gavi",
+  "clubId": "barcelona",
+  "birthDate": "2004-08-05",
+  "nationalityAr": "إسباني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T15:28:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج غافي في ناشئي ريال بيتيس قبل انضمامه إلى لا ماسيا في موسم 2015/16. ظهر مع برشلونة في أغسطس 2021، ووقع في يناير 2025 عقدًا حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل موسم 2015/16",
+      "clubAr": "ريال بيتيس",
+      "typeAr": "أكاديمية",
+      "textAr": "قضى موسمين في ناشئي ريال بيتيس قبل الانتقال إلى برشلونة، وفق السيرة الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2015/16",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم إلى لا ماسيا في فئة تحت 12 عامًا، ثم تدرج حتى الشباب والفريق الرديف.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "29 أغسطس 2021",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "شارك للمرة الأولى مع الفريق الأول بعد بلوغه السابعة عشرة، وفق إعلان تجديده.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2022",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع تمديدًا حتى 2026. هذا عقد سابق تبعه التجديد الأحدث في يناير 2025.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "31 يناير 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا يمتد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة غافي الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/squad/116719/gavi"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد غافي حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4208572/gavi-blaugrana-until-2030"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: غافي وإحصاءات الدوري الحالية",
+      "url": "https://fbref.com/en/players/19cae58d/Gavi"
+    },
+    {
+      "id": "log",
+      "title": "FBref: سجل غافي للموسم",
+      "url": "https://fbref.com/en/players/19cae58d/matchlogs/2026-2027/Gavi-Match-Logs"
+    },
+    {
+      "id": "match",
+      "title": "FBref: تقرير برشلونة وفياريال 22 نوفمبر 2026",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T15:28:00+02:00",
+      "sourceIds": [
+        "stats",
+        "match"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط حتى مباراة فياريال يوم 22 نوفمبر، ولا تشمل المنتخب أو دوري الأبطال. صفحة اللاعب تشمل مشاركته الأخيرة لدقيقة واحدة، بينما سجل الموسم المنفصل ما زال متوقفًا عند 8 نوفمبر."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

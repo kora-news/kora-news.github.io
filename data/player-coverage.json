@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 21,
+  "profileCount": 23,
   "players": [
     {
       "clubId": "ac-milan",
@@ -956,9 +956,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "gavi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
@@ -967,9 +967,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "fermin-lopez",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "barcelona",
