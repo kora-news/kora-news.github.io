@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 292,
+  "profileCount": 293,
   "players": [
     {
       "clubId": "ac-milan",
@@ -3332,9 +3332,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.manutd.com/en/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "bruno-fernandes",
+      "profileStatus": "published",
+      "photoStatus": "licensed-current-club-archive"
     },
     {
       "clubId": "manchester-united",

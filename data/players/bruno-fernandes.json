@@ -1,0 +1,161 @@
+{
+  "id": "bruno-fernandes",
+  "nameAr": "برونو فرنانديز",
+  "nameEn": "Bruno Fernandes",
+  "squadName": "Bruno Fernandes",
+  "clubId": "manchester-united",
+  "birthDate": "1994-09-08",
+  "nationalityAr": "برتغالي",
+  "positionAr": "لاعب وسط هجومي",
+  "checkedAt": "2026-11-23T19:42:00+02:00",
+  "sourceIds": [
+    "current",
+    "history"
+  ],
+  "statusAr": "مدرج في قائمة مانشستر يونايتد الحالية.",
+  "summaryAr": "تدرج في إنفيستا وبوافيشتا ثم بدأ احترافه في نوفارا. لعب لأودينيزي وسامبدوريا وسبورتنغ لشبونة قبل انتقاله لمانشستر يونايتد في يناير 2020.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2004",
+      "clubAr": "إنفيستا",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في البرتغال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2004–2012",
+      "clubAr": "بوافيشتا",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في الأكاديمية.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2005–2010",
+      "clubAr": "باستيلييرا",
+      "typeAr": "إعارة في الناشئين",
+      "textAr": "قضى جزءًا من تكوينه معارًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012/13",
+      "clubAr": "نوفارا",
+      "typeAr": "انتقال وفريق أول",
+      "textAr": "بدأ مسيرته الاحترافية في إيطاليا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2013–2016",
+      "clubAr": "أودينيزي",
+      "typeAr": "ملكية مشتركة ثم استمرار",
+      "textAr": "وصل من نوفارا وظهر في الدوري الإيطالي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016/17",
+      "clubAr": "سامبدوريا",
+      "typeAr": "إعارة مع إلزام بالشراء",
+      "textAr": "بدأت فترته معارًا من أودينيزي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017",
+      "clubAr": "سامبدوريا",
+      "typeAr": "انتقال دائم",
+      "textAr": "أصبح انتقاله دائمًا قبل الانتقال لسبورتنغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–يناير 2020",
+      "clubAr": "سبورتنغ لشبونة",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد للبرتغال وقضى موسمين ونصف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "30 يناير 2020",
+      "clubAr": "مانشستر يونايتد",
+      "typeAr": "انتقال دائم",
+      "textAr": "اكتمل انتقاله من سبورتنغ، وظهر رسميًا في 1 فبراير.",
+      "sourceIds": [
+        "current",
+        "history"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "مانشستر يونايتد: بطاقة برونو ومسيرته الحالية",
+      "url": "https://www.manutd.com/en/teams/mens-team/bruno-fernandes"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل الأندية والإعارات",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Fernandes"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: مانشستر يونايتد في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/19538871/2026-2027/c9/Manchester-United-Stats-Premier-League"
+    },
+    {
+      "id": "portrait",
+      "title": "الصورة الأصلية وترخيصها: Jahrenvisuals، Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_v_PSG_preseason_2026.jpg"
+    },
+    {
+      "id": "portrait-license",
+      "title": "ترخيص الصورة والتعديل: Creative Commons BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر يونايتد",
+      "appearances": 9,
+      "goals": 4,
+      "assists": 2,
+      "through": "2026-11-08",
+      "checkedAt": "2026-11-23T19:42:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة أستون فيلا في 8 نوفمبر 2026، وهي آخر مباراة مكتملة بالمصدر عند المراجعة. لم يتضمن المصدر نتيجة مباراة ليفربول المجدولة يوم 22 نوفمبر، لذلك لا ندعي شمولها. لا تشمل الكؤوس أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "bruno-fernandes-licensed.png",
+    "captionAr": "برونو بقميص مانشستر يونايتد في 8 أغسطس 2026. تصوير Herman Bratsberg Jahren / Jahrenvisuals، Wikimedia Commons، ترخيص CC BY 4.0. قص سابق: Jonteemil. تعديلنا: قص وتصغير وإزالة الخلفية دون تغيير القميص أو الملامح.",
+    "sourceIds": [
+      "portrait",
+      "portrait-license"
+    ],
+    "currentClubId": "manchester-united",
+    "license": "CC BY 4.0",
+    "author": "Herman Bratsberg Jahren / Jahrenvisuals; prior crop Jonteemil",
+    "rightsStatus": "licensed",
+    "status": "licensed-current-club-archive",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_v_PSG_preseason_2026.jpg",
+    "archiveDate": "2026-08-08",
+    "modifications": "Cropped, resized and background removed. Original face and club shirt retained."
+  }
+}
