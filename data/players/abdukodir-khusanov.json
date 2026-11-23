@@ -100,7 +100,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "abdukodir-khusanov-manchester-city-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-city",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.mancity.com/players/abdukodir-khusanov",
+    "sourceAssetUrl": "https://www.mancity.com/meta/media/z34aqyjp/abdukodir-khusanov-elec-bl.png?width=282&quality=100",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T22:02:00+02:00"
   }
 }
