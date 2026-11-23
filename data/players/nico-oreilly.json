@@ -1,0 +1,115 @@
+{
+  "id": "nico-oreilly",
+  "nameAr": "نيكو أورايلي",
+  "nameEn": "Nico O'Reilly",
+  "squadName": "Nico O'Reilly",
+  "clubId": "manchester-city",
+  "birthDate": "2005-03-21",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:33:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "تدرج في أكاديمية مانشستر سيتي منذ الثامنة وقاد فريق تحت 18 عامًا. خاض أول ظهور رسمي مع الفريق الأول في الدرع الخيرية 2024، وبرز أيضًا ظهيرًا أيسر قبل تجديده حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "من سن الثامنة",
+      "clubAr": "أكاديمية مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في فرق النادي حتى تحت 18 عامًا والرديف.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "مانشستر سيتي تحت 18 عامًا",
+      "typeAr": "تطوير",
+      "textAr": "قاد الفريق إلى لقب الدوري للفئة السنية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ظهور ودي",
+      "textAr": "شارك في الجولة التحضيرية الأمريكية وسجل أمام برشلونة؛ كانت مباريات ودية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "الدرع الخيرية 2024",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية رسمية",
+      "textAr": "بدأ في الفوز بركلات الترجيح على مانشستر يونايتد في ويمبلي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "الفريق الأول",
+      "textAr": "أصبح من خيارات الفريق الأول وقدم أدوارًا في الظهير الأيسر.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "26 سبتمبر 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا لخمس سنوات حتى صيف 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: سيرة أورايلي",
+      "url": "https://www.mancity.com/players/nico-oreilly"
+    },
+    {
+      "id": "contract",
+      "title": "سيتي: تجديد أورايلي حتى 2030",
+      "url": "https://www.mancity.com/news/mens/nico-oreilly-signs-new-contract-manchester-city-63894493"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:33:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 79,
+  "profileCount": 86,
   "players": [
     {
       "clubId": "ac-milan",
@@ -3079,9 +3079,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "vitor-reis",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3090,9 +3090,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "elliot-anderson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3112,9 +3112,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "rayan-cherki",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3145,9 +3145,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mateo-kovacic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3156,9 +3156,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "nico-oreilly",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3189,9 +3189,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jeremy-doku",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-city",
@@ -3233,9 +3233,9 @@
       "positionAr": "الهجوم",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "antoine-semenyo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "manchester-united",

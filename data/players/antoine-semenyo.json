@@ -1,0 +1,115 @@
+{
+  "id": "antoine-semenyo",
+  "nameAr": "أنطوان سيمينيو",
+  "nameEn": "Antoine Semenyo",
+  "squadName": "Antoine Semenyo",
+  "clubId": "manchester-city",
+  "birthDate": "2000-01-07",
+  "nationalityAr": "غاني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T17:33:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي وفق قائمة صورة الفريق الرسمية في نوفمبر 2026.",
+  "summaryAr": "بدأ احترافيًا في بريستول سيتي وخاض إعارات إلى باث سيتي ونيوبورت وسندرلاند. انتقل لبورنموث في يناير 2023 ثم مانشستر سيتي في يناير 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "بريستول سيتي",
+      "typeAr": "تكوين وبداية احترافية",
+      "textAr": "بدأ مساره الاحترافي في النادي الإنجليزي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "قبل 2018/19",
+      "clubAr": "باث سيتي",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة مبكرة لا يحدد بيان سيتي تاريخها الدقيق.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2018/19",
+      "clubAr": "نيوبورت كاونتي",
+      "typeAr": "إعارة",
+      "textAr": "اكتسب خبرة وساهم في مسيرة كأس الاتحاد قبل استدعائه إلى بريستول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2019/20",
+      "clubAr": "سندرلاند",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة أخرى ثم عاد لبريستول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2023",
+      "clubAr": "بورنموث",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل إلى الدوري الإنجليزي الممتاز بعد بروزه مع بريستول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "9 يناير 2026",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا لخمس سنوات ونصف حتى صيف 2031.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "سيتي: التعاقد مع سيمينيو ومسيرته",
+      "url": "https://www.mancity.com/news/mens/antoine-semenyo-transfer-manchester-city-bournemouth-63903542"
+    },
+    {
+      "id": "birth",
+      "title": "ناشونال فوتبول تيمز: بيانات سيمينيو",
+      "url": "https://www.national-football-teams.com/player/87617/Antoine_Semenyo.html"
+    },
+    {
+      "id": "squad",
+      "title": "سيتي: قائمة صورة الفريق الأول في نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/manchester-city-squad-photo-202627-63930420"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: الدوري الإنجليزي 2026/27 وسجل المباريات",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 7,
+      "goals": 2,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T17:33:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي فقط، موسم 2026/27، حتى مباراة فولهام في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص مانشستر سيتي الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
