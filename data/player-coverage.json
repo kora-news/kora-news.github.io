@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 57,
+  "profileCount": 59,
   "players": [
     {
       "clubId": "ac-milan",
@@ -164,9 +164,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "christian-comotto",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -186,9 +186,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ardon-jashari",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",

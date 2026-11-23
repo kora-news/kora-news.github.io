@@ -1,0 +1,114 @@
+{
+  "id": "christian-comotto",
+  "nameAr": "كريستيان كوموتو",
+  "nameEn": "Christian Comotto",
+  "squadName": "Christian Comotto",
+  "clubId": "ac-milan",
+  "birthDate": "2008-04-25",
+  "nationalityAr": "إيطالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T17:17:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في بيروجيا وإنتر وفيورنتينا قبل أكاديمية ميلان في 2020. خاض إعارة لسبيتسيا في 2025/26 ثم عاد للفريق الأول وجدد حتى 2031 مع خيار عام إضافي.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2020",
+      "clubAr": "بيروجيا وإنتر وفيورنتينا",
+      "typeAr": "ناشئون",
+      "textAr": "خاض مراحل التكوين في الأندية الإيطالية قبل الانضمام لميلان.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020–2025",
+      "clubAr": "أكاديمية ميلان",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "تدرج في الناشئين ثم بريمافيرا في موسم 2024/25.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "سبيتسيا",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة في الدرجة الثانية قبل العودة. لا نثبت عدد مباريات الإعارة لأن السيرة تقول 30 والبيان يقول 28 دون توضيح نطاق الاختلاف.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "ميلان",
+      "typeAr": "عودة",
+      "textAr": "عاد من الإعارة واندمج في قائمة الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "24 يوليو 2026",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "جدد حتى 30 يونيو 2031 مع خيار عام إضافي لصالح النادي؛ الخيار ليس مدة مفعلة.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة كوموتو الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/christian-comotto"
+    },
+    {
+      "id": "contract",
+      "title": "ميلان: تجديد كوموتو حتى 2031 وخيار إضافي",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-07-24/official-statement-christian-comotto"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:17:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. كان بديلًا غير مشارك أمام فروزينوني؛ بقي رصيده في الدوري عند مشاركتين."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
