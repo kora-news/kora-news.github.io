@@ -98,7 +98,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "leny-yoro-manchester-united-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-united",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/leny-yoro",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/2ffcddae22672540fcea3ba101ce51e33b4c37c363b93a63681b77e1bd05f4c7/leny-yoro-manchester-united-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; cropped full-body image to upper body; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:26.238752+02:00",
+    "identityCheckedAgainst": "https://www.manutd.com/en/teams/mens-team/leny-yoro",
+    "identityReferenceImage": "https://dynamic-crop-cdn.scoreplay.io/472/4896325/media_102559869_102166993_compressed.jpg?fmt=webp&f=center&w=720&h=981",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

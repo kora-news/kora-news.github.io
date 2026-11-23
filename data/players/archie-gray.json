@@ -83,7 +83,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "archie-gray-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/archie-gray",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/50627fad11d53ee9474b8ec764fcae4c46195ecd3db2ed5eb4181b66b7b29dbd/archie-gray-tottenham-hotspur-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:27.614046+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/547701/archie-gray",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/1db3353f-ed6c-486b-b07b-c61b76791a1c/firstteam_profiles_202627_archiegray.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

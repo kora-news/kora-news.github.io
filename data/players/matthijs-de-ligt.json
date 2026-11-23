@@ -106,7 +106,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "matthijs-de-ligt-manchester-united-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-united",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/matthijs-de-ligt",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/3c30baa0306907bd0f5da31962fe371e380906c9e5b8934abec1aef5fe0a9725/matthijs-de-ligt-manchester-united-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:26.914955+02:00",
+    "identityCheckedAgainst": "https://www.manutd.com/en/teams/mens-team/matthijs-de-ligt",
+    "identityReferenceImage": "https://dynamic-crop-cdn.scoreplay.io/472/4896325/media_102559865_102166989.jpg?fmt=webp&f=center&w=720&h=981",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

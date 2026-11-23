@@ -115,7 +115,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "joshua-zirkzee-manchester-united-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-united",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/joshua-zirkzee",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/c4c87ac5792a558a9d32255911fb9fb3ce5e5ea222f5bc602a7505d6e7a5ae80/joshua-zirkzee-manchester-united-2026-27-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:26.036957+02:00",
+    "identityCheckedAgainst": "https://www.manutd.com/en/teams/mens-team/joshua-zirkzee",
+    "identityReferenceImage": "https://dynamic-crop-cdn.scoreplay.io/472/4896326/media_102559902_102167028.jpg?fmt=webp&f=center&w=720&h=981",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

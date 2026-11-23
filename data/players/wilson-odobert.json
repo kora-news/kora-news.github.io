@@ -101,7 +101,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "wilson-odobert-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/wilson-odobert",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/8b880eed6b5764f186af59c36e15911f341731f59eb2f9e71a96e7aca23cf0fe/wilson-odobert-tottenham-hotspur-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:29.314053+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/550839/wilson-odobert",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/db59a58e-6ce0-4be1-873d-d5ea004c94e0/firstteam_profiles_202627_wilsonodobert.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

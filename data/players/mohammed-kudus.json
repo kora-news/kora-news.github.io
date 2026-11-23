@@ -110,7 +110,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "mohammed-kudus-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/mohammed-kudus",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/e0d0124093b0b9c5b9ef03b0e20a949557828baeca1441afd3bb644f7e9cbe19/mohammed-kudus-tottenham-hotspur-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:28.781509+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/460842/mohammed-kudus",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/4362504b-ee3c-4019-974e-fc0d0b3e23c1/firstteam_profiles_202627_mohamedkudus.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

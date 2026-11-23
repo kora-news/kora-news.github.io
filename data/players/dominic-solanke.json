@@ -101,7 +101,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "dominic-solanke-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/dominic-solanke",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/35966255cabebf54b2bd97d745c4d41da533cb16130fd07e2f19f5c24f316aeb/dominic-solanke-tottenham-hotspur-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:28.069411+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/154566/dominic-solanke",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/5a7f9afe-f2c3-40e4-a6fe-ec0d34b3a503/firstteam_profiles_202627_dominicsolanke.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

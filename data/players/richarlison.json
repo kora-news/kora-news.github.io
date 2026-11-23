@@ -110,7 +110,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "richarlison-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/richarlison",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/37cd3a1386212de7bb5889fa4960887d63d77ceba7a1d339815f048e19e0b276/richarlison-tottenham-hotspur-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:29.077663+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/212319/-richarlison",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/d08b744a-c7d0-4220-9b2a-aadfe81557c0/firstteam_profiles_202627_richarlison.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

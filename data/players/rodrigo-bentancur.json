@@ -83,7 +83,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "rodrigo-bentancur-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/rodrigo-bentancur",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/ac0f4099f7258275b606fe1536ef1c6edb2ff742d2ca1ee2e373ec09df762806/rodrigo-bentancur-tottenham-hotspur-2024-25-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2024/25",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:29.135043+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/202993/rodrigo-bentancur",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/87a29be5-fb22-40b1-9f79-be228b6ca5c2/firstteam_profiles_202627_rodrigobentancur.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }

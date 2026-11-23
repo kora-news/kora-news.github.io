@@ -119,7 +119,19 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "dejan-kulusevski-tottenham-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/dejan-kulusevski",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/bd78cafff6554aa1e4f53720f7a59a3c2fbded01fdea3f6b53774cd68dcc2065/dejan-kulusevski-tottenham-hotspur-2024-25-portrait-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2024/25",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:27:27.736984+02:00",
+    "identityCheckedAgainst": "https://www.tottenhamhotspur.com/player/445044/dejan-kulusevski",
+    "identityReferenceImage": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/4ab2ea12-719b-419d-a7b8-cec1c0f7e02f/firstteam_profiles_202627_dejankulusevski.png?width=363&height=433",
+    "identityCheckedAt": "2026-11-23T21:50:00+02:00"
   }
 }
