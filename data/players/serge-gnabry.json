@@ -1,0 +1,120 @@
+{
+  "id": "serge-gnabry",
+  "nameAr": "سيرج غنابري",
+  "nameEn": "Serge Gnabry",
+  "squadName": "Serge Gnabry",
+  "clubId": "bayern-munich",
+  "birthDate": "1995-07-14",
+  "nationalityAr": "ألماني",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في ألمانيا ثم انتقل لأرسنال في 2011، وأعير لوست بروميتش قبل فيردر بريمن. ضمه بايرن في 2017 وأعاره لهوفنهايم موسمًا، ثم استقر في ميونخ منذ 2018، وعقده الحالي حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1999–2003 ثم 2003–2005",
+      "clubAr": "فايساخ ثم ديتسينغن",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته قبل شتوتغارت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2005–2011",
+      "clubAr": "أكاديمية شتوتغارت",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل إنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2011–2015",
+      "clubAr": "أرسنال",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "انتقل شابًا وتطور إلى لاعب محترف.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "وست بروميتش ألبيون",
+      "typeAr": "إعارة",
+      "textAr": "قضى فترة معارًا من أرسنال قبل العودة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2016–2017",
+      "clubAr": "فيردر بريمن",
+      "typeAr": "انتقال دائم",
+      "textAr": "عاد لألمانيا قبل انضمامه لبايرن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2017 ثم 2017/18",
+      "clubAr": "بايرن ثم هوفنهايم",
+      "typeAr": "انتقال وإعارة",
+      "textAr": "ضمه بايرن من بريمن وأعاره لهوفنهايم في عامه الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "منذ 2018",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "استقر بالفريق، وتعرض صفحته عقدًا حتى 30 يونيو 2028.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/serge-gnabry"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 5,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

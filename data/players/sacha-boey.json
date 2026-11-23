@@ -1,0 +1,120 @@
+{
+  "id": "sacha-boey",
+  "nameAr": "ساشا بوي",
+  "nameEn": "Sacha Boey",
+  "squadName": "Sacha Boey",
+  "clubId": "bayern-munich",
+  "birthDate": "2000-09-13",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في رومانفيل وريد ستار ورين، وأعير لديجون ثم انضم لغلطة سراي في 2021. انتقل لبايرن في يناير 2024، وعاد لغلطة سراي معارًا من فبراير حتى يونيو 2026 قبل العودة لميونخ.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2012 ثم 2012–2014",
+      "clubAr": "رومانفيل ثم ريد ستار",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته قبل رين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2020",
+      "clubAr": "رين",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "بدأ بالدوري الفرنسي في 5 مايو 2019.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "ديجون",
+      "typeAr": "إعارة",
+      "textAr": "أعير من رين لموسم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021–يناير 2024",
+      "clubAr": "غلطة سراي",
+      "typeAr": "انتقال دائم",
+      "textAr": "استقر في النادي التركي قبل بايرن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2024",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعقد حتى يونيو 2028.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "فبراير–يونيو 2026",
+      "clubAr": "غلطة سراي",
+      "typeAr": "إعارة",
+      "textAr": "عاد معارًا لنهاية الموسم وفق السيرة الحالية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد وأدرج ضمن القائمة الحالية.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/sacha-boey"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "bara-sapoko-ndiaye",
+  "nameAr": "بارا سابوكو ندياي",
+  "nameEn": "Bara Sapoko Ndiaye",
+  "squadName": "Bara Sapoko Ndiaye",
+  "clubId": "bayern-munich",
+  "birthDate": "2007-12-31",
+  "nationalityAr": "سنغالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرب في غامبينوس ستارز أفريكا بغامبيا، وخاض فترات اختبار في ميونخ وغراسهوبرز. انضم لبايرن معارًا في يناير 2026، ثم أتم انتقاله الدائم في أغسطس بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات حتى 2025",
+      "clubAr": "غامبينوس ستارز أفريكا",
+      "typeAr": "أكاديمية",
+      "textAr": "تدرب في أكاديمية بغامبيا ضمن مسار تعاون ريد آند غولد.",
+      "sourceIds": [
+        "permanent"
+      ]
+    },
+    {
+      "whenAr": "2024–2025",
+      "clubAr": "بايرن وغراسهوبرز",
+      "typeAr": "فترات اختبار",
+      "textAr": "زار ميونخ ثم اختبر في النادي السويسري؛ المشاركة الودية أثناء الاختبار ليست انتقالًا دائمًا.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "إعارة",
+      "textAr": "انضم من أكاديمية غامبينوس لنصف موسم.",
+      "sourceIds": [
+        "permanent",
+        "career"
+      ]
+    },
+    {
+      "whenAr": "أبريل 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "بداية بالدوري",
+      "textAr": "ظهر لأول مرة في البوندسليغا أمام سانت باولي خلال الإعارة.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "10 أغسطس 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم وعقد احترافي",
+      "textAr": "أعلن توقيع عقد حتى 30 يونيو 2031 بعد الإعارة.",
+      "sourceIds": [
+        "permanent"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/bara-sapoko-ndiaye"
+    },
+    {
+      "id": "permanent",
+      "title": "ريد آند غولد: انتقال ندياي الدائم حتى 2031",
+      "url": "https://www.rg-football.com/en/blog/fc-bayern-signs-bara-sapoko-ndiaye"
+    },
+    {
+      "id": "career",
+      "title": "الدوري الألماني: مسيرة ندياي والإعارة والاختبارات",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/bara-sapoko-ndiaye-bayern-munich-senegal-36877"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. يسجل المصدر صفر مشاركة وخانتي أهداف وتمريرات فارغتين؛ لا نحولهما إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

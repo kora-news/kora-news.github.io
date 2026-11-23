@@ -1,0 +1,111 @@
+{
+  "id": "konrad-laimer",
+  "nameAr": "كونراد لايمر",
+  "nameEn": "Konrad Laimer",
+  "squadName": "Konrad Laimer",
+  "clubId": "bayern-munich",
+  "birthDate": "1997-05-27",
+  "nationalityAr": "نمساوي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في أبرزي وسالزبورغ ومر بليفرينغ قبل فريق سالزبورغ الأول. لعب للايبزيغ بين 2017 و2023 ثم انتقل لبايرن بعد نهاية عقده حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2002–2007",
+      "clubAr": "أبرزي",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته في النمسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2007–2014",
+      "clubAr": "أكاديمية ريد بول سالزبورغ",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل المستوى الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2015",
+      "clubAr": "ليفرينغ",
+      "typeAr": "تطوير",
+      "textAr": "محطة في مسيرته بالتزامن مع صعوده لسالزبورغ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2014–2017",
+      "clubAr": "ريد بول سالزبورغ",
+      "typeAr": "الفريق الأول",
+      "textAr": "خاض بدايته في سبتمبر 2014.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2023",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى ستة أعوام في ألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2023",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال حر",
+      "textAr": "انضم بعد انتهاء عقده مع لايبزيغ؛ عقده الحالي حتى يونيو 2027.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/konrad-laimer"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

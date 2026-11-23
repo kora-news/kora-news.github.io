@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 139,
+  "profileCount": 156,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1187,9 +1187,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "nathaniel-brown",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1209,9 +1209,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "hiroki-ito",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1220,9 +1220,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "sacha-boey",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1231,9 +1231,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "josip-stanisic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1242,9 +1242,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joshua-kimmich",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1253,9 +1253,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "tom-bischof",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1264,9 +1264,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jamal-musiala",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1275,9 +1275,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "konrad-laimer",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1286,9 +1286,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "bara-sapoko-ndiaye",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1297,9 +1297,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lennart-karl",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1308,9 +1308,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "aleksandar-pavlovic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1319,9 +1319,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "david-santos-daiber",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1330,9 +1330,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "serge-gnabry",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1341,9 +1341,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "harry-kane",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1352,9 +1352,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "luis-diaz",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1363,9 +1363,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "michael-olise",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1374,9 +1374,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ismael-saibari",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "borussia-dortmund",

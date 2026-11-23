@@ -1,0 +1,122 @@
+{
+  "id": "nathaniel-brown",
+  "nameAr": "ناثانييل براون",
+  "nameEn": "Nathaniel Brown",
+  "squadName": "Nathaniel Brown",
+  "clubId": "bayern-munich",
+  "birthDate": "2003-06-16",
+  "nationalityAr": "ألماني وأمريكي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في كومرسبرغ وريغنسبورغ ونورنبرغ. وقع لفرانكفورت في يناير 2024 وبقي معارًا لنورنبرغ حتى الصيف، ثم قضى موسمين في فرانكفورت. انتقل لبايرن في يوليو 2026 بعقد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2012",
+      "clubAr": "كومرسبرغ",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته قبل ريغنسبورغ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2012–2016",
+      "clubAr": "يان ريغنسبورغ",
+      "typeAr": "ناشئون",
+      "textAr": "محطته قبل نورنبرغ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2016–يناير 2024",
+      "clubAr": "نورنبرغ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج حتى أصبح من عناصر الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "3 يناير 2024",
+      "clubAr": "آينتراخت فرانكفورت",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "وقع عقدًا نافذًا فورًا حتى 2029، وأعير مباشرة لنورنبرغ لبقية الموسم.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024–يوليو 2026",
+      "clubAr": "آينتراخت فرانكفورت",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "انضم للفريق وقضى موسمين قبل بايرن.",
+      "sourceIds": [
+        "departure"
+      ]
+    },
+    {
+      "whenAr": "3 يوليو 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن فرانكفورت رحيله فورًا، وعقده المنشور في بايرن حتى 30 يونيو 2031.",
+      "sourceIds": [
+        "departure",
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/nathaniel-brown"
+    },
+    {
+      "id": "arrival",
+      "title": "فرانكفورت: ضم براون وإعارته مباشرة لنورنبرغ",
+      "url": "https://profis.eintracht.de/news/eintracht-frankfurt-verpflichtet-nathaniel-brown-155864/"
+    },
+    {
+      "id": "departure",
+      "title": "فرانكفورت: انتقال براون لبايرن",
+      "url": "https://profis.eintracht.de/news/abgang-nathaniel-brown-178073/"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 10,
+      "goals": 2,
+      "assists": 2,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

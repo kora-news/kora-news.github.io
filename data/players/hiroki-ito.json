@@ -1,0 +1,107 @@
+{
+  "id": "hiroki-ito",
+  "nameAr": "هيروكي إيتو",
+  "nameEn": "Hiroki Ito",
+  "squadName": "Hiroki Ito",
+  "clubId": "bayern-munich",
+  "birthDate": "1999-05-12",
+  "nationalityAr": "ياباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "بدأ في جوبيلو إيواتا وأعير لناغويا في 2019، ثم انتقل لشتوتغارت معارًا في 2021 ونهائيًا في 2022. انضم لبايرن في يوليو 2024 بعقد حتى 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم أبريل 2018",
+      "clubAr": "جوبيلو إيواتا",
+      "typeAr": "ناشئون وبداية احترافية",
+      "textAr": "بدأ احترافيًا في كأس الرابطة اليابانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "ناغويا غرامبوس",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة قبل العودة لجوبيلو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2021",
+      "clubAr": "شتوتغارت",
+      "typeAr": "إعارة",
+      "textAr": "انتقل من جوبيلو إلى ألمانيا على سبيل الإعارة.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "20 مايو 2022",
+      "clubAr": "شتوتغارت",
+      "typeAr": "تفعيل شراء",
+      "textAr": "فعّل النادي خيار الشراء وحول الانتقال إلى دائم.",
+      "sourceIds": [
+        "purchase"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2024",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعد ثلاثة أعوام في شتوتغارت، وعقده الحالي حتى يونيو 2028.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/hiroki-ito"
+    },
+    {
+      "id": "purchase",
+      "title": "شتوتغارت: تفعيل شراء إيتو بعد الإعارة",
+      "url": "https://www.vfb.de/en/vfb/latest/news/professionals/2122/vfb-stuttgart-zieht-kaufoption-bei-hiroki-ito/"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 2,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

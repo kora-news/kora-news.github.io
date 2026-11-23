@@ -1,0 +1,107 @@
+{
+  "id": "josip-stanisic",
+  "nameAr": "يوسيب ستانيشيتش",
+  "nameEn": "Josip Stanišić",
+  "squadName": "Josip Stanišić",
+  "clubId": "bayern-munich",
+  "birthDate": "2000-04-02",
+  "nationalityAr": "كرواتي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "بدأ في بيرلاخ وميونخ 1860 وفورستنفيلدبروك، ثم ناشئي بايرن في 2017 والفريق الأول في 2021. أعير لليفركوزن في 2023/24 قبل العودة والتجديد حتى 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات حتى 2015",
+      "clubAr": "بيرلاخ ثم ميونخ 1860",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في ميونخ قبل فورستنفيلدبروك.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "فورستنفيلدبروك",
+      "typeAr": "ناشئون",
+      "textAr": "قضى عامين قبل بايرن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2017 ثم 2021",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "ناشئون ورديف وتصعيد",
+      "textAr": "وصل للناشئين ثم الرديف والفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "إعارة",
+      "textAr": "فاز بثنائية الدوري والكأس أثناء الإعارة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "27 يونيو 2024",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "عودة وتجديد",
+      "textAr": "أعلن النادي تمديده حتى 30 يونيو 2029 عقب الإعارة.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/josip-stani%C5%A1i%C4%87"
+    },
+    {
+      "id": "contract",
+      "title": "بايرن: عودة ستانيشيتش وتمديده حتى 2029",
+      "url": "https://fcbayern.com/de/news/2024/06/zurueck-in-der-heimat-fc-bayern-und-josip-stanisic-verlaengern-bis-2029"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

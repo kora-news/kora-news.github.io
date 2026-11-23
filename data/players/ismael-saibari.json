@@ -1,0 +1,109 @@
+{
+  "id": "ismael-saibari",
+  "nameAr": "إسماعيل صيباري",
+  "nameEn": "Ismael Saibari",
+  "squadName": "Ismael Saibari",
+  "clubId": "bayern-munich",
+  "birthDate": "2001-01-28",
+  "nationalityAr": "مغربي وبلجيكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في أندرلخت وميخيلين وغينك، ثم انتقل لرديف آيندهوفن في 2020 ووصل لفريقه الأول. انضم لبايرن في يوليو 2026 بعقد حتى يونيو 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى 2015",
+      "clubAr": "أندرلخت",
+      "typeAr": "ناشئون",
+      "textAr": "إحدى محطاته الأولى في بلجيكا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "ميخيلين",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل غينك.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2020",
+      "clubAr": "غينك",
+      "typeAr": "ناشئون",
+      "textAr": "المحطة البلجيكية السابقة لهولندا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2020 ثم نوفمبر 2020",
+      "clubAr": "آيندهوفن",
+      "typeAr": "انتقال للرديف ثم الفريق الأول",
+      "textAr": "انضم من غينك للرديف ثم ظهر بالفريق الأول في نوفمبر.",
+      "sourceIds": [
+        "current",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "أكد آيندهوفن الصفقة لخمس سنوات، وتحدد صفحة بايرن النهاية في 30 يونيو 2031.",
+      "sourceIds": [
+        "current",
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/ismael-saibari"
+    },
+    {
+      "id": "arrival",
+      "title": "آيندهوفن: انتقال صيباري لبايرن",
+      "url": "https://www.psv.nl/en/media/article/transfer-ismael-saibari-leaves-for-fc-bayern-munchen"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 8,
+      "goals": 2,
+      "assists": 2,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

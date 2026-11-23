@@ -1,0 +1,134 @@
+{
+  "id": "harry-kane",
+  "nameAr": "هاري كين",
+  "nameEn": "Harry Kane",
+  "squadName": "Harry Kane",
+  "clubId": "bayern-munich",
+  "birthDate": "1993-07-28",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في ريدجواي وأرسنال وواتفورد قبل توتنهام في 2004. خاض أربع إعارات ثم استقر في الفريق، وأصبح هدافه التاريخي قبل الانتقال لبايرن في أغسطس 2023 بعقد حتى 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2004",
+      "clubAr": "ريدجواي روفرز وأرسنال وواتفورد",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته قبل توتنهام.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2004 ثم يوليو 2010",
+      "clubAr": "توتنهام هوتسبير",
+      "typeAr": "ناشئون ثم احتراف",
+      "textAr": "تدرج في الأكاديمية ووقع عقده الاحترافي الأول في 2010.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2011",
+      "clubAr": "ليتون أورينت",
+      "typeAr": "إعارة",
+      "textAr": "أعير لاكتساب خبرة الكبار.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير–يونيو 2012",
+      "clubAr": "ميلوول",
+      "typeAr": "إعارة",
+      "textAr": "محطة إعارة من توتنهام.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2012–فبراير 2013",
+      "clubAr": "نورويتش سيتي",
+      "typeAr": "إعارة",
+      "textAr": "إعارة قبل ليستر.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2012/13",
+      "clubAr": "ليستر سيتي",
+      "typeAr": "إعارة",
+      "textAr": "إعارة خلال النصف الثاني من موسم 2012/13 قبل العودة لتوتنهام في صيف 2013.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2013–أغسطس 2023",
+      "clubAr": "توتنهام هوتسبير",
+      "typeAr": "عودة واستقرار",
+      "textAr": "استقر بالفريق الأول وأصبح هداف النادي التاريخي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "12 أغسطس 2023",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من توتنهام بعقد حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/harry-kane"
+    },
+    {
+      "id": "career",
+      "title": "بايرن: تقديم كين وتسلسل إعاراته",
+      "url": "https://fcbayern.com/en/news/2023/08/introducing-harry-kane"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 10,
+      "goals": 4,
+      "assists": 8,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

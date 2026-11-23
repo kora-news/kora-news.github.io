@@ -1,0 +1,107 @@
+{
+  "id": "luis-diaz",
+  "nameAr": "لويس دياز",
+  "nameEn": "Luis Díaz",
+  "squadName": "Luis Díaz",
+  "clubId": "bayern-munich",
+  "birthDate": "1997-01-13",
+  "nationalityAr": "كولومبي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "بدأ مع بارانكيا ثم أتلتيكو جونيور، وانتقل لبورتو في 2019 وليفربول في يناير 2022. انضم لبايرن في يوليو 2025 بعقد حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016",
+      "clubAr": "بارانكيا",
+      "typeAr": "بداية احترافية",
+      "textAr": "ظهر مع الفريق الأول في الدرجة الثانية الكولومبية.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "أتلتيكو جونيور",
+      "typeAr": "انتقال",
+      "textAr": "قضى موسمين قبل أوروبا.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019–يناير 2022",
+      "clubAr": "بورتو",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطته الأوروبية الأولى.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "يناير 2022–يوليو 2025",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من بورتو في يناير 2022 وقضى ثلاثة أعوام ونصف قبل ميونخ.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "30 يوليو 2025",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من ليفربول بعقد حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "arrival"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/luis-diaz"
+    },
+    {
+      "id": "arrival",
+      "title": "بايرن: إعلان ضم دياز ومسيرته",
+      "url": "https://fcbayern.com/en/news/2025/07/fc-bayern-sign-luis-diaz-from-liverpool"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 6,
+      "goals": 4,
+      "assists": 1,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

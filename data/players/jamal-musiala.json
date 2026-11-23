@@ -1,0 +1,116 @@
+{
+  "id": "jamal-musiala",
+  "nameAr": "جمال موسيالا",
+  "nameEn": "Jamal Musiala",
+  "squadName": "Jamal Musiala",
+  "clubId": "bayern-munich",
+  "birthDate": "2003-02-26",
+  "nationalityAr": "ألماني وإنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في لينرز وساوثهامبتون وتشيلسي، ثم انتقل لأكاديمية بايرن في يوليو 2019 ووصل للفريق الأول. جدد في فبراير 2025 حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2010",
+      "clubAr": "لينرز",
+      "typeAr": "ناشئون",
+      "textAr": "بدايته قبل الانتقال لإنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2010–2011",
+      "clubAr": "ساوثهامبتون",
+      "typeAr": "ناشئون",
+      "textAr": "قضى مرحلة في أكاديمية النادي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2011–2019",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل العودة لألمانيا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "4 يوليو 2019",
+      "clubAr": "أكاديمية بايرن ميونخ",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم من أكاديمية تشيلسي ثم وصل للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "تصعيد",
+      "textAr": "بدأ مسيرته مع الفريق الأول وهو في السابعة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "14 فبراير 2025",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/jamal-musiala"
+    },
+    {
+      "id": "contract",
+      "title": "بايرن: تجديد موسيالا حتى 2030",
+      "url": "https://fcbayern.com/en/news/2025/02/jamal-musiala-signs-contract-extension-with-fc-bayern-to-2030"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 4,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

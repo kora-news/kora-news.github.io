@@ -1,0 +1,98 @@
+{
+  "id": "david-santos-daiber",
+  "nameAr": "ديفيد سانتوس دايبر",
+  "nameEn": "David Santos Daiber",
+  "squadName": "David Santos Daiber",
+  "clubId": "bayern-munich",
+  "birthDate": "2007-01-10",
+  "nationalityAr": "ألماني وبرتغالي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "انضم من ميلبرتسهوفن لأكاديمية بايرن في 2016 وتدرج للرديف والفريق الأول. بدأ احترافيًا في ديسمبر 2025، وأعلن النادي في مارس 2026 عقده الاحترافي حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2016",
+      "clubAr": "ميلبرتسهوفن",
+      "typeAr": "ناشئون",
+      "textAr": "ناديه قبل أكاديمية بايرن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2016",
+      "clubAr": "أكاديمية بايرن ميونخ",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم في التاسعة وتدرج نحو الرديف والفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "ديسمبر 2025",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "بداية احترافية",
+      "textAr": "ظهر في الفوز 4–0 على هايدنهايم.",
+      "sourceIds": [
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "مارس 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "عقد احترافي",
+      "textAr": "يؤكد إعلان النادي أول عقد احترافي حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/david-santos-daiber"
+    },
+    {
+      "id": "contract",
+      "title": "بايرن: عقد سانتوس دايبر حتى 2030",
+      "url": "https://fcbayern.com/de/news/2026/03/fc-bayern-verlaengert-mit-santos-daiber"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. يسجله جدول المصدر باسم David Daiber بصفر مشاركة، وخانتا الأهداف والتمريرات فارغتان؛ لا نحولهما إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

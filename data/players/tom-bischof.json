@@ -1,0 +1,98 @@
+{
+  "id": "tom-bischof",
+  "nameAr": "توم بيشوف",
+  "nameEn": "Tom Bischof",
+  "squadName": "Tom Bischof",
+  "clubId": "bayern-munich",
+  "birthDate": "2005-06-28",
+  "nationalityAr": "ألماني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "بدأ في أمورباخ ثم أكاديمية هوفنهايم في 2015. ظهر بالبوندسليغا في مارس 2022، وانتقل لبايرن في صيف 2025 بعد نهاية عقده، حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008–2015",
+      "clubAr": "أمورباخ",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في نادي بلدته.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2021",
+      "clubAr": "أكاديمية هوفنهايم",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "تدرج نحو الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "هوفنهايم",
+      "typeAr": "الفريق الأول",
+      "textAr": "خاض بدايته بالبوندسليغا في مارس 2022 وهو في السادسة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 يناير 2025، نافذ صيفًا",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "اتفاق انتقال حر",
+      "textAr": "أعلن النادي ضمه مجانًا بعد انتهاء عقده مع هوفنهايم حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/tom-bischof"
+    },
+    {
+      "id": "contract",
+      "title": "بايرن: اتفاق ضم بيشوف في صيف 2025",
+      "url": "https://fcbayern.com/en/news/2025/01/fc-bayern-sign-tom-bischof"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 3,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

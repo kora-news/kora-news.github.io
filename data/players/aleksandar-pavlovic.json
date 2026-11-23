@@ -1,0 +1,107 @@
+{
+  "id": "aleksandar-pavlovic",
+  "nameAr": "ألكسندر بافلوفيتش",
+  "nameEn": "Aleksandar Pavlović",
+  "squadName": "Aleksandar Pavlović",
+  "clubId": "bayern-munich",
+  "birthDate": "2004-05-03",
+  "nationalityAr": "ألماني",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "انتقل من فورستنفيلدبروك لأكاديمية بايرن في 2011. ظهر مع الرديف في مارس 2023 والفريق الأول في أكتوبر من العام نفسه، وجدد حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2011",
+      "clubAr": "فورستنفيلدبروك",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ قبل أكاديمية بايرن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2011–2023",
+      "clubAr": "أكاديمية بايرن ميونخ",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم في السابعة وتدرج بالفئات السنية.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "10 مارس 2023",
+      "clubAr": "رديف بايرن ميونخ",
+      "typeAr": "بداية بمستوى الكبار",
+      "textAr": "ظهر أمام بوخباخ في الدوري الإقليمي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "28 أكتوبر 2023",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "بداية بالدوري الألماني",
+      "textAr": "شارك أمام دارمشتات قبل توقيع عقده الاحترافي الأول بأيام.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2024",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 2029 وفق مادة النادي المنشورة في 16 يونيو، وتحدد صفحته النهاية في 30 يونيو.",
+      "sourceIds": [
+        "career"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/aleksandar-pavlovic"
+    },
+    {
+      "id": "career",
+      "title": "بايرن: محطات بافلوفيتش وتجديده حتى 2029",
+      "url": "https://fcbayern.com/de/news/2024/06/die-bisherigen-meilensteine-von-aleksandar-pavlovic-beim-fc-bayern"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 9,
+      "goals": 2,
+      "assists": 1,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

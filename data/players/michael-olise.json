@@ -1,0 +1,111 @@
+{
+  "id": "michael-olise",
+  "nameAr": "مايكل أوليسيه",
+  "nameEn": "Michael Olise",
+  "squadName": "Michael Olise",
+  "clubId": "bayern-munich",
+  "birthDate": "2001-12-12",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T18:17:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "مر بأكاديميات أرسنال وتشيلسي ومانشستر سيتي وريدينغ، وبدأ احترافيًا مع ريدينغ. انتقل لكريستال بالاس في 2021 ثم بايرن في يوليو 2024 بعقد حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2009",
+      "clubAr": "أرسنال",
+      "typeAr": "ناشئون",
+      "textAr": "محطة مبكرة في أكاديميات إنجلترا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2009–2016",
+      "clubAr": "تشيلسي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل سيتي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2016–2017",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "قضى مرحلة قبل ريدينغ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017–2021",
+      "clubAr": "ريدينغ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "خاض بدايته الاحترافية في التشامبيونشيب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2021–2024",
+      "clubAr": "كريستال بالاس",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل للدوري الإنجليزي الممتاز.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "7 يوليو 2024",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم بعقد حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/michael-olise"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 10,
+      "goals": 6,
+      "assists": 3,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:17:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
