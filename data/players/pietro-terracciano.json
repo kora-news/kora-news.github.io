@@ -1,0 +1,129 @@
+{
+  "id": "pietro-terracciano",
+  "nameAr": "بيترو تيراتشيانو",
+  "nameEn": "Pietro Terracciano",
+  "squadName": "Pietro Terracciano",
+  "clubId": "ac-milan",
+  "birthDate": "1990-03-08",
+  "nationalityAr": "إيطالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:12:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ في ناشئي أفيلينو ثم لعب لنوكَرينا وميلازو وكاتانيا، وخاض إعارات قبل الانتقال إلى إمبولي وفيورنتينا. انضم إلى ميلان في يوليو 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "الناشئون ثم 2009/10",
+      "clubAr": "أفيلينو ثم نوكيرينا",
+      "typeAr": "ناشئون وبداية احتراف",
+      "textAr": "بدأ في قطاع ناشئي أفيلينو، وخاض بداياته الاحترافية مع نوكيرينا ثم ميلازو في الموسم التالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2011",
+      "clubAr": "كاتانيا",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى كاتانيا قبل إعارات إلى أندية أخرى.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2013/14 ثم 2014/15",
+      "clubAr": "أفيلينو ثم كاتانيا",
+      "typeAr": "إعارة ثم عودة",
+      "textAr": "أعير لأفيلينو ثم عاد إلى كاتانيا قبل إعارته التالية.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2015–2017",
+      "clubAr": "ساليرنيتانا",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة لموسمين ثم انتقل إلى إمبولي في يوليو 2017.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير ثم يوليو 2019",
+      "clubAr": "فيورنتينا",
+      "typeAr": "إعارة ثم انتقال دائم",
+      "textAr": "انضم معارًا من إمبولي، ثم استمر بعقد دائم حتى انتقاله إلى ميلان في 2025؛ السيرة الرسمية تذكر نهاية 2024 رغم استمرار سجله مع فيورنتينا إلى 2025.",
+      "sourceIds": [
+        "career",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "18 يوليو 2025",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال دائم",
+      "textAr": "أعلن النادي عقدًا حتى يونيو 2026 مع تمديد مشروط حتى يونيو 2027. يسرد فوت موب حاليًا يونيو 2027، لكننا لا نقدم تفعيل البنود كإعلان رسمي جديد.",
+      "sourceIds": [
+        "arrival",
+        "career"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة تيراتشيانو الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/pietro-terracciano"
+    },
+    {
+      "id": "arrival",
+      "title": "ميلان: ضم بيترو تيراتشيانو وشروط عقده",
+      "url": "https://www.acmilan.com/en/news/articles/media/2025-07-18/official-statement-pietro-terracciano"
+    },
+    {
+      "id": "career",
+      "title": "فوت موب: تسلسل مسيرة تيراتشيانو وعقده",
+      "url": "https://www.fotmob.com/en-GB/players/281762/pietro-terracciano"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:12:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. جدول الدوري يسجل صفر مشاركة حتى 8 نوفمبر ولم يشارك أمام فروزينوني؛ نترك الأهداف والتمريرات غير مثبتة لأن خلايا المصدر فارغة."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "lorenzo-torriani",
+  "nameAr": "لورينزو تورياني",
+  "nameEn": "Lorenzo Torriani",
+  "squadName": "Lorenzo Torriani",
+  "clubId": "ac-milan",
+  "birthDate": "2005-01-31",
+  "nationalityAr": "إيطالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:12:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "انضم إلى قطاع ناشئي ميلان في يوليو 2013 وتدرج إلى الفريق الأول وميلان فوتورو. بدأ احترافيًا أمام ليفربول في سبتمبر 2024 وجدد عقده حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "يوليو 2013",
+      "clubAr": "أكاديمية ميلان",
+      "typeAr": "ناشئون",
+      "textAr": "التحق بقطاع الناشئين وتدرج في فئاته.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "نهاية 2023/24 وصيف 2024",
+      "clubAr": "ميلان",
+      "typeAr": "تصعيد",
+      "textAr": "تلقى استدعاءاته الأولى للفريق الأول ثم شارك في الجولة التحضيرية بالولايات المتحدة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "17 سبتمبر 2024",
+      "clubAr": "ميلان",
+      "typeAr": "بداية احترافية",
+      "textAr": "حل بدلًا من مينيان المصاب أمام ليفربول في دوري الأبطال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25 و2025/26",
+      "clubAr": "ميلان فوتورو وميلان",
+      "typeAr": "تطوير",
+      "textAr": "جمع بين الفريق الأول والرديف، وسجلت سيرته 23 مشاركة مع فوتورو في 2025/26.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 مايو 2025",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي تمديده حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة تورياني الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/lorenzo-torriani"
+    },
+    {
+      "id": "renewal",
+      "title": "ميلان: تجديد تورياني حتى 2030",
+      "url": "https://www.acmilan.com/en/news/articles/media/2025-05-21/official-statement-lorenzo-torriani"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:12:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. صفر مشاركة في الدوري، ولا نخلطها بمشاركتيه الأوروبيتين. كان بديلًا غير مشارك أمام فروزينوني؛ خلايا الأهداف والتمريرات فارغة في المصدر."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

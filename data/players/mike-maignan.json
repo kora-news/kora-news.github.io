@@ -1,0 +1,118 @@
+{
+  "id": "mike-maignan",
+  "nameAr": "مايك مينيان",
+  "nameEn": "Mike Maignan",
+  "squadName": "Mike Maignan",
+  "clubId": "ac-milan",
+  "birthDate": "1995-07-03",
+  "nationalityAr": "فرنسي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T17:12:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تكون في باريس سان جيرمان ثم انتقل إلى ليل عام 2015. انضم إلى ميلان في يوليو 2021، وأصبح قائدًا للفريق وجدد عقده حتى يونيو 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في قطاع الناشئين حتى الوصول إلى مجموعة الفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2015",
+      "clubAr": "ليل",
+      "typeAr": "انتقال",
+      "textAr": "انتقل من باريس إلى ليل وقضى ستة مواسم، وتوج بالدوري الفرنسي 2020/21.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "27 مايو ثم 1 يوليو 2021",
+      "clubAr": "ميلان",
+      "typeAr": "توقيع ثم التحاق",
+      "textAr": "أعلن ميلان توقيعه من ليل في مايو، على أن يبدأ ارتباطه بالنادي في 1 يوليو 2021.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "ميلان",
+      "typeAr": "قيادة الفريق",
+      "textAr": "أصبح قائدًا للفريق خلال الموسم وفق سيرته الحالية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "31 يناير 2026",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "أكد بيان النادي بالإيطالية تمديده حتى 30 يونيو 2031. نستخدم البيان المؤرخ بدل 2030 المذكورة في السيرة.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة مينيان الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/mike-maignan"
+    },
+    {
+      "id": "arrival",
+      "title": "ميلان: إعلان ضم مينيان عام 2021",
+      "url": "https://www.acmilan.com/en/news/articles/media/2021-05-27/official-statement-mike-maignan"
+    },
+    {
+      "id": "renewal",
+      "title": "ميلان: بيان تجديد مينيان حتى 2031",
+      "url": "https://www.acmilan.com/it/news/articoli/media/2026-01-31/comunicato-ufficiale-mike-maignan"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 12,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:12:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

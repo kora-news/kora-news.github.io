@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 44,
+  "profileCount": 50,
   "players": [
     {
       "clubId": "ac-milan",
@@ -10,9 +10,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "mike-maignan",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -21,9 +21,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pietro-terracciano",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -32,9 +32,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "lorenzo-torriani",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -43,9 +43,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "davide-bartesaghi",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -54,9 +54,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "koni-de-winter",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",
@@ -109,9 +109,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://www.acmilan.com/en/teams/men-first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "strahinja-pavlovic",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "ac-milan",

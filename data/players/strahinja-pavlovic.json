@@ -1,0 +1,122 @@
+{
+  "id": "strahinja-pavlovic",
+  "nameAr": "ستراهينيا بافلوفيتش",
+  "nameEn": "Strahinja Pavlović",
+  "squadName": "Strahinja Pavlović",
+  "clubId": "ac-milan",
+  "birthDate": "2001-05-24",
+  "nationalityAr": "صربي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:12:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في بارتيزان وظهر مع فريقه الأول في 2019. انتقل إلى موناكو وخاض إعارات قبل سالزبورغ، ثم انضم لميلان في يوليو 2024 وجدد حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "23 فبراير 2019",
+      "clubAr": "بارتيزان",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "تدرج في أكاديمية النادي وبدأ أمام بروليتر نوفي ساد بعمر 17 عامًا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020 ثم الصيف",
+      "clubAr": "موناكو وبارتيزان",
+      "typeAr": "انتقال وإعارة عكسية",
+      "textAr": "تعاقد معه موناكو وتركه معارًا في بارتيزان حتى نهاية الموسم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بعد الوصول إلى موناكو",
+      "clubAr": "سيركل بروج ثم بازل",
+      "typeAr": "إعارتان",
+      "textAr": "خاض تجربتين على سبيل الإعارة بعد قلة مشاركاته في موناكو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2022",
+      "clubAr": "ريد بول سالزبورغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل نهائيًا إلى النادي النمساوي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2024",
+      "clubAr": "ميلان",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى ميلان وفق بيان التجديد الأحدث.",
+      "sourceIds": [
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "14 أكتوبر 2026",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع تمديدًا حتى 30 يونيو 2031 مع خيار تمديد إضافي لا نعده مدة مفعلة.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة بافلوفيتش الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/strahinja-pavlovic"
+    },
+    {
+      "id": "renewal",
+      "title": "ميلان: تمديد بافلوفيتش حتى 2031",
+      "url": "https://www.acmilan.com/en/news/articles/media/2026-10-14/official-statement-strahinja-pavlovic"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:12:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}

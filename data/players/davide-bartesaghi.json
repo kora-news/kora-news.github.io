@@ -1,0 +1,114 @@
+{
+  "id": "davide-bartesaghi",
+  "nameAr": "دافيدي بارتيساغي",
+  "nameEn": "Davide Bartesaghi",
+  "squadName": "Davide Bartesaghi",
+  "clubId": "ac-milan",
+  "birthDate": "2005-12-29",
+  "nationalityAr": "إيطالي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T17:12:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لميلان وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج في أتالانتا ثم أكاديمية ميلان، ووصل للفريق الأول في صيف 2023. جمع بينه وبين ميلان فوتورو قبل الاستقرار ضمن خيارات الفريق الأول، وجدد حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أتالانتا ثم أكاديمية ميلان",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في أكاديمية ميلان. السيرة تذكر 2012، بينما إعلان التجديد يقول إنه انضم في الثامنة؛ لا نحسم سنة متعارضة.",
+      "sourceIds": [
+        "current",
+        "renewal"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "شباب ميلان",
+      "typeAr": "بريمافيرا",
+      "textAr": "وصل إلى فريق الشباب وشارك في بلوغ المربع الذهبي لدوري أبطال أوروبا للشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023",
+      "clubAr": "ميلان",
+      "typeAr": "تصعيد",
+      "textAr": "انضم إلى مجموعة الفريق الأول ثم خاض بدايته في الدوري أمام فيرونا يوم 23 سبتمبر 2023.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2024/25",
+      "clubAr": "ميلان فوتورو وميلان",
+      "typeAr": "تطوير",
+      "textAr": "جمع بين الرديف والفريق الأول وسجل هدفه الاحترافي الأول مع فوتورو أمام لينياغو.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 مايو 2025",
+      "clubAr": "ميلان",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2030 وفق بيان النادي.",
+      "sourceIds": [
+        "renewal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "ميلان: سيرة بارتيساغي الرسمية",
+      "url": "https://www.acmilan.com/en/teams/men-first-team/players/davide-bartesaghi"
+    },
+    {
+      "id": "renewal",
+      "title": "ميلان: تجديد بارتيساغي حتى 2030",
+      "url": "https://www.acmilan.com/en/news/articles/media/2025-05-21/official-statement-davide-bartesaghi"
+    },
+    {
+      "id": "squadstats",
+      "title": "FBref: جدول ميلان قبل مباراة فروزينوني، حتى 8 نوفمبر",
+      "url": "https://fbref.com/en/squads/dc56fe14/2026-2027/all_comps/Milan-Stats-All-Competitions"
+    },
+    {
+      "id": "match",
+      "title": "ميلان: تقرير فروزينوني والتشكيل والتبديلات، 22 نوفمبر",
+      "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-hits-five-at-san-siro"
+    },
+    {
+      "id": "matchstats",
+      "title": "FBref: إحصاءات مباراة ميلان وفروزينوني، 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/25afa302/Milan-Frosinone-November-22-2026-Serie-A"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإيطالي",
+      "season": "2026/27",
+      "clubAr": "ميلان",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T17:12:00+02:00",
+      "sourceIds": [
+        "squadstats",
+        "match",
+        "matchstats"
+      ],
+      "noteAr": "أرقام الدوري الإيطالي فقط حتى 22 نوفمبر 2026. جدول الموسم المفحوص يتوقف عند 8 نوفمبر؛ أضفنا مشاركة مباراة فروزينوني عند ثبوتها في تقرير المباراة وإحصاءاتها. لا تشمل أوروبا أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص ميلان الحالي. لن نستبدلها بقميص قديم أو صورة للمنتخب."
+  }
+}
