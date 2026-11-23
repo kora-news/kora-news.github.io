@@ -1,0 +1,129 @@
+{
+  "clubId": "liverpool",
+  "checkedAt": "2026-11-23T14:21:00+02:00",
+  "feesNoteAr": "لا نعرض رسوم الانتقالات في هذه النسخة. غياب قيمة موثقة هنا لا يعني أن الانتقال كان مجانيًا.",
+  "sourceIds": [
+    "current",
+    "birth",
+    "career"
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T14:21:00+02:00",
+      "sourceIds": [
+        "stats",
+        "latest-match"
+      ],
+      "noteAr": "بيانات الدوري فقط من سجل FBref حتى مباراة مانشستر يونايتد يوم 22 نوفمبر. لا تشمل أهداف المنتخب أو الكؤوس."
+    }
+  ],
+  "id": "virgil-van-dijk",
+  "nameAr": "فيرجيل فان دايك",
+  "nameEn": "Virgil van Dijk",
+  "squadName": "Virgil van Dijk",
+  "birthDate": "1991-07-08",
+  "nationalityAr": "هولندي",
+  "positionAr": "مدافع",
+  "statusAr": "مدافع وقائد ليفربول، وفق صفحة الفريق الرسمية وقت المراجعة.",
+  "summaryAr": "بدأ فان دايك مسيرته مع الفريق الأول في جرونينجن، ثم لعب لسيلتيك وساوثهامبتون قبل انتقاله إلى ليفربول في يناير 2018. يعرض التسلسل محطات انتقاله دون تحويل إحصاءات المقالات القديمة إلى أرقام حالية.",
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: صفحة فان دايك الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/virgil-van-dijk"
+    },
+    {
+      "id": "groningen",
+      "title": "جرونينجن: إعلان انتقال فان دايك إلى سيلتيك، 21 يونيو 2013",
+      "url": "https://www.fcgroningen.nl/nieuws/fc-groningen-en-celtic-zijn-het-eens-over-transfer-van-dijk/"
+    },
+    {
+      "id": "career",
+      "title": "ليفربول: مسيرة فان دايك عند انضمامه، 1 يناير 2018",
+      "url": "https://www.liverpoolfc.com/news/first-team/285593-gallery-virgil-van-dijk-s-career-so-far-in-photographs"
+    },
+    {
+      "id": "southampton",
+      "title": "ليفربول: فان دايك يستعرض عشر سنوات في الدوري الإنجليزي",
+      "url": "https://www.liverpoolfc.com/news/virgil-van-dijk-premier-league-longevity-leadership-and-liverpool-responsibility"
+    },
+    {
+      "id": "birth",
+      "title": "صفحة مزاد ليفربول الرسمية: بيانات تاريخ الميلاد والجنسية",
+      "url": "https://auction.liverpoolfc.com/us/product/virgil-van-dijk-TQuH6eWc40KuLOfifAio1g"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل فان دايك، موسم 2026/27",
+      "url": "https://fbref.com/en/players/e06683ca/matchlogs/2026-2027/Virgil-van-Dijk-Match-Logs"
+    },
+    {
+      "id": "latest-match",
+      "title": "ليفربول: تقرير مباراة مانشستر يونايتد، 22 نوفمبر 2026",
+      "url": "https://www.liverpoolfc.com/news/match-report-liverpool-4-0-manchester-united-premier-league"
+    },
+    {
+      "id": "photo",
+      "title": "Wikimedia Commons: الصورة الأصلية لفان دايك بقميص ليفربول، Timmy96، CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Alisson_Becker_and_Virgil_van_Dijk_04012026_(1).jpg"
+    }
+  ],
+  "career": [
+    {
+      "whenAr": "2010",
+      "clubAr": "جرونينجن",
+      "typeAr": "انضمام",
+      "textAr": "انضم من فريق شباب فيليم الثاني، ثم ظهر مع الفريق الأول في مايو 2011.",
+      "sourceIds": [
+        "groningen"
+      ]
+    },
+    {
+      "whenAr": "21 يونيو 2013",
+      "clubAr": "سيلتيك",
+      "typeAr": "انتقال",
+      "textAr": "أعلن جرونينجن اتفاق انتقاله المباشر إلى سيلتيك.",
+      "sourceIds": [
+        "groningen"
+      ]
+    },
+    {
+      "whenAr": "1 سبتمبر 2015",
+      "clubAr": "ساوثهامبتون",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى الدوري الإنجليزي من سيلتيك عبر ساوثهامبتون.",
+      "sourceIds": [
+        "southampton"
+      ]
+    },
+    {
+      "whenAr": "1 يناير 2018",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال",
+      "textAr": "أكمل انتقاله من ساوثهامبتون بعقد طويل الأجل، وحصل على القميص رقم 4.",
+      "sourceIds": [
+        "career"
+      ]
+    }
+  ],
+  "photo": {
+    "file": "virgil-van-dijk-liverpool.jpg",
+    "status": "current-shirt-verified",
+    "currentClubId": "liverpool",
+    "sourceIds": [
+      "photo"
+    ],
+    "author": "Timmy96",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "takenAt": "2026-01-04",
+    "modifications": "Cropped and resized; no kit changes."
+  }
+}

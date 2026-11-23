@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 1,
+  "profileCount": 3,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2738,9 +2738,9 @@
       "positionAr": "الوسط",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dominik-szoboszlai",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-verified"
     },
     {
       "clubId": "liverpool",
@@ -2804,9 +2804,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.liverpoolfc.com/teams/mens-team",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "virgil-van-dijk",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-verified"
     },
     {
       "clubId": "liverpool",

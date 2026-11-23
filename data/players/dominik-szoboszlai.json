@@ -1,0 +1,145 @@
+{
+  "clubId": "liverpool",
+  "checkedAt": "2026-11-23T14:21:00+02:00",
+  "feesNoteAr": "لا نعرض رسوم الانتقالات في هذه النسخة. غياب قيمة موثقة هنا لا يعني أن الانتقال كان مجانيًا.",
+  "sourceIds": [
+    "current",
+    "birth",
+    "contract"
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "ليفربول",
+      "appearances": 9,
+      "goals": 2,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T14:21:00+02:00",
+      "sourceIds": [
+        "stats",
+        "latest-match"
+      ],
+      "noteAr": "أرقام الدوري فقط من صفحة FBref الحالية حتى مباراة مانشستر يونايتد يوم 22 نوفمبر، التي أكد تقرير النادي تسجيله فيها. بعض صفحات سجل المباريات الأقدم لا تشمل تلك المباراة؛ لا نخلطها بالأرقام المحدثة أو بأهداف المنتخب والكؤوس."
+    }
+  ],
+  "id": "dominik-szoboszlai",
+  "nameAr": "دومينيك سوبوسلاي",
+  "nameEn": "Dominik Szoboszlai",
+  "squadName": "Dominik Szoboszlai",
+  "birthDate": "2000-10-25",
+  "nationalityAr": "مجري",
+  "positionAr": "لاعب وسط",
+  "statusAr": "لاعب وسط ليفربول؛ أعلن النادي تجديد عقده بعقد طويل الأجل في 17 يوليو 2026.",
+  "summaryAr": "خاض سوبوسلاي بدايته الاحترافية في النمسا، ثم لعب للايبزيج قبل الانضمام إلى ليفربول في صيف 2023. تتبع هذه الصفحة محطات مسيرته مع فصل أرقام الدوري الحالي عن الكؤوس والمنتخب.",
+  "sources": [
+    {
+      "id": "current",
+      "title": "ليفربول: صفحة سوبوسلاي الحالية",
+      "url": "https://www.liverpoolfc.com/teams/mens-team/dominik-szoboszlai"
+    },
+    {
+      "id": "birth",
+      "title": "متجر ليفربول الرسمي: بيانات سوبوسلاي",
+      "url": "https://store.liverpoolfc.com/players/men-s-team/8-dominik-szoboszlai"
+    },
+    {
+      "id": "career",
+      "title": "ليفربول: سوبوسلاي يستعرض مسيرته وأهدافه",
+      "url": "https://www.liverpoolfc.com/news/dominik-szoboszlai-i-have-big-goals-and-work-doesnt-stop-here"
+    },
+    {
+      "id": "arrival",
+      "title": "ليفربول: كواليس انضمام سوبوسلاي، 4 يوليو 2023",
+      "url": "https://www.liverpoolfc.com/news/first-team/461402-signing-day-vlog-the-story-of-dominik-szoboszlai-s-arrival-at-lfc"
+    },
+    {
+      "id": "contract",
+      "title": "ليفربول: مقابلة تجديد عقد سوبوسلاي، 17 يوليو 2026",
+      "url": "https://www.liverpoolfc.com/news/full-dominik-szoboszlai-new-lfc-contract-responsibility-and-ambitions"
+    },
+    {
+      "id": "early-career",
+      "title": "ويكيبيديا: تسلسل الفرق المبكرة، مصدر ثانوي",
+      "url": "https://en.wikipedia.org/wiki/Dominik_Szoboszlai"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرقام سوبوسلاي، موسم 2026/27",
+      "url": "https://fbref.com/en/players/934e1968/Dominik-Szoboszlai"
+    },
+    {
+      "id": "latest-match",
+      "title": "ليفربول: تقرير مباراة مانشستر يونايتد، 22 نوفمبر 2026",
+      "url": "https://www.liverpoolfc.com/news/match-report-liverpool-4-0-manchester-united-premier-league"
+    },
+    {
+      "id": "photo",
+      "title": "Wikimedia Commons: سوبوسلاي بقميص ليفربول، Timmy96، CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dominik_Szoboszlai_04012026_(3).jpg"
+    }
+  ],
+  "career": [
+    {
+      "whenAr": "2017",
+      "clubAr": "ليفرينج",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ اللعب الاحترافي مع ليفرينج في النمسا؛ التاريخ هنا بالسنة دون افتراض يوم تسجيل.",
+      "sourceIds": [
+        "early-career"
+      ]
+    },
+    {
+      "whenAr": "2018",
+      "clubAr": "ريد بول سالزبورج",
+      "typeAr": "الفريق الأول",
+      "textAr": "ظهر مع فريق سالزبورج الأول قبل أن يرسخ مكانه في النمسا.",
+      "sourceIds": [
+        "early-career",
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير 2021",
+      "clubAr": "آر بي لايبزيج",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى لايبزيج، حيث قضى نحو موسمين ونصف قبل الانضمام إلى ليفربول.",
+      "sourceIds": [
+        "early-career",
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2023",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال",
+      "textAr": "انضم من لايبزيج بعقد طويل الأجل. يوثق فيديو النادي المنشور في 4 يوليو إجراءات انضمامه.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "17 يوليو 2026",
+      "clubAr": "ليفربول",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي توقيعه عقدًا جديدًا طويل الأجل؛ تجديد العقد ليس انتقالًا إلى نادٍ آخر.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "photo": {
+    "file": "dominik-szoboszlai-liverpool.jpg",
+    "status": "current-shirt-verified",
+    "currentClubId": "liverpool",
+    "sourceIds": [
+      "photo"
+    ],
+    "author": "Timmy96",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "takenAt": "2026-01-04",
+    "modifications": "Cropped and resized; no kit changes."
+  }
+}
