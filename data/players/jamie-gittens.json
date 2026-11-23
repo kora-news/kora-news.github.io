@@ -87,7 +87,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "jamie-gittens-chelsea-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "chelsea",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/jamie-gittens",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/276693e7814b873fe3cbf152b7d801b35b260ac1c6325cd73743e13410b9b535/jamie-gittens-chelsea-2025-26-ucl-body-footylogos.png",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2025/26",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:21:00+02:00"
   }
 }
