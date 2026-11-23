@@ -1,0 +1,107 @@
+{
+  "id": "pau-cubarsi",
+  "nameAr": "باو كوبارسي",
+  "nameEn": "Pau Cubarsí",
+  "squadName": "Pau Cubarsí",
+  "clubId": "barcelona",
+  "birthDate": "2007-01-22",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T16:51:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق القائمة الرسمية.",
+  "summaryAr": "وصل كوبارسي من جيرونا إلى لا ماسيا في يوليو 2018، وظهر رسميًا مع برشلونة في يناير 2024. وقع في فبراير 2025 تمديد عقده حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لا نستبدلها بصورة قديمة أو بقميص المنتخب."
+  },
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة اللاعب الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/129400/pau-cubarsi"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد كوبارسي حتى 2029",
+      "url": "https://www.fcbarcelona.com/en/news/4215349/agreement-to-extend-pau-cubarsi-contract-to-2029"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل كوبارسي للموسم",
+      "url": "https://fbref.com/en/players/cc7888f3/matchlogs/2026-2027/Pau-Cubarsi-Match-Logs"
+    },
+    {
+      "id": "match",
+      "title": "FBref: تقرير برشلونة وفياريال 22 نوفمبر",
+      "url": "https://fbref.com/en/matches/2b97aa0f/Barcelona-Villarreal-November-22-2026-La-Liga"
+    }
+  ],
+  "career": [
+    {
+      "whenAr": "قبل يوليو 2018",
+      "clubAr": "جيرونا",
+      "typeAr": "أكاديمية",
+      "textAr": "لعب في فئات جيرونا قبل انتقاله إلى برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2018",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "انتقال ناشئين",
+      "textAr": "انضم إلى لا ماسيا في فئة تحت 12 عامًا، وفق التاريخ المحدد في صفحة اللاعب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2023/24",
+      "clubAr": "برشلونة أتلتيك والفريق الأول",
+      "typeAr": "تصعيد",
+      "textAr": "جمع بين المشاركة مع الرديف والاستدعاءات للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يناير 2024",
+      "clubAr": "برشلونة",
+      "typeAr": "بداية رسمية",
+      "textAr": "خاض أول مباراة رسمية أمام أونيونيستاس في كأس الملك. نميزها عن مشاركته الودية في ديسمبر 2023 أمام كلوب أمريكا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "13 فبراير 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع التمديد حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:51:00+02:00",
+      "sourceIds": [
+        "stats",
+        "match"
+      ],
+      "noteAr": "السجل يضم مشاركاته حتى 8 نوفمبر. تقرير 22 نوفمبر يضعه على مقاعد البدلاء دون مشاركة، فلا نضيف مباراة. لا تشمل الأرقام المنتخب أو دوري الأبطال."
+    }
+  ]
+}

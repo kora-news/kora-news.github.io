@@ -1,0 +1,119 @@
+{
+  "id": "eric-garcia",
+  "nameAr": "إريك غارسيا",
+  "nameEn": "Eric García",
+  "squadName": "Eric García",
+  "clubId": "barcelona",
+  "birthDate": "2001-01-09",
+  "nationalityAr": "إسباني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T16:51:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق القائمة الرسمية.",
+  "summaryAr": "تدرج إريك غارسيا في برشلونة ثم انتقل إلى مانشستر سيتي في 2017. عاد في 2021، وأمضى موسم 2023/24 معارًا لجيرونا، قبل عودته وتجديده حتى 2031.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لا نستبدلها بصورة قديمة أو بقميص المنتخب."
+  },
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة اللاعب الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/players/24635/eric-garcia"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: توقيع إريك غارسيا حتى 2031",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4418070/eric-signs-contract-renewal-with-barca-to-2031"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: أرقام إريك غارسيا الحالية",
+      "url": "https://fbref.com/en/players/2bed3eab/Eric-Garcia"
+    }
+  ],
+  "career": [
+    {
+      "whenAr": "2008 إلى 2017",
+      "clubAr": "أكاديمية برشلونة",
+      "typeAr": "أكاديمية",
+      "textAr": "انضم إلى مدرسة برشلونة ثم تدرج في لا ماسيا حتى فرق الشباب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2017",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى فرق شباب مانشستر سيتي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "18 ديسمبر 2018",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر رسميًا للمرة الأولى أمام ليستر سيتي في كأس الرابطة الإنجليزية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2021",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال عودة",
+      "textAr": "عاد من مانشستر سيتي، ثم خاض أول مباراة رسمية مع برشلونة يوم 15 أغسطس 2021.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2023/24",
+      "clubAr": "جيرونا",
+      "typeAr": "إعارة",
+      "textAr": "انتقل معارًا بحثًا عن وقت لعب منتظم وساهم في التأهل لدوري الأبطال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2024/25",
+      "clubAr": "برشلونة",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد إلى برشلونة وشارك في الدفاع والظهير ووسط الملعب.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "11 ديسمبر 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع تجديده حتى 2031 في مقر النادي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 10,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:51:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "جدول الدوري في صفحة اللاعب يتضمن المشاركة الأخيرة أمام فياريال يوم 22 نوفمبر؛ سجل منفصل أقدم ما زال يعرض 6 مباريات ولم نعتمده. لا تشمل الأرقام المنتخب أو دوري الأبطال."
+    }
+  ]
+}

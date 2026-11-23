@@ -1,0 +1,107 @@
+{
+  "id": "jules-kounde",
+  "nameAr": "جول كوندي",
+  "nameEn": "Jules Koundé",
+  "squadName": "Jules Koundé",
+  "clubId": "barcelona",
+  "birthDate": "1998-11-12",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T16:51:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق القائمة الرسمية.",
+  "summaryAr": "بدأ كوندي في أندية محلية قرب بوردو قبل صعوده لفريق بوردو الأول. انتقل إلى إشبيلية في 2019 ثم برشلونة في 2022، وجدد عقده حتى 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "الصورة مؤجلة حتى توثيق إذن إعادة استخدام صورة واضحة بقميص برشلونة الحالي. لا نستبدلها بصورة قديمة أو بقميص المنتخب."
+  },
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة اللاعب الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/squad/15552/jules-kounde"
+    },
+    {
+      "id": "arrival",
+      "title": "برشلونة: اتفاق ضم كوندي في يوليو 2022",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/2689102/agreement-in-principle-with-sevilla-for-the-transfer-of-kounde"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: توقيع كوندي حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4345957/jules-kounde-signs-new-fc-barcelona-contract-until-2030"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل كوندي للموسم",
+      "url": "https://fbref.com/en/players/4d1666ff/matchlogs/2026-2027/Jules-Kounde-Match-Logs"
+    }
+  ],
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أندية محلية ثم بوردو",
+      "typeAr": "أكاديمية",
+      "textAr": "لعب لأندية محلية قرب بوردو ثم اجتاز اختبارًا للانضمام إلى أكاديمية بوردو في سن الرابعة عشرة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "7 يناير 2018",
+      "clubAr": "بوردو",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول في كأس فرنسا أمام غرانفيل، وفق بيان انتقاله إلى برشلونة.",
+      "sourceIds": [
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "إشبيلية",
+      "typeAr": "انتقال",
+      "textAr": "انتقل إلى إشبيلية وساهم لاحقًا في الفوز بالدوري الأوروبي في 2020.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2022",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال",
+      "textAr": "أعلن اتفاق انتقاله من إشبيلية يوم 28 يوليو 2022، مع انتظار الفحص والتوقيع آنذاك. تؤكد صفحته اللاحقة أنه انضم ولعب موسم 2022/23.",
+      "sourceIds": [
+        "arrival",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "21 أغسطس 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا حتى 2030 بعد الإعلان السابق عن الاتفاق.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 7,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T16:51:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "مجموع صفوف الدوري حتى مشاركته أمام فياريال يوم 22 نوفمبر. لا تشمل الأرقام المنتخب أو دوري الأبطال."
+    }
+  ]
+}
