@@ -19,7 +19,7 @@ const CLUBS = [
   ['borussia-dortmund','بوروسيا دورتموند','Borussia Dortmund','germany','ألمانيا']
 ].map(([id,nameAr,nameEn,leagueId,leagueAr])=>({id,nameAr,nameEn,leagueId,leagueAr}));
 
-function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
+function buildClubs({root,dist,head,header,footer,esc,fmtDate,news}) {
   const playerProfiles=profiles(root);
   const profileByName=new Map(playerProfiles.map(p=>[p.clubId+'|'+p.squadName,p]));
   const playerName=(c,p)=>{const profile=profileByName.get(c.id+'|'+p.nameEn);return profile?`<a class="squad-profile-link" href="../players/${esc(profile.id)}.html">${esc(p.nameEn)}</a>`:esc(p.nameEn);};
@@ -129,7 +129,7 @@ function buildClubs({root,dist,head,header,footer,esc,fmtDate}) {
 <main class="container club-page"><a class="club-back" href="../clubs.html">دليل الأندية ←</a><header class="club-profile-head">${logo(c,r,'../')}<span class="badge">${c.leagueAr}</span><h1>${c.nameAr}</h1><p class="club-english" lang="en" dir="ltr">${c.nameEn}</p><p class="club-scope">${esc(r.scopeAr||genericScope)}</p><p class="club-reviewed">آخر مراجعة للصفحة: ${esc(date(r.checkedAt))}. النتائج والأرقام لقطة موثقة وليست تحديثًا مباشرًا.</p></header>
 <nav class="club-jump" aria-label="أقسام صفحة النادي">${[['squad','قائمة الفريق'],['history','التاريخ'],['honors','البطولات'],['scorers','الهدافون'],['decorated','الأكثر تتويجًا'],['result','آخر نتيجة'],['latest-trophy','آخر لقب'],['sources','المصادر']].map(([id,t])=>`<a href="#${id}">${t}</a>`).join('')}</nav>
 ${warnings.length?`<aside class="club-audit"><h2>تنبيهات التوثيق</h2><ul>${warnings.map(t=>`<li>${esc(t)}</li>`).join('')}</ul></aside>`:''}
-<div class="club-content">${squadHTML}${historyHTML}${honorsHTML}${scorersHTML}${decoratedHTML}${resultHTML}${trophyHTML}${sourcesHTML}</div></main>`+footer('../');
+<div class="club-content">${squadHTML}${historyHTML}${honorsHTML}${scorersHTML}${decoratedHTML}${resultHTML}${trophyHTML}${sourcesHTML}${news?news.latest('clubs',c.id,'../'):''}</div></main>`+footer('../');
     fs.writeFileSync(path.join(dist,'clubs',c.id+'.html'),html); generated.push('clubs/'+c.id+'.html');
   }
   return generated;

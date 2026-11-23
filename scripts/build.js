@@ -141,7 +141,7 @@ function fmtDate(iso) {
 }
 
 function card(p, rel, featured) {
-  return `<article class="card${featured ? ' featured' : ''}">
+  return `<article class="card${featured ? ' featured' : ''}" data-news-card data-category="${esc(p.category||'أخبار')}" data-search="${esc([p.title,p.excerpt,p.body.split(/## (?:المصادر|الصورة)/)[0],...(p.entities||[]).flatMap(e=>e.aliases)].join(' '))}">
   <a href="${rel}posts/${p.slug}.html">
     <div class="card-img"><img src="${rel}assets/img/${p.image}" alt="${esc(p.title)}" loading="${featured ? 'eager' : 'lazy'}"></div>
     <div class="card-body">
@@ -164,6 +164,7 @@ const posts = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.md'))
   .sort((a, b) => new Date(b.date) - new Date(a.date));
 
 if (!posts.length) throw new Error('No posts found in posts/');
+const news=require('./news').createNews(ROOT,posts,esc,fmtDate);
 
 // copy assets
 for (const f of fs.readdirSync(path.join(ROOT, 'assets', 'img'))) {
@@ -176,6 +177,7 @@ for (const file of ['clubs.css','clubs.js']) fs.copyFileSync(path.join(ROOT,'ass
 const [first, ...rest] = posts;
 const home = head(SITE_NAME + ' | أخبار الكرة العالمية والمصريين المحترفين', SITE_DESC, '', '') + websiteJsonLd() + header('', 'home') + `
 <main class="container">
+  <section class="news-search" aria-label="البحث في الأخبار"><h1>أخبار كورة نيوز</h1><label for="news-query">ابحث عن خبر أو نادٍ أو لاعب</label><input id="news-query" type="search" placeholder="مثال: ريال مدريد، كورتوا، انتقالات" autocomplete="off"><label for="news-category">نوع الأخبار</label><select id="news-category"><option value="">كل الأخبار</option>${[...new Set(posts.map(p=>p.category||'أخبار'))].map(c=>`<option value="${esc(c)}">${esc(c)}</option>`).join('')}</select><p id="news-count" role="status" aria-live="polite">${posts.length} خبرًا</p><p id="news-empty" hidden>لا توجد أخبار مطابقة. جرّب اسمًا آخر أو اختر كل الأخبار.</p><noscript>البحث يحتاج JavaScript؛ كل الأخبار متاحة أدناه.</noscript></section>
   <section class="hero">
     <span class="hero-kicker">آخر الأخبار</span>
     ${card(first, '', true)}
@@ -184,8 +186,9 @@ const home = head(SITE_NAME + ' | أخبار الكرة العالمية وال�
     ${rest.map(p => card(p, '', false)).join('\n    ')}
   </section>
 </main>
-` + footer('');
+` + '<script src="assets/news-search.js" defer></script>' + footer('');
 fs.writeFileSync(path.join(DIST, 'index.html'), home);
+fs.copyFileSync(path.join(ROOT,'assets/news-search.js'),path.join(DIST,'assets/news-search.js'));
 
 // post pages
 for (const p of posts) {
@@ -195,7 +198,7 @@ for (const p of posts) {
     if (slug === p.slug || !posts.some(x => x.slug === slug)) throw new Error('Invalid related article: ' + slug);
   }
   const preferred = relatedSlugs.map(slug => posts.find(x => x.slug === slug && x.slug !== p.slug)).filter(Boolean);
-  const others = [...preferred, ...posts.filter(x => x.slug !== p.slug && !relatedSlugs.includes(x.slug) && x.category === p.category)].slice(0, 3);
+  const others = news.related(p,preferred);
   const html = head(p.title + ' | ' + SITE_NAME, p.excerpt || SITE_DESC, rel, `posts/${p.slug}.html`) + articleJsonLd(p) + header(rel, '') + `
 <main class="container">
   <article class="post">
@@ -211,6 +214,7 @@ for (const p of posts) {
     <div class="post-body">
 ${mdToHtml(p.body)}    </div>
   </article>
+  ${news.entityLinks(p,rel)}
   ${others.length ? `<aside class="related"><h2>اقرأ أيضًا</h2><div class="grid small">${others.map(o => card(o, rel, false)).join('')}</div></aside>` : ''}
 </main>
 ` + footer(rel);
@@ -239,8 +243,8 @@ const nf = head('الصفحة غير موجودة | ' + SITE_NAME, SITE_DESC, ''
 fs.writeFileSync(path.join(DIST, '404.html'), nf);
 
 // Club reference section shares navigation and identity with the news site.
-const playerPages = buildPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate});
-const clubPages = buildClubs({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate});
+const playerPages = buildPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news});
+const clubPages = buildClubs({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news});
 
 // feed.xml + sitemap.xml + robots.txt
 const base = BASE_URL;

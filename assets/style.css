@@ -113,3 +113,13 @@ img { max-width: 100%; display: block; }
   .card.featured .card-body h3 { font-size: 1.25rem; }
   .grid { gap: 16px; }
 }
+
+/* News discovery, using the existing identity and page structure. */
+[hidden]{display:none!important}
+.news-search,.news-connections{margin:28px 0;padding:22px;border:1px solid var(--card-border);border-radius:18px;background:var(--card)}
+.news-search h1{font-size:1.4rem;margin-bottom:12px}.news-search label{display:block;margin:8px 0;color:var(--muted)}
+.news-search input,.news-search select{font:inherit;width:100%;padding:12px;border:1px solid var(--card-border);border-radius:10px;color:var(--text);background:#211039}
+.news-search select option{background:#211039}.news-search input:focus,.news-search select:focus{outline:2px solid var(--gold);outline-offset:2px}
+#news-count,.news-hint{color:var(--muted);font-size:.9rem;margin-top:12px}
+.news-connections h2{color:var(--gold);font-size:1.25rem;margin-bottom:14px}.entity-links{display:flex;gap:10px;flex-wrap:wrap}.entity-links a{padding:9px 13px;border:1px solid var(--card-border);border-radius:10px}.entity-links small{color:var(--muted);margin-inline-start:6px}.entity-links a:hover,.linked-news a:hover{color:var(--gold)}
+.linked-news{list-style:none;padding:0}.linked-news li{padding:12px 0;border-bottom:1px solid var(--card-border)}.linked-news time{display:block;color:var(--muted);font-size:.82rem}

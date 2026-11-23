@@ -1,0 +1,84 @@
+{
+  "clubs": {
+    "arsenal": [
+      "آرسنال",
+      "ارسنال"
+    ],
+    "manchester-city": [
+      "سيتي"
+    ],
+    "manchester-united": [
+      "يونايتد"
+    ],
+    "tottenham": [
+      "توتنهام هوتسبير"
+    ],
+    "ac-milan": [
+      "ميلان"
+    ],
+    "inter": [
+      "إنتر ميلان"
+    ],
+    "bayern-munich": [
+      "بايرن",
+      "بايرن ميونيخ"
+    ],
+    "borussia-dortmund": [
+      "دورتموند"
+    ],
+    "atletico-madrid": [
+      "أتلتيكو"
+    ]
+  },
+  "players": {
+    "thibaut-courtois": [
+      "كورتوا"
+    ],
+    "vinicius-junior": [
+      "فينيسيوس"
+    ],
+    "kylian-mbappe": [
+      "مبابي"
+    ],
+    "federico-valverde": [
+      "فالفيردي"
+    ],
+    "erling-haaland": [
+      "هالاند"
+    ],
+    "bukayo-saka": [
+      "ساكا"
+    ],
+    "endrick": [
+      "إندريك"
+    ],
+    "hamza-abdelkarim": [
+      "حمزة عبد الكريم"
+    ],
+    "lamine-yamal": [
+      "يامال"
+    ],
+    "david-raya": [
+      "ديفيد رايا"
+    ],
+    "gianluigi-donnarumma": [
+      "دوناروما"
+    ],
+    "jamal-musiala": [
+      "موسيالا"
+    ],
+    "omar-marmoush": [
+      "مرموش"
+    ],
+    "harry-kane": [
+      "هاري كين"
+    ],
+    "bruno-fernandes": [
+      "برونو فيرنانديش",
+      "برونو فيرنانديز"
+    ],
+    "andreas-christensen": [
+      "كريستنسن"
+    ]
+  }
+}
