@@ -1,0 +1,93 @@
+{
+  "id": "manuel-neuer",
+  "nameAr": "مانويل نوير",
+  "nameEn": "Manuel Neuer",
+  "squadName": "Manuel Neuer",
+  "clubId": "bayern-munich",
+  "birthDate": "1986-03-27",
+  "nationalityAr": "ألماني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في شالكه منذ 1991، وأصبح محترفًا في 2005 وبدأ في البوندسليغا في 2006. انتقل لبايرن في يوليو 2011، وتعرض صفحته الحالية عقدًا حتى يونيو 2027.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1991–2005",
+      "clubAr": "شالكه",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج في نادي مدينته.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2005 ثم أغسطس 2006",
+      "clubAr": "شالكه",
+      "typeAr": "احتراف وبداية بالدوري",
+      "textAr": "أصبح محترفًا في 2005 وخاض بدايته بالدوري في أغسطس 2006.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2011",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من شالكه إلى ميونخ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "الحالة المنشورة في نوفمبر 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "مدة العقد الحالية",
+      "textAr": "تعرض صفحة اللاعب نهاية العقد في 30 يونيو 2027؛ لا نخمن تاريخ توقيع تمديد أحدث.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/manuel-neuer"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

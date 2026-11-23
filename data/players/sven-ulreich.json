@@ -1,0 +1,111 @@
+{
+  "id": "sven-ulreich",
+  "nameAr": "سفين أولرايش",
+  "nameEn": "Sven Ulreich",
+  "squadName": "Sven Ulreich",
+  "clubId": "bayern-munich",
+  "birthDate": "1988-08-03",
+  "nationalityAr": "ألماني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في ليشتنفالد وشورنباث وشتوتغارت ولعب للفريق الأول، ثم انضم لبايرن في 2015. قضى موسم 2020/21 في هامبورغ قبل العودة في يوليو 2021، وعقده الحالي حتى 2027 وفق صفحة النادي.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1993–1994 ثم 1994–1998",
+      "clubAr": "ليشتنفالد ثم شورنباث",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في الناديين قبل شتوتغارت.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1998–2015",
+      "clubAr": "شتوتغارت",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج في الأكاديمية ثم لعب للفريق الأول.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2020",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "محطته الأولى في ميونخ.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020/21",
+      "clubAr": "هامبورغ",
+      "typeAr": "انتقال",
+      "textAr": "قضى موسمًا خارج بايرن قبل العودة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يوليو 2021",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "عودة",
+      "textAr": "بدأ فترته الثانية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "الحالة المنشورة في نوفمبر 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "مدة العقد الحالية",
+      "textAr": "تعرض صفحة اللاعب عقدًا حتى 30 يونيو 2027.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/sven-ulreich"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 0,
+      "goals": null,
+      "assists": null,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. يسجل المصدر صفر مشاركة وخانتي أهداف وتمريرات فارغتين؛ لا نحولهما إلى أصفار."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "dayot-upamecano",
+  "nameAr": "دايو أوباميكانو",
+  "nameEn": "Dayot Upamecano",
+  "squadName": "Dayot Upamecano",
+  "clubId": "bayern-munich",
+  "birthDate": "1998-10-27",
+  "nationalityAr": "فرنسي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في فرنسا قبل سالزبورغ ولايبزيغ، ثم انضم لبايرن في يوليو 2021. جدد في فبراير 2026 حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2004–2007 ثم 2008–2009",
+      "clubAr": "أنجيه ثم إيفرو",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته الكروية في فرنسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2009–2013 ثم 2013–2015",
+      "clubAr": "بري ثم فالنسيان",
+      "typeAr": "ناشئون",
+      "textAr": "واصل مساره قبل النمسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015–2016",
+      "clubAr": "ريد بول سالزبورغ",
+      "typeAr": "انتقال",
+      "textAr": "بدأ مسيرته الاحترافية في النمسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "ليفرينغ",
+      "typeAr": "إعارة",
+      "textAr": "خاض إعارة لفريق الدرجة الثانية قبل الاستقرار مع سالزبورغ؛ تؤكد يويفا أنه عاد وأصبح أساسيًا في 2016.",
+      "sourceIds": [
+        "loan"
+      ]
+    },
+    {
+      "whenAr": "2017–2021",
+      "clubAr": "آر بي لايبزيغ",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب أربعة أعوام في ألمانيا قبل بايرن.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "5 يوليو 2021",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم إلى النادي البافاري.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "13 فبراير 2026",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "تجديد عقد",
+      "textAr": "مدد حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/dayot-upamecano"
+    },
+    {
+      "id": "contract",
+      "title": "بايرن: تجديد أوباميكانو حتى 2030",
+      "url": "https://fcbayern.com/de/news/2026/02/fc-bayern-und-dayot-upamecano-verlaengern-vertrag"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    },
+    {
+      "id": "loan",
+      "title": "يويفا: إعارة أوباميكانو لليفرينغ قبل سالزبورغ",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/0252-0cda5af0afed-736e52ebd2e2-1000--uefa-com-s-weekly-wonderkid-dayot-upamecano/"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 10,
+      "goals": 3,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

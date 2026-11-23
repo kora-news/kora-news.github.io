@@ -1,0 +1,107 @@
+{
+  "id": "jonas-urbig",
+  "nameAr": "يوناس أوربيغ",
+  "nameEn": "Jonas Urbig",
+  "squadName": "Jonas Urbig",
+  "clubId": "bayern-munich",
+  "birthDate": "2003-08-08",
+  "nationalityAr": "ألماني",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في كولن منذ 2012 ولعب للرديف، وأعير ليان ريغنسبورغ وغرويتر فورث قبل العودة. انضم لبايرن في يناير 2025، وعقده حتى يونيو 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2012–2023",
+      "clubAr": "كولن",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "تدرج في الأكاديمية وقضى موسمًا ونصفًا مع الرديف.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "النصف الثاني من 2022/23",
+      "clubAr": "يان ريغنسبورغ",
+      "typeAr": "إعارة",
+      "textAr": "خاض أولى مبارياته بدوري الدرجة الثانية الألماني.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2023/24",
+      "clubAr": "غرويتر فورث",
+      "typeAr": "إعارة",
+      "textAr": "قضى موسمًا معارًا من كولن.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "صيف 2024–يناير 2025",
+      "clubAr": "كولن",
+      "typeAr": "عودة من الإعارة",
+      "textAr": "عاد وشارك مع الفريق الأول.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "27 يناير 2025",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من كولن، وتعرض صفحته عقدًا حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/jonas-urbig"
+    },
+    {
+      "id": "career",
+      "title": "بايرن: مسيرة أوربيغ وإعاراته",
+      "url": "https://fcbayern.com/en/news/2025/01/introducing-bayerns-new-signing-jonas-urbig"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

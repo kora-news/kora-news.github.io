@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 132,
+  "profileCount": 139,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1121,9 +1121,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "manuel-neuer",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1132,9 +1132,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "sven-ulreich",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1143,9 +1143,9 @@
       "positionAr": "حارس مرمى",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jonas-urbig",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1154,9 +1154,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "dayot-upamecano",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1165,9 +1165,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "kim-min-jae",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1176,9 +1176,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jonathan-tah",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",
@@ -1198,9 +1198,9 @@
       "positionAr": "مدافع",
       "squadSource": "https://fcbayern.com/en/teams/first-team",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "alphonso-davies",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "bayern-munich",

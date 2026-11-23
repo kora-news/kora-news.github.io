@@ -1,0 +1,107 @@
+{
+  "id": "jonathan-tah",
+  "nameAr": "يوناتان تاه",
+  "nameEn": "Jonathan Tah",
+  "squadName": "Jonathan Tah",
+  "clubId": "bayern-munich",
+  "birthDate": "1996-02-11",
+  "nationalityAr": "ألماني",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "تدرج في ألتونا وكونكورديا وهامبورغ، ثم خاض إعارة لدوسلدورف وقضى عشرة أعوام في ليفركوزن. انتقل لبايرن في 2025 بعد انتهاء عقده، بعقد حتى 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2000–2009 ثم 2009",
+      "clubAr": "ألتونا 93 ثم كونكورديا هامبورغ",
+      "typeAr": "ناشئون",
+      "textAr": "بدأ في الرابعة قبل الانتقال لهامبورغ.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2009–2014",
+      "clubAr": "هامبورغ",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "بدأ احترافيًا في كأس ألمانيا صيف 2013.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2014/15",
+      "clubAr": "فورتونا دوسلدورف",
+      "typeAr": "إعارة",
+      "textAr": "أعير من هامبورغ لموسم.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2015–2025",
+      "clubAr": "باير ليفركوزن",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى عشرة مواسم مع النادي.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال بعد نهاية العقد",
+      "textAr": "انضم بعد انتهاء عقده مع ليفركوزن؛ تاريخ الانضمام بصفحته 9 يونيو 2025 وعقده حتى 30 يونيو 2029.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/jonathan-tah"
+    },
+    {
+      "id": "career",
+      "title": "بايرن: مسيرة تاه قبل الانضمام",
+      "url": "https://fcbayern.com/en/news/2025/05/new-signing-jonathan-tah-profiled"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

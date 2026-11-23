@@ -1,0 +1,116 @@
+{
+  "id": "kim-min-jae",
+  "nameAr": "كيم مين جاي",
+  "nameEn": "Kim Min-jae",
+  "squadName": "Minjae Kim",
+  "clubId": "bayern-munich",
+  "birthDate": "1996-11-15",
+  "nationalityAr": "كوري جنوبي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "بدأ احترافيًا مع غيونغجو ثم جيونبوك، ولعب لبكين غوان وفنربخشة ونابولي. انتقل لبايرن في يوليو 2023 بعقد حتى يونيو 2028.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "صيف 2016",
+      "clubAr": "غيونغجو KHNP",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ في الدرجة الثالثة الكورية وفق سيرة بايرن.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "جيونبوك هيونداي موتورز",
+      "typeAr": "انتقال",
+      "textAr": "انتقل بعد نحو ستة أشهر من غيونغجو.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "يناير 2019–2021",
+      "clubAr": "بكين غوان",
+      "typeAr": "انتقال دائم",
+      "textAr": "لعب في الصين قبل تركيا.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2021/22",
+      "clubAr": "فنربخشة",
+      "typeAr": "انتقال دائم",
+      "textAr": "قضى موسمًا في إسطنبول.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "نابولي",
+      "typeAr": "انتقال دائم",
+      "textAr": "فاز بالدوري الإيطالي قبل ميونخ.",
+      "sourceIds": [
+        "career"
+      ]
+    },
+    {
+      "whenAr": "18 يوليو 2023",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم من نابولي بعقد لخمس سنوات حتى 30 يونيو 2028.",
+      "sourceIds": [
+        "career"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/minjae-kim"
+    },
+    {
+      "id": "career",
+      "title": "بايرن: مسيرة كيم وصفقة ضمه",
+      "url": "https://fcbayern.com/en/news/2023/07/introducing-bayern-new-signing-minjae-kim"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 6,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

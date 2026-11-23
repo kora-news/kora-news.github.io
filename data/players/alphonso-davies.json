@@ -1,0 +1,102 @@
+{
+  "id": "alphonso-davies",
+  "nameAr": "ألفونسو ديفيز",
+  "nameEn": "Alphonso Davies",
+  "squadName": "Alphonso Davies",
+  "clubId": "bayern-munich",
+  "birthDate": "2000-11-02",
+  "nationalityAr": "كندي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T18:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لبايرن ميونخ.",
+  "summaryAr": "بدأ احترافيًا في فانكوفر وايتكابس وانتقل لبايرن في يناير 2019. لعب للفريق الأول والرديف ثم استقر ظهيرًا أيسر في موسم الثلاثية، وعقده الحالي حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2019",
+      "clubAr": "فانكوفر وايتكابس",
+      "typeAr": "بداية احترافية",
+      "textAr": "بدأ مسيرته في كندا وغالبًا في الجانب الأيسر للهجوم.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "1 يناير 2019",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم للنادي وخاض بدايته في البوندسليغا بعد ذلك بوقت قصير.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019",
+      "clubAr": "بايرن والرديف",
+      "typeAr": "تطوير ومشاركات",
+      "textAr": "اكتسب خبرة مع الفريق الأول والرديف.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2019/20",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "استقرار بالفريق الأول",
+      "textAr": "تحول للظهير الأيسر وكان من عناصر موسم الثلاثية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "العقد المنشور حاليًا",
+      "clubAr": "بايرن ميونخ",
+      "typeAr": "مدة العقد",
+      "textAr": "تعرض الصفحة الرسمية عقدًا حتى 30 يونيو 2030.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "بايرن: بيانات اللاعب ومسيرته",
+      "url": "https://fcbayern.com/en/teams/first-team/alphonso-davies"
+    },
+    {
+      "id": "squad",
+      "title": "بايرن ميونخ: قائمة الفريق الأول الحالية",
+      "url": "https://fcbayern.com/en/teams/first-team"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: بايرن بالدوري الألماني 2026/27",
+      "url": "https://fbref.com/en/squads/054efa67/2026-2027/c20/Bayern-Munich-Stats-Bundesliga"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الألماني",
+      "season": "2026/27",
+      "clubAr": "بايرن ميونخ",
+      "appearances": 8,
+      "goals": 0,
+      "assists": 2,
+      "through": "2026-11-20",
+      "checkedAt": "2026-11-23T18:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الألماني فقط، موسم 2026/27، حتى مباراة كولن في 20 نوفمبر 2026. لا تشمل الكؤوس أو دوري الأبطال أو المنتخب. "
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص بايرن ميونخ، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
