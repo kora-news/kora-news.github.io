@@ -92,7 +92,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "marcos-senesi-tottenham-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.tottenhamhotspur.com/player/221466/marcos-senesi",
+    "sourceAssetUrl": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/58bb0862-d3c3-4a1d-9e23-0fe7b0d02bf3/firstteam_profiles_202627_marcossenesi.png?width=726&height=866",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:55:00+02:00"
   }
 }

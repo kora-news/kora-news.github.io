@@ -112,7 +112,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "brandon-austin-tottenham-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "tottenham",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.tottenhamhotspur.com/player/214572/brandon-austin",
+    "sourceAssetUrl": "https://resources.thfc.pulselive.com/photo-resources/2026/08/20/84136d4a-6a89-49a1-9818-8604ea720833/firstteam_profiles_202627_brandonaustin.png?width=726&height=866",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:55:00+02:00"
   }
 }

@@ -101,7 +101,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "hamza-abdelkarim-barcelona-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.fcbarcelona.com/en/football/first-team/players/572280/hamza-mohamed-abdelkarim-elsayed-selim",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/09/03/2ae7b4d7-4a07-4598-ae71-aaa1f7c4f871/29-Hamza.png?width=670&height=790",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:55:00+02:00"
   }
 }

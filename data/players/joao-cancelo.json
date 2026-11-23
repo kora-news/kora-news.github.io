@@ -152,7 +152,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "joao-cancelo-barcelona-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.fcbarcelona.com/en/football/first-team/players/5051/joao-pedro-cavaco-cancelo",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/08/19/7d3f20c8-d349-42e6-90a5-d70a6a2f86b7/00-Cancelo.png?width=670&height=790",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:55:00+02:00"
   }
 }

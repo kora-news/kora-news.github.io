@@ -116,7 +116,16 @@
     }
   ],
   "photo": {
-    "status": "awaiting-licensed-current-shirt-photo",
-    "noteAr": "صورة واضحة بخلفية شفافة وقميص النادي قيد الإضافة."
+    "file": "xavi-espart-barcelona-official-20261123.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.fcbarcelona.com/en/football/first-team/jugadores/141001/-------------------xavi---------------espart",
+    "sourceAssetUrl": "https://www.fcbarcelona.com/photo-resources/2026/08/26/d83f3960-8967-4b02-9f2c-363fc34fd2f7/12-XAVI_ESPART-TRANSP.png?width=670&height=790",
+    "selectionAuthorityMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGODU2ODQ5REYyM0Q1NkIxNkY1RjIzMzlGNTc1QjAA",
+    "sourceEdition": "2026/27 owning-club portrait",
+    "sourceEditionNote": "Catalog edition, not verified photography date.",
+    "modifications": "Trimmed transparent padding; no face or shirt changes.",
+    "checkedAt": "2026-11-23T21:55:00+02:00"
   }
 }
