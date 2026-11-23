@@ -1,0 +1,107 @@
+{
+  "id": "geovany-quenda",
+  "nameAr": "جيوفاني كويندا",
+  "nameEn": "Geovany Quenda",
+  "squadName": "Geovany Quenda",
+  "clubId": "chelsea",
+  "birthDate": "2007-04-30",
+  "nationalityAr": "برتغالي",
+  "positionAr": "جناح وجناح خلفي",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في دامايينسي وبنفيكا وسبورتينغ لشبونة. وصل لفريق سبورتينغ الأول في 2024 وانضم لتشيلسي قبل موسم 2026/27 بعقد حتى 2034.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2016/17",
+      "clubAr": "دامايينسي",
+      "typeAr": "ناشئون",
+      "textAr": "محطته المبكرة في البرتغال.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2017–2019",
+      "clubAr": "بنفيكا",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل الانتقال لسبورتينغ.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2019–2024",
+      "clubAr": "سبورتينغ لشبونة",
+      "typeAr": "ناشئون ورديف",
+      "textAr": "واصل تكوينه ولعب للرديف.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024–2026",
+      "clubAr": "سبورتينغ لشبونة",
+      "typeAr": "تصعيد للفريق الأول",
+      "textAr": "ظهر وسجل في السوبر البرتغالي في أغسطس 2024.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم قبل موسم 2026/27 ووقع حتى 2034.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/geovany-quenda"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Geovany_Quenda"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

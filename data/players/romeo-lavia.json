@@ -1,0 +1,107 @@
+{
+  "id": "romeo-lavia",
+  "nameAr": "روميو لافيا",
+  "nameEn": "Romeo Lavia",
+  "squadName": "Romeo Lavia",
+  "clubId": "chelsea",
+  "birthDate": "2004-01-06",
+  "nationalityAr": "بلجيكي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تكون في فولوف زافنتيم وأندرلخت ثم مانشستر سيتي. انتقل لساوثهامبتون في 2022، ثم لتشيلسي في أغسطس 2023 بعقد أول لسبع سنوات.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "حتى 2012",
+      "clubAr": "فولوف زافنتيم",
+      "typeAr": "ناشئون",
+      "textAr": "محطته المبكرة في بلجيكا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2012–2020",
+      "clubAr": "أندرلخت",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج قبل الانتقال لإنجلترا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2020–2022",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في كأس الرابطة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "ساوثهامبتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض موسمًا في الدوري الممتاز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع عقدًا أول لسبع سنوات.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/romeo-lavia"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Romeo_Lavia"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 9,
+      "goals": 1,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

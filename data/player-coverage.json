@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 229,
+  "profileCount": 239,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1880,9 +1880,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "jordan-henderson",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1891,9 +1891,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "moises-caicedo",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1924,9 +1924,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "romeo-lavia",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1935,9 +1935,9 @@
       "positionAr": "جناح",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "pedro-neto",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1946,9 +1946,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "joao-pedro",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1957,9 +1957,9 @@
       "positionAr": "وسط هجومي / جناح",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "cole-palmer",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -1990,9 +1990,9 @@
       "positionAr": "رأس حربة",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "danny-welbeck",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -2001,9 +2001,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "emmanuel-emegha",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -2012,9 +2012,9 @@
       "positionAr": "جناح / جناح خلفي",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "geovany-quenda",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "chelsea",
@@ -2023,9 +2023,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.chelseafc.com/en/teams/mens-profiles",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "estevao-willian",
+      "profileStatus": "published",
+      "photoStatus": "awaiting-licensed-current-shirt-photo"
     },
     {
       "clubId": "inter",

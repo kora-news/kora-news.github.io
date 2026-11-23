@@ -1,0 +1,125 @@
+{
+  "id": "moises-caicedo",
+  "nameAr": "مويسيس كايسيدو",
+  "nameEn": "Moises Caicedo",
+  "squadName": "Moises Caicedo",
+  "clubId": "chelsea",
+  "birthDate": "2001-11-02",
+  "nationalityAr": "إكوادوري",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "وصل من إنديبندينتي ديل فايي إلى برايتون في 2021 وخاض إعارة لبيرشوت. انضم لتشيلسي في أغسطس 2023، ومدد لاحقًا حتى 2033.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "قبل 2016",
+      "clubAr": "موخير تراباخادورا ثم كولورادوس خايباديدا",
+      "typeAr": "ناشئون",
+      "textAr": "بداياته في الإكوادور.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2016–2021",
+      "clubAr": "إنديبندينتي ديل فايي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "وصل للفريق الأول في 2019.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "فبراير 2021",
+      "clubAr": "برايتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل لإنجلترا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–يناير 2022",
+      "clubAr": "بيرشوت",
+      "typeAr": "إعارة",
+      "textAr": "عاد لبرايتون في يناير 2022.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022–أغسطس 2023",
+      "clubAr": "برايتون",
+      "typeAr": "عودة",
+      "textAr": "ثبت أقدامه في الدوري الممتاز.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع أولًا لثماني سنوات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "لاحقًا حتى نوفمبر 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "تمديد عقد",
+      "textAr": "تسجل بطاقة النادي تمديد ارتباطه حتى 2033.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/moises-caicedo"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 7,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

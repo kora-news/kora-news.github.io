@@ -1,0 +1,126 @@
+{
+  "id": "jordan-henderson",
+  "nameAr": "جوردان هندرسون",
+  "nameEn": "Jordan Henderson",
+  "squadName": "Jordan Henderson",
+  "clubId": "chelsea",
+  "birthDate": "1990-06-17",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "بدأ في سندرلاند وأعير لكوفنتري ثم لعب لليفربول والاتفاق وأياكس وبرنتفورد. انضم لتشيلسي في أغسطس 2026 بعقد لعامين.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "1998–2011",
+      "clubAr": "سندرلاند",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في نوفمبر 2008.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2009",
+      "clubAr": "كوفنتري سيتي",
+      "typeAr": "إعارة",
+      "textAr": "عاد بعدها لسندرلاند.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يونيو 2011–2023",
+      "clubAr": "ليفربول",
+      "typeAr": "انتقال دائم",
+      "textAr": "أصبح قائدًا في 2015 وفاز بالدوري ودوري الأبطال.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023–2024",
+      "clubAr": "الاتفاق",
+      "typeAr": "انتقال دائم",
+      "textAr": "خاض تجربة في الدوري السعودي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024–2025",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال",
+      "textAr": "لعب في هولندا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2025/26",
+      "clubAr": "برنتفورد",
+      "typeAr": "انتقال",
+      "textAr": "عاد للدوري الإنجليزي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال",
+      "textAr": "وقع عقدًا لعامين.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/jordan-henderson"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Jordan_Henderson"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 6,
+      "goals": 2,
+      "assists": 1,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

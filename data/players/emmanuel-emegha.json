@@ -1,0 +1,126 @@
+{
+  "id": "emmanuel-emegha",
+  "nameAr": "إيمانويل إيميغا",
+  "nameEn": "Emmanuel Emegha",
+  "squadName": "Emmanuel Emegha",
+  "clubId": "chelsea",
+  "birthDate": "2003-02-03",
+  "nationalityAr": "هولندي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "بدأ في سبارتا روتردام ثم أنتويرب وشتورم غراتس وستراسبورغ. أعلن تشيلسي اتفاق ضمه في سبتمبر 2025، ووصل فعليًا قبل موسم 2026/27.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "فريدنبورخ",
+      "typeAr": "ناشئون",
+      "textAr": "محطته الأولى قبل سبارتا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "حتى 2022",
+      "clubAr": "سبارتا روتردام",
+      "typeAr": "ناشئون ورديف وفريق أول",
+      "textAr": "وصل للفريق الأول في 2020.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022",
+      "clubAr": "رويال أنتويرب",
+      "typeAr": "انتقال",
+      "textAr": "خاض تجربة قصيرة في بلجيكا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2022/23",
+      "clubAr": "شتورم غراتس",
+      "typeAr": "انتقال",
+      "textAr": "فاز بكأس النمسا.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2023–2026",
+      "clubAr": "ستراسبورغ",
+      "typeAr": "انتقال",
+      "textAr": "لعب ثلاثة مواسم في فرنسا.",
+      "sourceIds": [
+        "history",
+        "current"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "اتفاق انتقال مستقبلي",
+      "textAr": "أعلن الاتفاق مع بقاء اللاعب في فرنسا حتى الموسم التالي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2026",
+      "clubAr": "تشيلسي",
+      "typeAr": "انضمام فعلي",
+      "textAr": "وصل قبل موسم 2026/27، وظهر رسميًا في أكتوبر.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/emmanuel-emegha"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Emmanuel_Emegha"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 2,
+      "goals": 1,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

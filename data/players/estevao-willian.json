@@ -1,0 +1,98 @@
+{
+  "id": "estevao-willian",
+  "nameAr": "إستيفاو ويليان",
+  "nameEn": "Estevao Willian",
+  "squadName": "Estevao Willian",
+  "clubId": "chelsea",
+  "birthDate": "2007-04-24",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تكون في كروزيرو ثم بالميراس. اتفق تشيلسي على ضمه في 2024، ووصل فعليًا في صيف 2025 بعد استكمال تجربته في البرازيل.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2017–2021",
+      "clubAr": "كروزيرو",
+      "typeAr": "ناشئون",
+      "textAr": "بداية تكوينه.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2021–2025",
+      "clubAr": "بالميراس",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "ظهر مع الفريق الأول في 2023.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2024",
+      "clubAr": "تشيلسي",
+      "typeAr": "اتفاق انتقال مستقبلي",
+      "textAr": "أعلن الاتفاق قبل الوصول الفعلي بعام.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "صيف 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "انضمام فعلي",
+      "textAr": "وصل من بالميراس وبدأ رسميًا في أغسطس.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/estevao"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Willian"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 9,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "cole-palmer",
+  "nameAr": "كول بالمر",
+  "nameEn": "Cole Palmer",
+  "squadName": "Cole Palmer",
+  "clubId": "chelsea",
+  "birthDate": "2002-05-06",
+  "nationalityAr": "إنجليزي",
+  "positionAr": "لاعب وسط هجومي وجناح",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في مانشستر سيتي منذ 2010 وظهر مع الفريق الأول في 2020. انضم لتشيلسي في سبتمبر 2023 ومدد عقده حتى 2034 بعد بداية موسم 2026/27.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "البدايات",
+      "clubAr": "إن جي وايثنشو",
+      "typeAr": "ناشئون",
+      "textAr": "محطته المحلية قبل سيتي.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "2010–2020",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "ناشئون",
+      "textAr": "تدرج بالأكاديمية وقاد فريق تحت 18 عامًا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2020–2023",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تصعيد للفريق الأول",
+      "textAr": "ظهر أمام بيرنلي في كأس الرابطة.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "سبتمبر 2023",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "انضم في اليوم الأخير للانتقالات.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بعد بداية موسم 2026/27",
+      "clubAr": "تشيلسي",
+      "typeAr": "تمديد عقد",
+      "textAr": "وقع حتى 2034.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/cole-palmer"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Cole_Palmer"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 11,
+      "goals": 3,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "joao-pedro",
+  "nameAr": "جواو بيدرو",
+  "nameEn": "Joao Pedro",
+  "squadName": "Joao Pedro",
+  "clubId": "chelsea",
+  "birthDate": "2001-09-26",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T19:06:00+02:00",
+  "sourceIds": [
+    "current",
+    "squad"
+  ],
+  "statusAr": "مدرج في قائمة الفريق الأول الحالية لتشيلسي.",
+  "summaryAr": "تدرج في فلومينينسي قبل واتفورد في يناير 2020 وبرايتون في 2023. انضم لتشيلسي في يوليو 2025 ومدد حتى 2034 قبل موسم 2026/27.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2011–2019",
+      "clubAr": "فلومينينسي",
+      "typeAr": "ناشئون وفريق أول",
+      "textAr": "تدرج وظهر مع الفريق الأول في 2019.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "أكتوبر 2018",
+      "clubAr": "واتفورد",
+      "typeAr": "اتفاق انتقال مستقبلي",
+      "textAr": "اتفق على وصوله في يناير 2020، لا في تاريخ الاتفاق.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يناير 2020–2023",
+      "clubAr": "واتفورد",
+      "typeAr": "انضمام فعلي",
+      "textAr": "خاض تجربته الأولى في إنجلترا.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "صيف 2023–2025",
+      "clubAr": "برايتون",
+      "typeAr": "انتقال دائم",
+      "textAr": "انتقل من واتفورد قبل موسم 2023/24.",
+      "sourceIds": [
+        "history"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2025",
+      "clubAr": "تشيلسي",
+      "typeAr": "انتقال دائم",
+      "textAr": "وقع أولًا حتى 2033.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "قبل موسم 2026/27",
+      "clubAr": "تشيلسي",
+      "typeAr": "تمديد عقد",
+      "textAr": "وقع عقدًا جديدًا حتى 2034.",
+      "sourceIds": [
+        "current"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "تشيلسي: بطاقة اللاعب ومسيرته",
+      "url": "https://www.chelseafc.com/en/teams/profile/joao-pedro"
+    },
+    {
+      "id": "squad",
+      "title": "تشيلسي: قائمة الفريق الأول للرجال",
+      "url": "https://www.chelseafc.com/en/teams/mens-profiles"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: تشيلسي في الدوري الإنجليزي 2026/27",
+      "url": "https://fbref.com/en/squads/cff3d9bb/2026-2027/c9/Chelsea-Stats-Premier-League"
+    },
+    {
+      "id": "history",
+      "title": "ويكيبيديا: تسلسل المسيرة والأندية السابقة",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Pedro_(footballer,_born_2001)"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "تشيلسي",
+      "appearances": 6,
+      "goals": 5,
+      "assists": 3,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T19:06:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإنجليزي الممتاز فقط، موسم 2026/27، حتى مباراة ليدز في 21 نوفمبر 2026. لا تشمل الكؤوس أو أوروبا أو المنتخب."
+    }
+  ],
+  "photo": {
+    "status": "awaiting-licensed-current-shirt-photo",
+    "noteAr": "صورة واضحة بخلفية شفافة وقميص تشيلسي، مع حق إعادة استخدام موثق، قيد التحقق."
+  }
+}
