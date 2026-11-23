@@ -1,0 +1,121 @@
+{
+  "id": "gianluigi-donnarumma",
+  "nameAr": "جيانلويجي دوناروما",
+  "nameEn": "Gianluigi Donnarumma",
+  "squadName": "Gianluigi Donnarumma",
+  "clubId": "manchester-city",
+  "birthDate": "1999-02-25",
+  "nationalityAr": "إيطالي",
+  "positionAr": "حارس مرمى",
+  "checkedAt": "2026-11-23T15:05:00+02:00",
+  "sourceIds": [
+    "bio",
+    "squad",
+    "stats"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي، وأدرج في التشكيل الرسمي أمام فولهام يوم 21 نوفمبر 2026.",
+  "summaryAr": "تدرج دوناروما في ميلان وظهر مع فريقه الأول في 2015، ثم انتقل إلى باريس سان جيرمان في يوليو 2021 وإلى مانشستر سيتي في سبتمبر 2025.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2013",
+      "clubAr": "أكاديمية ميلان",
+      "typeAr": "أكاديمية",
+      "textAr": "بدأ مشواره في ميلان في 2013، وفق بيان باريس سان جيرمان عند ضمه لاحقًا.",
+      "sourceIds": [
+        "psg"
+      ]
+    },
+    {
+      "whenAr": "25 أكتوبر 2015",
+      "clubAr": "ميلان",
+      "typeAr": "بداية الفريق الأول",
+      "textAr": "خاض أول مباراة مع فريق ميلان الأول أمام ساسولو، في سن السادسة عشرة، وفق توثيق النادي الإيطالي.",
+      "sourceIds": [
+        "milan"
+      ]
+    },
+    {
+      "whenAr": "14 يوليو 2021",
+      "clubAr": "باريس سان جيرمان",
+      "typeAr": "انتقال",
+      "textAr": "أعلن باريس سان جيرمان ضمه من ميلان بعقد كان يمتد حتى يونيو 2026؛ انتهت هذه المرحلة بانتقاله إلى سيتي قبل ذلك الموعد.",
+      "sourceIds": [
+        "psg"
+      ]
+    },
+    {
+      "whenAr": "2 سبتمبر 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "أعلن مانشستر سيتي ضمه من باريس سان جيرمان بعقد لمدة خمسة أعوام حتى صيف 2030. هذا تاريخ الإعلان الرسمي، وليس تاريخًا مفترضًا لتسجيله.",
+      "sourceIds": [
+        "bio"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "مانشستر سيتي: إعلان ضم دوناروما ومسيرته",
+      "url": "https://www.mancity.com/news/mens/manchester-city-sign-psg-goalkeeper-gianluigi-donnarumma-63892398"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر سيتي: تشكيل الفريق أمام فولهام، 21 نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856"
+    },
+    {
+      "id": "psg",
+      "title": "باريس سان جيرمان: إعلان ضم دوناروما في يوليو 2021",
+      "url": "https://en.news.psg.fr/press-releases/first-team/gianluigi-donnarumma-joins-paris-saint-germain"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل مباريات دوناروما 2026/27",
+      "url": "https://fbref.com/en/players/08f5afaa/matchlogs/2026-2027/Gianluigi-Donnarumma-Match-Logs"
+    },
+    {
+      "id": "standard",
+      "title": "FBref: أرقام سيتي في الدوري 2026/27",
+      "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/gianluigi-donnarumma"
+    },
+    {
+      "id": "milan",
+      "title": "ميلان: عيد ميلاد دوناروما وتاريخ ظهوره الأول",
+      "url": "https://www.acmilan.com/en/news/articles/celebration/2020-02-25/happy-birthday-gigio"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:04:00+02:00",
+      "sourceIds": [
+        "stats",
+        "standard"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فولهام يوم 21 نوفمبر، لا تشمل الكؤوس أو المنتخب. تعتمد المشاركات على سجل المباريات المفصل، لا ملخص اللاعب المتأخر بمباراة."
+    }
+  ],
+  "photo": {
+    "file": "gianluigi-donnarumma-manchester-city-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-city",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/gianluigi-donnarumma",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/a1717938a38620fca43926b5ebc6d60bd4e8e91b86d11a5a414b30d602af6b75/gianluigi-donnarumma-manchester-city-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 11,
+  "profileCount": 13,
   "players": [
     {
       "clubId": "ac-milan",
@@ -2969,9 +2969,9 @@
       "positionAr": "حراس المرمى",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "gianluigi-donnarumma",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "manchester-city",
@@ -3013,9 +3013,9 @@
       "positionAr": "الدفاع",
       "squadSource": "https://www.mancity.com/players/mens",
       "rosterCheckedAt": "2026-11-23T13:37:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "ruben-dias",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "manchester-city",

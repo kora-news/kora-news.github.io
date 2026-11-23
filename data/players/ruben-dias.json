@@ -1,0 +1,123 @@
+{
+  "id": "ruben-dias",
+  "nameAr": "روبن دياز",
+  "nameEn": "Rúben Dias",
+  "squadName": "Rúben Dias",
+  "clubId": "manchester-city",
+  "birthDate": "1997-05-14",
+  "nationalityAr": "برتغالي",
+  "positionAr": "مدافع",
+  "checkedAt": "2026-11-23T15:05:00+02:00",
+  "sourceIds": [
+    "bio",
+    "squad"
+  ],
+  "statusAr": "ضمن الفريق الأول لمانشستر سيتي، وأدرج في التشكيل الرسمي أمام فولهام يوم 21 نوفمبر 2026.",
+  "summaryAr": "تدرج دياز في بنفيكا، ولعب لفريقه الرديف ثم الفريق الأول قبل انتقاله إلى مانشستر سيتي في سبتمبر 2020.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "2008/09",
+      "clubAr": "أكاديمية بنفيكا",
+      "typeAr": "أكاديمية",
+      "textAr": "انضم إلى بنفيكا بعد موسمين في ناشئي إستريلا دا أمادورا، وفق سيرة النادي عند رحيله.",
+      "sourceIds": [
+        "benfica"
+      ]
+    },
+    {
+      "whenAr": "2015/16",
+      "clubAr": "بنفيكا ب",
+      "typeAr": "الفريق الرديف",
+      "textAr": "صعد إلى الفريق الرديف لبنفيكا في موسم 2015/16 ولعب في الدرجة الثانية البرتغالية.",
+      "sourceIds": [
+        "benfica"
+      ]
+    },
+    {
+      "whenAr": "16 سبتمبر 2017",
+      "clubAr": "بنفيكا",
+      "typeAr": "الفريق الأول",
+      "textAr": "ظهر مع الفريق الأول لبنفيكا أمام بوافيشتا، وفق السيرة المنشورة من النادي البرتغالي.",
+      "sourceIds": [
+        "benfica"
+      ]
+    },
+    {
+      "whenAr": "29 سبتمبر 2020",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى مانشستر سيتي قادمًا من بنفيكا، وفق تاريخ الانضمام في صفحة النادي.",
+      "sourceIds": [
+        "bio"
+      ]
+    },
+    {
+      "whenAr": "22 أغسطس 2025",
+      "clubAr": "مانشستر سيتي",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع عقدًا جديدًا لمدة أربعة أعوام يمتد حتى صيف 2029، وفق إعلان النادي الرسمي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bio",
+      "title": "مانشستر سيتي: سيرة دياز وبياناته",
+      "url": "https://www.mancity.com/players/ruben-dias"
+    },
+    {
+      "id": "squad",
+      "title": "مانشستر سيتي: تشكيل الفريق أمام فولهام، 21 نوفمبر 2026",
+      "url": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856"
+    },
+    {
+      "id": "contract",
+      "title": "مانشستر سيتي: تجديد دياز حتى 2029",
+      "url": "https://www.mancity.com/news/mens/ruben-dias-signs-new-manchester-city-contract-63891443"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل مباريات دياز 2026/27",
+      "url": "https://fbref.com/en/players/31c69ef1/matchlogs/2026-2027/Ruben-Dias-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/ruben-dias"
+    },
+    {
+      "id": "benfica",
+      "title": "بنفيكا: مسيرة دياز من الناشئين إلى الانتقال لسيتي",
+      "url": "https://www.slbenfica.pt/pt-pt/agora/noticias/2020/09/30/futebol-benfica-obrigado-ruben-dias"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإنجليزي الممتاز",
+      "season": "2026/27",
+      "clubAr": "مانشستر سيتي",
+      "appearances": 11,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:04:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري فقط حتى مباراة فولهام يوم 21 نوفمبر، لا تشمل الكؤوس أو المنتخب. تعتمد المشاركات على سجل المباريات المفصل، لا ملخص اللاعب المتأخر بمباراة."
+    }
+  ],
+  "photo": {
+    "file": "ruben-dias-manchester-city-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "manchester-city",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/ruben-dias",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/60d75a60ce6b7bc5ac06aa0addabbe9cab907e527dd5a3775760cdc21616e4c3/ruben-dias-manchester-city-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}
