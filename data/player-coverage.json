@@ -1,7 +1,7 @@
 {
   "scope": "Current club first-team directory players; staged profile and current-shirt photo coverage",
   "targetCount": 379,
-  "profileCount": 19,
+  "profileCount": 21,
   "players": [
     {
       "clubId": "ac-milan",
@@ -1011,9 +1011,9 @@
       "positionAr": "لاعب وسط",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "frenkie-de-jong",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "barcelona",
@@ -1055,9 +1055,9 @@
       "positionAr": "مهاجم",
       "squadSource": "https://www.fcbarcelona.com/en/football/first-team/squad",
       "rosterCheckedAt": "2026-11-23T13:39:00+02:00",
-      "profileId": null,
-      "profileStatus": "research-pending",
-      "photoStatus": "research-pending"
+      "profileId": "raphinha",
+      "profileStatus": "published",
+      "photoStatus": "current-shirt-rights-unconfirmed"
     },
     {
       "clubId": "barcelona",

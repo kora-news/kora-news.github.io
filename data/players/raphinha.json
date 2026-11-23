@@ -1,0 +1,136 @@
+{
+  "id": "raphinha",
+  "nameAr": "رافينيا",
+  "nameEn": "Raphinha",
+  "squadName": "Raphinha",
+  "clubId": "barcelona",
+  "birthDate": "1996-12-14",
+  "nationalityAr": "برازيلي",
+  "positionAr": "مهاجم",
+  "checkedAt": "2026-11-23T15:24:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "تدرج رافينيا في أفاي قبل رحلة أوروبية مرت بفيتوريا غيمارايش وسبورتينغ ورين وليدز. انضم إلى برشلونة في يوليو 2022، ثم مدد عقده في نوفمبر 2026 حتى يونيو 2030.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أفاي",
+      "typeAr": "أكاديمية",
+      "textAr": "تدرج في فرق أفاي البرازيلي قبل انتقاله إلى أوروبا، وفق السيرة الرسمية.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "قبل موسم 2018/19",
+      "clubAr": "فيتوريا غيمارايش",
+      "typeAr": "انتقال",
+      "textAr": "خاض بدايته الأوروبية مع النادي البرتغالي، متنقلًا أولًا بين فئاته والفريق الأول ثم استقر في التشكيل الأساسي.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "موسم 2018/19",
+      "clubAr": "سبورتينغ البرتغالي",
+      "typeAr": "انتقال",
+      "textAr": "لعب لسبورتينغ وساهم في الفوز بكأس البرتغال وكأس الرابطة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "بعد موسم 2018/19",
+      "clubAr": "رين",
+      "typeAr": "انتقال",
+      "textAr": "انتقل من البرتغال إلى الدوري الفرنسي مع رين.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "2020",
+      "clubAr": "ليدز يونايتد",
+      "typeAr": "انتقال",
+      "textAr": "انضم إلى ليدز ولعب موسمين قبل الانتقال إلى برشلونة.",
+      "sourceIds": [
+        "current"
+      ]
+    },
+    {
+      "whenAr": "يوليو 2022",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال",
+      "textAr": "وصل بعد الاتفاق مع ليدز، وحدد النادي يوم 15 يوليو لتوقيع العقد وتقديمه.",
+      "sourceIds": [
+        "current",
+        "arrival"
+      ]
+    },
+    {
+      "whenAr": "5 نوفمبر 2026",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "أعلن النادي اتفاق تمديد عقده حتى 30 يونيو 2030. نعتمد الإعلان الأحدث بدل نهاية العقد السابقة.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة رافينيا الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/squad/24156/raphinha"
+    },
+    {
+      "id": "arrival",
+      "title": "برشلونة: تقديم رافينيا في يوليو 2022",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/2677962/raphinha-to-be-unveiled-this-friday"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تمديد رافينيا حتى 2030",
+      "url": "https://www.fcbarcelona.com/en/news/4604888/raphinha-staying-at-fc-barcelona-until-2030"
+    },
+    {
+      "id": "stats",
+      "title": "FBref: سجل رافينيا للموسم الحالي",
+      "url": "https://fbref.com/en/players/3423f250/matchlogs/2026-2027/Raphinha-Match-Logs"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/raphinha"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 12,
+      "goals": 15,
+      "assists": 3,
+      "through": "2026-11-22",
+      "checkedAt": "2026-11-23T15:24:00+02:00",
+      "sourceIds": [
+        "stats"
+      ],
+      "noteAr": "أرقام الدوري الإسباني فقط، مجموع صفوف السجل حتى مواجهة فياريال يوم 22 نوفمبر. لا تشمل دوري الأبطال أو المنتخب."
+    }
+  ],
+  "photo": {
+    "file": "raphinha-barcelona-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/raphinha",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/669b885e4ffa393277d7f03b2886662c9b4582bdefbbeb6749bb3c273ff3e1c5/raphinha-fc-barcelona-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}

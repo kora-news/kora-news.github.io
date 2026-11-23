@@ -1,0 +1,130 @@
+{
+  "id": "frenkie-de-jong",
+  "nameAr": "فرينكي دي يونغ",
+  "nameEn": "Frenkie de Jong",
+  "squadName": "Frenkie de Jong",
+  "clubId": "barcelona",
+  "birthDate": "1997-05-12",
+  "nationalityAr": "هولندي",
+  "positionAr": "لاعب وسط",
+  "checkedAt": "2026-11-23T15:24:00+02:00",
+  "sourceIds": [
+    "current"
+  ],
+  "statusAr": "ضمن الفريق الأول الحالي لبرشلونة وفق صفحة اللاعب الرسمية.",
+  "summaryAr": "بدأ دي يونغ في هولندا، وانتقل من فيليم الثاني إلى أياكس باتفاق في أغسطس 2015 مع إعارته لناديه السابق حتى الشتاء. انضم إلى برشلونة في صيف 2019 وجدد عقده حتى 2029.",
+  "feesNoteAr": "لا نعرض رسوم انتقالات غير موثقة؛ غياب القيمة لا يعني انتقالًا مجانيًا.",
+  "career": [
+    {
+      "whenAr": "مرحلة الناشئين",
+      "clubAr": "أركل وفيليم الثاني",
+      "typeAr": "أكاديمية",
+      "textAr": "بدأ في أركل ثم تدرج مع ناشئي فيليم الثاني قبل الفريق الأول، وفق أرشيف برشلونة.",
+      "sourceIds": [
+        "archive"
+      ]
+    },
+    {
+      "whenAr": "أغسطس 2015",
+      "clubAr": "أياكس",
+      "typeAr": "انتقال ثم إعارة",
+      "textAr": "وقع لأياكس مع اتفاق على بقائه معارًا في فيليم الثاني. يوثق ناديه السابق تاريخ الاتفاق، بخلاف اختصار صفحة برشلونة الذي يذكر 2016.",
+      "sourceIds": [
+        "willem"
+      ]
+    },
+    {
+      "whenAr": "شتاء 2015/16",
+      "clubAr": "أياكس",
+      "typeAr": "العودة من الإعارة",
+      "textAr": "أنهى أياكس الإعارة خلال التوقف الشتوي بسبب قلة مشاركاته، فانتقل إلى أمستردام ومر بالفريق الرديف قبل الفريق الأول.",
+      "sourceIds": [
+        "willem",
+        "archive"
+      ]
+    },
+    {
+      "whenAr": "صيف 2019",
+      "clubAr": "برشلونة",
+      "typeAr": "انتقال",
+      "textAr": "انضم من أياكس بعد موسمه الذي جمع فيه ثنائية الدوري والكأس الهولنديين. ظهر رسميًا لأول مرة مع برشلونة يوم 16 أغسطس 2019.",
+      "sourceIds": [
+        "current",
+        "contract"
+      ]
+    },
+    {
+      "whenAr": "15 أكتوبر 2025",
+      "clubAr": "برشلونة",
+      "typeAr": "تجديد عقد",
+      "textAr": "وقع تمديد عقده حتى 2029 في مقر النادي.",
+      "sourceIds": [
+        "contract"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "current",
+      "title": "برشلونة: صفحة دي يونغ الرسمية",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/squad/16291/frenkie-de-jong"
+    },
+    {
+      "id": "archive",
+      "title": "برشلونة: أرشيف مسيرة دي يونغ",
+      "url": "https://players.fcbarcelona.com/en/player/2745-de"
+    },
+    {
+      "id": "willem",
+      "title": "فيليم الثاني: اتفاق أياكس والإعارة في 2015",
+      "url": "https://www.willem-ii.nl/2015-2019-wisselvalligheid-troef"
+    },
+    {
+      "id": "contract",
+      "title": "برشلونة: تجديد دي يونغ حتى 2029",
+      "url": "https://www.fcbarcelona.com/en/news/4382447/frenkie-de-jong-extends-contract-with-fc-barcelona-until-2029"
+    },
+    {
+      "id": "stats",
+      "title": "StatsNext: أرقام الدوري حتى 21 نوفمبر",
+      "url": "https://statsnext.com/la-liga/players"
+    },
+    {
+      "id": "crosscheck",
+      "title": "الدوري الإسباني: صفحة دي يونغ",
+      "url": "https://www.laliga.com/en-GB/player/f-de-jong"
+    },
+    {
+      "id": "photo",
+      "title": "FootyLogos: مصدر الصورة المختارة",
+      "url": "https://www.footylogos.com/player-pngs/frenkie-de-jong"
+    }
+  ],
+  "stats": [
+    {
+      "competitionAr": "الدوري الإسباني",
+      "season": "2026/27",
+      "clubAr": "برشلونة",
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0,
+      "through": "2026-11-21",
+      "checkedAt": "2026-11-23T15:24:00+02:00",
+      "sourceIds": [
+        "stats",
+        "crosscheck"
+      ],
+      "noteAr": "النطاق الموثق هنا حتى 21 نوفمبر فقط، وليس بعد مباراة فياريال يوم 22 نوفمبر. إجمالي المشاركات والأهداف يطابق صفحة الدوري؛ الأرقام الصفرية مثبتة في جدول StatsNext وليست قيمًا افتراضية. تعذر استرجاع سجل FBref المفصل الأحدث، لذلك لم نمدد تاريخ التغطية."
+    }
+  ],
+  "photo": {
+    "file": "frenkie-de-jong-barcelona-portrait.png",
+    "status": "current-shirt-rights-unconfirmed",
+    "currentClubId": "barcelona",
+    "rightsStatus": "reuse-permission-unconfirmed",
+    "sourceUrl": "https://www.footylogos.com/player-pngs/frenkie-de-jong",
+    "sourceAssetUrl": "https://www.footylogos.com/downloads/player/d3f73472aabae98002068e2dd013e8729e96ac18470f8f1617786f37b7a1ebbf/frenkie-de-jong-fc-barcelona-2026-27-ucl-body-footylogos.png",
+    "approvalMessageId": "wamid.HBgMMjAxMDIxMzAzMTk3FQIAEhggQUNGOTlFMzk0QUFEMEY0MTY3RTBDMTNCQTI4MDFEMjgA",
+    "modifications": "Trimmed transparent padding; original face and kit retained."
+  }
+}
