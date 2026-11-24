@@ -31,6 +31,12 @@ for (const filename of posts) {
   const text = fs.readFileSync(path.join(root, 'posts', filename), 'utf8');
   const slug = text.match(/^slug:\s*(.+)$/m)[1].trim();
   assert(urls.includes(base + '/posts/' + slug + '.html'), 'Article absent from sitemap: ' + slug);
+  const image = text.match(/^image:\s*(.+)$/m)[1].trim();
+  const article = fs.readFileSync(path.join(dist, 'posts', slug + '.html'), 'utf8');
+  assert(article.includes('<meta property="og:image" content="' + base + '/assets/img/' + image.split('/').map(encodeURIComponent).join('/') + '">'), 'Missing article hero metadata: ' + slug);
+  assert(/<meta property="og:image:width" content="[1-9][0-9]*">/.test(article), 'Missing image width: ' + slug);
+  assert(/<meta property="og:image:height" content="[1-9][0-9]*">/.test(article), 'Missing image height: ' + slug);
+  assert(article.includes('<meta name="twitter:card" content="summary_large_image">'), 'Missing large image card: ' + slug);
   const related = text.match(/^related:\s*(.+)$/m);
   if (related) for (const target of related[1].split(',').map(x => x.trim())) {
     assert(target !== slug && fs.existsSync(path.join(dist, 'posts', target + '.html')), 'Invalid related article: ' + target);

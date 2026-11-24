@@ -65,7 +65,45 @@ function mdToHtml(md) {
 // ---------- shared chrome ----------
 const LOGO_SVG = `<svg class="logo-ball" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="22" fill="#fff"/><path d="M24 12l7.4 5.4-2.8 8.7h-9.2l-2.8-8.7z" fill="#1a0b2e"/><path d="M24 2a22 22 0 0 1 19 11l-7.4 5.4-4.2-6.4-7.4 5.4-7.4-5.4-4.2 6.4L5 13A22 22 0 0 1 24 2z" fill="#1a0b2e" opacity=".85"/><path d="M4.6 17.2l6.8 4.9-2.6 8.1-6.6-4.8a22 22 0 0 1 2.4-8.2zm38.8 0a22 22 0 0 1 2.4 8.2l-6.6 4.8-2.6-8.1zM15 39.6l3.4-4.6h11.2l3.4 4.6a22 22 0 0 1-18 0z" fill="#1a0b2e" opacity=".85"/></svg>`;
 
-function head(title, desc, rel, canon) {
+function imageDimensions(filename) {
+  const b = fs.readFileSync(path.join(ROOT, 'assets', 'img', filename));
+  if (b.subarray(1, 4).toString() === 'PNG') return [b.readUInt32BE(16), b.readUInt32BE(20)];
+  if (b.subarray(0, 4).toString() === 'RIFF' && b.subarray(8, 12).toString() === 'WEBP') {
+    const type = b.subarray(12, 16).toString();
+    if (type === 'VP8 ') return [b.readUInt16LE(26) & 0x3fff, b.readUInt16LE(28) & 0x3fff];
+    if (type === 'VP8X') return [1 + b.readUIntLE(24, 3), 1 + b.readUIntLE(27, 3)];
+    if (type === 'VP8L') { const bits = b.readUInt32LE(21); return [(bits & 0x3fff) + 1, ((bits >>> 14) & 0x3fff) + 1]; }
+  }
+  if (b[0] === 0xff && b[1] === 0xd8) {
+    let i = 2;
+    while (i < b.length) {
+      if (b[i++] !== 0xff) continue;
+      let marker = b[i++];
+      while (marker === 0xff) marker = b[i++];
+      if (marker === 0xda || marker === 0xd9) break;
+      if (marker === 0x01 || (marker >= 0xd0 && marker <= 0xd7)) continue;
+      const length = b.readUInt16BE(i);
+      if ([0xc0,0xc1,0xc2,0xc3,0xc5,0xc6,0xc7,0xc9,0xca,0xcb,0xcd,0xce,0xcf].includes(marker)) return [b.readUInt16BE(i + 5), b.readUInt16BE(i + 3)];
+      i += length;
+    }
+  }
+  throw new Error('Cannot determine article hero dimensions: ' + filename);
+}
+function socialImage(p) {
+  const [width, height] = imageDimensions(p.image);
+  const url = BASE_URL + '/assets/img/' + p.image.split('/').map(encodeURIComponent).join('/');
+  const mime = /\.png$/i.test(p.image) ? 'image/png' : /\.webp$/i.test(p.image) ? 'image/webp' : 'image/jpeg';
+  return `<meta property="og:image" content="${esc(url)}">
+<meta property="og:image:secure_url" content="${esc(url)}">
+<meta property="og:image:type" content="${mime}">
+<meta property="og:image:width" content="${width}">
+<meta property="og:image:height" content="${height}">
+<meta property="og:image:alt" content="${esc(p.title)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="${esc(url)}">
+<meta name="twitter:image:alt" content="${esc(p.title)}">`;
+}
+function head(title, desc, rel, canon, social = '') {
   return `<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -75,7 +113,8 @@ function head(title, desc, rel, canon) {
 <meta name="description" content="${esc(desc)}">
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
-<meta property="og:type" content="website">
+<meta property="og:type" content="${social ? 'article' : 'website'}">
+${social}
 ${canon !== undefined && BASE_URL ? `<link rel="canonical" href="${BASE_URL}/${canon}">\n<meta property="og:url" content="${BASE_URL}/${canon}">` : ''}
 <link rel="icon" type="image/svg+xml" href="${rel}assets/img/logo.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -202,7 +241,7 @@ for (const p of posts) {
   }
   const preferred = relatedSlugs.map(slug => posts.find(x => x.slug === slug && x.slug !== p.slug)).filter(Boolean);
   const others = news.related(p,preferred);
-  const html = head(p.title + ' | ' + SITE_NAME, p.excerpt || SITE_DESC, rel, `posts/${p.slug}.html`) + articleJsonLd(p) + header(rel, '') + `
+  const html = head(p.title + ' | ' + SITE_NAME, p.excerpt || SITE_DESC, rel, `posts/${p.slug}.html`, socialImage(p)) + articleJsonLd(p) + header(rel, '') + `
 <main class="container">
   <article class="post">
     <header class="post-head">
