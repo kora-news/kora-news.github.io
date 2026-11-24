@@ -23,4 +23,4 @@ image: rabiot-seven-serie-a-appearances.png
 
 ## الصورة وحقوق الاستخدام
 
-الصورة **أرشيفية لرابيو بقميص باريس سان جيرمان من مباراة تشيلسي وباريس يوم 9 مارس 2016**، وليست من مباراة ميلان وفروزينوني أو بقميص ميلان الحالي. تصوير **@cfcunofficial (Chelsea Debs) London**، بعنوان Chelsea 1 PSG 2، عبر [Flickr](https://www.flickr.com/photos/121676765@N07/25672641705/) و[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chelsea_1_PSG_2_(25672641705).jpg)، بترخيص [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). أضيف قص وتغيير مقاس ونصوص وتصميم وهوية كورة نيوز. التصميم المعدل متاح بالترخيص نفسه.
+الصورة **أرشيفية لرابيو بقميص باريس سان جيرمان من مباراة تشيلسي وباريس يوم 9 مارس 2016**، وليست من مباراة ميلان وفروزينوني أو بقميص ميلان الحالي. تصوير **@cfcunofficial (Chelsea Debs) London**، بعنوان Chelsea 1 PSG 2، عبر [Flickr](https://www.flickr.com/photos/121676765@N07/25672641705/) و[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chelsea_1_PSG_2_%2825672641705%29.jpg)، بترخيص [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). أضيف قص وتغيير مقاس ونصوص وتصميم وهوية كورة نيوز. التصميم المعدل متاح بالترخيص نفسه.

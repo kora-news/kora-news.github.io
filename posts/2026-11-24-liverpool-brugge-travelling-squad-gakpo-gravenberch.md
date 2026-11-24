@@ -22,4 +22,4 @@ image: liverpool-brugge-squad-absences.png
 
 ## الصورة وحقوق الاستخدام
 
-الصورة **أرشيفية لكودي جاكبو بتاريخ 6 أبريل 2025**، وليست من رحلة بروج الحالية، ولا يظهر فيها جرافينبيرخ. تصوير **Timmy96**، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cody_Gakpo_06042025_(2)_(cropped).jpg)، منشورة أيضًا في [War of Soccer](https://warofsoccer.com/player/cody-gakpo/)، بإهداء [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). أضيف قص وتغيير مقاس ونصوص وتصميم وهوية كورة نيوز.
+الصورة **أرشيفية لكودي جاكبو بتاريخ 6 أبريل 2025**، وليست من رحلة بروج الحالية، ولا يظهر فيها جرافينبيرخ. تصوير **Timmy96**، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg)، منشورة أيضًا في [War of Soccer](https://warofsoccer.com/player/cody-gakpo/)، بإهداء [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). أضيف قص وتغيير مقاس ونصوص وتصميم وهوية كورة نيوز.

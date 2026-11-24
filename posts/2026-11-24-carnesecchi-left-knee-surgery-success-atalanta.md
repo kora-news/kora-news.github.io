@@ -24,4 +24,4 @@ image: carnesecchi-surgery-success.png
 
 ## الصورة وحقوق الاستخدام
 
-الصورة **أرشيفية بتاريخ 6 يونيو 2025**، وليست من يوم العملية أو المستشفى. تصوير **MichaelEmilio**، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_19_(cropped).jpg)، بترخيص [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). النسخة المنشورة مشتقة من صورة Norway Italy - June 2025 A 19، مع قص سابق على كومنز، ثم قص إضافي وتغيير المقاس وإضافة النص والتصميم وهوية كورة نيوز.
+الصورة **أرشيفية بتاريخ 6 يونيو 2025**، وليست من يوم العملية أو المستشفى. تصوير **MichaelEmilio**، عبر [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_A_19_%28cropped%29.jpg)، بترخيص [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). النسخة المنشورة مشتقة من صورة Norway Italy - June 2025 A 19، مع قص سابق على كومنز، ثم قص إضافي وتغيير المقاس وإضافة النص والتصميم وهوية كورة نيوز.
