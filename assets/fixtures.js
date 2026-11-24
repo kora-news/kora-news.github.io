@@ -23,7 +23,7 @@ function matches(){
  const url=new URL('https://www.rotascore.com/ar/embed/matches');
  url.search=new URLSearchParams({leagues:c?c.id:competitions.map(c=>c.id).join(','),date,tz:'Africa/Cairo',theme:'dark',host:'dark',bg:'#160d28',controls:'0'}).toString();
  $('match-fallback').href=url.href;
- $('selected-day').textContent=new Intl.DateTimeFormat('ar-EG',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Africa/Cairo'}).format(new Date(date+'T12:00:00Z'))+' · توقيت القاهرة';
+ $('selected-day').textContent='التاريخ المطلوب من أدوات الصفحة: '+new Intl.DateTimeFormat('ar-EG',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Africa/Cairo'}).format(new Date(date+'T12:00:00Z'))+' · توقيت القاهرة';
  mount('match',url.href,'مباريات '+(c?c.name:'البطولات المتاحة')+' بتاريخ '+date+' بتوقيت القاهرة من Rotascore');
 }
 function table(){const c=competitions.find(c=>c.id===$('table-league').value)||competitions[0];const url=new URL(`https://www.rotascore.com/ar/embed/standings/${c.id}`);url.search=new URLSearchParams({theme:'dark',host:'dark',bg:'#160d28',tz:'Africa/Cairo',controls:'0'}).toString();$('table-fallback').href=url.href;mount('table',url.href,'جدول ترتيب '+c.name+' من Rotascore');}
