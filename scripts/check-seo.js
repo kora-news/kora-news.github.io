@@ -31,7 +31,7 @@ for (const filename of posts) {
   const text = fs.readFileSync(path.join(root, 'posts', filename), 'utf8');
   const slug = text.match(/^slug:\s*(.+)$/m)[1].trim();
   assert(urls.includes(base + '/posts/' + slug + '.html'), 'Article absent from sitemap: ' + slug);
-  const image = text.match(/^image:\s*(.+)$/m)[1].trim();
+  const image = (text.match(/^social_image:\s*(.+)$/m) || text.match(/^image:\s*(.+)$/m))[1].trim();
   const article = fs.readFileSync(path.join(dist, 'posts', slug + '.html'), 'utf8');
   assert(article.includes('<meta property="og:image" content="' + base + '/assets/img/' + image.split('/').map(encodeURIComponent).join('/') + '">'), 'Missing article hero metadata: ' + slug);
   assert(/<meta property="og:image:width" content="[1-9][0-9]*">/.test(article), 'Missing image width: ' + slug);

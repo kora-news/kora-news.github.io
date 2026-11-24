@@ -90,9 +90,10 @@ function imageDimensions(filename) {
   throw new Error('Cannot determine article hero dimensions: ' + filename);
 }
 function socialImage(p) {
-  const [width, height] = imageDimensions(p.image);
-  const url = BASE_URL + '/assets/img/' + p.image.split('/').map(encodeURIComponent).join('/');
-  const mime = /\.png$/i.test(p.image) ? 'image/png' : /\.webp$/i.test(p.image) ? 'image/webp' : 'image/jpeg';
+  const filename = p.social_image || p.image;
+  const [width, height] = imageDimensions(filename);
+  const url = BASE_URL + '/assets/img/' + filename.split('/').map(encodeURIComponent).join('/');
+  const mime = /\.png$/i.test(filename) ? 'image/png' : /\.webp$/i.test(filename) ? 'image/webp' : 'image/jpeg';
   return `<meta property="og:image" content="${esc(url)}">
 <meta property="og:image:secure_url" content="${esc(url)}">
 <meta property="og:image:type" content="${mime}">
