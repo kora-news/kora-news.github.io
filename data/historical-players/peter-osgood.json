@@ -72,17 +72,19 @@
   "photo": {
     "sourceUrl": "https://img.chelseafc.com/image/upload/f_auto,c_fill,w_1000,q_90/editorial/news/2020/04/Osgood_Leeds_GettyImages-79020786.jpg",
     "pageUrl": "https://www.chelseafc.com/en/peter-osgood",
-    "author": "Getty Images, via Chelsea FC",
+    "author": "Bob Thomas Sports Photography / Getty Images, via Chelsea FC",
     "license": null,
     "rightsStatus": "reuse-permission-unconfirmed",
-    "captionAr": "بيتر أوزجود يسدد ضربة رأسية شهيرة أمام ليدز يونايتد، صورة غيتي منشورة على موقع تشيلسي",
+    "captionAr": "بيتر أوسجود يسجل برأسه أمام ليدز في إعادة نهائي كأس الاتحاد الإنجليزي، 29 أبريل 1970. الصورة: Bob Thomas Sports Photography / Getty Images، منشورة عبر تشيلسي.",
     "identityEvidence": "اسم الملف يحمل Osgood ومعرّف GettyImages-79020786؛ منشورة على صفحة أوزجود في موقع النادي",
     "file": "peter-osgood-history-a2a9a588.jpg",
     "width": 1000,
-    "height": 602
+    "height": 602,
+    "rightsHolderPageUrl": "https://www.gettyimages.com/detail/news-photo/peter-osgood-of-chelsea-heads-the-ball-past-leeds-united-news-photo/79020786"
   },
-  "notesAr": [
+  "checkedAt": "2026-11-24T01:23:51+02:00",
+  "researchNotesInternal": [
     "صورة ويكيبيديا الحالية له مولدة بالذكاء الاصطناعي (مصدرها منصة perchance) فاستُبعدت. صفحة النادي الرسمية مرشحة كمصدر صورة بإذن غير مؤكد: https://www.chelseafc.com/en/peter-osgood — ويوجد بديل حر هو صورة تمثاله: https://commons.wikimedia.org/wiki/File:Peter_Osgood_statue_outside_Stamford_Bridge.jpg"
   ],
-  "checkedAt": "2026-11-24T01:23:51+02:00"
+  "notesAr": []
 }
