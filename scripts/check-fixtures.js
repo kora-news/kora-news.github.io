@@ -1,0 +1,15 @@
+'use strict';
+const assert=require('assert'),fs=require('fs'),path=require('path');
+const root=path.join(__dirname,'..'),html=fs.readFileSync(path.join(root,'dist/matches.html'),'utf8'),js=fs.readFileSync(path.join(root,'assets/fixtures.js'),'utf8');
+const {competitions}=require('./fixtures');
+assert.equal(competitions.length,9);assert.equal(new Set(competitions.map(c=>c.id)).size,9);
+for(const c of competitions)assert(html.includes(c.id)&&html.includes(c.name));
+for(const id of ['match-form','match-date','match-league','table-league','match-widget','table-widget','match-fallback','table-fallback'])assert(html.includes('id="'+id+'"'));
+assert(html.includes('تصفيات المنتخبات الحالية غير متاحة'));
+assert(html.includes('لا نضمن تحديثًا لحظيًا'));
+assert(html.includes('Rotascore')&&html.includes('<noscript>'));
+assert(!html.includes('المصريين المحترفين'));
+assert(js.includes("timeZone:'Africa/Cairo'"));assert(js.includes("https://www.rotascore.com/ar/embed/matches"));
+assert(!/fetch\(|XMLHttpRequest|innerHTML|setInterval/.test(js),'Embed data must not be scraped or polled');
+assert(fs.readFileSync(path.join(root,'dist/index.html'),'utf8').includes('href="matches.html"'));
+console.log('Fixture checks passed:9core competitions, Cairo dates, attribution, explicit qualifier gap and fallback states');

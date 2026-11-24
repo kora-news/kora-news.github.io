@@ -7,6 +7,7 @@ const path = require('path');
 const { buildClubs } = require('./clubs');
 const { buildPlayers } = require('./players');
 const { buildHistoricalPlayers } = require('./historical-players');
+const { buildFixtures } = require('./fixtures');
 
 const ROOT = path.join(__dirname, '..');
 const POSTS_DIR = path.join(ROOT, 'posts');
@@ -95,6 +96,7 @@ function header(rel, active) {
     </a>
     <nav class="main-nav">
       <a href="${BASE_URL}/"${active === 'home' ? ' class="active"' : ''}>الرئيسية</a>
+      ${a('matches', 'matches.html', 'المباريات والترتيب')}
       ${a('clubs', 'clubs.html', 'الأندية')}
       ${a('about', 'about.html', 'عن الموقع')}
       <a href="${FB_PAGE}" target="_blank" rel="noopener" class="nav-fb">تابعنا على فيسبوك</a>
@@ -248,6 +250,8 @@ const playerPages = buildPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmt
 playerPages.push(...buildHistoricalPlayers({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news}));
 const clubPages = buildClubs({root:ROOT,dist:DIST,head,header,footer,esc,fmtDate,news});
 
+const fixturePages=buildFixtures({root:ROOT,dist:DIST,head,header,footer,esc});
+
 // feed.xml + sitemap.xml + robots.txt
 const base = BASE_URL;
 const feed = `<?xml version="1.0" encoding="UTF-8"?>
@@ -258,7 +262,7 @@ fs.writeFileSync(path.join(DIST, 'feed.xml'), feed);
 const sm = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>${base}/</loc></url>
-${[...clubPages,...playerPages].map(url=>`<url><loc>${base}/${url}</loc></url>`).join('\n')}
+${[...clubPages,...playerPages,...fixturePages].map(url=>`<url><loc>${base}/${url}</loc></url>`).join('\n')}
 ${posts.map(p => `<url><loc>${base}/posts/${p.slug}.html</loc></url>`).join('\n')}
 </urlset>`;
 fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sm);
